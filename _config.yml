@@ -1,6 +1,5 @@
 # Site Settings
 title: "Digital Doug"
-email: 
 description: "digitaldoug.douglangille.ca"
 baseurl: ""
 url: "https://digitaldoug.douglangille.ca"
@@ -29,9 +28,6 @@ plugins:
 # Site Author
 author:
   name: "Doug Langille"
-  avatar: 
-  bio: 
-  location: 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -39,7 +35,6 @@ author:
 
 # Site Footer
 footer:
-  links:
 
 # Reading Files
 include:
