@@ -33,9 +33,6 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://digitaldoug.douglangille.ca"
 
-# Site Footer
-footer:
-
 # Reading Files
 include:
   - .htaccess
