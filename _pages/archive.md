@@ -1,34 +1,27 @@
 ---
-layout: archive-taxonomy
-title: Archive
+layout: archive
+title: Browse
 permalink: /archive/
 entries_layout: grid
 search: false
 classes: wide
-author_profile: false
+author_profile: true
 pagination:
     enabled: true
 ---
 
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
-{% elsif page.header.video.id and page.header.video.provider %}
-  {% include page__hero_video.html %}
-{% endif %}
 
-{% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
-{% endif %}
+{% assign alltags = site.tags | sort %}
+<ul class="taxonomy__index">
+  {% for tag in alltags %}
+    <li>
+      <a href="{{ site.baseurl }}/{{ tag[0] | slugify }}/">
+        <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
 
-<div id="main" role="main">
-  {% include sidebar.html %}
-
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 id="page-title" class="page__title">{% if page.title %}{{page.title}}{% endif %}</h1>
-    {% endunless %}
     <div class="entries-{{ page.entries_layout }}">
     {% for post in paginator.posts %}
       {% include archive-single.html type=page.entries_layout %}
@@ -37,6 +30,7 @@ pagination:
 
     {% include paginator.html %}
 
-  </div>
 
-</div>
+
+
+
