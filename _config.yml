@@ -1,4 +1,3 @@
-
 # -----------------------------------------------------------------------------
 # Site Identity & Metadata (Digital Doug)
 # -----------------------------------------------------------------------------
@@ -6,7 +5,7 @@ title: "Digital Doug"
 subtitle: "Where Pixels Meet Purpose"
 description: "Tech-related brain-droppings about innovation, productivity, and higher ed. You've been warned."
 baseurl: ""
-url: "https://digitaldoug.douglangille.ca"
+url: "https://digital.douglangille.ca"
 repository: "douglangille/digital-doug"
 
 email: "me@douglangille.ca"
@@ -121,9 +120,9 @@ autopages:
     enabled               : false
   tags:
     enabled               : true
-    layouts               : 
+    layouts:               
       - 'archive-taxonomy.html'
-    permalink             : '/:tag/'
+    permalink             : '/:tag/' 
 
 # -----------------------------------------------------------------------------
 # Related Posts (Theme Logic)
