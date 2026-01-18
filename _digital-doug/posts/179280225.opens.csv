@@ -1,0 +1,9 @@
+post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
+179280225,2025-11-19T11:11:31.187Z,jim@jimkirk.org,newsletter,everyone,true,CA,,,,,,Mozilla/5.0
+179280225,2025-11-19T11:11:39.753Z,margaretchampion@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+179280225,2025-11-19T11:13:23.870Z,monlloyd@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+179280225,2025-11-19T23:21:18.911Z,monlloyd@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+179280225,2025-11-19T23:21:56.022Z,monlloyd@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+179280225,2025-11-20T02:57:42.669Z,snips56@yahoo.com,newsletter,everyone,true,US,,,,,,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+179280225,2025-11-20T19:43:40.399Z,sparsons@innovait.ca,newsletter,everyone,true,CA,,,,,,Mozilla/5.0
+179280225,2025-11-23T16:46:12.013Z,talimills27@gmail.com,newsletter,everyone,true,MX,,,,,,Mozilla/5.0

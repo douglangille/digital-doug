@@ -1,0 +1,153 @@
+/* ===============================================
+   Pragmatic Dark Mode for Minimal Mistakes
+   Universal background + foreground fixes
+   Author: Doug Langille
+   =============================================== */
+
+@media (prefers-color-scheme: dark) {
+
+  /* FORCE ALL BACKGROUNDS DARK */
+  html {
+    background-color: #1a1a1a !important; /* dark skin base */
+  }
+
+  /* BODY TEXT */
+  body, p, li, blockquote, dd, dt, td, th {
+    color: #ddd !important;
+  }
+
+  /* HEADINGS */
+  h1, h2, h3, h4, h5, h6 {
+    color: #fff !important;
+  }
+
+  /* LINKS */
+  a, a:visited {
+    color: #82AAFF !important;
+  }
+  a:hover, a:focus {
+    color: #B4CFFF !important;
+  }
+
+  /* NAVIGATION & MASTHEAD */
+  .masthead,
+  .masthead__inner-wrap,
+  .masthead__menu,
+  nav.greedy-nav {
+    background-color: #1a1a1a !important;
+    color: #eee !important;
+  }
+
+  .masthead__menu a,
+  nav.greedy-nav a,
+  .masthead__menu a:visited,
+  nav.greedy-nav a:visited {
+    color: #82AAFF !important;
+  }
+
+  .masthead__menu a:hover,
+  nav.greedy-nav a:hover {
+    color: #B4CFFF !important;
+  }
+
+  /* PANELS / CALLOUTS / SIDEBARS (Air) */
+  .panel,
+  .callout,
+  .sidebar,
+  .page__sidebar {
+    background-color: #1a1a1a !important;
+    border-color: #333 !important;
+    color: #ddd !important;
+  }
+
+  /* FOOTER */
+  .site-footer,
+  .page__footer {
+    background-color: #111 !important;
+    color: #bbb !important;
+  }
+
+  .site-footer a,
+  .site-footer a:visited {
+    color: #82AAFF !important;
+  }
+  .site-footer a:hover {
+    color: #B4CFFF !important;
+  }
+
+  /* BUTTONS */
+  .btn, input[type="submit"], button {
+    background-color: #242424 !important;
+    color: #eee !important;
+    border: 1px solid #444 !important;
+  }
+  .btn:hover, button:hover {
+    background-color: #2c2c2c !important;
+  }
+
+  /* CODE BLOCKS & PRE */
+  pre, code, .highlight {
+    background-color: #1f1f1f !important;
+    color: #e2e2e2 !important;
+  }
+
+  /* TABLES */
+  table, th, td {
+    border-color: #444 !important;
+    color: #ddd !important;
+  }
+
+  /* BLOCKQUOTES */
+  blockquote {
+    background-color: #1d1d1d !important;
+    border-left: 4px solid #555 !important;
+    color: #d0d0d0 !important;
+  }
+
+  blockquote img {
+    background-color: #1a1a1a !important;
+  }
+
+  /* HORIZONTAL RULES */
+  hr {
+    border-color: #333 !important;
+  }
+
+  /* IMAGES / MEDIA */
+  img, picture, video {
+    background-color: #1a1a1a !important;
+    display: block;
+  }
+
+  iframe, embed, object {
+    background-color: #1a1a1a !important;
+    border: 1px solid #333 !important;
+  }
+
+  /* Codepens, tweets, YouTube embeds */
+  iframe[src*="twitter.com"],
+  iframe[src*="codepen.io"],
+  iframe[src*="youtube.com"] {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  }
+
+  /* Inline images / galleries */
+  .page__content img,
+  .entries-grid img {
+    padding: 2px;
+    border-radius: 2px;
+  }
+
+  .notice, .notice--primary { background-color: #6f777d !important; }
+  .notice--info { background-color: #3b9cba !important; }
+  .notice--warning { background-color: #d67f05 !important; }
+  .notice--success { background-color: #3fa63f !important; }
+  .notice--danger { background-color: #ee5f5b !important; }
+
+  .notice a, .notice--primary a { color: mix(#fff, #6f777d, 80%) !important; }
+  .notice--info a { color: mix(#fff, #3b9cba, 80%) !important; }
+  .notice--warning a { color: mix(#fff, #d67f05, 80%) !important; }
+  .notice--success a { color: mix(#fff, #3fa63f, 80%) !important; }
+  .notice--danger a { color: mix(#fff, #ee5f5b, 80%) !important; }
+
+}

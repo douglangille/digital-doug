@@ -1,0 +1,12 @@
+post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
+178007267,2025-11-05T12:07:30.574Z,monlloyd@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+178007267,2025-11-05T12:14:04.500Z,jim@jimkirk.org,newsletter,everyone,true,CA,,,,,,Mozilla/5.0
+178007267,2025-11-05T12:40:24.089Z,margaretchampion@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+178007267,2025-11-05T12:43:23.313Z,margaretchampion@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+178007267,2025-11-05T12:44:25.803Z,margaretchampion@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+178007267,2025-11-05T13:19:50.806Z,margaretchampion@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+178007267,2025-11-05T18:46:15.446Z,slangille93@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+178007267,2025-11-06T10:20:37.810Z,monlloyd@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+178007267,2025-11-06T18:17:42.673Z,margaretchampion@gmail.com,newsletter,everyone,true,CA,,,,,,Mozilla/5.0
+178007267,2025-11-07T01:10:20.666Z,snips56@yahoo.com,newsletter,everyone,true,US,,,,,,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+178007267,2025-11-08T00:29:29.844Z,margaretchampion@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)

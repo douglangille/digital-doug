@@ -1,0 +1,7 @@
+post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
+181182367,2025-12-10T12:08:27.075Z,monlloyd@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+181182367,2025-12-10T12:08:43.439Z,talimills27@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+181182367,2025-12-10T12:14:09.422Z,jim@jimkirk.org,newsletter,everyone,true,CA,,,,,,Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+181182367,2025-12-10T17:30:27.432Z,sparsons@innovait.ca,newsletter,everyone,true,CA,,,,,,Mozilla/5.0
+181182367,2025-12-10T17:35:53.320Z,talimills27@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+181182367,2025-12-18T15:52:17.127Z,snips56@yahoo.com,newsletter,everyone,true,US,,,,,,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html

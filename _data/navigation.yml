@@ -1,0 +1,8 @@
+main: 
+  - title: "About"
+    url: /about/
+#  - title: "Search"
+#    url: /search/
+#  - title: ""
+#    url: /search/
+#    search: true

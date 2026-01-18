@@ -1,0 +1,9 @@
+post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
+183779217,2026-01-07T11:47:50.538Z,margaretchampion@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+183779217,2026-01-07T11:55:16.279Z,jim@jimkirk.org,newsletter,everyone,true,CA,,,,,,Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+183779217,2026-01-07T11:56:03.321Z,monlloyd@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+183779217,2026-01-07T13:19:12.599Z,jim@jimkirk.org,newsletter,everyone,true,CA,,,,,,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+183779217,2026-01-07T13:41:32.196Z,talimills27@gmail.com,newsletter,everyone,true,NL,,,,,,Mozilla/5.0
+183779217,2026-01-07T20:38:32.621Z,snips56@yahoo.com,newsletter,everyone,true,US,,,,,,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+183779217,2026-01-07T21:39:06.756Z,sparsons@innovait.ca,newsletter,everyone,true,CA,,,,,,Mozilla/5.0
+183779217,2026-01-08T10:59:27.360Z,tiffany_mockford@yahoo.ca,newsletter,everyone,true,CA,,,,,,Mozilla/5.0
