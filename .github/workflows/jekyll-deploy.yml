@@ -1,0 +1,56 @@
+name: Build and deploy Jekyll site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1
+
+      - name: Cache Ruby gems
+        uses: actions/cache@v4
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - name: Install dependencies
+        run: |
+          gem install bundler --no-document
+          if [ -f Gemfile ]; then
+            bundle config path vendor/bundle
+            bundle install --jobs 4 --retry 3
+          else
+            gem install jekyll --no-document
+            gem install minimal-mistakes-jekyll --no-document || true
+          fi
+
+      - name: Build site with Jekyll
+        run: |
+          mkdir -p ./_site
+          if [ -f Gemfile ]; then
+            bundle exec jekyll build --destination ./_site
+          else
+            jekyll build --destination ./_site
+          fi
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./_site
+          cname: digital.douglangille.ca
