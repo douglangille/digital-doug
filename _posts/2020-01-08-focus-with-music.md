@@ -8,6 +8,10 @@ categories:
   - 
 excerpt: "Can ya feel the beat?"
 substack_post_id: "141217719.focus-with-music"
+tags:
+  - productivity
+  - habits
+  - wellness
 ---
 **“Okay, it’s time to work now.”**
 

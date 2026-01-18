@@ -5,9 +5,15 @@ header:
   teaser: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
   overlay_image: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
 categories:
-  - 
+categories: []
+tags:
+  - tools
+  - technology
+  - productivity
 substack_post_id: "147751375.microsoft-classic-vs-365-ecosystem"
+
 ---
+
 Change is hard. For everyone.
 
 Microsoft has a hard time changing too, largely because they often have to maintain the old legacy way of doing things while striving to innovate and push the tools to more modern techniques.

@@ -6,6 +6,9 @@ header:
   overlay_image: /assets/images/thinking-like-an-ecosystem/f0a4f9bf-9e86-405c-9eb9-f5282e3415d5_1536x1024.heic
 categories:
   - 
+tags:
+  - learning
+  - work
 excerpt: "Root, Branch, and Bloom."
 substack_post_id: "178680859.thinking-like-and-ecosystem"
 ---

@@ -6,6 +6,10 @@ header:
   overlay_image: /assets/images/tasks-and-lists/8ef5ddb4-21bf-40a6-861a-d552199057bc_1200x734.jpeg
 categories:
   - 
+tags:
+  - productivity
+  - habits
+  - tools
 excerpt: "Daily Epic Wins"
 substack_post_id: "141217735.tasks-and-lists"
 ---

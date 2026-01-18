@@ -5,11 +5,17 @@ header:
   teaser: /assets/images/a-philosophy-of-making/e15c0292-a0a2-480e-876a-0941691e81c3_1536x1024.png
   overlay_image: /assets/images/a-philosophy-of-making/e15c0292-a0a2-480e-876a-0941691e81c3_1536x1024.png
 categories:
-  - 
+categories: []
+tags:
+  - creativity
+  - ai
+  - self-improvement
 excerpt: "Plain Text, Story Systems, and the Human Loop"
 substack_post_id: "175735650.a-philosophy-of-making"
+
 ---
-*We live in a strange creative century. The tools got louder while the work stayed the same. AI, automation, content everywhere, but making still comes down to curiosity, clarity, and showing up. This isn’t a guide or a sermon. It’s a field note from the middle of the mess, a philosophy of making for people who think better when they build things.*
+
+*We live in a strange creative century. The tools got louder while the work stayed the same. AI, automation, content everywhere, but making still comes down to curiosity, clarity, and showing up. This isnt a guide or a sermon. Its a field note from the middle of the mess, a philosophy of making for people who think better when they build things.*
 
 ---
 

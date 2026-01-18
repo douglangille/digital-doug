@@ -6,6 +6,10 @@ header:
   overlay_image: /assets/images/down-the-infographic-rabbit-hole/f75491cc-08d5-488a-84de-fcd2bcf1a029_1920x1271.jpeg
 categories:
   - 
+tags:
+  - productivity
+  - communication
+  - tools
 excerpt: "Hare today, gone tomorrow."
 substack_post_id: "141217730.down-the-infographic-rabbit-hole"
 ---

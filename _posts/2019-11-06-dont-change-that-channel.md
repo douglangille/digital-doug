@@ -6,6 +6,10 @@ header:
   overlay_image: /assets/images/dont-change-that-channel/6e6737b2-d946-4860-b282-7945fbec5f27_1920x1271.jpeg
 categories:
   - 
+tags:
+  - tools
+  - communication
+  - work
 excerpt: "The Internet killed the video star."
 substack_post_id: "141217732.dont-change-that-channel"
 ---

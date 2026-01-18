@@ -6,9 +6,15 @@ header:
   overlay_image: /assets/images/five-minutes-ahead/293f0030-c6fc-486e-a839-aede49153471_1536x1024.heic
 categories:
   - 
+tags:
+  - learning
+  - technology
+  - work
 excerpt: "The Myth of the Subject Matter Expert"
 substack_post_id: "175124242.five-minutes-ahead"
+
 ---
+
 We were in a meeting with one of the higher-ups from a peer department. My team was in the room, and things were rolling along. At one point the phrase popped out: *“the subject matter experts.”* It’s a line I’ve used myself too many times to count. Fast. Handy. Everyone knows what you mean.
 
 Then one of my folks raised a hand and said, quietly, almost apologetically, “I don’t think we’re the SMEs.” The rest nodded like, yep, that tracks. “If anything, our manager is the SME.”

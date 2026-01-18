@@ -6,6 +6,9 @@ header:
   overlay_image: /assets/images/lets-get-sticky/22c585b5-f5d2-410c-bffb-0ce8047bc577_447x393.jpeg
 categories:
   - 
+tags:
+  - productivity
+  - tools
 excerpt: "Not a real word"
 substack_post_id: "141217731.lets-get-sticky"
 ---

@@ -4,16 +4,21 @@ image: /assets/images/confidently-wrong/cd8c89d7-cee6-4601-8ea0-a996df1f383a_153
 header:
   teaser: /assets/images/confidently-wrong/cd8c89d7-cee6-4601-8ea0-a996df1f383a_1536x1024.png
   overlay_image: /assets/images/confidently-wrong/cd8c89d7-cee6-4601-8ea0-a996df1f383a_1536x1024.png
-categories:
-  - 
+categories: []
 excerpt: "Workslop looks good, says nothing, and wastes your time."
 substack_post_id: "174556495.confidently-wrong"
+tags:
+  - ai
+  - communication
+  - productivity
+  - work
+
 ---
+
 ### When Workslop Comes for You
 
 Back in Grade 12, I was late handing in a book report. My grand strategy? Write the longest damn report anyone had ever seen. Forty-five pages of filler. I figured if I buried the teacher in words, maybe the lateness would sting less. I got a decent grade, minus the penalty. But across the cover page, in red ink, was this gem: *“Your act of atonement should not be in forcing me to read a 45-page book report.”*
 
-In the game of bridge, you bid on length over strength. That works for cards, not communication.
 
 **“That’s workslop. Looks polished. Says nothing. Wastes everyone’s time.”**
 

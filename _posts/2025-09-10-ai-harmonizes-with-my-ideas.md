@@ -1,24 +1,20 @@
 ---
 title: "AI Harmonizes with My Ideas"
+
 image: /assets/images/ai-harmonizes-with-my-ideas/47981997-d20a-4864-9e64-02acba822434_1536x1024.png
 header:
-  teaser: /assets/images/ai-harmonizes-with-my-ideas/47981997-d20a-4864-9e64-02acba822434_1536x1024.png
-  overlay_image: /assets/images/ai-harmonizes-with-my-ideas/47981997-d20a-4864-9e64-02acba822434_1536x1024.png
-categories:
-  - 
+   teaser: /assets/images/ai-harmonizes-with-my-ideas/47981997-d20a-4864-9e64-02acba822434_1536x1024.png
+   overlay_image: /assets/images/ai-harmonizes-with-my-ideas/47981997-d20a-4864-9e64-02acba822434_1536x1024.png
+categories: []
+tags:
+   - ai
+   - creativity
+   - tools
+   - productivity
 substack_post_id: "173291190.ai-harmonizes-with-my-ideas"
 ---
+
 Every rabbit hole needs style.
-
-## **From Rabbit Holes to Duets**
-
-I used to waste hours on Wikipedia rabbit holes. I’d start on something valid, like the history of vaccines, and end up knee-deep in the evolution of toilet paper. Same dopamine hit people now get from TikTok scrolls, only with more footnotes.
-
-[![](/assets/images/ai-harmonizes-with-my-ideas/276554d4-efc3-4321-a5a3-fa6334e1ec55_1536x1024.png)](https://substackcdn.com/image/fetch/$s_!bNXq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F276554d4-efc3-4321-a5a3-fa6334e1ec55_1536x1024.png)
-
-Where curiosity goes to hide.
-
-***“It isn’t just learning or upgraded search. It’s a duet.”***
 
 Best practices in synchronized crime.
 

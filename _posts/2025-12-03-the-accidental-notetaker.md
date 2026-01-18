@@ -6,6 +6,10 @@ header:
   overlay_image: /assets/images/the-accidental-notetaker/f9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.heic
 categories:
   - 
+tags:
+  - productivity
+  - tools
+  - learning
 excerpt: "Future Me appreciates the upgrade."
 substack_post_id: "180564071.the-accidental-notetaker"
 ---

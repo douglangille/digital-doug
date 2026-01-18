@@ -6,6 +6,11 @@ header:
   overlay_image: /assets/images/how-i-plan-my-week/8ce6b7d8-3010-48f5-8fa2-e872e24f9e77_1280x853.jpeg
 categories:
   - 
+tags:
+  - productivity
+  - habits
+  - tools
+  - self-improvement
 substack_post_id: "147751376.how-i-plan-my-week"
 ---
 I am messy.

@@ -8,6 +8,10 @@ categories:
   - 
 excerpt: "Long live Comic Papyrus"
 substack_post_id: "141217720.format-your-style"
+tags:
+  - productivity
+  - tools
+  - creativity
 ---
 Okay. So the last two weeks, we’ve been on a plain text kick and then did the markdown thing. This week, I’m going to wrap this topic up.
 

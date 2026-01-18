@@ -6,6 +6,11 @@ header:
   overlay_image: /assets/images/when-to-use-what-with-office-365/0cdb123a-0adb-4612-a450-d79da12a2f72_1024x675.jpeg
 categories:
   - 
+tags:
+  - tools
+  - productivity
+  - communication
+  - technology
 excerpt: "Abusing PowerPoint"
 substack_post_id: "141217714.when-to-use-what-with-office-365"
 ---

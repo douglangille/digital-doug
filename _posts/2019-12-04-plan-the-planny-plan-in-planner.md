@@ -6,6 +6,10 @@ header:
   overlay_image: /assets/images/plan-the-planny-plan-in-planner/688c4853-b251-4496-8ddc-028d8bf71652_1200x803.jpeg
 categories:
   - 
+tags:
+  - tools
+  - productivity
+  - work
 excerpt: "I love it when a plan comes together."
 substack_post_id: "141217734.plan-the-planny-plan-in-planner"
 ---

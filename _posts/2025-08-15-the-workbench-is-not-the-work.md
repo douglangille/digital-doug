@@ -5,10 +5,16 @@ header:
   teaser: /assets/images/the-workbench-is-not-the-work/e686722a-0364-4c63-9210-3adfe82a47fc_1536x1024.png
   overlay_image: /assets/images/the-workbench-is-not-the-work/e686722a-0364-4c63-9210-3adfe82a47fc_1536x1024.png
 categories:
-  - 
+categories: []
 excerpt: "Clearing space for what matters."
 substack_post_id: "171067727.the-workbench-is-not-the-work"
+tags:
+  - productivity
+  - digital-life
+  - self-improvement
+
 ---
+
 We love to polish our systems. Tag, colour-code, and tweak them until they gleam. But somewhere along the way, the shine starts to feel like progress. The container steals the spotlight from the content.
 
 Whether you call it a PKM, a PARA setup, a Bullet Journal, or a digital garden, the danger is the same: the system starts to feel like the work.

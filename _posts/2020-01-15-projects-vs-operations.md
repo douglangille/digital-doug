@@ -8,6 +8,9 @@ categories:
   - 
 excerpt: "Knock knock, Neo"
 substack_post_id: "141217727.projects-vs-operations"
+tags:
+  - productivity
+  - work
 ---
 **Life.**
 

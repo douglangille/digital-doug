@@ -8,6 +8,10 @@ categories:
   - 
 excerpt: "Hulk is too hulky."
 substack_post_id: "141217740.making-teams-work"
+tags:
+  - communication
+  - digital-life
+  - work
 ---
 One of the long-standing stories that we love to tell at the college is that no one uses email, especially students. Or my favourite: “email is for old people”.
 

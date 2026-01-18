@@ -6,6 +6,12 @@ header:
   overlay_image: /assets/images/technology-self-help/1f383809-2ea0-4953-87dc-c9924e4f007a_640x400.jpeg
 categories:
   - 
+tags:
+  - technology
+  - learning
+  - self-improvement
+  - productivity
+  - tools
 substack_post_id: "147751378.technology-self-help"
 ---
 It’s a strange time we live in.

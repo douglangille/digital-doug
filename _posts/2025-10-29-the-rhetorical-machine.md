@@ -6,6 +6,11 @@ header:
   overlay_image: /assets/images/the-rhetorical-machine/9e22586b-1d28-4a3b-84a9-ab0e226cf318_1536x1024.png
 categories:
   - 
+tags:
+  - ai
+  - communication
+  - technology
+  - creativity
 excerpt: "What My Father the Salesman Taught Me About AI"
 substack_post_id: "177360408.the-rhetorical-machine"
 ---

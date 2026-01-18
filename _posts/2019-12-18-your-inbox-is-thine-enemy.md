@@ -6,6 +6,11 @@ header:
   overlay_image: /assets/images/your-inbox-is-thine-enemy/f3a807cf-26c3-41e4-bb26-84752601d003_960x540.jpeg
 categories:
   - 
+tags:
+  - communication
+  - productivity
+  - digital-life
+  - habits
 excerpt: "Letters. We’ve got letters."
 substack_post_id: "141217725.your-inbox-is-thine-enemy"
 ---

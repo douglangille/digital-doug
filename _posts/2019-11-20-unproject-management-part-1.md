@@ -6,6 +6,11 @@ header:
   overlay_image: /assets/images/unproject-management-part-1/2e0f9b72-1015-436c-a671-1d331b01264a_1600x1200.png
 categories:
   - 
+tags:
+  - productivity
+  - habits
+  - work
+  - learning
 excerpt: "I only use 8-bit Crayons"
 substack_post_id: "141217736.unproject-management-part-1"
 ---

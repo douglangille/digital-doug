@@ -5,10 +5,16 @@ header:
   teaser: /assets/images/ai-is-the-new-literacy/ca90c7c8-a9a1-4012-a671-137311065956_1536x1024.heic
   overlay_image: /assets/images/ai-is-the-new-literacy/ca90c7c8-a9a1-4012-a671-137311065956_1536x1024.heic
 categories:
-  - 
+categories: []
 excerpt: "Why Nova Scotia needs to treat AI like public infrastructure."
 substack_post_id: "170439614.ai-is-the-new-literacy-most-nova"
+tags:
+  - ai
+  - technology
+  - learning
+
 ---
+
 AI is moving from “interesting toy” to “everyday tool” faster than we’ve seen with anything since smartphones. In Nova Scotia, the people who could benefit the most are still on the outside looking in. If we repeat our broadband screw‑ups and slow rollouts, reactive policy, and shiny announcements with no depth, we’re going to bake inequity into our future.
 
 ---

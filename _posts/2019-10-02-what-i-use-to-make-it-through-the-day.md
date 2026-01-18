@@ -6,6 +6,11 @@ header:
   overlay_image: /assets/images/what-i-use-to-make-it-through-the-day/5394dd5d-5303-4ff9-a9aa-f14c50d36569_756x510.jpeg
 categories:
   - 
+tags:
+  - productivity
+  - tools
+  - digital-life
+  - habits
 excerpt: "Whiskey, probably"
 substack_post_id: "141217741.what-i-use-to-make-it-through-the-day"
 ---

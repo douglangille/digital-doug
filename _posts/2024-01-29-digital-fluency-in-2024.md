@@ -6,6 +6,11 @@ header:
   overlay_image: /assets/images/digital-fluency-in-2024/419caae1-ca6b-440b-8135-9477375cbf3c_1024x1024.jpeg
 categories:
   - 
+tags:
+  - technology
+  - digital-life
+  - learning
+  - wellness
 substack_post_id: "141217724.digital-fluency-in-2024"
 ---
 Technology is an integral part of our lives. How we use and learn from it varies depending on our level of digital fluency. Digital fluency is choosing and using the best digital tools to get the job done. It goes beyond the bells, whistles, knobs and dials of software. What matters is communicating, creating, learning and working in a digital environment.

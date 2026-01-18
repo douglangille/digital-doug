@@ -6,8 +6,15 @@ header:
   overlay_image: /assets/images/slaying-the-algorithm-dragon/aea9b245-a285-4add-892f-900d9d1b793e_1536x1024.heic
 categories:
   - 
+tags:
+  - digital-life
+  - habits
+  - productivity
+  - technology
 substack_post_id: "174023996.slaying-the-algorithm-dragon"
+
 ---
+
 The Algorithm Dragon: hoards your attention, breathes outrage fire.
 
 "I cannot brain today. I have the dumb."

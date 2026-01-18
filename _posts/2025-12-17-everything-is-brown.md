@@ -5,10 +5,18 @@ header:
   teaser: /assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.heic
   overlay_image: /assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.heic
 categories:
-  - 
+categories: []
+tags:
+tags:
+  - ai
+  - digital-life
+  - productivity
+  - habits
 excerpt: "Why Your Chatbot Needs a Reset"
 substack_post_id: "181879893.everything-is-brown"
+
 ---
+
 ## The Play-Doh Problem
 
 When I was a kid, I had four colours of Play-Doh: blue, yellow, red, and white. For the first day or two, I could make anything. A yellow sun. A blue ocean. Red flowers with white centres. Infinite possibilities.

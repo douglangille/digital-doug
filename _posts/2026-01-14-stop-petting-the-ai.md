@@ -5,10 +5,17 @@ header:
   teaser: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.heic
   overlay_image: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.heic
 categories:
-  - 
+categories: []
+tags:
+tags:
+   - ai
+   - digital-life
+   - wellness
 excerpt: "How to Use ChatGPT Without Becoming Its Emotional Support Human"
 substack_post_id: "184531625.stop-petting-the-ai"
+
 ---
+
 It’s 3 AM. I’m in bed. I’ve gone from reading political news to spinning scenarios with ChatGPT about a “mad scientist vs. mad engineer” epic battle tournament.
 
 This isn’t productive. It’s not even fun. This is doom chatting.

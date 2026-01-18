@@ -6,9 +6,16 @@ header:
   overlay_image: /assets/images/from-files-to-flow-looping-into-the-future/4476010b-3b9c-4042-bd43-aa2a3d4df9e0_1019x631.png
 categories:
   - 
+tags:
+  - tools
+  - productivity
+  - work
+  - technology
 excerpt: "Files!? We don't need no stinkin' files!"
 substack_post_id: "158364508.from-files-to-flow-looping-into-the"
+
 ---
+
 Let's be honest, how many times have you found yourself drowning in a sea of email attachments, desperately searching for the "final" version of a document? Or worse, trying to decipher a project update buried somewhere in an Excel spreadsheet that hasn't been touched since last Tuesday? I've been there. We've all been there. It's the document-centric nightmare we've come to accept as the status quo. But what if there was a better way?
 
 ## **The Pain Points: Where Did We Go Wrong?**

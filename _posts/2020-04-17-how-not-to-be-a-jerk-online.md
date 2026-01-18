@@ -6,6 +6,11 @@ header:
   overlay_image: /assets/images/how-not-to-be-a-jerk-online/2fe635c8-8f8f-4e9f-932f-ab4fe92b6eff_1024x768.jpeg
 categories:
   - 
+tags:
+  - digital-life
+  - communication
+  - wellness
+  - habits
 excerpt: "Birds kinda freak me out."
 substack_post_id: "141217726.how-not-to-be-a-jerk-online"
 ---

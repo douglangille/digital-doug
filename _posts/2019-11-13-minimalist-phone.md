@@ -8,6 +8,10 @@ categories:
   - 
 excerpt: "Rage against the Machine"
 substack_post_id: "141217723.minimalist-phone"
+tags:
+  - technology
+  - habits
+  - self-improvement
 ---
 I have a bad relationship with my phone.
 

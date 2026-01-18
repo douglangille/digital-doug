@@ -6,6 +6,9 @@ header:
   overlay_image: /assets/images/how-to-break-up-with-adobe/ad6ce082-092c-48c1-a501-d50f79abe3fe_2048x1365.jpeg
 categories:
   - 
+tags:
+  - technology
+  - learning
 excerpt: "OPINION #TABLEFLIP"
 substack_post_id: "141217716.how-to-break-up-with-adobe"
 ---

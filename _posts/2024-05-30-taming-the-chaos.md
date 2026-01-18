@@ -6,6 +6,11 @@ header:
   overlay_image: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
 categories:
   - 
+tags:
+  - productivity
+  - digital-life
+  - tools
+  - habits
 substack_post_id: "147751377.taming-the-chaos"
 ---
 Let’s face it, the digital age has brought a double-edged sword. Information at our fingertips? Amazing! But the constant influx of emails, notifications, and to-dos can leave us feeling overwhelmed and scattered.
