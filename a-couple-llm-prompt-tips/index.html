@@ -1,0 +1,1307 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.27.3 by Michael Rose
+  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-CA" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>A Couple LLM Prompt Tips… - Digital Doug</title>
+<meta name="description" content="Tech-related brain-droppings about innovation, productivity, and higher ed. You’ve been warned.">
+
+
+  <meta name="author" content="Doug Langille">
+  
+  <meta property="article:author" content="Doug Langille">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_CA">
+<meta property="og:site_name" content="Digital Doug">
+<meta property="og:title" content="A Couple LLM Prompt Tips…">
+<meta property="og:url" content="https://digital.douglangille.ca/a-couple-llm-prompt-tips/">
+
+
+  <meta property="og:description" content="Tech-related brain-droppings about innovation, productivity, and higher ed. You’ve been warned.">
+
+
+
+  <meta property="og:image" content="https://digital.douglangille.ca/assets/images/a-couple-llm-prompt-tips/488a81c4-d40b-4800-917b-ec77632ecf0f_1600x900.jpeg">
+
+
+
+
+
+  <meta property="article:published_time" content="2024-03-21T00:00:00-03:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://digital.douglangille.ca/a-couple-llm-prompt-tips/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Digital Doug Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<link href="https://fonts.googleapis.com/css?family=Merriweather|Raleway|Griffy|Sixtyfour|Sixtyfour+Convergence|Doto" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Vollkorn|Jost" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville|Archivo" rel="stylesheet" type="text/css">
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+
+<link rel="stylesheet" href="/assets/css/dark-mode.css">
+
+<link rel="alternate" type="application/atom+xml" href="https://digital.douglangille.ca/feed.xml">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>A Couple LLM Prompt Tips… | Digital Doug</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="A Couple LLM Prompt Tips…" />
+<meta name="author" content="Doug Langille" />
+<meta property="og:locale" content="en_CA" />
+<meta name="description" content="Tech-related brain-droppings about innovation, productivity, and higher ed. You’ve been warned." />
+<meta property="og:description" content="Tech-related brain-droppings about innovation, productivity, and higher ed. You’ve been warned." />
+<link rel="canonical" href="https://digital.douglangille.ca/a-couple-llm-prompt-tips/" />
+<meta property="og:url" content="https://digital.douglangille.ca/a-couple-llm-prompt-tips/" />
+<meta property="og:site_name" content="Digital Doug" />
+<meta property="og:image" content="https://digital.douglangille.ca/assets/images/a-couple-llm-prompt-tips/488a81c4-d40b-4800-917b-ec77632ecf0f_1600x900.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-03-21T00:00:00-03:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://digital.douglangille.ca/assets/images/a-couple-llm-prompt-tips/488a81c4-d40b-4800-917b-ec77632ecf0f_1600x900.jpeg" />
+<meta property="twitter:title" content="A Couple LLM Prompt Tips…" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Doug Langille"},"dateModified":"2024-03-21T00:00:00-03:00","datePublished":"2024-03-21T00:00:00-03:00","description":"Tech-related brain-droppings about innovation, productivity, and higher ed. You’ve been warned.","headline":"A Couple LLM Prompt Tips…","image":"https://digital.douglangille.ca/assets/images/a-couple-llm-prompt-tips/488a81c4-d40b-4800-917b-ec77632ecf0f_1600x900.jpeg","mainEntityOfPage":{"@type":"WebPage","@id":"https://digital.douglangille.ca/a-couple-llm-prompt-tips/"},"url":"https://digital.douglangille.ca/a-couple-llm-prompt-tips/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Digital Doug
+          <span class="site-subtitle">Where Pixels Meet Purpose</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/archive/"
+                
+                
+              >Browse</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/about/"
+                
+                
+              >About</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style=" background-image: url('/assets/images/a-couple-llm-prompt-tips/488a81c4-d40b-4800-917b-ec77632ecf0f_1600x900.jpeg');"
+>
+  
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+        
+          A Couple LLM Prompt Tips…
+
+        
+      </h1>
+      
+        <p class="page__lead">
+</p>
+      
+      
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2024-03-21T00:00:00-03:00">March 21, 2024</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          2 minute read
+        
+      </span>
+    
+  </p>
+
+
+      
+    </div>
+  
+  
+</div>
+
+
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://digital.douglangille.ca/" itemprop="url">Doug Langille</a>
+    </h3>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        
+          
+            <li><a href="https://digitaldoug.douglangille.ca" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Website</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="A Couple LLM Prompt Tips…">
+    <meta itemprop="description" content="">
+    <meta itemprop="datePublished" content="2024-03-21T00:00:00-03:00">
+    
+
+    <div class="page__inner-wrap">
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>I’ve been tooling around with some LLMs. It’s insanely useful and a lot of fun.</p>
+
+<p>Logging into Microsoft 365 Copilot Enterprise (<a href="https://copilot.microsoft.com/">https://copilot.microsoft.com</a>) is still the best way to stay on-side with privacy and college/corporate policy, even if said policies are still a work-in-progress. We ain’t special here. Nearly every organization is pretty much right with us. Go ahead and play with all the tools– just be mindful of your data privacy and that of others.</p>
+
+<p>I’ve also been playing around with a couple other models and interfaces that have longer input windows (how much text you can feed it in a prompt):</p>
+
+<ul>
+  <li>Microsoft Copilot with a personal account is fast with GPT 3.5/4 has a 2000/4000 character input window depending on the model (tone).</li>
+  <li>Microsoft Copilot Notebook has an 18000 character window in an editable frame for iterating prompts. I use this a lot. It’s beta and not everyone has access. <a href="https://copilot.microsoft.com/?showntbk=1">https://copilot.microsoft.com/?showntbk=1</a></li>
+  <li>OpenAI’s ChatGPT is really fast but with GPT 3.5 but not very creative. It has an 8000 token limit for input. Paid plans are 32000. <a href="https://chat.openai.com/">https://chat.openai.com</a></li>
+  <li>Google Gemini has about a million token input window which will likely make this a non-issue as the other models follow suit. <a href="https://gemini.google.com/app">https://gemini.google.com/app</a></li>
+  <li>Anthropic Claude v3 has a 200K token limit, but they throttle the frequency of usage. Which is fine. Very creative. <a href="https://claude.ai/chats">https://claude.ai/chats</a>.</li>
+</ul>
+
+<p>Google NotebookLM (US only, requires a VPN) has a real interesting approach for working with multiple sources you provide as context. Kinda like a personal LLM. I’ll talk about that separately when it is formally unleashed in Canada. <a href="https://notebooklm.google.com/">https://notebooklm.google.com</a></p>
+
+<p>BTW: A token is approximately 4 characters, ¾ a word. 100 tokens is approximately 75 words.</p>
+
+<p>Okay, so most folks have been dabbling with simple prompts, using it the same way as you use a search engine. Ask a few follow-up questions and you can hammer out a result.</p>
+
+<p>You can do better tho. I’ll save you some Googling.</p>
+
+<h2 id="the-anatomy-of-a-good-prompt">The Anatomy of a Good Prompt</h2>
+
+<p>Basically, a good prompt has 6 components and it looks like this:</p>
+
+<p>Persona + Context + Task + Exemplar + Format + Tone</p>
+
+<ul>
+  <li>Task is mandatory (obviously).</li>
+  <li>Context and Exemplars are important.</li>
+  <li>Persona, Format and Tone are nice-to-haves.</li>
+</ul>
+
+<p>You are an expert in technology innovation and development in higher education. I am an experienced IT leader within Digital Innovation &amp; Technology at the Nova Scotia Community College and want to provide innovative solutions to increase student, staff and faculty engagement with modern technology. Brainstorm ten detailed ideas to pitch to academic leaders using the 10X Thinking framework to flesh out each idea in detail. Output it as a business position paper, complete with an executive summary at the beginning and a list of cited references at the end. Use professional business language and a neutral tone, using third person and limited jargon.</p>
+
+<p>NOTE: You can have a lot of fun with tone… “Now rewrite this in the voice of Dr Gregory House.”</p>
+
+<h2 id="have-better-conversations-with-the-robots">Have Better Conversations with the Robots</h2>
+
+<p>As many of you know, I love me a scheming partner to bounce ideas off. This is a kind of reverse prompt where the LLM prompts me to help me think through challenges and ideas.</p>
+
+<p><em>You are an experienced coach and mentor with expertise in emerging technologies field and in higher education. You are very familiar with the Nova Scotia Community College, its mission/values and its programs. Your goal is to help me refine my thinking and develop strategies in leading innovation and change for staff, students and faculty at the College. I want you to end each response with a probing question. Do you understand?</em></p>
+
+<p>Short post today folks. Hope these help spark your imagination. If you’ve found some good prompts, please drop them in the comments below.</p>
+
+        
+      </section>
+      
+
+
+
+
+
+
+
+
+
+
+
+<div style="clear:both; margin: 0 0 2rem; padding-top: 1rem;">
+  <div class="text-center">
+    <span style="display:flex; gap:0.75rem; justify-content:center; flex-wrap:wrap;">
+      <a class="btn btn--success"
+         href="mailto:me@douglangille.ca?subject=Thoughts%3A%20A%20Couple%20LLM%20Prompt%20Tips%E2%80%A6&amp;body=One-line%20reaction%3A%0A%28Write%20here%29%0A%0ALink%3A%20https%3A%2F%2Fdigital.douglangille.ca%2Fa-couple-llm-prompt-tips%2F">
+        Thoughts or ideas? Tell me.
+      </a>
+
+      <a class="btn btn--primary"
+         href="mailto:?subject=Read%3A%20A%20Couple%20LLM%20Prompt%20Tips%E2%80%A6&amp;body=Thought%20you%20might%20like%20this%3A%0Ahttps%3A%2F%2Fdigital.douglangille.ca%2Fa-couple-llm-prompt-tips%2F">
+        Share with a friend.
+      </a>
+
+      <a class="btn btn--primary"
+         href="https://feedrabbit.com/?url=https://digital.douglangille.ca/feed.xml"
+         target="_blank" rel="noopener">
+        Subscribe for new articles.
+      </a>
+    </span>
+  </div>
+</div>
+      
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/ai" class="page__taxonomy-item p-category" rel="tag">ai</a><span class="sep">, </span>
+    
+      <a href="/learning" class="page__taxonomy-item p-category" rel="tag">learning</a><span class="sep">, </span>
+    
+      <a href="/productivity" class="page__taxonomy-item p-category" rel="tag">productivity</a><span class="sep">, </span>
+    
+      <a href="/tools" class="page__taxonomy-item p-category" rel="tag">tools</a>
+    
+    </span>
+  </p>
+
+
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-03-21T00:00:00-03:00">March 21, 2024</time></p>
+
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/digital-wellness-working-smarter-happier-and-more-playfully/" class="pagination--pager" title="Digital Wellness: Working Smarter, Happier, and More Playfully">Previous</a>
+    
+    
+      <a href="/some-goblins-are-kinda-cute/" class="pagination--pager" title="Some Goblins Are Kinda Cute.">Next</a>
+    
+  </nav>
+
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You may also enjoy</h4>
+      <div class="grid__wrapper">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+      
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+    
+
+    
+    
+
+    
+    
+
+    
+  
+
+  
+
+
+
+
+
+  
+
+  
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/assets/images/your-inbox-is-thine-enemy/f3a807cf-26c3-41e4-bb26-84752601d003_960x540.jpeg" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/your-inbox-is-thine-enemy/" rel="permalink">Your Inbox Is Thine Enemy
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2019-12-18T00:00:00-04:00">December 18, 2019</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Letters. We’ve got letters.
+</p>
+  </article>
+</div>
+
+
+  
+
+  
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/assets/images/lets-get-sticky/22c585b5-f5d2-410c-bffb-0ce8047bc577_447x393.jpeg" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/lets-get-sticky/" rel="permalink">Let’s Get Sticky!
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2019-10-23T00:00:00-03:00">October 23, 2019</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          2 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Not a real word
+</p>
+  </article>
+</div>
+
+
+  
+
+  
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/assets/images/dougs-rules-of-work-at-home/7115f2e6-4387-4800-a334-94f72bf6cf86_803x499.jpeg" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/dougs-rules-of-work-at-home/" rel="permalink">Doug’s Rules of Work (At Home)
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2020-04-08T00:00:00-03:00">April 8, 2020</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          6 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Remember: NO CAPES!
+</p>
+  </article>
+</div>
+
+
+  
+
+  
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.heic" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/1-1-3-building-a-tech-career-on-what-you-already-know/" rel="permalink">1 + 1 = 3: Building a Tech Career on What You Already Know
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2025-11-26T00:00:00-04:00">November 26, 2025</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          4 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">For anyone who keeps thinking “maybe it’s time to pivot.”
+</p>
+  </article>
+</div>
+
+
+
+      </div>
+    </div>
+  
+
+</div>
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://douglangille.substack.com" rel="nofollow noopener noreferrer"><i class="fa-regular fa-newspaper" aria-hidden="true"></i> Digital Doug</a></li>
+        
+      
+        
+          <li><a href="https://www.linkedin.com/in/douglangille/" rel="nofollow noopener noreferrer"><i class="fa-brands fa-square-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+
+<div class="page__footer-copyright">&copy; 2013 - 2026 <a href="https://digital.douglangille.ca">Digital Doug</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+  </body>
+</html>
