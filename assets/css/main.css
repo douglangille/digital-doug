@@ -5187,6 +5187,16 @@ h1, h2, h3, .metadata {
   text-shadow: 0 2px 8px rgb(0, 0, 0), 0 0 30px rgba(0, 0, 0, 0.9), 0 0 10px rgba(0, 0, 0, 0.8);
 }
 
+/* Clickable hero hover effect */
+a > .page__hero--overlay {
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+a:hover > .page__hero--overlay {
+  opacity: 0.95;
+}
+
 /* teaser images in archive grid */
 .archive__item-teaser img, .half img {
   object-fit: cover;
