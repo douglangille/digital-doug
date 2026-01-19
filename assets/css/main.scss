@@ -42,17 +42,17 @@ h1, h2, h3, .metadata {
   text-shadow:
     0 2px 8px rgba(0, 0, 0, 1),
     0 0 30px rgba(0, 0, 0, 0.9),
-    0 0 10px rgba(0, 0, 0, 0.8);
+    0 0 10px rgba(0, 0, 0, 0.8)!important;
 }
 
 /* Clickable hero hover effect */
 a > .page__hero--overlay {
   cursor: pointer;
-  transition: opacity 0.2s ease;
+  transition: opacity 0.2s ease!important;
 }
 
 a:hover > .page__hero--overlay {
-  opacity: 0.95;
+  opacity: 0.95!important;
 }
 
 /* teaser images in archive grid */
