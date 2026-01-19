@@ -12,6 +12,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Content
 
-All blog posts, articles, stories, poems, and other written content are © 2013-2026 Doug Langille. All rights reserved.
+All blog posts, articles, stories, poems, and other written content are © 2019-2026 Doug Langille. All rights reserved.
 
 You're welcome to link to, quote (with attribution), or share this content, but please don't republish it wholesale without permission.
