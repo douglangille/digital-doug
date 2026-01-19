@@ -115,4 +115,4 @@ Digital Doug focuses on:
 
 ## License
 
-© 2013-2026 Doug Langille. Content rights reserved. Theme licensed under MIT.
+© 2019-2026 Doug Langille. Content rights reserved. Theme licensed under MIT.
