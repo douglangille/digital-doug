@@ -33,17 +33,31 @@ search_provider           : lunr
 # -----------------------------------------------------------------------------
 author:
   name: "Doug Langille"
+  avatar: "/assets/images/IMG_0040.jpeg"
+  bio: "IT manager, tech writer, and creative storyteller"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://digitaldoug.douglangille.ca"
+    - label: "Nova Scotia"
+      icon: "fa-regular fa-location-dot"
+      url: "https://en.wikipedia.org/wiki/Nova_Scotia"
+    - label: "Darkling Whim"
+      icon: "fa-solid fa-feather"
+      url: "https://douglangille.ca"
+    - label: "Email"
+      icon: "fa-regular fa-envelope"
+      url: "mailto:me@douglangille.ca"
 
 footer:
   since                   : "2013"
   links:
+    - label               : "Darkling Whim"
+      icon                : "fa-solid fa-feather"
+      url                 : "https://douglangille.ca"
     - label               : "Digital Doug"
       icon                : "fa-regular fa-newspaper"
-      url                 : "https://douglangille.substack.com"
+      url                 : "https://digital.douglangille.ca"
+    - label               : "Amazon"
+      icon                : "fa-brands fa-amazon"
+      url                 : "https://www.amazon.com/author/douglangille"
     - label               : "LinkedIn"
       icon                : "fa-brands fa-square-linkedin"
       url                 : "https://www.linkedin.com/in/douglangille/"
