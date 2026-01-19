@@ -29,17 +29,18 @@ entries_layout: grid
 {% assign image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
 
 <br/>
-<div class="page__hero{% if featured.header.overlay_color or featured.header.overlay_image %}--overlay{% endif %}"
-  style="{% if featured.header.overlay_color %}background-color: {{ featured.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}"
->
-  {% if featured.header.overlay_color or featured.header.overlay_image %}
-    <div class="wrapper">
-      <h1 class="page__title" itemprop="headline">
-        {{ featured.title | markdownify | remove: "<p>" | remove: "</p>" }}
-      </h1>
-      <p class="page__lead">
-        {{ featured.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
-      </p>
+<a href="{{ featured.url | relative_url }}" style="text-decoration: none; color: inherit; display: block;">
+  <div class="page__hero{% if featured.header.overlay_color or featured.header.overlay_image %}--overlay{% endif %}"
+    style="{% if featured.header.overlay_color %}background-color: {{ featured.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}"
+  >
+    {% if featured.header.overlay_color or featured.header.overlay_image %}
+      <div class="wrapper">
+        <h1 class="page__title" itemprop="headline">
+          {{ featured.title | markdownify | remove: "<p>" | remove: "</p>" }}
+        </h1>
+        <p class="page__lead">
+          {{ featured.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
+        </p>
 
 {% assign document = featured | default: page %}
 {% if document.read_time or document.show_date %}
@@ -73,17 +74,18 @@ entries_layout: grid
   </p>
 {% endif %}
 
-      <p>
-        <a href="{{ featured.url | relative_url }}" class="btn btn--success">Read Now</a>
-      </p>
-    </div>
-  {% else %}
-    <img src="{{ featured.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
-  {% endif %}
-  {% if featured.header.caption %}
-    <span class="page__hero-caption">{{ featured.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-  {% endif %}
-</div>
+        <p>
+          <span class="btn btn--success">Read Now</span>
+        </p>
+      </div>
+    {% else %}
+      <img src="{{ featured.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
+    {% endif %}
+    {% if featured.header.caption %}
+      <span class="page__hero-caption">{{ featured.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+    {% endif %}
+  </div>
+</a>
 
 <div class="entries-{{ page.entries_layout }}">
   {% for post in site.posts limit:4 offset:1 %}
@@ -97,4 +99,3 @@ entries_layout: grid
 <a href="/archive" class="btn btn--primary btn--large">
   Browse all articles</a>
 </p>
-
