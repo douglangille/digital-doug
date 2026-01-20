@@ -3,6 +3,8 @@ main:
     url: /articles/
   - title: "About"
     url: /about/
+  - title: "Now"
+    url: /now/
 #  - title: "Search"
 #    url: /search/
 #  - title: ""
