@@ -3,38 +3,39 @@ permalink: /now/
 title: "Now"
 ---
 
-This page tracks my current technical focus and what I'm actively working on. Updated as projects shift.
+*What I'm actively working on as of January 2026.*
 
 ## Current Projects
 
-**AI Integration Experiments**
-- Running parallel workflows across Mistral, Perplexity, Claude, ChatGPT, NotebookLM, and Gemini
-- Deep in Microsoft 365 Copilot implementation at NSCC
-- Testing practical applications of AI in higher education workflows
+**AI Implementation at NSCC**
+- Leading Microsoft 365 Copilot deployment across the college
+- Testing enterprise AI in all its bureaucratic glory
+- Building practical frameworks for faculty adoption
 
-**Digital Systems**
-- Building personal knowledge management using markdown, GitHub, and VSCode
-- Refining plaintext-first workflows for sustainability and portability
-- Documenting what actually works (and what breaks spectacularly)
+**Personal AI Stack**
+- Running workflows across Mistral, Perplexity, Claude, ChatGPT, NotebookLM, and Gemini simultaneously
+- Documenting what actually works vs. what's marketing hype
+- Building reusable patterns for knowledge work
 
-**Writing & Publishing**
-- Weekly articles on [Digital Doug](https://digital.douglangille.ca) about AI, productivity, and higher ed innovation
-- Sharing experiments, failures, and occasional successes from the implementation trenches
+**Knowledge Systems**
+- Refining plaintext-first workflows (markdown + GitHub + VSCode)
+- Building personal knowledge management without vendor lock-in
+- Publishing experiments and failures on [Digital Doug](https://digital.douglangille.ca) weekly
 
-## Learning Focus
+## Active Learning
 
-- Enterprise AI deployment realities (not the hype)
-- Workflow automation without vendor lock-in
-- Institutional change management (the unsexy part of innovation)
+- Enterprise AI policy and governance frameworks
+- Knowledge graph systems and semantic search
+- Institutional change management strategies
 
-## What I'm Reading
+## Currently Reading
 
-- AI policy and ethics frameworks for education
-- Technical documentation on knowledge graph systems
-- Way too many AI newsletters (help)
+- *AI policy and ethics frameworks for higher education*
+- *Technical documentation on knowledge graphs and RAG systems*
+- Way too many AI newsletters (seriously, it's a problem)
 
 ---
 
-*Last updated: January 2026*
+*Updated: January 2026*
 
-For static bio/credentials, see [About](/about/).
+For bio and site overview, see [About](/about/).
