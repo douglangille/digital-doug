@@ -1,6 +1,6 @@
 main: 
-  - title: "Browse"
-    url: /archive/
+  - title: "Articles"
+    url: /articles/
   - title: "About"
     url: /about/
 #  - title: "Search"

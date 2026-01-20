@@ -1,3 +1,0 @@
-post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
-175735650,2025-10-10T09:48:52.094Z,jim@jimkirk.org,newsletter,everyone,true,CA,,,,,,Mozilla/5.0
-175735650,2025-10-15T21:15:43.518Z,monlloyd@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)

@@ -1,5 +1,0 @@
-beautifulsoup4
-requests
-markdownify
-python-dateutil
-urllib3==1.26.20

@@ -1,7 +1,0 @@
-post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
-181879893,2025-12-17T11:54:53.554Z,monlloyd@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
-181879893,2025-12-17T11:56:33.112Z,jim@jimkirk.org,newsletter,everyone,true,CA,,,,,,Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
-181879893,2025-12-17T14:48:00.470Z,snips56@yahoo.com,newsletter,everyone,true,US,,,,,,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
-181879893,2025-12-17T15:14:38.305Z,snips56@yahoo.com,newsletter,everyone,true,US,,,,,,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
-181879893,2025-12-17T17:32:35.726Z,tiffany_mockford@yahoo.ca,newsletter,everyone,true,CA,,,,,,Mozilla/5.0
-181879893,2025-12-17T18:20:26.552Z,sparsons@innovait.ca,newsletter,everyone,true,CA,,,,,,Mozilla/5.0
