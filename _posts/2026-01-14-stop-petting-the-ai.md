@@ -1,6 +1,5 @@
 ---
 title: "Stop Petting the AI!"
-image: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.heic
 header:
   teaser: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.heic
   overlay_image: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.heic
@@ -61,9 +60,10 @@ I prefer tools that support intentional use rather than default conversation: so
 1. **Finish the conversation.** Get what you came for.
 2. **Harvest takeaways.** I paste this prompt at the end of every session:
 
-   ```
-   Read through this entire chat and provide a structured detailed summary. Then identify anything that is important enough to save to my notes. Give me those in separate markdown code blocks so I can easily copy/paste them into individual files. If you can give me them in downloadable markdown files directly, do that.
-   ```
+```
+Read through this entire chat and provide a structured detailed summary. Then identify anything that is important enough to save to my notes. Give me those in separate markdown code blocks so I can easily copy/paste them into individual files. If you can give me them in downloadable markdown files directly, do that.   
+```
+
 3. **Delete thread immediately.** No accumulation, no guilt.
 
 Before I deleted all my ChatGPT threads, I exported everything to a zip file first. A backup in case I needed something. Then I stared at the “delete all chats” button for longer than I want to admit. Finally clicked it.

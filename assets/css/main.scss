@@ -121,3 +121,13 @@ a:hover > .page__hero--overlay {
   line-height: 1.4;
   color: #444;
 }
+
+/* Enable word wrap for code blocks */
+.highlighter-rouge,
+.highlight,
+pre,
+code {
+  white-space: pre-wrap !important;
+  word-break: break-word !important;
+  overflow-x: auto;
+}
