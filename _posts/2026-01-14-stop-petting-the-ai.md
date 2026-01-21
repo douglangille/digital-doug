@@ -3,9 +3,6 @@ title: "Stop Petting the AI!"
 header:
   teaser: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.heic
   overlay_image: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.heic
-categories:
-categories: []
-tags:
 tags:
    - ai
    - digital-life
