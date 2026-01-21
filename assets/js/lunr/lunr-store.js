@@ -213,7 +213,7 @@ var store = [{
         "excerpt":"AI is moving from “interesting toy” to “everyday tool” faster than we’ve seen with anything since smartphones. In Nova Scotia, the people who could benefit the most are still on the outside looking in. If we repeat our broadband screw‑ups and slow rollouts, reactive policy, and shiny announcements with no...","categories": [],
         "tags": ["ai","technology","learning"],
         "url": "/ai-is-the-new-literacy/",
-        "teaser": "/assets/images/ai-is-the-new-literacy/ca90c7c8-a9a1-4012-a671-137311065956_1536x1024.heic"
+        "teaser": "/assets/images/ai-is-the-new-literacy/ca90c7c8-a9a1-4012-a671-137311065956_1536x1024.png"
       },{
         "title": "The Workbench Is Not the Work",
         "excerpt":"We love to polish our systems. Tag, colour-code, and tweak them until they gleam. But somewhere along the way, the shine starts to feel like progress. The container steals the spotlight from the content. Whether you call it a PKM, a PARA setup, a Bullet Journal, or a digital garden,...","categories": [],
@@ -231,7 +231,7 @@ var store = [{
         "excerpt":"The Algorithm Dragon: hoards your attention, breathes outrage fire. “I cannot brain today. I have the dumb.” That’s when it hit me. My attention span had collapsed. YouTube and short-form feeds had nerfed my tolerance for reading anything longer than a tweet. Fiction, the thing I love to read and...","categories": [null,""],
         "tags": ["digital-life","habits","productivity","technology"],
         "url": "/slaying-the-algorithm-dragon/",
-        "teaser": "/assets/images/slaying-the-algorithm-dragon/aea9b245-a285-4add-892f-900d9d1b793e_1536x1024.heic"
+        "teaser": "/assets/images/slaying-the-algorithm-dragon/aea9b245-a285-4add-892f-900d9d1b793e_1536x1024.png"
       },{
         "title": "Confidently Wrong",
         "excerpt":"When Workslop Comes for You Back in Grade 12, I was late handing in a book report. My grand strategy? Write the longest damn report anyone had ever seen. Forty-five pages of filler. I figured if I buried the teacher in words, maybe the lateness would sting less. I got...","categories": [],
@@ -243,7 +243,7 @@ var store = [{
         "excerpt":"We were in a meeting with one of the higher-ups from a peer department. My team was in the room, and things were rolling along. At one point the phrase popped out: “the subject matter experts.” It’s a line I’ve used myself too many times to count. Fast. Handy. Everyone...","categories": [null,""],
         "tags": ["learning","technology","work"],
         "url": "/five-minutes-ahead/",
-        "teaser": "/assets/images/five-minutes-ahead/293f0030-c6fc-486e-a839-aede49153471_1536x1024.heic"
+        "teaser": "/assets/images/five-minutes-ahead/293f0030-c6fc-486e-a839-aede49153471_1536x1024.png"
       },{
         "title": "A Philosophy of Making",
         "excerpt":"We live in a strange creative century. The tools got louder while the work stayed the same. AI, automation, content everywhere, but making still comes down to curiosity, clarity, and showing up. This isn\u0019t a guide or a sermon. It\u0019s a field note from the middle of the mess, a...","categories": [],
@@ -255,7 +255,7 @@ var store = [{
         "excerpt":"I was on vacation last week and mostly disconnected from Teh Internets. There was plenty of farm-ish work to handle as part of the seasonal shutdown. All in all, it was great. So when I logged into a computer on Monday, what happened? What disasters awaited me? None. Everything kept...","categories": [null,""],
         "tags": ["productivity","habits","self-improvement"],
         "url": "/the-weekly-reset-process-over-artifact/",
-        "teaser": "/assets/images/the-weekly-reset-process-over-artifact/a94eb8b8-2c35-4848-a216-449ad84bb18a_1536x1024.heic"
+        "teaser": "/assets/images/the-weekly-reset-process-over-artifact/a94eb8b8-2c35-4848-a216-449ad84bb18a_1536x1024.png"
       },{
         "title": "The Rhetorical Machine",
         "excerpt":"My father used to say every conversation is a sale. Someone’s always buying, he’d grin. The only question was who. At sixteen I thought he meant hustling. At fifty-three I think he meant survival. Dad was a teacher, a coach, and a salesman, which is to say he spent his...","categories": [null,""],
@@ -267,49 +267,49 @@ var store = [{
         "excerpt":"The Sound of Waiting Modern workplaces are experts at waiting. We hold meetings, make subcommittees, circulate drafts, and call it progress. Higher education institutions seem to have elevated this to an art form. I write from the middle of it, not as an academic observer or tech evangelist, but as...","categories": [null,""],
         "tags": ["work","self-improvement"],
         "url": "/the-liminal-workplace/",
-        "teaser": "/assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.heic"
+        "teaser": "/assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.png"
       },{
         "title": "Thinking Like an Ecosystem",
         "excerpt":"Between Frost and Flow The leaves are mostly down now. Frost rims the grass at dawn, mud by noon. The forest looks dormant, but under the litter, roots and fungi are still trading what’s left of the year’s light. Ecosystems don’t rest; they reroute. Colleges and organizations work the same...","categories": [null,""],
         "tags": ["learning","work"],
         "url": "/thinking-like-an-ecosystem/",
-        "teaser": "/assets/images/thinking-like-an-ecosystem/f0a4f9bf-9e86-405c-9eb9-f5282e3415d5_1536x1024.heic"
+        "teaser": "/assets/images/thinking-like-an-ecosystem/f0a4f9bf-9e86-405c-9eb9-f5282e3415d5_1536x1024.png"
       },{
         "title": "Digital Craftsmanship",
         "excerpt":"It always starts the same way: I’m fixing something, the screwdriver slips, and I slice a finger just deep enough to question my life choices. There’s that moment of sucking the blood off, muttering something unprintable, and realizing, yep, this is what people mean by “blood, sweat, and tears.” It’s...","categories": [null,""],
         "tags": ["digital-life","creativity","work","self-improvement"],
         "url": "/digital-craftsmanship/",
-        "teaser": "/assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.heic"
+        "teaser": "/assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png"
       },{
         "title": "1 + 1 = 3: Building a Tech Career on What You Already Know",
         "excerpt":"Your first career wasn’t a mistake. It might be the thing that makes the next one work. Tech moves quickly, but that doesn’t mean you have to sprint. Most of the time, progress looks more like adding a small tool to a skill set you already trust. That’s the secret...","categories": [null,""],
         "tags": ["work","learning","self-improvement"],
         "url": "/1-1-3-building-a-tech-career-on-what-you-already-know/",
-        "teaser": "/assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.heic"
+        "teaser": "/assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.png"
       },{
         "title": "The Accidental Notetaker",
         "excerpt":"Taking notes is easy. Making sense of them later? That’s the part that always broke me. I’m lying. Taking notes hurts my soul. I kinda hate it and telling myself to embrace the suck is not helpful. I’ve tried everything: elaborate systems, minimalist systems, digital, analog, hybrid. Most collapsed under...","categories": [null,""],
         "tags": ["productivity","tools","learning"],
         "url": "/the-accidental-notetaker/",
-        "teaser": "/assets/images/the-accidental-notetaker/f9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.heic"
+        "teaser": "/assets/images/the-accidental-notetaker/f9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.png"
       },{
         "title": "The Joy of Missing Out: An Email Manifesto for December",
         "excerpt":"December is a weird month for productivity. You’ve got end-of-year reflections happening alongside holiday vacations, quarterly reviews colliding with cookie exchanges, and a pervasive sense that everyone’s just trying to clear their desk before the break. It’s also the perfect time to rethink how email shapes your attention. Because here’s...","categories": [null,""],
         "tags": ["productivity","habits","wellness","communication"],
         "url": "/the-joy-of-missing-out-an-email-manifesto-for-december/",
-        "teaser": "/assets/images/the-joy-of-missing-out-an-email-manifesto-for-december/7a216b0b-8702-404a-a671-f4b7b954e9d2_1536x1024.heic"
+        "teaser": "/assets/images/the-joy-of-missing-out-an-email-manifesto-for-december/7a216b0b-8702-404a-a671-f4b7b954e9d2_1536x1024.png"
       },{
         "title": "Everything Is Brown",
         "excerpt":"The Play-Doh Problem When I was a kid, I had four colours of Play-Doh: blue, yellow, red, and white. For the first day or two, I could make anything. A yellow sun. A blue ocean. Red flowers with white centres. Infinite possibilities. A few weeks later, it was all one...","categories": [],
         "tags": ["ai","digital-life","productivity","habits"],
         "url": "/everything-is-brown/",
-        "teaser": "/assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.heic"
+        "teaser": "/assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.png"
       },{
         "title": "Three AI Tricks I Use (That Actually Work)",
         "excerpt":"I’m a procrastinator. I put presentations off until the day before. Like tomorrow’s session on AI and productivity - I’m prepping it tonight. I like to tell myself I work better under pressure. It’s bullshit. No one works better under pressure. What actually happens: I either over-prepare and psych myself...","categories": [],
         "tags": ["ai","productivity","tools","habits"],
         "url": "/three-ai-tricks-i-use-that-actually-work/",
-        "teaser": "/assets/images/three-ai-tricks-i-use-that-actually-work/5ec195b4-06b5-4157-b3c2-be7670718ed7_1536x1024.heic"
+        "teaser": "/assets/images/three-ai-tricks-i-use-that-actually-work/5ec195b4-06b5-4157-b3c2-be7670718ed7_1536x1024.png"
       },{
         "title": "Stop Petting the AI!",
         "excerpt":"It’s 3 AM. I’m in bed. I’ve gone from reading political news to spinning scenarios with ChatGPT about a “mad scientist vs. mad engineer” epic battle tournament. This isn’t productive. It’s not even fun. This is doom chatting. But this wasn’t a one-time thing. I had hundreds of ChatGPT threads...","categories": [],
