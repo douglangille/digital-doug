@@ -1,9 +1,9 @@
 ---
 title: "Digital Craftsmanship"
-image: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.heic
+image: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png
 header:
-  teaser: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.heic
-  overlay_image: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.heic
+  teaser: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png
+  overlay_image: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png
 categories:
   - 
 excerpt: "The Map is Not the Terrain"
