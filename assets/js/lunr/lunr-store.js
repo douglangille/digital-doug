@@ -316,4 +316,10 @@ var store = [{
         "tags": ["ai","digital-life","wellness"],
         "url": "/stop-petting-the-ai/",
         "teaser": "/assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.heic"
+      },{
+        "title": "Platforms Make the Worst Landlords",
+        "excerpt":"I spent a year and a half convincing myself Substack was different. It wasn’t. Digital Doug is moving. I opened the Substack app last week and got served a wall of content I never subscribed to. AI slop, rage bait, and articles about how to game Substack engagement. That last...","categories": [],
+        "tags": ["technology","digital-life","tools"],
+        "url": "/platforms-make-the-worst-landlords/",
+        "teaser": "/assets/images/platforms-make-the-worst-landlords/ChatGPT%20Image%20Jan%2021,%202026%20at%2007_05_55%20AM.png"
       }]

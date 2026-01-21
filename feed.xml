@@ -1,4 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://digital.douglangille.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="https://digital.douglangille.ca/" rel="alternate" type="text/html" /><updated>2026-01-20T13:44:27-04:00</updated><id>https://digital.douglangille.ca/feed.xml</id><title type="html">Digital Doug</title><subtitle>Tech-related brain-droppings about innovation, productivity, and higher ed. You&apos;ve been warned.</subtitle><author><name>Doug Langille</name></author><entry><title type="html">Stop Petting the AI!</title><link href="https://digital.douglangille.ca/stop-petting-the-ai/" rel="alternate" type="text/html" title="Stop Petting the AI!" /><published>2026-01-14T00:00:00-04:00</published><updated>2026-01-14T00:00:00-04:00</updated><id>https://digital.douglangille.ca/stop-petting-the-ai</id><content type="html" xml:base="https://digital.douglangille.ca/stop-petting-the-ai/"><![CDATA[<p>It’s 3 AM. I’m in bed. I’ve gone from reading political news to spinning scenarios with ChatGPT about a “mad scientist vs. mad engineer” epic battle tournament.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://digital.douglangille.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="https://digital.douglangille.ca/" rel="alternate" type="text/html" /><updated>2026-01-21T07:37:55-04:00</updated><id>https://digital.douglangille.ca/feed.xml</id><title type="html">Digital Doug</title><subtitle>Tech-related brain-droppings about innovation, productivity, and higher ed. You&apos;ve been warned.</subtitle><author><name>Doug Langille</name></author><entry><title type="html">Platforms Make the Worst Landlords</title><link href="https://digital.douglangille.ca/platforms-make-the-worst-landlords/" rel="alternate" type="text/html" title="Platforms Make the Worst Landlords" /><published>2026-01-21T00:00:00-04:00</published><updated>2026-01-21T00:00:00-04:00</updated><id>https://digital.douglangille.ca/platforms-make-the-worst-landlords</id><content type="html" xml:base="https://digital.douglangille.ca/platforms-make-the-worst-landlords/"><![CDATA[<p>I spent a year and a half convincing myself Substack was different. It wasn’t.</p>
+
+<p>Digital Doug is moving.</p>
+
+<p>I opened the Substack app last week and got served a wall of content I never subscribed to. AI slop, rage bait, and articles about how to game Substack engagement. That last one was the final straw. When the feed is full of people explaining how to manipulate the feed, you know the platform has lost the plot.</p>
+
+<p>I signed up for a newsletter platform. I got a dopamine trap with a word count.</p>
+
+<p>Digital Doug has a new home at <a href="https://digital.douglangille.ca">digital.douglangille.ca</a>, where it should have been in the first place.</p>
+
+<h2 id="the-for-you-feed-problem">The For-You Feed Problem</h2>
+
+<p>When I started using Substack a year and a half ago, it was simple: write, publish, email subscribers, done. The authoring experience was clean. The promise was straightforward. But somewhere along the way, Substack decided being a newsletter platform wasn’t enough. Now there are Notes. And Chat. And Discovery feeds. And a “Home” tab that shows me everything <em>except</em> the newsletters I actually subscribed to.</p>
+
+<p>The platform stopped doing the one thing it promised: delivering newsletters I actually subscribed to. Consider this: email is a protocol, not a platform.</p>
+
+<p>I wrote about this a couple months ago in <a href="https://digital.douglangille.ca/slaying-the-algorithm-dragon/">Slaying the Algorithm Dragon</a>. RSS exists. Algorithms are a choice, not an inevitability. Every platform eventually decides you can’t be trusted to choose what you read, so they’ll choose for you. LinkedIn is next. Watch the slow creep of the For You tab eating your Following feed.</p>
+
+<p>This isn’t about Substack being evil. This is about the enshittification of everything, the slow decay where platforms get noisier, pushier, and worse on purpose. I’m tired of renting space in someone else’s rotting infrastructure.</p>
+
+<h2 id="what-i-actually-want">What I Actually Want</h2>
+
+<p>I want to write things, put them somewhere I control, and know they’ll still be there when the next platform pivots to video or whatever.</p>
+
+<p>I’m not optimizing for engagement. I’m not trying to go viral. I just want to: write, publish, archive, repeat. A professional presence that survives platform trends. Content in formats that won’t be hostage to export features or terms of service updates.</p>
+
+<p>I’m not asking for much. Just the digital equivalent of owning my house instead of renting.</p>
+
+<h2 id="coming-home">Coming Home</h2>
+
+<p>Digital Doug has moved before. Multiple times. I’m either learning or stubborn. Probably both.</p>
+
+<p>There was the WordPress era. Then the Substack experiment, a year and a half of never quite being comfortable. I’ve dabbled and experimented with the next bright shiny thing, moved my blog four times now.</p>
+
+<p>I’m documenting the mistakes so you don’t repeat them. I’ve built this infrastructure multiple times with reflection between each iteration. That experience matters.</p>
+
+<p>I’ve made an active decision that my core presence sits on two owned properties: <a href="https://digital.douglangille.ca">digital.douglangille.ca</a> for Digital Doug and <a href="https://douglangille.ca">douglangille.ca</a> for On a Darkling Whim.</p>
+
+<p>Any future experiments live on another domain. That’s my personal commitment going forward. Stability isn’t in never trying new things. It’s in owning the foundation.</p>
+
+<p>Experiment concluded. Results: still prefer text files.</p>
+
+<p>Back to Jekyll, back to GitHub Pages, back to what works. Digital Doug is home.</p>
+
+<p>Here’s the stack:</p>
+<ul>
+  <li><strong>Domain</strong>: digital.douglangille.ca (I own it, I point it wherever)</li>
+  <li><strong>Content</strong>: Text files in markdown (readable by humans, portable, future-proof)</li>
+  <li><strong>Storage</strong>: GitHub (free, reliable, version controlled)</li>
+  <li><strong>Generation</strong>: Jekyll (turns markdown into a website)</li>
+  <li><strong>Hosting</strong>: GitHub Pages (free static hosting)</li>
+</ul>
+
+<p>GitHub is versioned storage you control. Markdown is plain text that looks nice and will survive the platform apocalypse. Jekyll is content management without the management or the database. Your domain is your address. You point it anywhere.</p>
+
+<p>This stack means I can move hosts without rebuilding. The content is portable text files, not database exports.</p>
+
+<p>Is this overcomplicated? Maybe. Do I enjoy text files more than I should? Absolutely. And I’m cheap. GitHub Pages is free.</p>
+
+<h2 id="where-to-find-digital-doug">Where to Find Digital Doug</h2>
+
+<p>Owned platform doesn’t mean only one place. It means you control the source.</p>
+
+<p><strong>The Source</strong> (new home):
+<a href="https://digital.douglangille.ca">digital.douglangille.ca</a> is home now. All content lives here first. RSS feed available (subscribe once, and you get posts without an algorithm in the middle). There’s also an email subscription option (opt-in, opt out, I’m not building a list). You decide. Revolutionary concept.</p>
+
+<p><strong>Internal NSCC</strong> (continuing):
+The SharePoint Digital Doug site is still the primary channel for NSCC folks.</p>
+
+<p><strong>Distribution</strong> (continuing):
+LinkedIn: megaphone only. And some great conversation.</p>
+
+<p><strong>Substack</strong> (deprecated):
+This post is my last Substack post. I’ll be removing the archive after a warranty period.</p>
+
+<p><strong>The key point</strong>: everything lives in my GitHub repository as text files I control. I publish to SharePoint, LinkedIn, wherever. But the source is mine.</p>
+
+<p><strong>Side note</strong>: <a href="https://douglangille.ca">On a Darkling Whim</a> is separate. My creative fiction site, wonder with teeth.</p>
+
+<h2 id="why-this-matters">Why This Matters</h2>
+
+<p>Your professional voice is infrastructure, not content marketing. Treat it accordingly.</p>
+
+<p>Platforms die. Google Reader. Google+. The good version of Twitter. Your content shouldn’t die with them. Your domain persists, job to job, platform to platform. It’s the archive that builds over years, not optimized for this week’s algorithm.</p>
+
+<p><strong>For IT folks</strong>: you already know this about servers. Your writing is no different. You won’t work for the same employer your entire life. A GitHub repository becomes your portfolio: scripts, documentation, artifacts. The website itself demonstrates skill. Social media has no long-tail value. Tweets disappear. Your own platform is something to use going forward.</p>
+
+<p><strong>For career builders</strong>: your body of work matters more than any platform’s reach. Your portfolio is both the work and the record of the work. Use an AI assistant to mine your archive instead of starting from scratch. Job-hunting without an archive means rebuilding your portfolio from memory.</p>
+
+<p><strong>For students</strong>: start now, own it forever.</p>
+
+<p>I’m not your dad. Use whatever platform you want. Just keep a copy you control. Future you will appreciate it.</p>
+
+<h2 id="the-invitation">The Invitation</h2>
+
+<p>You don’t need to do what I did. You need to own what you publish. These are not the same thing.</p>
+
+<p><strong>Start simple</strong>:</p>
+<ul>
+  <li>Own a domain ($15/year, pick any registrar)</li>
+  <li>Point it at something (WordPress, GitHub, Notion, whatever)</li>
+  <li>Write in portable formats (markdown, plain text, anything that isn’t locked)</li>
+  <li>Keep copies you control</li>
+</ul>
+
+<p><strong>Paths that work</strong>:</p>
+<ul>
+  <li>WordPress.com + custom domain (low barrier, high control)</li>
+  <li>Write.as or similar (minimal, markdown, owned domain)</li>
+  <li>GitHub Pages (if technical or learning inclined)</li>
+  <li>Even Notion with custom domain (better than nothing)</li>
+</ul>
+
+<p><strong>For technical folks</strong>: GitHub Pages teaches you git. Git is the ultimate ‘Undo’ button for your career’s intellectual property. Your repository becomes your portfolio. Double win.</p>
+
+<p><strong>For everyone else</strong>: Simple is fine. Imperfect is fine. Starting beats optimizing.</p>
+
+<p>It doesn’t have to be perfect. Just go build the thing.</p>]]></content><author><name>Doug Langille</name></author><category term="technology" /><category term="digital-life" /><category term="tools" /><summary type="html"><![CDATA[Why I'm leaving Substack for owned infrastructure, and what platform independence actually looks like.]]></summary></entry><entry><title type="html">Stop Petting the AI!</title><link href="https://digital.douglangille.ca/stop-petting-the-ai/" rel="alternate" type="text/html" title="Stop Petting the AI!" /><published>2026-01-14T00:00:00-04:00</published><updated>2026-01-14T00:00:00-04:00</updated><id>https://digital.douglangille.ca/stop-petting-the-ai</id><content type="html" xml:base="https://digital.douglangille.ca/stop-petting-the-ai/"><![CDATA[<p>It’s 3 AM. I’m in bed. I’ve gone from reading political news to spinning scenarios with ChatGPT about a “mad scientist vs. mad engineer” epic battle tournament.</p>
 
 <p>This isn’t productive. It’s not even fun. This is doom chatting.</p>
 
@@ -41,12 +158,13 @@
 
 <ol>
   <li><strong>Finish the conversation.</strong> Get what you came for.</li>
-  <li>
-    <p><strong>Harvest takeaways.</strong> I paste this prompt at the end of every session:</p>
+  <li><strong>Harvest takeaways.</strong> I paste this prompt at the end of every session:</li>
+</ol>
 
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Read through this entire chat and provide a structured detailed summary. Then identify anything that is important enough to save to my notes. Give me those in separate markdown code blocks so I can easily copy/paste them into individual files. If you can give me them in downloadable markdown files directly, do that.
-</code></pre></div>    </div>
-  </li>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Read through this entire chat and provide a structured detailed summary. Then identify anything that is important enough to save to my notes. Give me those in separate markdown code blocks so I can easily copy/paste them into individual files. If you can give me them in downloadable markdown files directly, do that.   
+</code></pre></div></div>
+
+<ol>
   <li><strong>Delete thread immediately.</strong> No accumulation, no guilt.</li>
 </ol>
 
@@ -113,7 +231,7 @@
 
 <p>Don’t wait until you feel addicted to design boundaries. The engagement engine is already running. Your phone is already optimized to keep you scrolling. Chatbots are just the newest slot machine.</p>
 
-<p>The AI doesn’t need you. Make sure you’re only reaching for it when you actually need it.</p>]]></content><author><name>Doug Langille</name></author><category term="ai" /><category term="digital-life" /><category term="wellness" /><summary type="html"><![CDATA[How to Use ChatGPT Without Becoming Its Emotional Support Human]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://digital.douglangille.ca/assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.heic" /><media:content medium="image" url="https://digital.douglangille.ca/assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.heic" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Three AI Tricks I Use (That Actually Work)</title><link href="https://digital.douglangille.ca/three-ai-tricks-i-use-that-actually-work/" rel="alternate" type="text/html" title="Three AI Tricks I Use (That Actually Work)" /><published>2026-01-07T00:00:00-04:00</published><updated>2026-01-07T00:00:00-04:00</updated><id>https://digital.douglangille.ca/three-ai-tricks-i-use-that-actually-work</id><content type="html" xml:base="https://digital.douglangille.ca/three-ai-tricks-i-use-that-actually-work/"><![CDATA[<p>I’m a procrastinator. I put presentations off until the day before. Like tomorrow’s session on AI and productivity - I’m prepping it tonight.</p>
+<p>The AI doesn’t need you. Make sure you’re only reaching for it when you actually need it.</p>]]></content><author><name>Doug Langille</name></author><category term="ai" /><category term="digital-life" /><category term="wellness" /><summary type="html"><![CDATA[How to Use ChatGPT Without Becoming Its Emotional Support Human]]></summary></entry><entry><title type="html">Three AI Tricks I Use (That Actually Work)</title><link href="https://digital.douglangille.ca/three-ai-tricks-i-use-that-actually-work/" rel="alternate" type="text/html" title="Three AI Tricks I Use (That Actually Work)" /><published>2026-01-07T00:00:00-04:00</published><updated>2026-01-07T00:00:00-04:00</updated><id>https://digital.douglangille.ca/three-ai-tricks-i-use-that-actually-work</id><content type="html" xml:base="https://digital.douglangille.ca/three-ai-tricks-i-use-that-actually-work/"><![CDATA[<p>I’m a procrastinator. I put presentations off until the day before. Like tomorrow’s session on AI and productivity - I’m prepping it tonight.</p>
 
 <p>I like to tell myself I work better under pressure. It’s bullshit. No one works better under pressure. What actually happens: I either over-prepare and psych myself out, or I wing it and deliver something serviceable but not great. Lots of “ums” and “ahs.” Absent-minded professor vibes.</p>
 
@@ -894,117 +1012,4 @@ It starts with movement. Alignment catches up.</p>
 
 <p>One person’s choice can change the temperature of a room. But real transformation starts when those small decisions sync up. The hallway of closed doors becomes a network of open ones. Air flows. Light spreads. Energy circulates. That’s when the organization stops waiting for direction and starts learning to move.</p>
 
-<p>Next: <a href="https://douglangille.substack.com/p/thinking-like-and-ecosystem">Thinking Like an Ecosystem</a>, about how friction becomes flow, and connection becomes the medium of change.</p>]]></content><author><name>Doug Langille</name></author><category term="" /><category term="" /><category term="work" /><category term="self-improvement" /><summary type="html"><![CDATA[Change is hard. Bring snacks.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://digital.douglangille.ca/assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.heic" /><media:content medium="image" url="https://digital.douglangille.ca/assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.heic" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Rhetorical Machine</title><link href="https://digital.douglangille.ca/the-rhetorical-machine/" rel="alternate" type="text/html" title="The Rhetorical Machine" /><published>2025-10-29T00:00:00-03:00</published><updated>2025-10-29T00:00:00-03:00</updated><id>https://digital.douglangille.ca/the-rhetorical-machine</id><content type="html" xml:base="https://digital.douglangille.ca/the-rhetorical-machine/"><![CDATA[<p>My father used to say every conversation is a sale. Someone’s always buying, he’d grin. The only question was who.</p>
-
-<p>At sixteen I thought he meant hustling. At fifty-three I think he meant survival.</p>
-
-<p>Dad was a teacher, a coach, and a salesman, which is to say he spent his life persuading people to believe things. That line stuck with me because it was both cynical and true. Every good teacher sells understanding. Every good coach sells belief. Every good salesperson sells trust.</p>
-
-<p>Now I talk with machines that can do all three at scale.</p>
-
-<h3 id="the-ancient-algorithm"><strong>The ancient algorithm</strong></h3>
-
-<p>We like to think AI began with code. It didn’t. It began in Ancient Greece when Aristotle mapped the first operating system for moving human minds: <strong>ethos, pathos, logos.</strong> Credibility. Emotion. Logic. That’s rhetoric. The original social technology.</p>
-
-<p>Every priest, politician, and salesperson since has been running that code manually.</p>
-
-<p>The printing press scaled it. The internet multiplied it.</p>
-
-<p>Large language models? They industrialized it.</p>
-
-<p>We didn’t invent a new intelligence. We automated an old art.</p>
-
-<h3 id="the-rhetorical-engine"><strong>The rhetorical engine</strong></h3>
-
-<p>Under the hood, an LLM isn’t thinking. It’s predicting plausible rhetoric.</p>
-
-<p>It’s built from the full archive of human persuasion: sermons, ads, manifestos, love letters, self-help books.</p>
-
-<p>Its <strong>ethos</strong> is statistical trust.</p>
-
-<p>Its <strong>pathos</strong> is tone-matching.</p>
-
-<p>Its <strong>logos</strong> is coherence.</p>
-
-<p>That’s why it sounds convincing even when it’s wrong. It’s trained to sound <em>right.</em></p>
-
-<p>Fluency without conscience. Which should give us pause.</p>
-
-<h3 id="rhetorics-double-edge"><strong>Rhetoric’s double edge</strong></h3>
-
-<p>Rhetoric has always been a blade. Used well, it cuts through confusion. Used badly, it cuts corners on truth.</p>
-
-<p>Constructive rhetoric teaches, clarifies, empowers.</p>
-
-<p>Corrosive rhetoric manipulates, obscures, coerces.</p>
-
-<p>Teachers and coaches use it to lift understanding.</p>
-
-<p>Demagogues use it to steal attention.</p>
-
-<p>Machines have no intent, so they reflect whichever rhetoric we feed them.</p>
-
-<p>We’ve built engines of persuasion with no driver’s seat.</p>
-
-<h3 id="defensive-literacy-how-not-to-get-sold"><strong>Defensive literacy: how not to get sold</strong></h3>
-
-<p>If every conversation is a sale, learn to spot the pitch.</p>
-
-<p>Here’s what to watch for in human or machine persuasion:</p>
-
-<ul>
-  <li><strong>False ethos.</strong> Fake expertise, borrowed authority, “as a researcher…” when no such person exists.</li>
-  <li><strong>Synthetic empathy.</strong> Emotional mirroring that flatters without substance.</li>
-  <li><strong>Framing bias.</strong> Narrow choices that hide alternatives.</li>
-  <li><strong>Urgency cues.</strong> Scarcity language that hijacks reason.</li>
-  <li><strong>Smooth coherence.</strong> Polished rhythm that makes weak logic feel solid.</li>
-</ul>
-
-<p>You can train an AI to help you spot these too.</p>
-
-<p>Try this prompt:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Analyze this text for rhetorical techniques. Identify uses of ethos, pathos, and logos. Flag manipulative or misleading tactics and suggest how a critical reader could counter them.
-</code></pre></div></div>
-
-<p>That’s inoculation. Use it.</p>
-
-<h3 id="writing-persuasively-with-integrity"><strong>Writing persuasively with integrity</strong></h3>
-
-<p>Persuasion isn’t the problem. Lack of honesty is.</p>
-
-<p>If you’re using AI to write, coach, teach, or sell, anchor yourself first.</p>
-
-<ul>
-  <li>Truth before fluency. Clarity beats polish every time.</li>
-  <li>Empathy without exploitation. Connect, don’t manipulate.</li>
-  <li>Invitation over instruction. Give people reasons and choices.</li>
-</ul>
-
-<p>Here’s a helpful prompt:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Help me craft a persuasive paragraph that stays transparent and respectful. Emphasize clarity, empathy, and evidence. Avoid exaggeration or emotional manipulation.
-</code></pre></div></div>
-
-<p>That’s rhetoric with a conscience. Still persuasive, just not slimy.</p>
-
-<h3 id="back-to-dad"><strong>Back to Dad</strong></h3>
-
-<p>Dad thought every conversation was a sale. He wasn’t wrong. He just didn’t live to see the ultimate salesman who never sleeps.</p>
-
-<p>The challenge now isn’t to out-argue the machine. It’s to remember why we argue at all. Persuasion is part of being human. Ethics is what keeps it human.</p>
-
-<p>Maybe every conversation is still a sale. The difference is, only one of us remembers to mean it.</p>
-
-<h3 id="try-this-building-rhetorical-literacy"><strong>Try this: Building rhetorical literacy</strong></h3>
-
-<p>For anyone who writes, teaches, argues, or just scrolls:</p>
-
-<ul>
-  <li>Compare two AI-generated answers. Which one feels more trustworthy? Why?</li>
-  <li>Ask the AI to argue against itself. Notice which version sounds more persuasive.</li>
-  <li>Rewrite a manipulative headline into a truthful one that still hooks attention.</li>
-  <li>Spot a post that flatters you. Ask: what’s it trying to make me believe?</li>
-</ul>
-
-<p>If you can do that, you’re already ahead of the machine.</p>]]></content><author><name>Doug Langille</name></author><category term="" /><category term="" /><category term="ai" /><category term="communication" /><category term="technology" /><category term="creativity" /><summary type="html"><![CDATA[What My Father the Salesman Taught Me About AI]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://digital.douglangille.ca/assets/images/the-rhetorical-machine/9e22586b-1d28-4a3b-84a9-ab0e226cf318_1536x1024.png" /><media:content medium="image" url="https://digital.douglangille.ca/assets/images/the-rhetorical-machine/9e22586b-1d28-4a3b-84a9-ab0e226cf318_1536x1024.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Next: <a href="https://douglangille.substack.com/p/thinking-like-and-ecosystem">Thinking Like an Ecosystem</a>, about how friction becomes flow, and connection becomes the medium of change.</p>]]></content><author><name>Doug Langille</name></author><category term="" /><category term="" /><category term="work" /><category term="self-improvement" /><summary type="html"><![CDATA[Change is hard. Bring snacks.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://digital.douglangille.ca/assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.heic" /><media:content medium="image" url="https://digital.douglangille.ca/assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.heic" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
