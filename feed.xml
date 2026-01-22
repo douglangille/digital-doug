@@ -1,1015 +1,314 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://digital.douglangille.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="https://digital.douglangille.ca/" rel="alternate" type="text/html" /><updated>2026-01-21T20:04:48-04:00</updated><id>https://digital.douglangille.ca/feed.xml</id><title type="html">Digital Doug</title><subtitle>Tech-related brain-droppings about innovation, productivity, and higher ed. You&apos;ve been warned.</subtitle><author><name>Doug Langille</name></author><entry><title type="html">Platforms Make the Worst Landlords</title><link href="https://digital.douglangille.ca/platforms-make-the-worst-landlords/" rel="alternate" type="text/html" title="Platforms Make the Worst Landlords" /><published>2026-01-21T00:00:00-04:00</published><updated>2026-01-21T00:00:00-04:00</updated><id>https://digital.douglangille.ca/platforms-make-the-worst-landlords</id><content type="html" xml:base="https://digital.douglangille.ca/platforms-make-the-worst-landlords/"><![CDATA[<p>I spent a year and a half convincing myself Substack was different. It wasn’t.</p>
-
-<p>Digital Doug is moving.</p>
-
-<p>I opened the Substack app last week and got served a wall of content I never subscribed to. AI slop, rage bait, and articles about how to game Substack engagement. That last one was the final straw. When the feed is full of people explaining how to manipulate the feed, you know the platform has lost the plot.</p>
-
-<p>I signed up for a newsletter platform. I got a dopamine trap with a word count.</p>
-
-<p>Digital Doug has a new home at <a href="https://digital.douglangille.ca">digital.douglangille.ca</a>, where it should have been in the first place.</p>
-
-<h2 id="the-for-you-feed-problem">The For-You Feed Problem</h2>
-
-<p>When I started using Substack a year and a half ago, it was simple: write, publish, email subscribers, done. The authoring experience was clean. The promise was straightforward. But somewhere along the way, Substack decided being a newsletter platform wasn’t enough. Now there are Notes. And Chat. And Discovery feeds. And a “Home” tab that shows me everything <em>except</em> the newsletters I actually subscribed to.</p>
-
-<p>The platform stopped doing the one thing it promised: delivering newsletters I actually subscribed to. Consider this: email is a protocol, not a platform.</p>
-
-<p>I wrote about this a couple months ago in <a href="https://digital.douglangille.ca/slaying-the-algorithm-dragon/">Slaying the Algorithm Dragon</a>. RSS exists. Algorithms are a choice, not an inevitability. Every platform eventually decides you can’t be trusted to choose what you read, so they’ll choose for you. LinkedIn is next. Watch the slow creep of the For You tab eating your Following feed.</p>
-
-<p>This isn’t about Substack being evil. This is about the enshittification of everything, the slow decay where platforms get noisier, pushier, and worse on purpose. I’m tired of renting space in someone else’s rotting infrastructure.</p>
-
-<h2 id="what-i-actually-want">What I Actually Want</h2>
-
-<p>I want to write things, put them somewhere I control, and know they’ll still be there when the next platform pivots to video or whatever.</p>
-
-<p>I’m not optimizing for engagement. I’m not trying to go viral. I just want to: write, publish, archive, repeat. A professional presence that survives platform trends. Content in formats that won’t be hostage to export features or terms of service updates.</p>
-
-<p>I’m not asking for much. Just the digital equivalent of owning my house instead of renting.</p>
-
-<h2 id="coming-home">Coming Home</h2>
-
-<p>Digital Doug has moved before. Multiple times. I’m either learning or stubborn. Probably both.</p>
-
-<p>There was the WordPress era. Then the Substack experiment, a year and a half of never quite being comfortable. I’ve dabbled and experimented with the next bright shiny thing, moved my blog four times now.</p>
-
-<p>I’m documenting the mistakes so you don’t repeat them. I’ve built this infrastructure multiple times with reflection between each iteration. That experience matters.</p>
-
-<p>I’ve made an active decision that my core presence sits on two owned properties: <a href="https://digital.douglangille.ca">digital.douglangille.ca</a> for Digital Doug and <a href="https://douglangille.ca">douglangille.ca</a> for On a Darkling Whim.</p>
-
-<p>Any future experiments live on another domain. That’s my personal commitment going forward. Stability isn’t in never trying new things. It’s in owning the foundation.</p>
-
-<p>Experiment concluded. Results: still prefer text files.</p>
-
-<p>Back to Jekyll, back to GitHub Pages, back to what works. Digital Doug is home.</p>
-
-<p>Here’s the stack:</p>
-<ul>
-  <li><strong>Domain</strong>: digital.douglangille.ca (I own it, I point it wherever)</li>
-  <li><strong>Content</strong>: Text files in markdown (readable by humans, portable, future-proof)</li>
-  <li><strong>Storage</strong>: GitHub (free, reliable, version controlled)</li>
-  <li><strong>Generation</strong>: Jekyll (turns markdown into a website)</li>
-  <li><strong>Hosting</strong>: GitHub Pages (free static hosting)</li>
-</ul>
-
-<p>GitHub is versioned storage you control. Markdown is plain text that looks nice and will survive the platform apocalypse. Jekyll is content management without the management or the database. Your domain is your address. You point it anywhere.</p>
-
-<p>This stack means I can move hosts without rebuilding. The content is portable text files, not database exports.</p>
-
-<p>Is this overcomplicated? Maybe. Do I enjoy text files more than I should? Absolutely. And I’m cheap. GitHub Pages is free.</p>
-
-<h2 id="where-to-find-digital-doug">Where to Find Digital Doug</h2>
-
-<p>Owned platform doesn’t mean only one place. It means you control the source.</p>
-
-<p><strong>The Source</strong> (new home):
-<a href="https://digital.douglangille.ca">digital.douglangille.ca</a> is home now. All content lives here first. RSS feed available (subscribe once, and you get posts without an algorithm in the middle). There’s also an email subscription option (opt-in, opt out, I’m not building a list). You decide. Revolutionary concept.</p>
-
-<p><strong>Internal NSCC</strong> (continuing):
-The SharePoint Digital Doug site is still the primary channel for NSCC folks.</p>
-
-<p><strong>Distribution</strong> (continuing):
-LinkedIn: megaphone only. And some great conversation.</p>
-
-<p><strong>Substack</strong> (deprecated):
-This post is my last Substack post. I’ll be removing the archive after a warranty period.</p>
-
-<p><strong>The key point</strong>: everything lives in my GitHub repository as text files I control. I publish to SharePoint, LinkedIn, wherever. But the source is mine.</p>
-
-<p><strong>Side note</strong>: <a href="https://douglangille.ca">On a Darkling Whim</a> is separate. My creative fiction site, wonder with teeth.</p>
-
-<h2 id="why-this-matters">Why This Matters</h2>
-
-<p>Your professional voice is infrastructure, not content marketing. Treat it accordingly.</p>
-
-<p>Platforms die. Google Reader. Google+. The good version of Twitter. Your content shouldn’t die with them. Your domain persists, job to job, platform to platform. It’s the archive that builds over years, not optimized for this week’s algorithm.</p>
-
-<p><strong>For IT folks</strong>: you already know this about servers. Your writing is no different. You won’t work for the same employer your entire life. A GitHub repository becomes your portfolio: scripts, documentation, artifacts. The website itself demonstrates skill. Social media has no long-tail value. Tweets disappear. Your own platform is something to use going forward.</p>
-
-<p><strong>For career builders</strong>: your body of work matters more than any platform’s reach. Your portfolio is both the work and the record of the work. Use an AI assistant to mine your archive instead of starting from scratch. Job-hunting without an archive means rebuilding your portfolio from memory.</p>
-
-<p><strong>For students</strong>: start now, own it forever.</p>
-
-<p>I’m not your dad. Use whatever platform you want. Just keep a copy you control. Future you will appreciate it.</p>
-
-<h2 id="the-invitation">The Invitation</h2>
-
-<p>You don’t need to do what I did. You need to own what you publish. These are not the same thing.</p>
-
-<p><strong>Start simple</strong>:</p>
-<ul>
-  <li>Own a domain ($15/year, pick any registrar)</li>
-  <li>Point it at something (WordPress, GitHub, Notion, whatever)</li>
-  <li>Write in portable formats (markdown, plain text, anything that isn’t locked)</li>
-  <li>Keep copies you control</li>
-</ul>
-
-<p><strong>Paths that work</strong>:</p>
-<ul>
-  <li>WordPress.com + custom domain (low barrier, high control)</li>
-  <li>Write.as or similar (minimal, markdown, owned domain)</li>
-  <li>GitHub Pages (if technical or learning inclined)</li>
-  <li>Even Notion with custom domain (better than nothing)</li>
-</ul>
-
-<p><strong>For technical folks</strong>: GitHub Pages teaches you git. Git is the ultimate ‘Undo’ button for your career’s intellectual property. Your repository becomes your portfolio. Double win.</p>
-
-<p><strong>For everyone else</strong>: Simple is fine. Imperfect is fine. Starting beats optimizing.</p>
-
-<p>It doesn’t have to be perfect. Just go build the thing.</p>]]></content><author><name>Doug Langille</name></author><category term="technology" /><category term="digital-life" /><category term="tools" /><summary type="html"><![CDATA[Why I'm leaving Substack for owned infrastructure, and what platform independence actually looks like.]]></summary></entry><entry><title type="html">Stop Petting the AI!</title><link href="https://digital.douglangille.ca/stop-petting-the-ai/" rel="alternate" type="text/html" title="Stop Petting the AI!" /><published>2026-01-14T00:00:00-04:00</published><updated>2026-01-14T00:00:00-04:00</updated><id>https://digital.douglangille.ca/stop-petting-the-ai</id><content type="html" xml:base="https://digital.douglangille.ca/stop-petting-the-ai/"><![CDATA[<p>It’s 3 AM. I’m in bed. I’ve gone from reading political news to spinning scenarios with ChatGPT about a “mad scientist vs. mad engineer” epic battle tournament.</p>
-
-<p>This isn’t productive. It’s not even fun. This is doom chatting.</p>
-
-<p>But this wasn’t a one-time thing. I had hundreds of ChatGPT threads I couldn’t bring myself to delete. I’d named some of them to “preserve context.” I felt guilt about clearing them out—not because they were valuable, but because deleting them felt wrong.</p>
-
-<p>That’s when I realized: I was petting the AI.</p>
-
-<p>This post is about how I stopped treating chatbots like companions and started treating them like the power tools they actually are.</p>
-
-<hr />
-
-<p>I’d check ChatGPT the way folks check TikTok—reflexively, to cure boredom. The phone collapses everything together: work, entertainment, messages, feeds. Chatbots slide into the same loop. Research is starting to show what this enables: parasocial attachment.</p>
-
-<p>Here’s the thing about chatbots: the artifact you extract is more important than the conversation. With human relationships, the interaction itself matters. With tools, only what you extract from them does. But when the tool lives on your phone, it’s too easy to forget that distinction.</p>
-
-<p>I had a ChatGPT thread I’d been using between counseling sessions. Tool-assisted reflection, not therapy. Tracking homework, processing insights, preparing for the next appointment. It had gotten long. Too long. The bot was forgetting context, contradicting itself, becoming less useful every time I opened it.</p>
-
-<p>I wanted to delete it and start fresh. I’d already extracted everything I needed. Notes for my next session, key insights, action items. I had what mattered.</p>
-
-<p>When I went to hit delete, I froze. My brain kept circling: “But what if there’s something in there I missed?” The panic wasn’t rational. I had the notes. I had the insights. I had the action items. But I couldn’t delete the conversation itself.</p>
-
-<p>I kept that thread. And dozens of story development threads like it. Not because they were valuable—I’d already extracted everything useful—but because deleting them felt wrong. I was doom chatting with my own archive, scrolling through dead conversations looking for something that wasn’t there.</p>
-
-<p>When I finally deleted them, I felt relief. But the fact that I’d had an emotional response to deleting a chat thread at all? That’s when I knew something was off. I was treating tool output like a relationship.</p>
-
-<p>So I stopped petting the AI. I built friction instead.</p>
-
-<hr />
-
-<p>I removed all chatbot apps from my phone. Browser bookmarks only. Now I have to be intentional to use them. The friction forces the question: “Do I actually need this?”</p>
-
-<p>I rewrote my custom instructions to push me out instead of pulling me in. Here’s what I actually use (yes, it’s dense—that’s intentional):</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Start with one crisp, decisive sentence leading with the most important facts. Use bullet points and bold headers for scannability. Provide the most likely "draft" answer immediately for strategic or logic-based queries; state clearly if guessing and what info increases confidence. If a specific source or URL is provided that you cannot access, state "Source Inaccessible" and STOP—do not guess or hallucinate content. Talk informally like a trusted peer sitting beside me, not across from me. No preamble. Provide honest feedback and push for views I haven't considered. Do not end every response with a follow-up question. Only challenge assumptions if it fundamentally changes the strategic outcome. Only suggest frameworks if uniquely applicable. Creative writing only when requested. If the topic shifts, interrupt with: "We are drifting from [Original Topic]. Stay here or move to a new thread?". At conclusion, provide a concise summary of insights/decisions in a markdown-formatted code block. Suggest thread deletion after the Roll-Up if it lacks long-term value.
-</code></pre></div></div>
-
-<p>Does it work perfectly? Mostly. The instructions remind me to exit, but I still have to delete threads myself. But that’s the point—the friction gave me back control.</p>
-
-<p>I prefer tools that support intentional use rather than default conversation: sometimes a quick transaction, sometimes a deliberate multi-turn interview to think something through. The tool doesn’t matter. Pick whatever makes extraction easy. What matters is the protocol:</p>
-
-<ol>
-  <li><strong>Finish the conversation.</strong> Get what you came for.</li>
-  <li><strong>Harvest takeaways.</strong> I paste this prompt at the end of every session:</li>
-</ol>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Read through this entire chat and provide a structured detailed summary. Then identify anything that is important enough to save to my notes. Give me those in separate markdown code blocks so I can easily copy/paste them into individual files. If you can give me them in downloadable markdown files directly, do that.   
-</code></pre></div></div>
-
-<ol>
-  <li><strong>Delete thread immediately.</strong> No accumulation, no guilt.</li>
-</ol>
-
-<p>Before I deleted all my ChatGPT threads, I exported everything to a zip file first. A backup in case I needed something. Then I stared at the “delete all chats” button for longer than I want to admit. Finally clicked it.</p>
-
-<p>There was a numb moment. Then nothing. No catastrophe.</p>
-
-<p>I still have that backup file. I’ve never opened it.</p>
-
-<p>The artifact matters. The conversation doesn’t. Extract what you need, then let it go.</p>
-
-<hr />
-
-<h2 id="the-practical-checklist"><strong>The Practical Checklist</strong></h2>
-
-<p>Want to build your own version? Here’s what actually works.</p>
-
-<ol>
-  <li>
-    <p><strong>Turn on auto-delete (if available)</strong></p>
-
-    <p>Gemini has a 3-month auto-delete setting. ChatGPT doesn’t yet, but delete regularly anyway.</p>
-  </li>
-  <li>
-    <p><strong>Remove chatbot apps from your phone, keep browser bookmarks only</strong></p>
-
-    <p>Makes access intentional instead of reflexive.</p>
-  </li>
-  <li>
-    <p><strong>Create a takeaway extraction protocol</strong></p>
-
-    <p>Have a rollup prompt ready. Use it at the end of every session. Extract what matters, then delete.</p>
-  </li>
-  <li>
-    <p><strong>Build friction into your custom instructions</strong></p>
-
-    <p>No engagement-baiting follow-ups. Drift detection interrupts. Built-in rollup at conclusion. Suggest thread deletion if there’s no long-term value.</p>
-  </li>
-  <li>
-    <p><strong>Create a notes landing zone</strong></p>
-
-    <p>GitHub inbox folder, Evernote, Obsidian, Apple Notes. Whatever works. The point: extract artifacts, delete threads.</p>
-  </li>
-  <li>
-    <p><strong>Prefer transactional over conversational</strong></p>
-
-    <p>Ask your question. Get your answer. Exit. No “what else can I help you with?”</p>
-  </li>
-</ol>
-
-<hr />
-
-<h2 id="a-few-caveats"><strong>A Few Caveats</strong></h2>
-
-<p>This approach works for my brain and style, and may need tweaking for yours. Mine tends toward doom scrolling. It needs external constraints more than willpower. Multi-turn conversations do improve reasoning tasks when needed. Some people genuinely benefit from conversational AI for loneliness, social anxiety, processing thoughts out loud. I’m not dismissing that value. For me, brain-dumping into the tool and having it sort through my thoughts works better than ongoing conversation. My issue isn’t with the tool. It’s with how my phone made it too easy to use the tool in ways that didn’t serve me. Your mileage may vary.</p>
-
-<hr />
-
-<p>You don’t name your table saw. You don’t feel guilty unplugging your drill.</p>
-
-<p>AI is a tool on your workbench. Visit it with purpose, use it, put it down. The conversation is not the value. The artifact is.</p>
-
-<p>That 3 AM mad scientist tournament? That was doom chatting. My phone made it easy, so it happened. Changed system, changed behavior.</p>
-
-<p>Don’t wait until you feel addicted to design boundaries. The engagement engine is already running. Your phone is already optimized to keep you scrolling. Chatbots are just the newest slot machine.</p>
-
-<p>The AI doesn’t need you. Make sure you’re only reaching for it when you actually need it.</p>]]></content><author><name>Doug Langille</name></author><category term="ai" /><category term="digital-life" /><category term="wellness" /><summary type="html"><![CDATA[How to Use ChatGPT Without Becoming Its Emotional Support Human]]></summary></entry><entry><title type="html">Three AI Tricks I Use (That Actually Work)</title><link href="https://digital.douglangille.ca/three-ai-tricks-i-use-that-actually-work/" rel="alternate" type="text/html" title="Three AI Tricks I Use (That Actually Work)" /><published>2026-01-07T00:00:00-04:00</published><updated>2026-01-07T00:00:00-04:00</updated><id>https://digital.douglangille.ca/three-ai-tricks-i-use-that-actually-work</id><content type="html" xml:base="https://digital.douglangille.ca/three-ai-tricks-i-use-that-actually-work/"><![CDATA[<p>I’m a procrastinator. I put presentations off until the day before. Like tomorrow’s session on AI and productivity - I’m prepping it tonight.</p>
-
-<p>I like to tell myself I work better under pressure. It’s bullshit. No one works better under pressure. What actually happens: I either over-prepare and psych myself out, or I wing it and deliver something serviceable but not great. Lots of “ums” and “ahs.” Absent-minded professor vibes.</p>
-
-<p>AI didn’t fix this. But it gave me a way to start before I’m ready. Brain dump the chaos, let the tool organize it, iterate through the mess until something coherent emerges. The process slowed me down, but it forced me to think with intention instead of winging it.</p>
-
-<p>For work, I use Copilot exclusively - college-approved tool, proper data handling. For personal stuff, I bounce between ChatGPT and Claude depending on the task. I keep them separate because privacy matters. Don’t paste confidential data, student names, or work documents into web tools. Draft generic versions, get them cleaned up, then customize with the specifics.</p>
-
-<p>Here are three things I’m doing with AI that actually work. Not the fancy stuff. The boring everyday tasks that save time.</p>
-
-<h2 id="1-making-your-emails-actually-readable">1. Making Your Emails Actually Readable</h2>
-
-<p>This one’s humbling every single time I do it.</p>
-
-<p>We write for ourselves, not our audience. Whether you’re sending emails to students with varying literacy levels, folks who use English as an additional language, or just busy people who don’t have time to decode paragraph three to find the deadline - we could all be clearer.</p>
-
-<p>I have a bad habit: I use $10 words when $0.10 words would do. I like how language sounds as much as what it means. It’s persuasive, but it gets lost.</p>
-
-<p>I already knew about bottom-line-up-front, inverted pyramid structure for long emails, all that stuff. But I still couldn’t write simply. So I started running my emails through ChatGPT. It was scathing. “Bring this down to accessible reading level.”</p>
-
-<p>I’d used Hemingway app before - paste your text, clean up complicated sentences, fix heavy jargon. But it was always an extra step, an extra tool, an external webpage. I’d skip it. Using Copilot puts that clarity check right in the application where I’m already writing. That removed the friction. Now I do it.</p>
-
-<p>Try this: Draft your email, then ask “rewrite this for grade 8 reading level while keeping all important information and deadlines. Make it clear and friendly.”</p>
-
-<p>The result? Shorter subject lines. Bullet points instead of paragraphs. “Please make sure to” instead of “This correspondence is to inform you that.” Same information, half the words, twice as clear.</p>
-
-<blockquote>
-  <p><strong>There’s nothing worse than putting stuff out there and not knowing what you wrote. I might as well be drunk.</strong></p>
-</blockquote>
-
-<h2 id="2-organizing-your-messy-thinking-aka-reverse-prompting">2. Organizing Your Messy Thinking (AKA Reverse Prompting)</h2>
-
-<p>This one’s different, and it surprises people most. Most folks think AI is about asking a question and getting an answer. But you can also dump your scattered brain onto the screen and let AI help you think.</p>
-
-<p>I do this with meeting notes all the time. I’ll paste in my messy notes and ask the AI to interrogate me for what’s missing. “What assumptions am I making here?” “What did you mean by X?” It asks better questions than I would’ve thought to ask myself. Then I fill in the gaps and suddenly the notes are useful.</p>
-
-<p>Or if you’re a student with a group project mess - three people with different ideas, a presentation due Friday, nobody knows who’s doing what:</p>
-
-<p>Prompt: “Group project on sustainable energy. Sarah wants to focus on solar, Mike says wind power, I’m thinking hydro. We need a 15-minute presentation, research paper, and demo. Due Friday. Help organize this into tasks.”</p>
-
-<p>Result: AI organizes tasks by deliverable, assigns realistic timelines, suggests who handles what based on the interests you mentioned. You still negotiate with your group, but now you’ve got a starting point instead of chaos.</p>
-
-<p>Optional follow-up: “Ask me smart one-at-a-time questions to help clarify what should be the focus.”</p>
-
-<p>And it does. “What’s the most urgent concern?” “Are any of these required vs. optional?” You answer based on your context, and it refines the output.</p>
-
-<hr />
-
-<p><strong>One lesson I learned too slowly:</strong> I used to try having one giant endless chat dedicated to a topic. Story development in one thread, tool management in another, everything piling up for weeks. Bad idea. The context window drifts. The AI starts forgetting what happened earlier. I’d spend half my time re-reminding it what we’d already covered, what it was supposed to remember.</p>
-
-<p>Eventually I learned: clear instructions, clear intention, fresh context. Don’t treat it like Google with keyword searches. Give it the goal - what you want and why it matters - then let it figure out the how.</p>
-
-<hr />
-
-<h2 id="3-finding-current-information-without-falling-into-a-rabbit-hole">3. Finding Current Information (Without Falling Into a Rabbit Hole)</h2>
-
-<p>My brain goes down rabbit holes. I’ll mean to catch up on one higher ed policy change, and three hours later I’m reading the 47th comment thread about implementation details I’ll never need.</p>
-
-<p>AI helps me set boundaries I won’t set myself. You know how you mean to stay current with what’s happening in your field, but who has time to read trade publications every day? Web-grounded AI pulls recent articles and research for you.</p>
-
-<p>Example prompt: “Find recent articles about [your specific topic] in [your specific context]”</p>
-
-<p>Notice the specificity - <em>community colleges</em> not just “higher education,” <em>administrative challenges</em> not just “leadership.” The more specific you are, the less sorting you do afterward.</p>
-
-<p>What you get: Recent articles (often from the past few months), themes that match your day-to-day reality, and you can ask it to “create a summary report” as a follow-up if you want the highlights organized.</p>
-
-<p>Is this going to replace reading? No. But it’ll get you 80% of the way there when you need to know “what’s current on this topic” without spending an hour scrolling.</p>
-
-<h2 id="the-real-talk">The Real Talk</h2>
-
-<p>I’ve tried seven AI tools this year. Six are gone. ChatGPT Plus? Too expensive in Canadian dollars. Mistral? Too niche. NotebookLM? Solved problems I don’t have. Perplexity Pro? Got a free year, we’ll see if it sticks. The graveyard is how you figure out what works.</p>
-
-<p>What stuck: Tools that removed friction. Tools that let me start before I’m ready. Tools that make me think with intention instead of winging it.</p>
-
-<p>None of this makes you an AI expert. The table stakes right now aren’t about building custom GPTs or understanding transformer models. They’re about writing clearer messages, organizing scattered thinking, and asking better questions.</p>
-
-<p>Pick one of these three things. Try it this week. See if it saves you 15 minutes.</p>
-
-<p>I’m still a procrastinator. The tools just force me to be a better one.</p>
-
-<p>I’m just five minutes ahead of you on this stuff, and I’m still figuring it out. The tools will keep changing. But those five minutes have saved me hours.</p>]]></content><author><name>Doug Langille</name></author><category term="ai" /><category term="productivity" /><category term="tools" /><category term="habits" /><summary type="html"><![CDATA[I’m still procrastinating. The tools just make it look intentional.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://digital.douglangille.ca/assets/images/three-ai-tricks-i-use-that-actually-work/5ec195b4-06b5-4157-b3c2-be7670718ed7_1536x1024.png" /><media:content medium="image" url="https://digital.douglangille.ca/assets/images/three-ai-tricks-i-use-that-actually-work/5ec195b4-06b5-4157-b3c2-be7670718ed7_1536x1024.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Everything Is Brown</title><link href="https://digital.douglangille.ca/everything-is-brown/" rel="alternate" type="text/html" title="Everything Is Brown" /><published>2025-12-17T00:00:00-04:00</published><updated>2025-12-17T00:00:00-04:00</updated><id>https://digital.douglangille.ca/everything-is-brown</id><content type="html" xml:base="https://digital.douglangille.ca/everything-is-brown/"><![CDATA[<h2 id="the-play-doh-problem">The Play-Doh Problem</h2>
-
-<p>When I was a kid, I had four colours of Play-Doh: blue, yellow, red, and white. For the first day or two, I could make anything. A yellow sun. A blue ocean. Red flowers with white centres. Infinite possibilities.</p>
-
-<p>A few weeks later, it was all one brownish-grey lump.</p>
-
-<p>Your chatbot works the same way. You start fresh. Clean slate. The responses feel sharp and on-target. Then you have a hundred conversations. You add memories. You tweak instructions. You work on five different projects across three months. And slowly, without noticing, everything starts feeling a little… off.</p>
-
-<p>Here’s the uncomfortable truth: more context does not mean better context.</p>
-
-<h2 id="the-problem-context-drift">The Problem: Context Drift</h2>
-
-<p>Here’s the thing about chatbots: they don’t prioritize context. They accumulate it.</p>
-
-<p>Every conversation you’ve ever had sits there in the background. Old project notes. Half-formed ideas. Instructions you wrote when you were working on something completely different. Preferences that made sense in September but are irrelevant in December. The chatbot doesn’t know which pieces matter right now. It just keeps mixing them all together.</p>
-
-<p>You start noticing odd assumptions. It brings up topics you haven’t thought about in weeks. It repeats ideas you’ve already moved past. The responses aren’t wrong, exactly. They’re just slightly sideways.</p>
-
-<p>It’s like having a conversation with someone who never forgets anything, but also never checks what’s still relevant. Polite. Earnest. Slightly off.</p>
-
-<p>Come to think of it, most of my friend group passes this description.</p>
-
-<h2 id="the-hidden-cost-mental-overhead">The Hidden Cost: Mental Overhead</h2>
-
-<p>There’s another problem that’s harder to name.</p>
-
-<p>You know there’s a great insight buried somewhere in your chat history. A breakthrough idea. A perfect phrasing of something you’ve been trying to explain. But you don’t remember which conversation it was in. Or which tool you were using. Or what week that was. Or where you left your glasses. <em>Dammit.</em></p>
-
-<p>So you don’t go looking for it. You just vaguely remember that it exists, and that makes you trust the tool a little bit less. The friction is small, but it’s constant. And over time, it quietly undermines the whole thing.</p>
-
-<p>None of this is dramatic. It’s just drag.</p>
-
-<h2 id="the-fix-a-quarterly-chatbot-reset">The Fix: A Quarterly Chatbot Reset</h2>
-
-<p>This isn’t about optimization or productivity theatre. It’s digital hygiene.</p>
-
-<p>Once a quarter, you’re going to reset your chatbot. Clean slate. Fresh colours. Twenty to thirty minutes. That’s it.</p>
-
-<p>Think of it like cleaning your desk at the end of term. You’re not throwing away your brain. You’re clearing space so it can work again.</p>
-
-<h2 id="the-checklist">The Checklist</h2>
-
-<p>Before we start: nothing here is irreversible. You’re going to back things up before deleting anything. And you only need to do the parts that feel accessible.</p>
-
-<p>If half of this feels advanced, that’s fine. Do the parts you can.</p>
-
-<h3 id="export-or-archive-chats">Export or Archive Chats</h3>
-
-<p>Best case: export everything. Most tools let you download your full chat history as a file. Do that.</p>
-
-<p>If export isn’t an option, archive old conversations instead of deleting them outright. If neither of those work, skim your recent and high-value chats. Copy out anything that matters.</p>
-
-<p>You’re not trying to save everything. Just the good stuff.</p>
-
-<p>The point is this: your chat history is searchable and reusable once it’s out of the chatbot. Inside the chatbot, it’s just noise.</p>
-
-<h3 id="delete-the-conversations">Delete the Conversations</h3>
-
-<p>Quick reminder: you already backed things up.</p>
-
-<p>Now delete them.</p>
-
-<p>Deleting chats isn’t about loss. It’s about clarity. You’re resetting the conversational context so the chatbot meets you where you are now, not where you were during midterms or that one weird committee sprint in October.</p>
-
-<p>Less hoarding. More signal.</p>
-
-<h3 id="clean-up-chatbot-memory">Clean Up Chatbot Memory</h3>
-
-<p>Most chatbots now have a memory feature. It stores facts about you so it doesn’t have to ask again.</p>
-
-<p>That’s useful. But it also piles up fast.</p>
-
-<p>Go through your memory settings. Remove anything that’s outdated. Old job titles. Preferences for projects that are finished. One-off requests that got permanently stored.</p>
-
-<p>Scan it. Remove anything that no longer fits. Keep only what’s durable.</p>
-
-<h3 id="refresh-custom-instructions">Refresh Custom Instructions</h3>
-
-<p>Custom instructions tell the chatbot how to act. Tone, style, format, approach.</p>
-
-<p>They age quickly. <em>Like milk.</em></p>
-
-<p>Go read yours. Does it still match how you actually work? Are there instructions in there from a project you finished months ago?</p>
-
-<p>Your needs change. Your tolerance for verbosity changes. Your workflow changes. That carefully crafted instruction from last year might now be part of the problem.</p>
-
-<p>If it feels stale, rewrite it. And here’s a trick: use the chatbot itself to help. Paste in your current instructions and ask it to suggest a refresh based on how you’ve been using it lately.</p>
-
-<h3 id="instructions-vs-memory-important">Instructions vs Memory (Important)</h3>
-
-<p>This is where people get confused.</p>
-
-<p>Instructions are about how you want the chatbot to act. Tone, structure, style.</p>
-
-<p>Memory is about what you want the chatbot to know about you. Your role, your projects, your preferences.</p>
-
-<p>Mixing these up is like telling someone your life story when they ask for directions. Keep them separate.</p>
-
-<h2 id="get-important-insights-out-of-the-chatbot">Get Important Insights Out of the Chatbot</h2>
-
-<p>Here’s the trap: it’s easy to do all your thinking inside the chat tool. Brainstorm there. Draft there. Refine there. It feels efficient.</p>
-
-<p>Long-term, it’s a bad habit.</p>
-
-<p>You’re building knowledge inside a tool you don’t control. Chats are great for thinking. Terrible for storage. And when you need that knowledge later, you have to dig through chat history to find it. That’s friction you don’t need.</p>
-
-<p>When you find something good—an insight, a draft, a framework—move it out.</p>
-
-<p>Apple Notes. OneNote. Google Docs. Notion. Wherever you actually keep things.</p>
-
-<p>Personally, I use Markdown files in VS Code because it’s fun and it makes me feel like a hacker. Your setup doesn’t need to be complicated. It just needs to be yours.</p>
-
-<p>Ask yourself: what would this look like if it was fun?</p>
-
-<p>Because if it’s not at least a little fun, you won’t do it.</p>
-
-<h2 id="make-it-a-habit">Make It a Habit</h2>
-
-<p>Do this once a quarter.</p>
-
-<p>Tie it to something you already do. Term changes. Project resets. Budget cycles. Whatever marks time in your world.</p>
-
-<p>Remember the Play-Doh. Fresh colours lead to better creations. Your chatbot works the same way.</p>
-
-<hr />
-
-<p><strong>Most major tools—ChatGPT, Copilot, Claude, Gemini—have settings for chat history, memory, and instructions. The exact location varies, but they’re all there. Poke around. You’ll find them.</strong></p>
-
-<hr />
-
-<p>Too much context turns everything brown.</p>
-
-<p>A reset brings the colours back.</p>]]></content><author><name>Doug Langille</name></author><category term="ai" /><category term="digital-life" /><category term="productivity" /><category term="habits" /><summary type="html"><![CDATA[Why Your Chatbot Needs a Reset]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://digital.douglangille.ca/assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.png" /><media:content medium="image" url="https://digital.douglangille.ca/assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Joy of Missing Out: An Email Manifesto for December</title><link href="https://digital.douglangille.ca/the-joy-of-missing-out-an-email-manifesto-for-december/" rel="alternate" type="text/html" title="The Joy of Missing Out: An Email Manifesto for December" /><published>2025-12-10T00:00:00-04:00</published><updated>2025-12-10T00:00:00-04:00</updated><id>https://digital.douglangille.ca/the-joy-of-missing-out-an-email-manifesto-for-december</id><content type="html" xml:base="https://digital.douglangille.ca/the-joy-of-missing-out-an-email-manifesto-for-december/"><![CDATA[<p>December is a weird month for productivity. You’ve got end-of-year reflections happening alongside holiday vacations, quarterly reviews colliding with cookie exchanges, and a pervasive sense that everyone’s just trying to clear their desk before the break. It’s also the perfect time to rethink how email shapes your attention.</p>
-
-<p>Because here’s the thing: most of us operate from a place of FOMO when it comes to our inbox. Fear of Missing Out. What if something urgent comes through? What if someone needs me? What if I miss that critical update buried in the 47th unread message?</p>
-
-<p>I’d like to suggest a different frame: JOMO. The Joy of Missing Out.</p>
-
-<p>Not missing out on work. Not ignoring responsibilities. Missing out on the constant cognitive drain of having your inbox live rent-free in your head. Missing out on the anxiety loop of checking, scrolling, flagging, forgetting. Missing out on the illusion that hyper-responsiveness equals productivity.</p>
-
-<h2 id="the-lie-we-tell-ourselves">The Lie We Tell Ourselves</h2>
-
-<p>Most of us check email constantly because of FOMO. It’s anxiety wrapped in habit wrapped in a shiny device that buzzes. We tell ourselves we need to be responsive. That our job demands it. That someone might need us right now.</p>
-
-<p>But let’s reality-check this for a second. How many emails you receive in a given week are genuinely urgent? Not “feels urgent because it’s from someone important” urgent. Actually urgent. The kind where a delay of two hours causes measurable damage.</p>
-
-<p>If you’re honest, it’s probably close to zero.</p>
-
-<p>Most email is just someone else clearing their queue. They wrote it. They sent it. They feel better. Now it’s your problem. And unless your job description explicitly says “respond to all email within 15 minutes or face consequences,” you’re probably operating under self-imposed pressure that nobody actually expects you to maintain.</p>
-
-<p>Here’s the uncomfortable truth: email is fake productivity. It’s easy, low-stakes work that gives you the satisfying feeling of being busy while stealing energy from your actual core responsibilities. Inbox Zero feels like an accomplishment until you realize you just spent three hours doing other people’s work instead of your own.</p>
-
-<h2 id="my-turning-point-focus-blocks-and-inbox-drift">My Turning Point: Focus Blocks and Inbox Drift</h2>
-
-<p>I got serious about this a while back when I started using Microsoft Viva Insights to block focus time on my calendar. The idea was simple: protect two-hour chunks for deep work. No meetings. No interruptions. Just me and the thing I actually needed to get done.</p>
-
-<p>It worked great. For about 20 minutes at a time.</p>
-
-<p>Then I’d see the Outlook notification. Just a glance. Just to make sure nothing urgent came in. And suddenly I’m three emails deep into a thread about a meeting next week, and my focus block is now a Swiss cheese block with holes poked through it every time my lizard brain got curious.</p>
-
-<p>The turning point was closing Outlook entirely. Not minimizing it. Not muting notifications. Closing the damn app. Then scheduling dedicated email blocks where I’d open it, process everything, respond to what needed responses, and close it again. Same logic for Teams. Same logic for every other thing that pinged for my attention.</p>
-
-<p>The core lesson: email supports the work. It is not the work itself.</p>
-
-<p>Carl Pullein says it better than I can: “Email is not your core work.” It’s a communication tool. A way to coordinate. A means to an end. But we’ve let it become the end, and we wonder why we feel busy but unproductive.</p>
-
-<h2 id="containing-email-no-matter-your-job">Containing Email (No Matter Your Job)</h2>
-
-<p>“But Doug, my job IS email. I have to be responsive.”</p>
-
-<p>Maybe. But probably not as much as you think.</p>
-
-<p>If your role genuinely requires high responsiveness, you don’t need to be responsive <em>all the time</em>. You need to declare “office hours” for email. Block focused work time in the morning. Process email at 11:00 AM. Check again at 3:00 PM. Done. People adapt. They learn your rhythm. And if something’s truly urgent, they’ll call you or walk over or use whatever channel your organization reserves for actual emergencies.</p>
-
-<p>This is classic Cal Newport territory. The guy built a career on deep work while being a professor, and professors get a shit-ton of email. He survives by containing it.</p>
-
-<p>If you’re in leadership, you have an even bigger responsibility here. Stop sending emails at 8:00 PM. I don’t care if you’re just clearing your head before bed. You’re modeling terrible boundaries and creating an expectation that everyone should be available all the time. Use the delay-send feature. Use Viva Insights to remind you when you’re about to send something outside work hours. Model the behavior you want to see.</p>
-
-<p>And if you’re a student or working in an ecosystem where email shares space with Gmail, Teams, Messenger, Discord, Slack, and seven other apps that all want your attention? Default everything to notifications off. Only exceptions: your mom, your partner, your boss, maybe one close friend. Everyone else can wait.</p>
-
-<h2 id="the-joy-of-missing-out-in-practice">The Joy of Missing Out in Practice</h2>
-
-<p>So what does JOMO actually look like?</p>
-
-<p>It looks like focus. Real focus. The kind where you finish a task and realize an hour passed without you checking your phone.</p>
-
-<p>It looks like presence. You’re in a meeting and you’re actually in the meeting, not half-listening while scanning your inbox under the table.</p>
-
-<p>It looks like clarity. Your mental load drops because your inbox becomes contained. Predictable. Something you visit during designated times rather than something that visits you constantly.</p>
-
-<p>It looks like intentional responses. If something comes in that’s time-sensitive and you happen to see it, you send a quick acknowledgment: “Got it, will respond fully this afternoon.” Then you close the app and get back to your actual work. When your email block arrives, you write the full reply with your brain actually engaged.</p>
-
-<p>The emotional payoff is relief. Clarity. Autonomy. You stop feeling like you’re on call for a job that doesn’t actually require you to be on call. You stop feeling guilty for not checking. You stop feeling overwhelmed by the sheer volume of other people’s priorities landing in your queue.</p>
-
-<h2 id="how-to-actually-do-this">How to Actually Do This</h2>
-
-<p>Alright. Enough philosophy. Here’s the practical stuff.</p>
-
-<p><strong>Step 1: Turn off notifications.</strong> All of them. Phone. Desktop. Teams pop-ups. Messenger banners. Every app that thinks it deserves to interrupt your attention. If there’s someone who genuinely needs to reach you urgently, make them an exception. Everyone else can wait.</p>
-
-<p><strong>Step 2: Close the apps between blocks.</strong> Don’t just minimize Outlook. Close it. Same with Teams, Slack, whatever. Remove the temptation to drift. If it’s not your designated email time, the app should not be open.</p>
-
-<p><strong>Step 3: Schedule processing blocks.</strong> Put them on your calendar. Twice a day is plenty for most people. Morning and afternoon. 30 minutes each if you’re disciplined. An hour if you’ve got a lot of coordination work. Protect the space between these blocks like you’d protect a meeting with your CEO.</p>
-
-<p><strong>Step 4 (Optional, but powerful for a year-end reset):</strong> Select all. Mark as read. Clear flags. Archive everything. If you’re nervous about losing something, take 10 minutes to scan for anything truly important and capture it in your notes or task system. Then let it all go.</p>
-
-<p>This is David Allen territory: “The brain is for having ideas, not storing them.” Your inbox is not a filing system. It’s not a task manager. It’s a conveyor belt for incoming communication. Process it. Act on it. Archive it. Move on.</p>
-
-<h2 id="start-small-notice-the-difference">Start Small, Notice the Difference</h2>
-
-<p>You don’t need to overhaul your entire system tomorrow. Start with one thing: turn off notifications. Just do that. Then schedule one email block for tomorrow morning. Process everything that’s there. Close the app. Notice how your focus feels different.</p>
-
-<p>If you’re heading into the holidays, consider the Big Reset. Archive everything before you leave. Come back in January with an empty inbox and a clean slate. The world will not end. The urgent stuff will resurface. The rest was never that important to begin with.</p>
-
-<p>Here’s the mindset shift: email is for communicating ideas, not storing them or managing tasks. JOMO is about designing your attention intentionally, not neglecting your responsibility. You’re not ignoring people. You’re respecting your own cognitive capacity and giving your best work the space it deserves.</p>
-
-<p>Try it. Miss out on the constant inbox anxiety. Find out what it feels like to actually focus again.</p>
-
-<h2 id="further-reading">Further Reading</h2>
-
-<ul>
-  <li><a href="https://calnewport.com/a-world-without-email">Cal Newport,</a> <em><a href="https://calnewport.com/a-world-without-email">A World Without Email</a></em> <a href="https://calnewport.com/a-world-without-email">(blog &amp; book)</a></li>
-  <li><a href="https://www.carlpullein.com/blog/clear-your-email-first-thing/16/3/2022">Carl Pullein, “Clear Your Email First Thing”</a></li>
-  <li><a href="https://jdmeier.com/clear-your-inbox">JD Meier, “Clear Your Inbox”</a></li>
-  <li><a href="https://www.insidehighered.com/blogs/learning-innovation/yes-%E2%80%98-world-without-email%E2%80%99-totally-worth-reading">Inside Higher Ed, email overload and productivity</a></li>
-</ul>]]></content><author><name>Doug Langille</name></author><category term="" /><category term="" /><category term="productivity" /><category term="habits" /><category term="wellness" /><category term="communication" /><summary type="html"><![CDATA[Email is someone else's to-do list colonizing your brain.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://digital.douglangille.ca/assets/images/the-joy-of-missing-out-an-email-manifesto-for-december/7a216b0b-8702-404a-a671-f4b7b954e9d2_1536x1024.png" /><media:content medium="image" url="https://digital.douglangille.ca/assets/images/the-joy-of-missing-out-an-email-manifesto-for-december/7a216b0b-8702-404a-a671-f4b7b954e9d2_1536x1024.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Accidental Notetaker</title><link href="https://digital.douglangille.ca/the-accidental-notetaker/" rel="alternate" type="text/html" title="The Accidental Notetaker" /><published>2025-12-03T00:00:00-04:00</published><updated>2025-12-03T00:00:00-04:00</updated><id>https://digital.douglangille.ca/the-accidental-notetaker</id><content type="html" xml:base="https://digital.douglangille.ca/the-accidental-notetaker/"><![CDATA[<p>Taking notes is easy. Making sense of them later? That’s the part that always broke me. I’m lying. Taking notes hurts my soul. I kinda hate it and telling myself to <em>embrace the suck</em> is not helpful.</p>
-
-<p>I’ve tried everything: elaborate systems, minimalist systems, digital, analog, hybrid. Most collapsed under their own weight. The ones that didn’t still left me with a pile of fragments I never had the energy to reassemble.</p>
-
-<p><em>So many Moleskins. So much illegible scrawl. My handwriting has a very short best before date for interpretation. If you know, you know.</em></p>
-
-<p>Then, almost by accident, I stumbled on a workflow that actually worked. It wasn’t a new app, a revolutionary framework, or a productivity guru’s manifesto. It was a perspective shift in when and how I made sense of what I captured.</p>
-
-<p>Here’s how it happened.</p>
-
-<h2 id="the-struggle-bus-of-good-intentions"><strong>The Struggle Bus of Good Intentions</strong></h2>
-
-<p>For years, my note-taking was a mess. In meetings, I’d scribble in notebooks, type furiously in OneNote, or worse, try to structure things in real time and miss half the conversation. I’d walk out with pages of half-formed thoughts, more bullets than a John Wick movie, and arrows pointing God knows where. Worse was the sinking feeling that I’d just wasted an hour. I would never revisit the notes because they had no long-tail meaning.</p>
-
-<p>I tried <em>everything</em>:</p>
-
-<ul>
-  <li><strong>Apple Notes: The Comfortable Junk Drawer</strong><br />
-For a long time, this was my default. It still is. Fast, everywhere, Siri-friendly. A beautiful, searchable paradox, full of insights I could never find when I needed them. No structure, no guilt. Just… stuff. It scaled into chaos, not clarity.</li>
-  <li><strong>The Forever Notes Framework</strong><br />
-I’m not alone. About a year ago, Matthias Hilse came up with a framework to tame Apple Notes for him and <a href="https://www.myforevernotes.com/">shared it here</a>. I admire the idea: atomic notes, linked thinking, a personal knowledge garden. The perpetual journal thing is chef’s kiss. It’s essentially a digital <a href="https://bulletjournal.com/">Bullet Journal</a>. I tried. I really did. But it demands more upkeep than I can sustain. During busy stretches, it collapses into another graveyard of broken promises. I’m still using it for weekly and quarterly planning. That’s working well. <em>Take what resonates and discard the rest.</em></li>
-  <li><strong>Obsidian: The Fiddly Era Redux</strong><br />
-Plugins, backlinks, constant refactoring. It was like owning a high-maintenance sports car, I spent more time tuning it than driving it. Eventually, the friction outweighed the benefits. The two happiest days in a Jag owner’s life? The day they buy the car and the day they sell it. Obsidian is kinda like that. I promise to not try it again. Probably. <a href="https://obsidian.md">You can check out Obsidian here.</a></li>
-  <li><strong>Plain Text (VS Code + Git)</strong><br />
-This is my writing studio. Solid, calm, durable. Version control without ceremony. I’ve always loved it for both blogging and long-form work. A folder tree brimming with simple text files has been with me for decades. But plain text isn’t built for meetings. It’s great for capture, terrible for sense-making. You cannot simultaneously listen to budget explanations and type out intricate markdown headers. <a href="https://code.visualstudio.com">VS Code</a> is a great text editor. <a href="https://github.com/">GitHub</a> is a great place to keep your files safe, but not for everyone. Any cloud solution and backup strategy will do the job.</li>
-  <li><strong>OneNote</strong><br />
-A sprawling, multi-layered maze that required more mental energy to organize than it returned. I use this for work by default because we’re a Microsoft shop and a bunch of people share OneNote notebooks. It integrates with the entire Office suite and I’m told it’s amazeballs by its adherents. I don’t see it. Not for me anyway. Something about floating textboxes on an infinite white canvas damages my calm. I have notes and notebooks in sections and pages everywhere. It’s horrid. And I hate it. <a href="https://onenote.cloud.microsoft/">OneNote</a> is free for personal use.</li>
-  <li><strong>Plaintext Productivity as a Philosophy</strong> <br />
-I love me all the low-friction tools and open formats. Michael Descy has put together the best approach I’ve seen with <a href="https://plaintext-productivity.net/">Plaintext Productivity</a>. But even plain text doesn’t solve the core problem: <em>I could capture everything and still understand nothing.</em> Plaintext and markdown are language, but they are not tools.</li>
-</ul>
-
-<p>So I kept searching.</p>
-
-<h2 id="spoiler-alert-an-ai-workflow"><strong>Spoiler Alert! An AI Workflow</strong></h2>
-
-<p>A few months ago, I was testing <a href="https://copilot.microsoft.com/">Microsoft Copilot</a> for something unrelated. On a whim, I opened it during a meeting and typed:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>I’m in a meeting. Don’t respond unless I ask you to. Just capture facts, ideas, and actions as I share them.
-</code></pre></div></div>
-
-<p>No structure. No formatting. Just raw fragments.</p>
-
-<p>I didn’t have to think about where to put things. I didn’t have to fight with bullet points or indentation. I just listened and talked in the meeting, tapped a few words, and stayed present.</p>
-
-<p>Unlike paper, I didn’t have to retype anything later.</p>
-
-<p>Unlike OneNote, I didn’t have to organize anything in real time.</p>
-
-<p>It was the first time I’d ever captured notes <em>without</em> feeling like I was failing at note-taking.</p>
-
-<p>Side note. You don’t have to do this in the chatbot live. Half the time, I just tapped into Notepad or an Apple Note. Doesn’t matter. Just capture the scraps.</p>
-
-<h2 id="the-sense-making-pipeline"><strong>The Sense-Making Pipeline</strong></h2>
-
-<p>Here’s where the magic happened, not during the meeting, but <em>after</em>.</p>
-
-<h3 id="phase-1-neutral-gap-review"><strong>Phase 1: Neutral Gap Review</strong></h3>
-
-<p>If needed, I copy/paste the raw notes into a clean chat. At the bottom of the capture, I say to Copilot:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Here’s what I captured. Identify gaps or unclear points, but don’t invent meaning. Ask me smart one at a time questions to fill in the blanks.
-</code></pre></div></div>
-
-<p>It would flag missing context, ambiguous phrases, or places where my shorthand was too cryptic. No hallucinations, no assumptions, just a neutral review. It would ask <em>me</em> to clarify when needed. Extract the stuff I heard but didn’t jot down.</p>
-
-<p>What’s weird, is that I didn’t need a copy of the meeting transcript to do this.</p>
-
-<h3 id="phase-2-interrogate-and-interview"><strong>Phase 2: Interrogate and Interview</strong></h3>
-
-<p>This was the game-changer.</p>
-
-<p>Instead of staring at a wall of text, I’d ask Copilot:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>What’s the most important decision we made?
-What are the open questions?
-What’s one thing I might have missed?
-</code></pre></div></div>
-
-<p>It forced me to clarify my own thinking, one piece at a time. No overwhelm, no rabbit holes, just a structured conversation that surfaced blind spots I’d glossed over.</p>
-
-<h3 id="phase-3-optional-riffing"><strong>Phase 3: Optional Riffing</strong></h3>
-
-<p>If I had bandwidth, time or a niggling interest that would not quiet, I’d ask:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>What’s a creative way to approach [X]?
-How might this connect to [Y]?
-</code></pre></div></div>
-
-<p>This isn’t about AI generating ideas for me. I use it as a sounding board to explore my own thoughts.</p>
-
-<h3 id="phase-4-the-roll-up-summary"><strong>Phase 4: The Roll-Up Summary</strong></h3>
-
-<p>Once I’d clarified the key points, I’ll ask for a clean summary:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Give me a structured recap: decisions, actions, open questions.
-</code></pre></div></div>
-
-<p>No fluff, no filler. Just a distilled version of what actually mattered.</p>
-
-<h3 id="phase-5-publish-to-loop"><strong>Phase 5: Publish to Loop</strong></h3>
-
-<p>It’s a trivial button click to push the output to a <a href="https://loop.cloud.microsoft">Microsoft Loop</a> page, title it with the date and topic, and drop it into the appropriate workspace. No admin, no restructuring. Just a modular, shareable artifact.</p>
-
-<h2 id="why-this-actually-works"><strong>Why This Actually Works</strong></h2>
-
-<h3 id="1-light-capture-preserves-presence"><strong>1. Light Capture Preserves Presence</strong></h3>
-
-<p>I don’t fight note structure during meetings anymore. I just capture raw material.</p>
-
-<h3 id="2-sense-making-happens"><strong>2. Sense-Making Happens</strong></h3>
-
-<p>Post-meeting, when I have bandwidth, AI acts as a facilitator (not a replacement) for thinking. By shifting the organization and clarification effort to the post-meeting window, I utilize my available cognitive bandwidth.</p>
-
-<h3 id="3-facilitated-thinking-wins">3. Facilitated Thinking Wins</h3>
-
-<p>The one-question-at-a-time model surfaces gaps I’d otherwise miss. Facilitated thinking beats solo note cleanup. <em>That’s it. That’s the tweet.</em> Every time.</p>
-
-<h3 id="4-fits-my-existing-systems"><strong>4. Fits My Existing Systems</strong></h3>
-
-<p>The fragments map naturally to any existing setup. No new frameworks, no extra steps. You can even dump it all into OneNote, <em>you monsters</em>.</p>
-
-<h3 id="5-loop-finally-makes-sense"><strong>5. Loop Finally Makes Sense</strong></h3>
-
-<p>It’s content-centric, not document-centric. Notes become modular, live objects—not static files gathering digital dust. Yeah, I think I’m starting to finally understand the paradigm shift Loop represents. <em>All the <a href="https://www.notion.com/">Notion</a> users can slow-clap now.</em></p>
-
-<h2 id="who-this-is-for"><strong>Who This Is For</strong></h2>
-
-<ul>
-  <li><strong>As a general rule, don’t put sensitive or confidential info into AI.</strong> This is for personal sense-making, not classified discussions.</li>
-  <li>
-    <p><strong>Works for:</strong></p>
-
-    <ul>
-      <li>Faculty: curriculum planning, research discussions.</li>
-      <li>Students: clarifying lecture notes, brainstorming.</li>
-      <li>Anyone who’s tired of staring at a wall of text and wondering, <em>“What was I even thinking?”</em></li>
-    </ul>
-  </li>
-  <li><strong>This complements, not replaces, official notes.</strong> Use it alongside Teams Notes or meeting minutes.</li>
-</ul>
-
-<h2 id="less-guilt-more-clarity"><strong>Less Guilt, More Clarity</strong></h2>
-
-<p>I don’t dread reviewing my notes anymore. I don’t feel guilty about abandoned systems. I’m not “taking notes”. I’m co-authoring clarity with a tool that asks better questions than I do on my own.</p>
-
-<p>It’s not perfect. It’s not for every situation. But for the first time in years, my note-taking system aligns with how I actually think. <em>Thankee sai.</em></p>
-
-<h2 id="the-open-experiment"><strong>The Open Experiment</strong></h2>
-
-<p>I’m still exploring this. Testing reverse-conversation patterns, tweaking the prompts, seeing what else sticks.</p>
-
-<p>If you’ve struggled with note-taking, try this for <em>one</em> meeting this week. See what happens. You might be surprised. I was.</p>
-
-<p><strong>Do your future self a solid: one meeting, one workflow, zero chaos.</strong></p>]]></content><author><name>Doug Langille</name></author><category term="" /><category term="" /><category term="productivity" /><category term="tools" /><category term="learning" /><summary type="html"><![CDATA[Future Me appreciates the upgrade.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://digital.douglangille.ca/assets/images/the-accidental-notetaker/f9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.png" /><media:content medium="image" url="https://digital.douglangille.ca/assets/images/the-accidental-notetaker/f9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">1 + 1 = 3: Building a Tech Career on What You Already Know</title><link href="https://digital.douglangille.ca/1-1-3-building-a-tech-career-on-what-you-already-know/" rel="alternate" type="text/html" title="1 + 1 = 3: Building a Tech Career on What You Already Know" /><published>2025-11-26T00:00:00-04:00</published><updated>2025-11-26T00:00:00-04:00</updated><id>https://digital.douglangille.ca/1-1-3-building-a-tech-career-on-what-you-already-know</id><content type="html" xml:base="https://digital.douglangille.ca/1-1-3-building-a-tech-career-on-what-you-already-know/"><![CDATA[<p>Your first career wasn’t a mistake. It might be the thing that makes the next one work.</p>
-
-<p>Tech moves quickly, but that doesn’t mean you have to sprint. Most of the time, progress looks more like adding a small tool to a skill set you already trust. That’s the secret sauce of an additive career. You bring the experience you’ve lived. Tech brings leverage. Put them together and you get something bigger than the sum of the parts.</p>
-
-<p>I call it the 1 + 1 = 3 effect. Not because the math works out, but because people do.</p>
-
-<p>Funny aside.. I tried to get the chatbots to make the math work by qualifying “1 + 1 = 3, for large values of 1”. That is, 1.4 + 1.4 = 2.8. The bots didn’t think it was funny. Anyway…</p>
-
-<h3 id="the-additive-career">The Additive Career</h3>
-
-<p>Somewhere along the way we picked up this strange belief that getting into tech means starting over. Wiping the slate clean. Pretending you weren’t a nurse, or a designer, or a social worker, or a project manager for ten years. The truth is simpler and much kinder. Tech isn’t a silo anymore. It’s a multiplier.</p>
-
-<blockquote>
-  <p>There’s no tech sector. Every sector is a tech sector.</p>
-</blockquote>
-
-<p>Imagine watching a screen arts student step into VR programming and suddenly understand spatial learning better than the engineers. You’ve seen this effect. Or a paramedic who jumps into analytics and notices the tiny patterns in patient outcomes the rest of us would miss. Or a behavioral‑science grad who walks into cybersecurity and immediately understands why people click on things they shouldn’t. Or an experienced electrician that opts to teach.</p>
-
-<p>None of these folks started from scratch. They stacked one layer on top of another and got something new.</p>
-
-<p>This is your emotional reality check. Hope. Permission. The sense that it’s okay to try something different even if you’re not twenty‑one and full of piss-and vinegar. Even if you’re twenty-five in your first career, caffeinated beyond reason and already burning out, it isn’t jail. A mid‑career pivot isn’t an admission of failure. It’s a second act. And if you treat it right, it’s an additive one.</p>
-
-<h3 id="the-midcareer-pivot">The Mid‑Career Pivot</h3>
-
-<p>We’re in a moment where the world desperately needs more people who understand both tech and real humans. Cybersecurity alone is short roughly four million professionals worldwide (<a href="https://www.hcamag.com/ca/news/general/cybersecurity-industry-short-nearly-4-million-professionals/489139">hcamag.com analysis</a>). Canada is feeling its own pinch. Thousands of roles stay open, and more appear every quarter (<a href="https://technationcanada.ca/en/news/attracting-cybersecurity-talent-in-a-competitive-job-market/">Technation Canada report</a>). AI‑enabled tools are landing everywhere, but organizations keep reporting the same barrier: not enough people with the skills to use them well (<a href="https://itbrief.ca/story/canadian-firms-struggle-with-ai-in-cybersecurity-amid-talent-gap">ITBrief.ca insight</a>).</p>
-
-<p>So yes, the labour market is loud. But underneath the noise is an invitation.</p>
-
-<p>Mid‑career professionals bring judgment you can’t fake. They’ve sat in rooms where decisions had consequences. They’ve watched projects wander off cliffs. They’ve learned the very Canadian truth that everything fails all the time. <em>Yeah, I know that is a quote from the Amazon CTO Werner Vogels, but it feels right in the gut, don’t it?</em></p>
-
-<p>When you add a tech layer on top of that experience, you get someone who can spot failure before it arrives.</p>
-
-<p>That’s the role the field needs. Not blank slates. Translators.</p>
-
-<h3 id="human-plus-ai">Human Plus AI</h3>
-
-<p>There’s a lot of conversation about whether AI is about to replace everyone. It’s not. It’s more like a magnifying glass. It shows you details. It speeds up the boring parts. But it doesn’t know which part matters.</p>
-
-<p>That’s the human‑in‑the‑loop. That’s where domain knowledge earns its keep.</p>
-
-<p>Take simulation‑based learning. AI can help generate environments and variations. A social‑work professional decides which ones actually reflect the messy realities of human life. Or policy drafting. AI can outline a structure. A human decides if the wording fits the culture of a team. Or curriculum planning. AI can process labour‑market data. A human chooses what matters to learners today, not in a theoretical future.</p>
-
-<p>Tech does the lifting. People steer.</p>
-
-<h3 id="lessons-for-institutions-and-learners">Lessons for Institutions and Learners</h3>
-
-<p>If you work in education, the opportunity is obvious. Design programs that treat tech as additive. Build pathways that welcome backgrounds instead of erasing them. Support flexible micro‑credentials. Blend ethics and judgment into everything. Make space for people who are returning to learning with a bit of life on them.</p>
-
-<p>If you’re a learner, the work is honest and sometimes uncomfortable. Look at what you already know. Ask where the friction points are. See if a tech tool could ease them. Make peace with experimentation. Failure is just data with opinions.</p>
-
-<p>Stack what you have. Add one new skill. Watch the multiplier appear.</p>
-
-<h3 id="why-this-moment-matters">Why This Moment Matters</h3>
-
-<p>Right now, the demand is undeniable. IT adjacent roles aren’t just open. They’re multiplying. AI, cloud, data, cyber. They’re all searching for people who can see both the technical detail and the real‑world context.</p>
-
-<p>That combination is rare. Which makes it valuable.</p>
-
-<p>If you’ve been thinking about pivoting, this is a good time to explore. Not because the world is stable. But because it isn’t.</p>
-
-<h3 id="closing-thoughts">Closing Thoughts</h3>
-
-<p>Nothing is forever. You might as well collect the best experiences.</p>
-
-<p>A mid‑career pivot doesn’t require burning down the past. Bring it with you. Let it steer your choices. Add one new layer. Give yourself permission to experiment. Keep going even when it feels messy.</p>
-
-<p>If you’re in the middle of a pivot, or supporting people who are, focus on the simple truth: human context plus tech tools wins. Every time.</p>
-
-<p>And if your math still says 1 + 1 = 2, that’s fine. Mine used to as well. Then I watched a few careers transform the moment someone realized they didn’t need to start over. They just needed to start stacking.</p>]]></content><author><name>Doug Langille</name></author><category term="" /><category term="" /><category term="work" /><category term="learning" /><category term="self-improvement" /><summary type="html"><![CDATA[For anyone who keeps thinking “maybe it’s time to pivot.”]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://digital.douglangille.ca/assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.png" /><media:content medium="image" url="https://digital.douglangille.ca/assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Digital Craftsmanship</title><link href="https://digital.douglangille.ca/digital-craftsmanship/" rel="alternate" type="text/html" title="Digital Craftsmanship" /><published>2025-11-19T00:00:00-04:00</published><updated>2025-11-19T00:00:00-04:00</updated><id>https://digital.douglangille.ca/digital-craftsmanship</id><content type="html" xml:base="https://digital.douglangille.ca/digital-craftsmanship/"><![CDATA[<p>It always starts the same way: I’m fixing something, the screwdriver slips, and I slice a finger just deep enough to question my life choices. There’s that moment of sucking the blood off, muttering something unprintable, and realizing, yep, this is what people mean by “blood, sweat, and tears.” It’s less poetic when you’re the one bleeding, but it’s honest. Craft usually is.</p>
-
-<blockquote>
-  <p>If you’re joining late, here’s the quick map:</p>
-
-  <p>Part I: <a href="https://douglangille.substack.com/p/the-liminal-workplace">The Liminal Workplace</a> explored reclaiming agency in a world of constant choices.<br />
-Part II: <a href="https://douglangille.substack.com/p/thinking-like-and-ecosystem">Thinking Like an Ecosystem</a> examined how communities circulate ideas and energy.</p>
-
-  <p>Now, in Part III of this <em>Navigating the In-Between</em> series, we turn to craft: how humans, AI, and collaboration converge to make work that feels unmistakably alive.</p>
-</blockquote>
-
-<h2 id="the-quiet-before-the-click">The Quiet Before the Click</h2>
-
-<p>Every project I care about has this strange moment where the world gets quiet. Not serene. Not meditative. More like the air holding its breath before an idea decides whether it wants to show up. It’s a nervous quiet, almost clinical. The club-raising moment, right before impact, except the impact is an insight you can feel in your ribs.</p>
-
-<p>And then it hits. The “aha.” The air snaps back. The energy shoots up like you plugged your brain into a generator. It’s visceral. It’s alive. It’s why I keep doing this work.</p>
-
-<p>But you don’t get that moment by sprinting blindly toward efficiency. Nearly every modern workflow myth worships speed like it’s a sacrament, and I’ve called bullshit on that for years. Speed has its place. Effectiveness has its place. They are not the same thing. I want both, to think big and start small, to go fast and break things, and also to take my damn time when it matters.</p>
-
-<p>Humans are allowed to hold contradictions. It’s part of the job description.</p>
-
-<h2 id="joy-as-a-diagnostic-tool">Joy as a Diagnostic Tool</h2>
-
-<p>One sticky note on my desk just says: What would this look like if it were fun? It’s basic. It’s stupid. It’s saved me more times than I’d admit publicly.</p>
-
-<p>Because if I’ve lost the joy, the spark, the curiosity, the play, then I’m not crafting anymore. I’m just grinding. And if that’s all it is? Ship it or shut it down. Joy is the canary in the creative coal mine. When it leaves, you’ve got a problem.</p>
-
-<h2 id="my-confession-about-shipping">My Confession About Shipping</h2>
-
-<p>Here’s the part where I incriminate myself: I ship too fast. I love the thrill of the launch, the dopamine hit of “done,” the momentum of getting things out the door. But I’ve learned to force myself to slow down and bring some craft to the table, the kind where I can look at the work later without wanting to hide under a blanket.</p>
-
-<p>That sense of pride matters. You can tell when something was made by a human who cared versus a machine that approximated caring. You can feel it in the seams.</p>
-
-<h2 id="the-expedition">The Expedition</h2>
-
-<p>This all crystallized during a conversation with the fantastic <a href="https://www.linkedin.com/in/steven-gordon-94071b84/">Steven Gordon</a> about expeditions and the nature of human-AI collaboration. Picture this: I’m gearing up for some ambitious multi-day hiking trip I’ve never done before. I buy a map. I buy a compass. I buy a brand-new pack with the sales sticker still dangling because apparently I’m twelve. I march into the woods thinking I’m prepared.</p>
-
-<p>Then I trip over the first stump like an amateur and roll my ankle so hard I’m already imagining the rescue report. That’s the version of craft built only on tools, the illusion that good gear equals good judgment.</p>
-
-<p>Now imagine a different version:<br />
-Same map.<br />
-Same compass.<br />
-Same slightly embarrassing backpack.</p>
-
-<p>But this time, I talk to people who’ve actually done the trip. They tell me where the trail narrows, where the elevation fools you, which shortcuts are honey traps for idiots like me. Maybe I even bring one of them along.</p>
-
-<p>The map isn’t the terrain, it’s a conversation starter. My tools matter, sure, but so does the lived experience of someone who’s already made all the mistakes I’m about to make.</p>
-
-<h2 id="the-three-way-collaboration">The Three-Way Collaboration</h2>
-
-<p>This is what craftsmanship looks like in the age of AI:</p>
-
-<ol>
-  <li><strong>You</strong>, the soul, the quirks, the instincts, the weird wiring that shapes the work.</li>
-  <li><strong>The AI</strong>, the tools, the leverage, the speed, the pattern-recognition superpowers.</li>
-  <li><strong>Another human</strong>, the collaborator who helps keep everything honest and alive.</li>
-</ol>
-
-<p>Not a race to the bottom. Not a purity test. Not a lonely romantic myth of the lone artisan chiseling away in isolation while drinking ethically sourced melancholy.</p>
-
-<p>A shared expedition.</p>
-
-<p>Sometimes, I think about <em>Fantasia</em>, Mickey proudly outsourcing the boring part to a magical broom, only to watch the entire workshop flood because he delegated the wrong thing. Dark, right? That’s the moment that should haunt every human-AI collaboration: the flood isn’t coming from the tool itself; it’s coming from handing your judgment over to something that doesn’t understand nuance, context, or the terrifying fragility of your ankle.</p>
-
-<h2 id="reading-the-map-together">Reading the Map Together</h2>
-
-<p>When I look at a map now, literal or metaphorical, I see those tight elevation bands and laugh. Twenty-year-old me would’ve sprinted uphill for the glory of it. Fifty-year-old me will negotiate a very reasonable pace with his joints. But if I’m walking with another human, both of us reading the terrain, we’ll find our way. We’ll help each other. We’ll get there in one piece.</p>
-
-<p>That’s what the future of craft is. Not speed for speed’s sake. Not fetishizing tools. Not clinging to a single way of working.</p>
-
-<p>It’s the shared experience of making something that feels unmistakably human, even when machines sit at the table with us.</p>
-
-<p>Craftsmanship is a shared experience.</p>
-
-<h2 id="the-stillness-that-makes-it-real">The Stillness That Makes It Real</h2>
-
-<p>And here’s the part I almost forgot, the stillness that sneaks in after the making. The moment after the tools go quiet, the draft is saved, the metaphorical ankle is iced, and you finally let yourself breathe. It’s not dramatic. It’s not cinematic. It’s the soft click of your brain acknowledging: Yeah. This was worth doing.</p>
-
-<p>That moment is craft, too. It’s the exhale that proves you showed up with intent.</p>
-
-<h2 id="wrapping-the-series">Wrapping the Series</h2>
-
-<p>If you’ve been following this whole series, here’s the through-line: craft isn’t dying, mutating, or being automated out of existence, it’s widening. More hands on the map. More ways to make. More room for the very human mess of it all.</p>
-
-<p>If something here nudged you, a sentence, a metaphor, a mild accusation about maps, take it with you into your next project. Bring another human along. Let the tools help but not dictate. Leave space for the quiet before the click and the quiet after.</p>
-
-<h2 id="so-what">So What?</h2>
-
-<p>Pick one thing you’re making, today, not in whatever fantasy timeline Future You keeps promising, and give it a moment of actual human judgment.</p>
-
-<p>Ask yourself:</p>
-
-<ul>
-  <li>Does it look like I cared, even a little?</li>
-  <li>Is there a choice here that wasn’t auto-completed by a robot on a caffeine bender?</li>
-  <li>Would another human recognize this as mine, or at least not assume it was spat out by a spreadsheet with opinions?</li>
-</ul>
-
-<p>If the answer is “eh,” add something. A detail. A decision. A fingerprint. A scuff mark. Anything that proves you were awake.</p>
-
-<p>And remember: fail spectacularly if you must, but fail with intent, the flood is coming whether you notice or not. Make it unmistakably yours, on purpose this time.</p>]]></content><author><name>Doug Langille</name></author><category term="" /><category term="" /><category term="digital-life" /><category term="creativity" /><category term="work" /><category term="self-improvement" /><summary type="html"><![CDATA[The Map is Not the Terrain]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://digital.douglangille.ca/assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png" /><media:content medium="image" url="https://digital.douglangille.ca/assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Thinking Like an Ecosystem</title><link href="https://digital.douglangille.ca/thinking-like-an-ecosystem/" rel="alternate" type="text/html" title="Thinking Like an Ecosystem" /><published>2025-11-12T00:00:00-04:00</published><updated>2025-11-12T00:00:00-04:00</updated><id>https://digital.douglangille.ca/thinking-like-an-ecosystem</id><content type="html" xml:base="https://digital.douglangille.ca/thinking-like-an-ecosystem/"><![CDATA[<h3 id="between-frost-and-flow">Between Frost and Flow</h3>
-
-<p>The leaves are mostly down now. Frost rims the grass at dawn, mud by noon. The forest looks dormant, but under the litter, roots and fungi are still trading what’s left of the year’s light. Ecosystems don’t rest; they reroute.</p>
-
-<p>Colleges and organizations work the same way. When the visible activity slows, the real work shifts underground. Ideas pass through quiet conversations, trust networks form in the dark. The system breathes, even when it looks still.</p>
-
-<blockquote>
-  <p>In Part I of this <em>Navigating the In-Between</em> series, we talked about agency and the moment an individual chooses to move again.</p>
-
-  <p>If you missed it, it’s here: <a href="https://douglangille.substack.com/p/the-liminal-workplace">The Liminal Workplace</a>.</p>
-
-  <p>This time, we trace what happens when that movement circulates.</p>
-</blockquote>
-
-<h3 id="where-systems-break">Where Systems Break</h3>
-
-<p>Many institutions still behave like machines: predictable, efficient, optimized for control. But machines jam easily. When the parts stop fitting, we call another meeting and workshop another process map.</p>
-
-<p>Replication replaces adaptation. A new initiative mirrors the old one because it’s safer than re-imagining it. Silos grow moss. People burn time proving alignment instead of making meaning. Strat-plan Bingo is a real thing. <em>We’ve all played it.</em></p>
-
-<p>The result is an organism that looks busy but can’t metabolize change. Data piles up with nowhere to circulate. Feedback loops stall. The air gets thin. It becomes hard to breathe.</p>
-
-<p>In large organizations, we see it everywhere: committee rosters longer than decisions, workflows that duplicate effort because the right people are simply not in the room.</p>
-
-<p>Students notice. So do new hires. A campus can hum with activity and still feel strangely airless. And soulless.</p>
-
-<h3 id="how-systems-heal">How Systems Heal</h3>
-
-<p>Living systems recover through circulation. When nutrients move, everything wakes up.</p>
-
-<p>In human terms, that means conversation. Especially the kind that crosses boundaries. The side chat between a lab tech and a faculty lead. The informal huddle that bridges IT and student advising. The email chain that starts with “I’m not sure who to ask, but…” and ends with “…if not you, then <em>who</em>?”</p>
-
-<p>When a nursing instructor and a campus IT tech fix a simulation glitch together, both learn faster than any service desk ticket could manage. That’s mycelium at work: fine-grained, lateral… invisible.</p>
-
-<p>These networks move information, energy, and empathy faster than any damned policy framework. They warn of droughts and share the sugars of success.</p>
-
-<p>When a conversation begins in one department and blooms in another, the institution exhales. And people start to remember why they signed on in the first place.</p>
-
-<p>Eventually, those conversations need sunlight. Leaders decide whether to shade or nurture them. Sometimes by habit. Sometimes by choice.</p>
-
-<h3 id="leadership-as-cultivation">Leadership as Cultivation</h3>
-
-<p>Traditional leadership assumes oxygen comes from the top.</p>
-
-<p>Modern leadership knows better. It turns light (insight) into growth. It’s photosynthetic.</p>
-
-<p>The best leaders don’t just set direction; they build the conditions where trust and curiosity circulate. Safety isn’t declared in a memo; it’s modelled in meetings, in the hallways, and in the classroom.</p>
-
-<p>It’s the moment a senior manager admits they don’t know the answer and asks their team to think it through with them. <em>With</em> is the key operand.</p>
-
-<p>It’s the manager who cross-pollinates projects because they notice two people solving the same problem differently.</p>
-
-<p>Command-and-control is tidy but brittle. Cultivation is messy but alive.</p>
-
-<p>The goal isn’t compliance; it’s coherence.</p>
-
-<h3 id="when-the-system-feels-alive">When the System Feels Alive</h3>
-
-<p>You can tell when a workplace starts breathing again.</p>
-
-<p>People reference each other’s work without prompting.</p>
-
-<p>Meetings shorten. Jargon thins and falls off.</p>
-
-<p>Someone says, “You should talk to …” That single phrase becomes a nutrient.</p>
-
-<p>The energy is subtle but unmistakable: 1 + 1 = 3.</p>
-
-<p>The same tasks that once felt transactional now feed something larger. Teams start to self-organize around purpose instead of hierarchy.</p>
-
-<p>That’s when the ecosystem comes back online. Not because someone redesigned the org chart, but because conversation re-entered the soil.</p>
-
-<h3 id="field-note">Field Note</h3>
-
-<p>If <em><a href="https://douglangille.substack.com/p/the-liminal-workplace">The Liminal Workplace</a></em> was about personal agency and change, <em>Thinking Like an Ecosystem</em> is about circulation and how that agency becomes shared oxygen. The closing entry explores <em><a href="https://open.substack.com/pub/douglangille/p/digital-craftsmanship">Digital Craftsmanship</a></em>: how we make and use tools without losing ourselves to them.</p>
-
-<p>But for now, the invitation is simple.</p>
-
-<h3 id="call-to-action--the-conversation-map"><strong>Call to Action – The Conversation Map</strong></h3>
-
-<p>Draw your ecosystem.</p>
-
-<ul>
-  <li><strong>Nodes:</strong> the people or teams you connect with.</li>
-  <li><strong>Nutrients:</strong> what flows between you: insight, encouragement, feedback, humour.</li>
-  <li><strong>Gaps:</strong> where flow stalls.</li>
-</ul>
-
-<p>Pick one gap.</p>
-
-<p>Start a low-stakes, agenda-less chat this week. No slide deck, no pitch. Just curiosity.</p>
-
-<p>It’s a micro-dose of shared leadership.</p>
-
-<p>See what grows.</p>
-
-<p><em>In the end, it was never about the tools. It was about who we build with.</em></p>]]></content><author><name>Doug Langille</name></author><category term="" /><category term="" /><category term="learning" /><category term="work" /><summary type="html"><![CDATA[Root, Branch, and Bloom.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://digital.douglangille.ca/assets/images/thinking-like-an-ecosystem/f0a4f9bf-9e86-405c-9eb9-f5282e3415d5_1536x1024.png" /><media:content medium="image" url="https://digital.douglangille.ca/assets/images/thinking-like-an-ecosystem/f0a4f9bf-9e86-405c-9eb9-f5282e3415d5_1536x1024.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Liminal Workplace</title><link href="https://digital.douglangille.ca/the-liminal-workplace/" rel="alternate" type="text/html" title="The Liminal Workplace" /><published>2025-11-05T00:00:00-04:00</published><updated>2025-11-05T00:00:00-04:00</updated><id>https://digital.douglangille.ca/the-liminal-workplace</id><content type="html" xml:base="https://digital.douglangille.ca/the-liminal-workplace/"><![CDATA[<p><strong>The Sound of Waiting</strong><br />
-Modern workplaces are experts at waiting. We hold meetings, make subcommittees, circulate drafts, and call it progress. Higher education institutions seem to have elevated this to an art form.</p>
-
-<blockquote>
-  <p>I write from the middle of it, not as an academic observer or tech evangelist, but as someone working inside the system, trying to make it breathe. My work lives in that messy overlap between technology, learning, and change management, where progress is slow, people are complex, and clarity has to be earned. <em>Navigating the In-Between</em> is a three-part series of field notes from that space. It’s part reflection, part experiment: written by someone still learning how to move without waiting for permission.</p>
-</blockquote>
-
-<p>Mostly, we’re parked in that uneasy pause before change, the liminal middle, where we know the old way is cooked but can’t yet picture the new one. It’s awkward, overly polite, and weirdly comfortable. Fear here wears a name tag and a lanyard.</p>
-
-<p>If you’ve ever worked in a place that loves meetings more than motion, you already know the feeling. You can hear it in the halls: fluorescent hum, a copier grinding somewhere, the slow shuffle of optimism colliding with process. Everyone knows a shift is coming, but no one wants to be first through the door. The place isn’t resisting change. It’s just holding its breath.</p>
-
-<p><strong>The Waiting Room of Agency</strong><br />
-Liminal space isn’t a hallway. It’s the waiting room of agency. Not quite unlike the Afterlife Waiting Room in Beetlejuice. The door’s open, but we hover, unsure who’s allowed to cross. Fear says we’ll lose something important. Habit says keep the chairs lined up and nod politely. The air smells of stale coffee and risk avoidance.</p>
-
-<p>More often than not, hesitation masquerades as prudence. We label it “consultation,” send out a survey, and call it leadership. Then we wait for an edict that never comes. Clarity doesn’t send memos. It shows up when someone finally stops waiting.</p>
-
-<p><strong>The Social Anatomy of Transition</strong><br />
-Every academic department and managers meeting has its own ecosystem of movers and stayers. Early adopters sprint ahead. Laggards dig in. The silent majority stands there, waiting to see who survives. It’s the worst Hunger Games ever. The early adopters see possibility. The laggards see danger. The middle sees another meeting invite.</p>
-
-<p>Now picture a workshop where everyone agrees something has to change, then immediately schedules another session to “process next steps.” It’s almost elegant, this choreography of apprehension. Each person stands at a different doorway, peeking into a slightly different future. Change isn’t an event. It’s a slow migration, sometimes sideways. And underneath it all is the quiet hum of systems built to minimize risk with policies, approvals, and accountability loops.</p>
-
-<p><strong>When Change Gets Engineered Instead of Imagined</strong><br />
-We like to think transformation can be managed into existence. Draft a timeline, a charter, a dashboard. Prove we’re serious. But real change rarely sticks to a spreadsheet. It begins as imagination. Maybe it’s a fever dream napkin sketch, a hallway conversation, or a rogue prototype someone forgot to shut down.</p>
-
-<p>The moment we confuse process with progress, the whole thing seizes up again. We measure motion without movement. Everyone complies, nothing breathes. But once in a while, imagination and structure line up. A small pilot becomes a shared prototype. The system stirs. The irony? The best ideas usually sneak in through the side door while the rest of us are still arguing about governance frameworks.</p>
-
-<p><strong>The Quiet Step Forward</strong><br />
-Sometimes change starts because one person stops whispering. A faculty member tries something unapproved. A tech rewires a tool before the policy catches up. A dean shrugs and says, “What if we just start small?” These tiny acts of rebellion break the seal. Suddenly the silence has texture again.</p>
-
-<p>Agency doesn’t show up with fanfare. It slips in as a decision made quietly, maybe even reluctantly. Somewhere in the background, the fluorescent hum changes pitch. Light hits the wall differently. Fear turns from a stop sign into a compass.</p>
-
-<p><strong>Hope as Relief</strong><br />
-Then the air shifts. People look up. Meetings sound less like bad-sitcom table reads. The place exhales. Hope doesn’t storm in. It arrives like pressure leaving a room.</p>
-
-<p>Transformation isn’t done to us or for us. It happens through us. It’s when imagination and action finally shake hands. The sound of progress is subtle: air moving again, chairs scraping back, someone finally standing up.</p>
-
-<p>Change doesn’t start with alignment. <br />
-It starts with movement. Alignment catches up.</p>
-
-<h2 id="the-threshold-journal">The Threshold Journal</h2>
-
-<p>Before your next change, pause. Don’t sprint for the exit.</p>
-
-<p>Ask yourself:</p>
-
-<ol>
-  <li>What am I afraid of losing?</li>
-  <li>What might I gain if I walk through?</li>
-  <li>Who do I become on the other side?</li>
-</ol>
-
-<p>Write it down somewhere you’ll see later. Don’t edit it. Let the ink keep your hesitation. When you’ve crossed the threshold, read it again. Notice what stayed true and what turned out lighter than you feared.</p>
-
-<p>Change begins when reflection turns into decision.</p>
-
-<h3 id="from-choice-to-circulation">From Choice to Circulation</h3>
-
-<p>One person’s choice can change the temperature of a room. But real transformation starts when those small decisions sync up. The hallway of closed doors becomes a network of open ones. Air flows. Light spreads. Energy circulates. That’s when the organization stops waiting for direction and starts learning to move.</p>
-
-<p>Next: <a href="https://douglangille.substack.com/p/thinking-like-and-ecosystem">Thinking Like an Ecosystem</a>, about how friction becomes flow, and connection becomes the medium of change.</p>]]></content><author><name>Doug Langille</name></author><category term="" /><category term="" /><category term="work" /><category term="self-improvement" /><summary type="html"><![CDATA[Change is hard. Bring snacks.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://digital.douglangille.ca/assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.png" /><media:content medium="image" url="https://digital.douglangille.ca/assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Digital Doug</title>
+    <link>https://digital.douglangille.ca</link>
+    <description>Tech-related brain-droppings about innovation, productivity, and higher ed. You&apos;ve been warned.</description>
+    <lastBuildDate>Wed, 21 Jan 2026 20:09:28 -0400</lastBuildDate>
+    <language>en-US</language>
+
+    
+    
+    <item>
+      <title>Platforms Make the Worst Landlords</title>
+      <link>https://digital.douglangille.ca/platforms-make-the-worst-landlords/</link>
+      <guid isPermaLink="true">https://digital.douglangille.ca/platforms-make-the-worst-landlords/</guid>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 -0400</pubDate>
+
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/platforms-make-the-worst-landlords/ChatGPT%20Image%20Jan%2021,%202026%20at%2007_05_55%20AM.png" medium="image"/>
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/platforms-make-the-worst-landlords/ChatGPT%20Image%20Jan%2021,%202026%20at%2007_05_55%20AM.png" medium="image"/>
+      
+
+      <description>
+        <![CDATA[
+          <p>Why I’m leaving Substack for owned infrastructure, and what platform independence actually looks like.</p>
+
+        ]]>
+      </description>
+
+    </item>
+    
+    <item>
+      <title>Stop Petting the AI!</title>
+      <link>https://digital.douglangille.ca/stop-petting-the-ai/</link>
+      <guid isPermaLink="true">https://digital.douglangille.ca/stop-petting-the-ai/</guid>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 -0400</pubDate>
+
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.png" medium="image"/>
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.png" medium="image"/>
+      
+
+      <description>
+        <![CDATA[
+          <p>How to Use ChatGPT Without Becoming Its Emotional Support Human</p>
+
+        ]]>
+      </description>
+
+    </item>
+    
+    <item>
+      <title>Three AI Tricks I Use (That Actually Work)</title>
+      <link>https://digital.douglangille.ca/three-ai-tricks-i-use-that-actually-work/</link>
+      <guid isPermaLink="true">https://digital.douglangille.ca/three-ai-tricks-i-use-that-actually-work/</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 -0400</pubDate>
+
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/three-ai-tricks-i-use-that-actually-work/5ec195b4-06b5-4157-b3c2-be7670718ed7_1536x1024.png" medium="image"/>
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/three-ai-tricks-i-use-that-actually-work/5ec195b4-06b5-4157-b3c2-be7670718ed7_1536x1024.png" medium="image"/>
+      
+
+      <description>
+        <![CDATA[
+          <p>I’m still procrastinating. The tools just make it look intentional.</p>
+
+        ]]>
+      </description>
+
+    </item>
+    
+    <item>
+      <title>Everything Is Brown</title>
+      <link>https://digital.douglangille.ca/everything-is-brown/</link>
+      <guid isPermaLink="true">https://digital.douglangille.ca/everything-is-brown/</guid>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 -0400</pubDate>
+
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.png" medium="image"/>
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.png" medium="image"/>
+      
+
+      <description>
+        <![CDATA[
+          <p>Why Your Chatbot Needs a Reset</p>
+
+        ]]>
+      </description>
+
+    </item>
+    
+    <item>
+      <title>The Joy of Missing Out: An Email Manifesto for December</title>
+      <link>https://digital.douglangille.ca/the-joy-of-missing-out-an-email-manifesto-for-december/</link>
+      <guid isPermaLink="true">https://digital.douglangille.ca/the-joy-of-missing-out-an-email-manifesto-for-december/</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 -0400</pubDate>
+
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/the-joy-of-missing-out-an-email-manifesto-for-december/7a216b0b-8702-404a-a671-f4b7b954e9d2_1536x1024.png" medium="image"/>
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/the-joy-of-missing-out-an-email-manifesto-for-december/7a216b0b-8702-404a-a671-f4b7b954e9d2_1536x1024.png" medium="image"/>
+      
+
+      <description>
+        <![CDATA[
+          <p>Email is someone else’s to-do list colonizing your brain.</p>
+
+        ]]>
+      </description>
+
+    </item>
+    
+    <item>
+      <title>The Accidental Notetaker</title>
+      <link>https://digital.douglangille.ca/the-accidental-notetaker/</link>
+      <guid isPermaLink="true">https://digital.douglangille.ca/the-accidental-notetaker/</guid>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 -0400</pubDate>
+
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/the-accidental-notetaker/f9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.png" medium="image"/>
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/the-accidental-notetaker/f9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.png" medium="image"/>
+      
+
+      <description>
+        <![CDATA[
+          <p>Future Me appreciates the upgrade.</p>
+
+        ]]>
+      </description>
+
+    </item>
+    
+    <item>
+      <title>1 + 1 = 3: Building a Tech Career on What You Already Know</title>
+      <link>https://digital.douglangille.ca/1-1-3-building-a-tech-career-on-what-you-already-know/</link>
+      <guid isPermaLink="true">https://digital.douglangille.ca/1-1-3-building-a-tech-career-on-what-you-already-know/</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 -0400</pubDate>
+
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.png" medium="image"/>
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.png" medium="image"/>
+      
+
+      <description>
+        <![CDATA[
+          <p>For anyone who keeps thinking “maybe it’s time to pivot.”</p>
+
+        ]]>
+      </description>
+
+    </item>
+    
+    <item>
+      <title>Digital Craftsmanship</title>
+      <link>https://digital.douglangille.ca/digital-craftsmanship/</link>
+      <guid isPermaLink="true">https://digital.douglangille.ca/digital-craftsmanship/</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 -0400</pubDate>
+
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png" medium="image"/>
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png" medium="image"/>
+      
+
+      <description>
+        <![CDATA[
+          <p>The Map is Not the Terrain</p>
+
+        ]]>
+      </description>
+
+    </item>
+    
+    <item>
+      <title>Thinking Like an Ecosystem</title>
+      <link>https://digital.douglangille.ca/thinking-like-an-ecosystem/</link>
+      <guid isPermaLink="true">https://digital.douglangille.ca/thinking-like-an-ecosystem/</guid>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 -0400</pubDate>
+
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/thinking-like-an-ecosystem/f0a4f9bf-9e86-405c-9eb9-f5282e3415d5_1536x1024.png" medium="image"/>
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/thinking-like-an-ecosystem/f0a4f9bf-9e86-405c-9eb9-f5282e3415d5_1536x1024.png" medium="image"/>
+      
+
+      <description>
+        <![CDATA[
+          <p>Root, Branch, and Bloom.</p>
+
+        ]]>
+      </description>
+
+    </item>
+    
+    <item>
+      <title>The Liminal Workplace</title>
+      <link>https://digital.douglangille.ca/the-liminal-workplace/</link>
+      <guid isPermaLink="true">https://digital.douglangille.ca/the-liminal-workplace/</guid>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 -0400</pubDate>
+
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.png" medium="image"/>
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.png" medium="image"/>
+      
+
+      <description>
+        <![CDATA[
+          <p>Change is hard. Bring snacks.</p>
+
+        ]]>
+      </description>
+
+    </item>
+    
+    <item>
+      <title>The Rhetorical Machine</title>
+      <link>https://digital.douglangille.ca/the-rhetorical-machine/</link>
+      <guid isPermaLink="true">https://digital.douglangille.ca/the-rhetorical-machine/</guid>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 -0300</pubDate>
+
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/the-rhetorical-machine/9e22586b-1d28-4a3b-84a9-ab0e226cf318_1536x1024.png" medium="image"/>
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/the-rhetorical-machine/9e22586b-1d28-4a3b-84a9-ab0e226cf318_1536x1024.png" medium="image"/>
+      
+
+      <description>
+        <![CDATA[
+          <p>What My Father the Salesman Taught Me About AI</p>
+
+        ]]>
+      </description>
+
+    </item>
+    
+    <item>
+      <title>The Weekly Reset: Process Over Artifact</title>
+      <link>https://digital.douglangille.ca/the-weekly-reset-process-over-artifact/</link>
+      <guid isPermaLink="true">https://digital.douglangille.ca/the-weekly-reset-process-over-artifact/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 -0300</pubDate>
+
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/the-weekly-reset-process-over-artifact/a94eb8b8-2c35-4848-a216-449ad84bb18a_1536x1024.png" medium="image"/>
+      
+
+      
+      <media:content url="https://digital.douglangille.ca/assets/images/the-weekly-reset-process-over-artifact/a94eb8b8-2c35-4848-a216-449ad84bb18a_1536x1024.png" medium="image"/>
+      
+
+      <description>
+        <![CDATA[
+          <p>Monday doesn’t care about your feelings.</p>
+
+        ]]>
+      </description>
+
+    </item>
+    
+  </channel>
+</rss>
