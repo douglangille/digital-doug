@@ -1,0 +1,52 @@
+---
+layout: null
+permalink: /feed.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <link>{{ site.url | xml_escape }}{{ site.baseurl }}</link>
+    <description>{{ site.description | xml_escape }}</description>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <language>{{ site.lang | default: "en-US" }}</language>
+
+    {% assign recent = site.posts | sort: "date" | reverse | slice: 0, 12 %}
+    {% for post in recent %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link>{{ site.url | xml_escape }}{{ post.url }}</link>
+      <guid isPermaLink="true">{{ site.url | xml_escape }}{{ post.url }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+
+      {% capture img -%}
+        {%- if post.header.og_image -%}
+          {{ post.header.og_image | absolute_url }}
+        {%- elsif post.header.teaser -%}
+          {{ post.header.teaser | absolute_url }}
+        {%- elsif post.teaser -%}
+          {{ post.teaser | absolute_url }}
+        {%- elsif post.image -%}
+          {{ post.image | absolute_url }}
+        {%- endif -%}
+      {%- endcapture %}
+
+      {% if img and img != "" %}
+      <media:content url="{{ img | strip }}" medium="image"/>
+      {% endif %}
+
+      {% if img %}
+      <media:content url="{{ img }}" medium="image"/>
+      {% endif %}
+
+      <description>
+        <![CDATA[
+          {{ post.excerpt | markdownify }}
+        ]]>
+      </description>
+
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
