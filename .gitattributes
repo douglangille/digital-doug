@@ -1,0 +1,21 @@
+# Default: treat text as text and commit with LF
+* text=auto eol=lf
+
+# Common binaries (never touch line endings)
+*.png  -text
+*.jpg  -text
+*.jpeg -text
+*.gif  -text
+*.webp -text
+*.pdf  -text
+*.ico  -text
+*.zip  -text
+*.woff -text
+*.woff2 -text
+
+# If you use code blocks that care about EOL, you can be explicit:
+*.css  text eol=lf
+*.js   text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.md   text eol=lf
