@@ -324,7 +324,7 @@ var store = [{
         "teaser": "/assets/images/platforms-make-the-worst-landlords/ChatGPT%20Image%20Jan%2021,%202026%20at%2007_05_55%20AM.png"
       },{
         "title": "You Don't Need Another Wellness System",
-        "excerpt":"I am messy. My to-do list still lives across three apps, two notebooks, and way too many sticky notes. I eat lunch in frint of a screen more often than I should. I check my phone when I said I wouldn’t. And right now, during NSCC Wellness Week, I’m writing...","categories": [],
+        "excerpt":"I am messy. My to-do list still lives across three apps, two notebooks, and way too many sticky notes. I eat lunch in front of a screen more often than I should. I check my phone when I said I wouldn’t. And right now, during NSCC Wellness Week, I’m writing...","categories": [],
         "tags": ["wellness","digital-life","habits","productivity","self-improvement"],
         "url": "/you-dont-need-another-wellness-system/",
         "teaser": "/assets/images/you-dont-need-another-wellness-system/IMG_0627.jpeg"
