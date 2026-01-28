@@ -12,7 +12,7 @@ tags:
 excerpt: "Being Okay Ain't Religion"
 ---
 
-I am messy. My to-do list *still* lives across three apps, two notebooks, and way too many sticky notes. I eat lunch in frint of a screen more often than I should. I check my phone when I said I wouldn't. And right now, during NSCC Wellness Week, I'm writing a blog post about wellness while definitely not feeling "well."
+I am messy. My to-do list *still* lives across three apps, two notebooks, and way too many sticky notes. I eat lunch in front of a screen more often than I should. I check my phone when I said I wouldn't. And right now, during NSCC Wellness Week, I'm writing a blog post about wellness while definitely not feeling "well."
 
 So let me be clear: this isn't another wellness system.
 
