@@ -20,7 +20,7 @@ minimal_mistakes_skin     : "default"
 # Site Logo: Disabled. Site identity is handled via Google Fonts in CSS.
 logo                      : 
 teaser                    : "/assets/images/white500x300.jpg"
-og_image                  : "https://douglangille.ca/assets/images/DarklingWhim-e1569155401864.png"
+og_image                  : "/assets/images/og-digital-doug.png"
 title_separator           : "-"
 words_per_minute          : 200
 breadcrumbs               : false
