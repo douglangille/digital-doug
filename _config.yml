@@ -33,7 +33,7 @@ search_provider           : lunr
 # -----------------------------------------------------------------------------
 author:
   name: "Doug Langille"
-  avatar: "/assets/images/IMG_0040.jpeg"
+  avatar: "/assets/images/bio-photo.png"
   bio: "IT manager, tech writer, and creative storyteller"
   links:
     - label: "Nova Scotia"
