@@ -17,3 +17,5 @@ group :jekyll_plugins do
   gem "jekyll-archives"
   gem "jekyll-redirect-from"
 end
+
+gem "jekyll-favicon-generator", "~> 0.1.1"

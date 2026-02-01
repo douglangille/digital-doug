@@ -111,6 +111,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
+  - jekyll-favicon-generator
 
 category_archive:
   type                    : jekyll-archives
