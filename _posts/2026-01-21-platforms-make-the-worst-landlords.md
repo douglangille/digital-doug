@@ -46,7 +46,7 @@ There was the WordPress era. Then the Substack experiment, a year and a half of 
 
 I'm documenting the mistakes so you don't repeat them. I've built this infrastructure multiple times with reflection between each iteration. That experience matters.
 
-I've made an active decision that my core presence sits on two owned properties: [digital.douglangille.ca](https://digital.douglangille.ca) for Digital Doug and [douglangille.ca](https://douglangille.ca) for On a Darkling Whim. 
+I've made an active decision that my core presence sits on two owned properties: [digital.douglangille.ca](https://digital.douglangille.ca) for Digital Doug and [douglangille.ca](https://douglangille.ca) for Darkling Whim. 
 
 Any future experiments live on another domain. That's my personal commitment going forward. Stability isn't in never trying new things. It's in owning the foundation.
 
@@ -85,7 +85,7 @@ This post is my last Substack post. I'll be removing the archive after a warrant
 
 **The key point**: everything lives in my GitHub repository as text files I control. I publish to SharePoint, LinkedIn, wherever. But the source is mine.
 
-**Side note**: [On a Darkling Whim](https://douglangille.ca) is separate. My creative fiction site, wonder with teeth.
+**Side note**: [Darkling Whim](https://douglangille.ca) is separate. My creative fiction site, wonder with teeth.
 
 ## Why This Matters
 
