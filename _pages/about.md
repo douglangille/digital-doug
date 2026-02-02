@@ -38,7 +38,7 @@ You've been warned.
 
 ## Beyond This Site
 
-I also write dark fiction at [Darkling Whim](https://douglangille.ca/). Two separate worlds. This one has coffee; that one has whiskey.
+I also write dark fiction at [Darkling Whim](https://douglangille.ca/). Two separate worlds. This one has black coffee. That one has whiskey in it.
 
 ---
 
