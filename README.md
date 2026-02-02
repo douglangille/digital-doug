@@ -10,17 +10,7 @@ Digital Doug is Doug Langille's technology-focused blog exploring AI integration
 
 **Description**: Tech-related brain-droppings about innovation, productivity, and higher ed. You've been warned.
 
-This Jekyll site uses the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme and is deployed via Netlify.
-
-## Migration from Substack
-
-This repository represents a platform migration from [douglangille.substack.com](https://douglangille.substack.com) completed in January 2026. The migration provides:
-
-- Full content ownership and version control
-- Integration with GitHub-based writing workflows
-- Customizable design and features
-- No platform lock-in
-- RSS feed continuity
+This Jekyll site uses the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme and is deployed via GitHub Actions.
 
 ## Site Structure
 
