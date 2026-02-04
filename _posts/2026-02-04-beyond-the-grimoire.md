@@ -31,7 +31,7 @@ No one told you spell collection is the beginning, not the end.
 
 ## The Path to Mastery
 
-AI mastery is a journey through three levels. You can see where you are and where you're going.
+AI mastery is a journey through three levels. 
 
 **Level 1: Incantations** (The "What")  
 Basic prompts everyone learns first. Formatted emails, research techniques, reverse prompting for critical thinking. Necessary table-stakes. Start here.
@@ -46,11 +46,11 @@ Let's move through the foundations, then get to what actually matters.
 
 ## Level 1: The Grimoire
 
-You have a folder of "good prompts." Maybe it's in OneNote. Maybe it's a Word doc titled "AI Prompts - DO NOT DELETE." (You've never opened it twice.) You copy-paste from workshop handouts. You swap templates with colleagues.
+You have a folder of "good prompts." Maybe it's in OneNote. Maybe it's a Word doc titled "AI Prompts - DO NOT DELETE." You copy-paste from Reddit threads. You swap prompting recipes with colleagues.
 
 This feels helpful. It gives you starting points. It reduces the anxiety of the blank chat box. Sometimes it even produces decent results.
 
-But you're not learning the logic behind the prompts. You don't know WHY they work and, more importantly, why they don't. You can't adapt when the context changes. You're dependent on the library.
+But you're not learning the logic behind the prompts. You don't know WHY they work and, more importantly, why they don't. You can't adapt when the context changes. You're dependent on the spell book.
 
 If you're just copy-pasting, you aren't a wizard. You're a scribe. You can't stay here and expect mastery.
 
@@ -70,7 +70,7 @@ But competence without judgment is just making mistakes at scale. You can build 
 
 You have instincts. You ignore them because the AI sounds confident and you're not sure. Stop that.
 
-Remember Mickey Mouse in Fantasia? He knows how to animate the broom. He doesn't know how to stop it. That's Level 2. You've learned to cast spells. You haven't learned when to put the damn wand down.
+Remember Mickey Mouse in Fantasia? He knows how to make a broom dance. He doesn't know how to stop it. That's where Level 2 ends. You've learned to cast spells. You haven't learned when to put the damn wand down.
 
 ### The Wizard's Audit
 
@@ -109,7 +109,7 @@ A student uses AI to write an essay introduction. The AI makes it more formal, m
 
 If you removed your name from the output, would people still recognize your thinking? Could you defend every choice? Are you still in the driver's seat, or has the AI taken the wheel?
 
-Sometimes the output is technically correct but the vibe is off. You know AI slop when you see it: overly formal, suspiciously comprehensive, and bloated with enough adverbs and adjectives to summon Hemingway's ghost. 
+Sometimes the output is technically correct but the vibe is off. You know AI slop when you see it: overly formal, suspiciously comprehensive, and bloated with enough adverbs and adjectives to summon the ire of Hemingway's ghost. 
 
 If it feels like generic AI, no amount of prompting will fix it. Change your approach or go manual.
 
@@ -119,7 +119,7 @@ This is the hardest question because it requires you to fight your own instincts
 
 You've been taught that more iteration equals better results. That persistence pays off. That if you just keep refining, you'll get there. Sometimes that's true and it works out.
 
-But sometimes the problem isn't the iteration. 
+But sometimes the problem isn't with iteration. 
 
 You're fifteen iterations into a quiz question. Each version is slightly different but not actually better. You keep thinking "just one more tweak." The problem isn't the phrasing. The problem is the question itself. It's testing the wrong thing. No amount of iteration will fix a fundamentally broken premise.
 
