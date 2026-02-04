@@ -36,7 +36,7 @@ AI mastery is a journey through three levels.
 **Level 1: Incantations** (The "What")  
 Basic prompts everyone learns first. Formatted emails, research techniques, reverse prompting for critical thinking. Necessary table-stakes. Start here.
 
-**Level 2: Construction** (The "How")  
+**Level 2: Alchemy** (The "How")  
 Learning to mix context, constraints, and personas. Building prompts from logic instead of copying from libraries. Understanding why certain structures work.
 
 **Level 3: Wisdom** (The "When")  
@@ -44,7 +44,7 @@ Meta-questions about AI literacy. When to stop. When to start fresh. When to go 
 
 Let's move through the foundations, then get to what actually matters.
 
-## Level 1: The Grimoire
+## Level 1: Incantations
 
 You have a folder of "good prompts." Maybe it's in OneNote. Maybe it's a Word doc titled "AI Prompts - DO NOT DELETE." You copy-paste from Reddit threads. You swap prompting recipes with colleagues.
 
@@ -54,7 +54,7 @@ But you're not learning the logic behind the prompts. You don't know WHY they wo
 
 If you're just copy-pasting, you aren't a wizard. You're a scribe. You can't stay here and expect mastery.
 
-## Level 2: Construction
+## Level 2: Alchemy
 
 At Level 2, you stop asking "What's the prompt for this?" and start asking "How do I build the right prompt for this specific situation?"
 
@@ -66,7 +66,7 @@ This is real progress. You feel competent.
 
 But competence without judgment is just making mistakes at scale. You can build perfect prompts all day long. But if you don't know which prompts to build, or when to stop entirely, you're not a wizard. You're just busy.
 
-## Level 3: The Wisdom
+## Level 3: Wisdom
 
 You have instincts. You ignore them because the AI sounds confident and you're not sure. Stop that.
 
