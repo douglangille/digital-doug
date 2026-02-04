@@ -17,7 +17,6 @@ timezone: "America/Halifax"
 # -----------------------------------------------------------------------------
 theme                     : "minimal-mistakes-jekyll"
 minimal_mistakes_skin     : "default"
-# Site Logo: Disabled. Site identity is handled via Google Fonts in CSS.
 logo                      : 
 teaser                    : "/assets/images/white500x300.jpg"
 og_image                  : "/assets/images/og-digital-doug.png"
