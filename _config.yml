@@ -15,7 +15,7 @@ timezone: "America/Halifax"
 # -----------------------------------------------------------------------------
 # Theme & Visuals
 # -----------------------------------------------------------------------------
-remote_theme                     : "minimal-mistakes-jekyll"
+theme                     : "minimal-mistakes-jekyll"
 minimal_mistakes_skin     : "default"
 # Site Logo: Disabled. Site identity is handled via Google Fonts in CSS.
 logo                      : 
