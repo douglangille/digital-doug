@@ -27,7 +27,7 @@ It's not entirely your fault. But it's definitely your problem.
 
 The problem? You're a medieval monk copying manuscripts. Except monks knew they were monks. You think you're doing magic.
 
-The real problem is that no one told you spell collection is the beginning, not the end.
+No one told you spell collection is the beginning, not the end.
 
 ## The Path to Mastery
 
