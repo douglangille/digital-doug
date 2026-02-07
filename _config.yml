@@ -180,8 +180,14 @@ defaults:
       author_profile      : true
       read_time           : true
       share               : false
+      comments            : false
+  - scope:
+      path                : "_posts"
+      type                : "posts"
+    values:
+      comments            : true  
+      layout              : "single"
+      author_profile      : true
+      read_time           : true
+      share               : false
       related             : true
-      comments            : true
-      show_date           : true
-      excerpt             : ""
-      overlay_filter      : 0.5
