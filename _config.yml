@@ -65,6 +65,24 @@ footer:
       url                 : "https://www.linkedin.com/in/douglangille/"
 
 # -----------------------------------------------------------------------------
+# Comments
+# -----------------------------------------------------------------------------
+comments:
+  provider:         "giscus"
+  giscus:
+    repo:                "douglangille/comments"
+    repo-id:             "R_kgDORK-uyQ"
+    category:            "General"
+    category-id:         "DIC_kwDORK-uyc4C2BM0"
+    mapping:             "pathname"
+    strict:              0
+    reactions-enabled:   true
+    emit_metadata:       false
+    input_position:      bottom
+    theme:               preferred_color_scheme
+    lang:                en
+
+# -----------------------------------------------------------------------------
 # Build & Formatting
 # -----------------------------------------------------------------------------
 markdown                  : kramdown
@@ -162,7 +180,7 @@ defaults:
       read_time           : true
       share               : false
       related             : true
-      comments            : false
+      comments            : true
       show_date           : true
       excerpt             : ""
       overlay_filter      : 0.5
