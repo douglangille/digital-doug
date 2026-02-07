@@ -68,19 +68,20 @@ footer:
 # Comments
 # -----------------------------------------------------------------------------
 comments:
-  provider:         "giscus"
+  provider: "giscus"
   giscus:
-    repo:                "douglangille/comments"
-    repo-id:             "R_kgDORK-uyQ"
-    category:            "General"
-    category-id:         "DIC_kwDORK-uyc4C2BM0"
-    mapping:             "pathname"
-    strict:              0
-    reactions-enabled:   true
-    emit_metadata:       false
-    input_position:      bottom
-    theme:               preferred_color_scheme
-    lang:                en
+    repo: "douglangille/comments"
+    repo_id: "R_kgDORK-uyQ"
+    category: "General"
+    category_id: "DIC_kwDORK-uyc4C2BM0"
+    mapping: "pathname"
+    strict: "0"
+    reactions_enabled: "1"
+    emit_metadata: "0"
+    input_position: "bottom"
+    theme: "preferred_color_scheme"
+    lang: "en"
+
 
 # -----------------------------------------------------------------------------
 # Build & Formatting
