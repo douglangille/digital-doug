@@ -1,6 +1,7 @@
 ---
-layout: null
 title: Subscribe via RSS
+search: false
+permalink: /rss
 ---
 
 <meta http-equiv="refresh" content="0; url=/feed.xml">
