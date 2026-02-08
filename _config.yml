@@ -1,16 +1,16 @@
 # -----------------------------------------------------------------------------
-# Site Identity & Metadata (Digital Doug)
+# Site Identity & Metadata
 # -----------------------------------------------------------------------------
-title: "Digital Doug"
-subtitle: "Where pixels meet purpose"
-description: "Tech-related brain-droppings about innovation, productivity, and higher ed. You've been warned."
-baseurl: ""
-url: "https://digital.douglangille.ca"
-repository: "douglangille/digital-doug"
-
-email: "me@douglangille.ca"
-locale: "en-CA"
-timezone: "America/Halifax"
+title                     : "Digital Doug"
+subtitle                  : "Where pixels meet purpose"
+name                      : "Doug Langille"
+description               : "Tech-related brain-droppings about innovation, productivity, and higher ed. You've been warned."
+baseurl                   : ""
+url                       : "https://digital.douglangille.ca"
+repository                : "douglangille/digital-doug"
+email                     : "me@douglangille.ca"
+locale                    : "en-CA"
+timezone                  : "America/Halifax"
 
 # -----------------------------------------------------------------------------
 # Theme & Visuals
