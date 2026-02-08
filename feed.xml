@@ -36,10 +36,6 @@ permalink: /feed.xml
       <media:content url="{{ img | strip }}" medium="image"/>
       {% endif %}
 
-      {% if img %}
-      <media:content url="{{ img }}" medium="image"/>
-      {% endif %}
-
       <description>
         <![CDATA[
           {{ post.excerpt | markdownify }}
