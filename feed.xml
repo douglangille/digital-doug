@@ -7,7 +7,7 @@ permalink: /feed.xml
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
-    <link>{{ site.url | xml_escape }}{{ site.baseurl }}</link>
+    <link>{{ "/" | absolute_url | xml_escape }}</link>
     <description>{{ site.description | xml_escape }}</description>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <language>{{ site.lang | default: "en-US" }}</language>
@@ -16,8 +16,8 @@ permalink: /feed.xml
     {% for post in recent %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
-      <link>{{ site.url | xml_escape }}{{ post.url | absolute_url }}</link>
-      <guid isPermaLink="true">{{ site.url | xml_escape }}{{ post.url | absolute_url }}</guid>
+      <link>{{ post.url | absolute_url | xml_escape }}</link>
+      <guid isPermaLink="true">{{ post.url | absolute_url | xml_escape }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 
       {% capture img -%}
@@ -33,8 +33,8 @@ permalink: /feed.xml
       {%- endcapture %}
 
       {% if img and img != "" %}
-      <media:content url="{{ img | strip }}" medium="image"/>
-      <enclosure url="{{ img | strip }}" type="image/jpeg" length="1"/>
+      <media:content url="{{ img | strip | absolute_url }}" medium="image"/>
+      <enclosure url="{{ img | strip | absolute_url }}" type="image/jpeg" length="1"/>
       {% endif %}
 
       <description>
