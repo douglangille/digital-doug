@@ -18,7 +18,7 @@ permalink: /feed.xml
       <link>{{ post.url | absolute_url }}</link>
       <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-      <description><![CDATA[{{ post.excerpt }}]]></description>
+      <description><![CDATA[{{ post.content }}]]></description>
 
       {% if post.header.teaser %}
         {% assign teaser_img = post.header.teaser | absolute_url %}
