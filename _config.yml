@@ -175,6 +175,7 @@ defaults:
       read_time           : true
       share               : false
       comments            : false
+      classes             : wide
   - scope:
       path                : "_posts"
       type                : "posts"
