@@ -16,8 +16,8 @@ permalink: /feed.xml
     {% for post in recent %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
-      <link>{{ site.url | xml_escape }}{{ post.url }}</link>
-      <guid isPermaLink="true">{{ site.url | xml_escape }}{{ post.url }}</guid>
+      <link>{{ site.url | xml_escape }}{{ post.url | absolute_url }}</link>
+      <guid isPermaLink="true">{{ site.url | xml_escape }}{{ post.url | absolute_url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 
       {% capture img -%}
@@ -34,10 +34,12 @@ permalink: /feed.xml
 
       {% if img and img != "" %}
       <media:content url="{{ img | strip }}" medium="image"/>
+      <enclosure url="{{ img | strip }}" type="image/jpeg" length="1"/>
       {% endif %}
 
       <description>
         <![CDATA[
+          <h3>{{ post.title }}</h3>
           {{ post.excerpt | markdownify }}
         ]]>
       </description>
