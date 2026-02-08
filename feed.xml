@@ -3,48 +3,37 @@ layout: null
 permalink: /feed.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
-    <link>{{ "/" | absolute_url | xml_escape }}</link>
     <description>{{ site.description | xml_escape }}</description>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <link>{{ "/" | absolute_url }}</link>
+    <atom:link href="{{ "/feed.xml" | absolute_url }}" rel="self" type="application/rss+xml"/>
     <language>{{ site.lang | default: "en-US" }}</language>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 
-    {% assign recent = site.posts | sort: "date" | reverse | slice: 0, 12 %}
-    {% for post in recent %}
+    {% for post in site.posts limit:20 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
-      <link>{{ post.url | absolute_url | xml_escape }}</link>
-      <guid isPermaLink="true">{{ post.url | absolute_url | xml_escape }}</guid>
+      <link>{{ post.url | absolute_url }}</link>
+      <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <description><![CDATA[{{ post.excerpt }}]]></description>
 
-      {% capture img -%}
-        {%- if post.header.og_image -%}
-          {{ post.header.og_image | absolute_url }}
-        {%- elsif post.header.teaser -%}
-          {{ post.header.teaser | absolute_url }}
-        {%- elsif post.teaser -%}
-          {{ post.teaser | absolute_url }}
-        {%- elsif post.image -%}
-          {{ post.image | absolute_url }}
-        {%- endif -%}
-      {%- endcapture %}
-
-      {% if img and img != "" %}
-      <media:content url="{{ img | strip | absolute_url }}" medium="image"/>
-      <enclosure url="{{ img | strip | absolute_url }}" type="image/jpeg" length="1"/>
+      {% if post.header.teaser %}
+        {% assign teaser_img = post.header.teaser | absolute_url %}
+      {% elsif post.header.og_image %}
+        {% assign teaser_img = post.header.og_image | absolute_url %}
+      {% elsif site.og_image %}
+        {% assign teaser_img = site.og_image | absolute_url %}
       {% endif %}
 
-      <description>
-        <![CDATA[
-          <h3>{{ post.title }}</h3>
-          {{ post.excerpt | markdownify }}
-        ]]>
-      </description>
-
+      {% if teaser_img %}
+      <media:content url="{{ teaser_img }}" medium="image"/>
+      <enclosure url="{{ teaser_img }}" type="image/jpeg" length="0"/>
+      {% endif %}
     </item>
     {% endfor %}
+
   </channel>
 </rss>
