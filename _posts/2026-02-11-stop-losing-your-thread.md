@@ -40,7 +40,7 @@ Don't let the AI manage its own whiteboard. You need to be the context manager. 
 
 ### Proof: Drift in Action
 
-Here's what happens in a real creative writing session with modern chatbots. I built a short story as a test demo this morning. Zombie accountant. 10 messages over about 15 minutes.
+Here's what happens in a real creative writing session with modern chatbots. I built a short story as a test demo. Zombie accountant. 10 messages over about 15 minutes.
 
 Message 1 had very specific constraints: Brenda Chen, age 42, TD Tower on Barrington Street in Halifax, exactly 500 words, darkly comedic. Messages 2-9 were normal iterative writing. I added complexity: a colleague named Marcus, a client meeting, a zombie support group subplot.
 
