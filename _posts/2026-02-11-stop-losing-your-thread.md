@@ -251,8 +251,7 @@ Don't wait until it's catastrophic - if you're repeating yourself or the AI keep
 
 Scratchpad rescue works when you're deep in data analysis and the robot screwed up your filtering criteria, when you're drafting policy documents and the tone shifts away from your original requirements, or when you're troubleshooting technical issues and earlier diagnostic steps get compressed out.
 
-**Save scratchpads externally** 
-Use them to start fresh conversations with clean context. Think of them as "save states" for AI conversations.
+**Save scratchpads externally.** Use them to start fresh conversations with clean context. Think of them as "save states" for AI conversations.
 
 ## Choosing Your Technique
 
@@ -295,9 +294,7 @@ The chatbot tracks drift and generates summaries without prompting. For multi-se
 
 There are tools like MCP connections to external storage that can smooth out some wrinkles. But start with text files. The principle is what matters: **your context lives outside the chat, portable across tools and time.**
 
-## Closing
-
-### The Mindset Shift
+## The Mindset Shift
 
 Stop treating AI like Google. 
 
