@@ -3,17 +3,17 @@ permalink: /now/
 title: "Now"
 ---
 
-*What I'm actively working on as of January 2026.*
+*What I'm actively working on as of February 2026.*
 
 ## Current Projects
 
 **AI Implementation at NSCC**
-- Leading Microsoft 365 Copilot deployment across the college
+- Leading Microsoft 365 Copilot adoption across the college
 - Testing enterprise AI in all its bureaucratic glory
 - Building practical frameworks for faculty adoption
 
 **Personal AI Stack**
-- Running workflows across Mistral, Perplexity, Claude, ChatGPT, NotebookLM, and Gemini simultaneously
+- Running workflows across Perplexity, GitHub Copilot, and Claude (and ChatGPT, Mistral, and Gemini)
 - Documenting what actually works vs. what's marketing hype
 - Building reusable patterns for knowledge work
 
@@ -36,6 +36,6 @@ title: "Now"
 
 ---
 
-*Updated: January 2026*
+*Updated: February 2026*
 
 For bio and site overview, see [About](/about/).
