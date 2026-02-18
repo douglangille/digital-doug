@@ -13,7 +13,7 @@ title: "Now"
 - Building practical frameworks for faculty adoption
 
 **Personal AI Stack**
-- Running workflows across Perplexity, GitHub Copilot, and Claude (and ChatGPT, Mistral, and Gemini)
+- Running workflows across Perplexity, GitHub Copilot, and Claude 
 - Documenting what actually works vs. what's marketing hype
 - Building reusable patterns for knowledge work
 
