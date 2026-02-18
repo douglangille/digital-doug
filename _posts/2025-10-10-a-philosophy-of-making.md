@@ -53,48 +53,48 @@ I didn’t design a system. I just noticed one forming while I tried to make sen
 
 Every project starts the same way: a pile of fragments. Notes, links, stray thoughts, maybe a quote from a podcast I barely remember. I throw it all into one place and call it “research.” That’s **collect.** It’s messy and usually too much, but it keeps the curiosity fed.
 
-```
 Prompt: 
 
-“Here’s a messy pile of notes and links on [topic]. Don’t summarize. Group related fragments, name the themes, and flag what’s missing or underdeveloped.”
+```
+Here’s a messy pile of notes and links on [topic]. Don’t summarize. Group related fragments, name the themes, and flag what’s missing or underdeveloped.
+```
 
 Paste into your AI chat. Replace [topic]. Paste or insert your notes.
-```
+
 
 Then comes **analyze.** I stare at the pile until patterns start whispering. Sometimes the AI helps by asking smarter questions than I would. Sometimes it just mirrors my confusion until something clicks. Either way, this phase is about seeing what’s really there, not what I wish was.
 
-```
 Prompt: 
 
-“Start asking me smart, one-at-a-time questions about [topic]. The goal is to uncover the real problem or tension beneath the surface, not to make it sound good.”
+```
+Start asking me smart, one-at-a-time questions about [topic]. The goal is to uncover the real problem or tension beneath the surface, not to make it sound good.
+```
 
 Paste into your AI chat. Replace [topic] or just reference your notes.
-```
 
 Next is **structure.** This is where it starts to feel like making. Ideas stop floating and start snapping into place. Outlines form, diagrams appear, logic takes shape. I love this part. It’s where curiosity meets coherence. It’s also where most people bail because the high of discovery fades and the grind of organization begins. I get that. The Mid-world fog of war is seductive and exhausting in equal measure. *Thankee sai*.
 
-```
 Prompt: 
-
-“Build a rough outline based on what we’ve explored. Shape it like a story: setup, tension, resolution. Then ask what I’m really trying to say and what emotion I want to leave behind.”
+```
+Build a rough outline based on what we’ve explored. Shape it like a story: setup, tension, resolution. Then ask what I’m really trying to say and what emotion I want to leave behind.
+```
 
 Paste into your AI chat. Iterate. Later, rinse and repeat.
-```
 
 The last phase is **render.** This is the public version: writing the text, turning the private mess into something another human can use. It’s the least mysterious part but also the hardest, because it means deciding when to stop tinkering and hit publish.
 
-```
 Prompt: 
 
-“Draft a structured detailed outline version for [output]. Keep my tone, keep it human. Add placeholders for visuals or data where they’d help the reader see, not just read.”
+```
+Draft a structured detailed outline version for [output]. Keep my tone, keep it human. Add placeholders for visuals or data where they’d help the reader see, not just read.
+```
 
 Paste into your AI chat. Replace [output] with blog post, essay, brief, infographic, slide deck, etc. You can handwrite the draft from this outline. Or get the robots to help. Or work together. You do you.
-```
 
-```
 Bonus Round Prompt: 
 
-“Using the outline we developed, create a single-page infographic in HTML/CSS/JS that visually tells the story. 
+```
+Using the outline we developed, create a single-page infographic in HTML/CSS/JS that visually tells the story. 
 - The design should feel like a narrative, not a dashboard: one scroll, one idea per section.
 - Use semantic HTML5, clean responsive CSS (Tailwind or vanilla), and light, unobtrusive JS for any interactivity or animation.
 - Respect color contrast; ensure keyboard focus for any interactive elements.
