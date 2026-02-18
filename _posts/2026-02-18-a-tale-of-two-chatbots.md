@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.4
 ---
 
-I run two completely different chatbot setups. M365 Copilot for NSCC work, Perplexity for personal projects. Same principle, opposite strategies. This works for me because I have separable contexts. Your situation might be different. Here's what I've learned and what my configs look like.
+I run two completely different chatbot setups. M365 Copilot for NSCC work, Perplexity for personal projects. Same principle, opposite strategies. This works for me because I have separable contexts. Your situation might be different. Here's what I've learned and what my configs look like. Or don't. The counter-argument is worth hearing first.
 
 ## The Problem: Context Contamination Is Real
 
@@ -53,8 +53,6 @@ Chat Management: Keep threads indefinitely
 
 Why? Because keeping receipts matters in institutional contexts. I need to find that conversation from three weeks ago mapping governance dependencies. Search handles the clutter. Discoverability beats tidiness.
 
-The trade-off: accumulated cruft eventually poisons search. You reach a point where finding that crucial thread from two months ago takes longer than it should.
-
 ## Personal Configuration: The Ephemeral Workshop
 
 For personal work, I use Perplexity. The same strategy works with any decent model: the tool matters less than the config.
@@ -91,7 +89,7 @@ The trade-off: you lose those serendipitous connections. The Italian baggage han
 
 ## I love my table saw, but I'm not telling it my secrets.
 
-This needs airtime. Memory ON provides great functionality. It also invites emotional and intellectual attachment. If you're tapping the robot as a tool, great. But once it starts accumulating your context, it stops being just a tool. I get why people want a chatbot that *gets* them: combating loneliness, augmenting therapy, things like that. But the parasocial risk is real. Balance your AI usage with a healthy dose of people time in Meatspace.
+Memory ON means accumulated context, which means attachment. The parasocial risk is real. Balance your AI usage with a healthy dose of people time in Meatspace.
 
 ## The Key Contrasts
 
