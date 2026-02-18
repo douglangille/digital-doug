@@ -5,6 +5,7 @@ tags: [ai, tools, work]
 header:
   teaser: "/assets/images/a-tale-of-two-chatbots/80421e81-eeb7-4e7e-9656-0d7aa9eae465.png"
   overlay_image: "/assets/images/a-tale-of-two-chatbots/80421e81-eeb7-4e7e-9656-0d7aa9eae465.png"
+  overlay_filter: 0.4
 ---
 
 I run two completely different chatbot setups. M365 Copilot for NSCC work, Perplexity for personal projects. Same principle, opposite strategies. This works for me because I have separable contexts. Your situation might be different. Here's what I've learned and what my configs look like.
