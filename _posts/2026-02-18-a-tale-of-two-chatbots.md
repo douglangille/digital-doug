@@ -111,7 +111,7 @@ Both setups? Custom instructions can calcify. You'll be tempted to adding rules 
 
 ## Should You Do This?
 
-Start with one config. Watch for voice drift: personal stuff leaking into work, work contaminating creative projects. Split when the bleed matters. This isn't universal practice. It's isolation applied where it solves an actual problem.
+Start with one config. Watch for voice drift: personal stuff leaking into work, work infesting creative projects. Split when the bleed matters. This isn't universal practice. It's isolation applied where it solves an actual problem.
 
 The counter-argument is simpler: let it happen. Be the human in the loop. Humans don't live in Severance-like cages: work and life blend constantly. Sometimes the chatbot should too. My setup works because I *choose* when to isolate and when to let things cross-pollinate. That choice is the thing. If your contexts are tangled, don't force separation. Use your damn judgment. Life isn't clean. Neither is this system. But it's working for me.
 
