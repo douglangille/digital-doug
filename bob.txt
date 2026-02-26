@@ -1,0 +1,1286 @@
+  Logging at level: debug
+    Jekyll Version: 4.4.1
+Configuration file: /Users/W0001680/GitHub/digital-doug/_config.yml
+             Theme: minimal-mistakes-jekyll
+      Theme source: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3
+         Requiring: jekyll-paginate
+         Requiring: jekyll-sitemap
+         Requiring: jekyll-gist
+         Requiring: jekyll-feed
+         Requiring: jekyll-include-cache
+         Requiring: jekyll-paginate-v2
+         Requiring: jekyll-archives
+         Requiring: jekyll-sitemap
+         Requiring: jekyll-gist
+         Requiring: jekyll-include-cache
+            Source: /Users/W0001680/GitHub/digital-doug
+       Destination: /Users/W0001680/GitHub/digital-doug/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+           Reading: /_layouts/archive-taxonomy.html
+           Reading: /_layouts/single.html
+           Reading: /_layouts/archive.html
+           Reading: /_layouts/categories.html
+           Reading: /_layouts/category.html
+           Reading: /_layouts/collection.html
+           Reading: /_layouts/compress.html
+           Reading: /_layouts/default.html
+           Reading: /_layouts/home.html
+           Reading: /_layouts/posts.html
+           Reading: /_layouts/search.html
+           Reading: /_layouts/splash.html
+           Reading: /_layouts/tag.html
+           Reading: /_layouts/tags.html
+       EntryFilter: excluded /_drafts
+       EntryFilter: excluded /Gemfile
+       EntryFilter: excluded /Gemfile.lock
+       EntryFilter: excluded /.jekyll-cache
+           Reading: _posts/2019-10-02-what-i-use-to-make-it-through-the-day.md
+           Reading: _posts/2019-10-09-tasks-and-lists.md
+           Reading: _posts/2019-10-16-just-do-it.md
+           Reading: _posts/2019-10-23-lets-get-sticky.md
+           Reading: _posts/2019-10-30-making-teams-work.md
+           Reading: _posts/2019-11-06-dont-change-that-channel.md
+           Reading: _posts/2019-11-13-minimalist-phone.md
+           Reading: _posts/2019-11-20-unproject-management-part-1.md
+           Reading: _posts/2019-11-27-unproject-management-part-2.md
+           Reading: _posts/2019-12-04-plan-the-planny-plan-in-planner.md
+           Reading: _posts/2019-12-11-why-email.md
+           Reading: _posts/2019-12-18-your-inbox-is-thine-enemy.md
+           Reading: _posts/2020-01-08-focus-with-music.md
+           Reading: _posts/2020-01-15-projects-vs-operations.md
+           Reading: _posts/2020-01-22-plain-text-rebellion.md
+           Reading: _posts/2020-01-29-i-markdown.md
+           Reading: _posts/2020-02-05-format-your-style.md
+           Reading: _posts/2020-02-12-bing.md
+           Reading: _posts/2020-02-19-is-the-stylus-mightier-than-the-keyboard.md
+           Reading: _posts/2020-02-26-down-the-infographic-rabbit-hole.md
+           Reading: _posts/2020-03-11-when-to-use-what-with-office-365.md
+           Reading: _posts/2020-03-26-psa-take-care-of-your-eyes.md
+           Reading: _posts/2020-04-08-dougs-rules-of-work-at-home.md
+           Reading: _posts/2020-04-17-how-not-to-be-a-jerk-online.md
+           Reading: _posts/2020-09-01-how-to-break-up-with-adobe.md
+           Reading: _posts/2024-01-29-digital-fluency-in-2024.md
+           Reading: _posts/2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully.md
+           Reading: _posts/2024-03-21-a-couple-llm-prompt-tips.md
+           Reading: _posts/2024-04-10-some-goblins-are-kinda-cute.md
+           Reading: _posts/2024-05-03-technology-self-help.md
+           Reading: _posts/2024-05-30-taming-the-chaos.md
+           Reading: _posts/2024-06-11-how-i-plan-my-week.md
+           Reading: _posts/2024-08-14-microsoft-classic-vs-365-ecosystem.md
+           Reading: _posts/2025-03-04-from-files-to-flow-looping-into-the-future.md
+           Reading: _posts/2025-04-07-this-is-how-im-using-generative-ai.md
+           Reading: _posts/2025-08-08-ai-is-the-new-literacy.md
+           Reading: _posts/2025-08-15-the-workbench-is-not-the-work.md
+           Reading: _posts/2025-09-10-ai-harmonizes-with-my-ideas.md
+           Reading: _posts/2025-09-19-slaying-the-algorithm-dragon.md
+           Reading: _posts/2025-09-26-confidently-wrong.md
+           Reading: _posts/2025-10-03-five-minutes-ahead.md
+           Reading: _posts/2025-10-10-a-philosophy-of-making.md
+           Reading: _posts/2025-10-24-the-weekly-reset-process-over-artifact.md
+           Reading: _posts/2025-10-29-the-rhetorical-machine.md
+           Reading: _posts/2025-11-05-the-liminal-workplace.md
+           Reading: _posts/2025-11-12-thinking-like-an-ecosystem.md
+           Reading: _posts/2025-11-19-digital-craftsmanship.md
+           Reading: _posts/2025-11-26-1-1-3-building-a-tech-career-on-what-you-already-know.md
+           Reading: _posts/2025-12-03-the-accidental-notetaker.md
+           Reading: _posts/2025-12-10-the-joy-of-missing-out-an-email-manifesto-for-december.md
+           Reading: _posts/2025-12-17-everything-is-brown.md
+           Reading: _posts/2026-01-07-three-ai-tricks-i-use-that-actually-work.md
+           Reading: _posts/2026-01-14-stop-petting-the-ai.md
+           Reading: _posts/2026-01-21-platforms-make-the-worst-landlords.md
+           Reading: _posts/2026-01-28-you-dont-need-another-wellness-system.md
+           Reading: _posts/2026-02-04-beyond-the-grimoire.md
+           Reading: _posts/2026-02-11-stop-losing-your-thread.md
+           Reading: _posts/2026-02-18-a-tale-of-two-chatbots.md
+           Reading: _posts/2026-02-25-identity-shifting.md
+           Reading: _pages/articles.md
+           Reading: _pages/graph.html
+           Reading: _pages/graph-data.json
+           Reading: _pages/rss.md
+           Reading: _pages/404.md
+           Reading: _pages/now.md
+           Reading: _pages/about.md
+           Reading: assets/css/main.scss
+           Reading: feed.xml
+           Reading: index.html
+           Reading: assets/css/main.scss
+             Theme: Ignoring assets/css/main.scss in theme due to existing file with that path in site.
+           Reading: assets/js/lunr/lunr-en.js
+           Reading: assets/js/lunr/lunr-gr.js
+           Reading: assets/js/lunr/lunr-store.js
+           Reading: _data/navigation.yml
+           Reading: _data/navigation.yml
+           Reading: _data/ui-text.yml
+        Generating: Jekyll::Archives::Archives finished in 0.000278 seconds.
+        Generating: JekyllRedirectFrom::Generator finished in 0.004634 seconds.
+        Generating: Jekyll::JekyllSitemap finished in 0.002056 seconds.
+         AutoPages: Generating tags pages
+           Reading: index.html
+           Reading: index.html
+           Reading: index.html
+           Reading: index.html
+           Reading: index.html
+           Reading: index.html
+           Reading: index.html
+           Reading: index.html
+           Reading: index.html
+           Reading: index.html
+           Reading: index.html
+           Reading: index.html
+         AutoPages: categories pages are disabled/not configured in site.config.
+         AutoPages: collections pages are disabled/not configured in site.config.
+        Pagination: Starting
+        Pagination: found page: _pages/articles.md
+        Pagination: found page: index.html
+        Pagination: found page: index.html
+        Pagination: found page: index.html
+        Pagination: found page: index.html
+        Pagination: found page: index.html
+        Pagination: found page: index.html
+        Pagination: found page: index.html
+        Pagination: found page: index.html
+        Pagination: found page: index.html
+        Pagination: found page: index.html
+        Pagination: found page: index.html
+        Pagination: found page: index.html
+        Pagination: Complete, processed 13 pagination page(s)
+        Generating: Jekyll::PaginateV2::Generator::PaginationGenerator finished in 0.007927 seconds.
+        Generating: Jekyll::Paginate::Pagination finished in 6.0e-06 seconds.
+       Jekyll Feed: Generating feed for posts
+        Generating: JekyllFeed::Generator finished in 5.7e-05 seconds.
+         Rendering: _posts/2019-10-02-what-i-use-to-make-it-through-the-day.md
+  Pre-Render Hooks: _posts/2019-10-02-what-i-use-to-make-it-through-the-day.md
+  Rendering Markup: _posts/2019-10-02-what-i-use-to-make-it-through-the-day.md
+Post-Convert Hooks: _posts/2019-10-02-what-i-use-to-make-it-through-the-day.md
+  Rendering Layout: _posts/2019-10-02-what-i-use-to-make-it-through-the-day.md
+         Rendering: _posts/2024-01-29-digital-fluency-in-2024.md/#excerpt
+  Pre-Render Hooks: _posts/2024-01-29-digital-fluency-in-2024.md/#excerpt
+  Rendering Markup: _posts/2024-01-29-digital-fluency-in-2024.md/#excerpt
+Post-Convert Hooks: _posts/2024-01-29-digital-fluency-in-2024.md/#excerpt
+         Rendering: _posts/2025-09-19-slaying-the-algorithm-dragon.md/#excerpt
+  Pre-Render Hooks: _posts/2025-09-19-slaying-the-algorithm-dragon.md/#excerpt
+  Rendering Markup: _posts/2025-09-19-slaying-the-algorithm-dragon.md/#excerpt
+Post-Convert Hooks: _posts/2025-09-19-slaying-the-algorithm-dragon.md/#excerpt
+Include cache miss: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+Include cache miss: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+Include cache miss: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+Include cache miss: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+Include cache miss: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2019-10-09-tasks-and-lists.md
+  Pre-Render Hooks: _posts/2019-10-09-tasks-and-lists.md
+  Rendering Markup: _posts/2019-10-09-tasks-and-lists.md
+Post-Convert Hooks: _posts/2019-10-09-tasks-and-lists.md
+  Rendering Layout: _posts/2019-10-09-tasks-and-lists.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2019-10-16-just-do-it.md
+  Pre-Render Hooks: _posts/2019-10-16-just-do-it.md
+  Rendering Markup: _posts/2019-10-16-just-do-it.md
+Post-Convert Hooks: _posts/2019-10-16-just-do-it.md
+  Rendering Layout: _posts/2019-10-16-just-do-it.md
+         Rendering: _posts/2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully.md/#excerpt
+  Pre-Render Hooks: _posts/2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully.md/#excerpt
+  Rendering Markup: _posts/2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully.md/#excerpt
+Post-Convert Hooks: _posts/2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully.md/#excerpt
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2019-10-23-lets-get-sticky.md
+  Pre-Render Hooks: _posts/2019-10-23-lets-get-sticky.md
+  Rendering Markup: _posts/2019-10-23-lets-get-sticky.md
+Post-Convert Hooks: _posts/2019-10-23-lets-get-sticky.md
+  Rendering Layout: _posts/2019-10-23-lets-get-sticky.md
+         Rendering: _posts/2024-08-14-microsoft-classic-vs-365-ecosystem.md/#excerpt
+  Pre-Render Hooks: _posts/2024-08-14-microsoft-classic-vs-365-ecosystem.md/#excerpt
+  Rendering Markup: _posts/2024-08-14-microsoft-classic-vs-365-ecosystem.md/#excerpt
+Post-Convert Hooks: _posts/2024-08-14-microsoft-classic-vs-365-ecosystem.md/#excerpt
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2019-10-30-making-teams-work.md
+  Pre-Render Hooks: _posts/2019-10-30-making-teams-work.md
+  Rendering Markup: _posts/2019-10-30-making-teams-work.md
+Post-Convert Hooks: _posts/2019-10-30-making-teams-work.md
+  Rendering Layout: _posts/2019-10-30-making-teams-work.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2019-11-06-dont-change-that-channel.md
+  Pre-Render Hooks: _posts/2019-11-06-dont-change-that-channel.md
+  Rendering Markup: _posts/2019-11-06-dont-change-that-channel.md
+Post-Convert Hooks: _posts/2019-11-06-dont-change-that-channel.md
+  Rendering Layout: _posts/2019-11-06-dont-change-that-channel.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2019-11-13-minimalist-phone.md
+  Pre-Render Hooks: _posts/2019-11-13-minimalist-phone.md
+  Rendering Markup: _posts/2019-11-13-minimalist-phone.md
+Post-Convert Hooks: _posts/2019-11-13-minimalist-phone.md
+  Rendering Layout: _posts/2019-11-13-minimalist-phone.md
+         Rendering: _posts/2024-06-11-how-i-plan-my-week.md/#excerpt
+  Pre-Render Hooks: _posts/2024-06-11-how-i-plan-my-week.md/#excerpt
+  Rendering Markup: _posts/2024-06-11-how-i-plan-my-week.md/#excerpt
+Post-Convert Hooks: _posts/2024-06-11-how-i-plan-my-week.md/#excerpt
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2019-11-20-unproject-management-part-1.md
+  Pre-Render Hooks: _posts/2019-11-20-unproject-management-part-1.md
+  Rendering Markup: _posts/2019-11-20-unproject-management-part-1.md
+Post-Convert Hooks: _posts/2019-11-20-unproject-management-part-1.md
+  Rendering Layout: _posts/2019-11-20-unproject-management-part-1.md
+         Rendering: _posts/2025-09-10-ai-harmonizes-with-my-ideas.md/#excerpt
+  Pre-Render Hooks: _posts/2025-09-10-ai-harmonizes-with-my-ideas.md/#excerpt
+  Rendering Markup: _posts/2025-09-10-ai-harmonizes-with-my-ideas.md/#excerpt
+Post-Convert Hooks: _posts/2025-09-10-ai-harmonizes-with-my-ideas.md/#excerpt
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2019-11-27-unproject-management-part-2.md
+  Pre-Render Hooks: _posts/2019-11-27-unproject-management-part-2.md
+  Rendering Markup: _posts/2019-11-27-unproject-management-part-2.md
+Post-Convert Hooks: _posts/2019-11-27-unproject-management-part-2.md
+  Rendering Layout: _posts/2019-11-27-unproject-management-part-2.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2019-12-04-plan-the-planny-plan-in-planner.md
+  Pre-Render Hooks: _posts/2019-12-04-plan-the-planny-plan-in-planner.md
+  Rendering Markup: _posts/2019-12-04-plan-the-planny-plan-in-planner.md
+Post-Convert Hooks: _posts/2019-12-04-plan-the-planny-plan-in-planner.md
+  Rendering Layout: _posts/2019-12-04-plan-the-planny-plan-in-planner.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2019-12-11-why-email.md
+  Pre-Render Hooks: _posts/2019-12-11-why-email.md
+  Rendering Markup: _posts/2019-12-11-why-email.md
+Post-Convert Hooks: _posts/2019-12-11-why-email.md
+  Rendering Layout: _posts/2019-12-11-why-email.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2019-12-18-your-inbox-is-thine-enemy.md
+  Pre-Render Hooks: _posts/2019-12-18-your-inbox-is-thine-enemy.md
+  Rendering Markup: _posts/2019-12-18-your-inbox-is-thine-enemy.md
+Post-Convert Hooks: _posts/2019-12-18-your-inbox-is-thine-enemy.md
+  Rendering Layout: _posts/2019-12-18-your-inbox-is-thine-enemy.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2020-01-08-focus-with-music.md
+  Pre-Render Hooks: _posts/2020-01-08-focus-with-music.md
+  Rendering Markup: _posts/2020-01-08-focus-with-music.md
+Post-Convert Hooks: _posts/2020-01-08-focus-with-music.md
+  Rendering Layout: _posts/2020-01-08-focus-with-music.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2020-01-15-projects-vs-operations.md
+  Pre-Render Hooks: _posts/2020-01-15-projects-vs-operations.md
+  Rendering Markup: _posts/2020-01-15-projects-vs-operations.md
+Post-Convert Hooks: _posts/2020-01-15-projects-vs-operations.md
+  Rendering Layout: _posts/2020-01-15-projects-vs-operations.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2020-01-22-plain-text-rebellion.md
+  Pre-Render Hooks: _posts/2020-01-22-plain-text-rebellion.md
+  Rendering Markup: _posts/2020-01-22-plain-text-rebellion.md
+Post-Convert Hooks: _posts/2020-01-22-plain-text-rebellion.md
+  Rendering Layout: _posts/2020-01-22-plain-text-rebellion.md
+         Rendering: _posts/2024-04-10-some-goblins-are-kinda-cute.md/#excerpt
+  Pre-Render Hooks: _posts/2024-04-10-some-goblins-are-kinda-cute.md/#excerpt
+  Rendering Markup: _posts/2024-04-10-some-goblins-are-kinda-cute.md/#excerpt
+Post-Convert Hooks: _posts/2024-04-10-some-goblins-are-kinda-cute.md/#excerpt
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2020-01-29-i-markdown.md
+  Pre-Render Hooks: _posts/2020-01-29-i-markdown.md
+  Rendering Markup: _posts/2020-01-29-i-markdown.md
+Post-Convert Hooks: _posts/2020-01-29-i-markdown.md
+  Rendering Layout: _posts/2020-01-29-i-markdown.md
+         Rendering: _posts/2024-05-03-technology-self-help.md/#excerpt
+  Pre-Render Hooks: _posts/2024-05-03-technology-self-help.md/#excerpt
+  Rendering Markup: _posts/2024-05-03-technology-self-help.md/#excerpt
+Post-Convert Hooks: _posts/2024-05-03-technology-self-help.md/#excerpt
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2020-02-05-format-your-style.md
+  Pre-Render Hooks: _posts/2020-02-05-format-your-style.md
+  Rendering Markup: _posts/2020-02-05-format-your-style.md
+Post-Convert Hooks: _posts/2020-02-05-format-your-style.md
+  Rendering Layout: _posts/2020-02-05-format-your-style.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2020-02-12-bing.md
+  Pre-Render Hooks: _posts/2020-02-12-bing.md
+  Rendering Markup: _posts/2020-02-12-bing.md
+Post-Convert Hooks: _posts/2020-02-12-bing.md
+  Rendering Layout: _posts/2020-02-12-bing.md
+         Rendering: _posts/2024-05-30-taming-the-chaos.md/#excerpt
+  Pre-Render Hooks: _posts/2024-05-30-taming-the-chaos.md/#excerpt
+  Rendering Markup: _posts/2024-05-30-taming-the-chaos.md/#excerpt
+Post-Convert Hooks: _posts/2024-05-30-taming-the-chaos.md/#excerpt
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2020-02-19-is-the-stylus-mightier-than-the-keyboard.md
+  Pre-Render Hooks: _posts/2020-02-19-is-the-stylus-mightier-than-the-keyboard.md
+  Rendering Markup: _posts/2020-02-19-is-the-stylus-mightier-than-the-keyboard.md
+Post-Convert Hooks: _posts/2020-02-19-is-the-stylus-mightier-than-the-keyboard.md
+  Rendering Layout: _posts/2020-02-19-is-the-stylus-mightier-than-the-keyboard.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2020-02-26-down-the-infographic-rabbit-hole.md
+  Pre-Render Hooks: _posts/2020-02-26-down-the-infographic-rabbit-hole.md
+  Rendering Markup: _posts/2020-02-26-down-the-infographic-rabbit-hole.md
+Post-Convert Hooks: _posts/2020-02-26-down-the-infographic-rabbit-hole.md
+  Rendering Layout: _posts/2020-02-26-down-the-infographic-rabbit-hole.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2020-03-11-when-to-use-what-with-office-365.md
+  Pre-Render Hooks: _posts/2020-03-11-when-to-use-what-with-office-365.md
+  Rendering Markup: _posts/2020-03-11-when-to-use-what-with-office-365.md
+Post-Convert Hooks: _posts/2020-03-11-when-to-use-what-with-office-365.md
+  Rendering Layout: _posts/2020-03-11-when-to-use-what-with-office-365.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2020-03-26-psa-take-care-of-your-eyes.md
+  Pre-Render Hooks: _posts/2020-03-26-psa-take-care-of-your-eyes.md
+  Rendering Markup: _posts/2020-03-26-psa-take-care-of-your-eyes.md
+Post-Convert Hooks: _posts/2020-03-26-psa-take-care-of-your-eyes.md
+  Rendering Layout: _posts/2020-03-26-psa-take-care-of-your-eyes.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2020-04-08-dougs-rules-of-work-at-home.md
+  Pre-Render Hooks: _posts/2020-04-08-dougs-rules-of-work-at-home.md
+  Rendering Markup: _posts/2020-04-08-dougs-rules-of-work-at-home.md
+Post-Convert Hooks: _posts/2020-04-08-dougs-rules-of-work-at-home.md
+  Rendering Layout: _posts/2020-04-08-dougs-rules-of-work-at-home.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2020-04-17-how-not-to-be-a-jerk-online.md
+  Pre-Render Hooks: _posts/2020-04-17-how-not-to-be-a-jerk-online.md
+  Rendering Markup: _posts/2020-04-17-how-not-to-be-a-jerk-online.md
+Post-Convert Hooks: _posts/2020-04-17-how-not-to-be-a-jerk-online.md
+  Rendering Layout: _posts/2020-04-17-how-not-to-be-a-jerk-online.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2020-09-01-how-to-break-up-with-adobe.md
+  Pre-Render Hooks: _posts/2020-09-01-how-to-break-up-with-adobe.md
+  Rendering Markup: _posts/2020-09-01-how-to-break-up-with-adobe.md
+Post-Convert Hooks: _posts/2020-09-01-how-to-break-up-with-adobe.md
+  Rendering Layout: _posts/2020-09-01-how-to-break-up-with-adobe.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2024-01-29-digital-fluency-in-2024.md
+  Pre-Render Hooks: _posts/2024-01-29-digital-fluency-in-2024.md
+  Rendering Markup: _posts/2024-01-29-digital-fluency-in-2024.md
+Post-Convert Hooks: _posts/2024-01-29-digital-fluency-in-2024.md
+  Rendering Layout: _posts/2024-01-29-digital-fluency-in-2024.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully.md
+  Pre-Render Hooks: _posts/2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully.md
+  Rendering Markup: _posts/2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully.md
+Post-Convert Hooks: _posts/2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully.md
+  Rendering Layout: _posts/2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2024-03-21-a-couple-llm-prompt-tips.md
+  Pre-Render Hooks: _posts/2024-03-21-a-couple-llm-prompt-tips.md
+  Rendering Markup: _posts/2024-03-21-a-couple-llm-prompt-tips.md
+Post-Convert Hooks: _posts/2024-03-21-a-couple-llm-prompt-tips.md
+  Rendering Layout: _posts/2024-03-21-a-couple-llm-prompt-tips.md
+         Rendering: _posts/2024-03-21-a-couple-llm-prompt-tips.md/#excerpt
+  Pre-Render Hooks: _posts/2024-03-21-a-couple-llm-prompt-tips.md/#excerpt
+  Rendering Markup: _posts/2024-03-21-a-couple-llm-prompt-tips.md/#excerpt
+Post-Convert Hooks: _posts/2024-03-21-a-couple-llm-prompt-tips.md/#excerpt
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2024-04-10-some-goblins-are-kinda-cute.md
+  Pre-Render Hooks: _posts/2024-04-10-some-goblins-are-kinda-cute.md
+  Rendering Markup: _posts/2024-04-10-some-goblins-are-kinda-cute.md
+Post-Convert Hooks: _posts/2024-04-10-some-goblins-are-kinda-cute.md
+  Rendering Layout: _posts/2024-04-10-some-goblins-are-kinda-cute.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2024-05-03-technology-self-help.md
+  Pre-Render Hooks: _posts/2024-05-03-technology-self-help.md
+  Rendering Markup: _posts/2024-05-03-technology-self-help.md
+Post-Convert Hooks: _posts/2024-05-03-technology-self-help.md
+  Rendering Layout: _posts/2024-05-03-technology-self-help.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2024-05-30-taming-the-chaos.md
+  Pre-Render Hooks: _posts/2024-05-30-taming-the-chaos.md
+  Rendering Markup: _posts/2024-05-30-taming-the-chaos.md
+Post-Convert Hooks: _posts/2024-05-30-taming-the-chaos.md
+  Rendering Layout: _posts/2024-05-30-taming-the-chaos.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2024-06-11-how-i-plan-my-week.md
+  Pre-Render Hooks: _posts/2024-06-11-how-i-plan-my-week.md
+  Rendering Markup: _posts/2024-06-11-how-i-plan-my-week.md
+Post-Convert Hooks: _posts/2024-06-11-how-i-plan-my-week.md
+  Rendering Layout: _posts/2024-06-11-how-i-plan-my-week.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2024-08-14-microsoft-classic-vs-365-ecosystem.md
+  Pre-Render Hooks: _posts/2024-08-14-microsoft-classic-vs-365-ecosystem.md
+  Rendering Markup: _posts/2024-08-14-microsoft-classic-vs-365-ecosystem.md
+Post-Convert Hooks: _posts/2024-08-14-microsoft-classic-vs-365-ecosystem.md
+  Rendering Layout: _posts/2024-08-14-microsoft-classic-vs-365-ecosystem.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-03-04-from-files-to-flow-looping-into-the-future.md
+  Pre-Render Hooks: _posts/2025-03-04-from-files-to-flow-looping-into-the-future.md
+  Rendering Markup: _posts/2025-03-04-from-files-to-flow-looping-into-the-future.md
+Post-Convert Hooks: _posts/2025-03-04-from-files-to-flow-looping-into-the-future.md
+  Rendering Layout: _posts/2025-03-04-from-files-to-flow-looping-into-the-future.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-04-07-this-is-how-im-using-generative-ai.md
+  Pre-Render Hooks: _posts/2025-04-07-this-is-how-im-using-generative-ai.md
+  Rendering Markup: _posts/2025-04-07-this-is-how-im-using-generative-ai.md
+Post-Convert Hooks: _posts/2025-04-07-this-is-how-im-using-generative-ai.md
+  Rendering Layout: _posts/2025-04-07-this-is-how-im-using-generative-ai.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-08-08-ai-is-the-new-literacy.md
+  Pre-Render Hooks: _posts/2025-08-08-ai-is-the-new-literacy.md
+  Rendering Markup: _posts/2025-08-08-ai-is-the-new-literacy.md
+Post-Convert Hooks: _posts/2025-08-08-ai-is-the-new-literacy.md
+  Rendering Layout: _posts/2025-08-08-ai-is-the-new-literacy.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-08-15-the-workbench-is-not-the-work.md
+  Pre-Render Hooks: _posts/2025-08-15-the-workbench-is-not-the-work.md
+  Rendering Markup: _posts/2025-08-15-the-workbench-is-not-the-work.md
+Post-Convert Hooks: _posts/2025-08-15-the-workbench-is-not-the-work.md
+  Rendering Layout: _posts/2025-08-15-the-workbench-is-not-the-work.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-09-10-ai-harmonizes-with-my-ideas.md
+  Pre-Render Hooks: _posts/2025-09-10-ai-harmonizes-with-my-ideas.md
+  Rendering Markup: _posts/2025-09-10-ai-harmonizes-with-my-ideas.md
+Post-Convert Hooks: _posts/2025-09-10-ai-harmonizes-with-my-ideas.md
+  Rendering Layout: _posts/2025-09-10-ai-harmonizes-with-my-ideas.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-09-19-slaying-the-algorithm-dragon.md
+  Pre-Render Hooks: _posts/2025-09-19-slaying-the-algorithm-dragon.md
+  Rendering Markup: _posts/2025-09-19-slaying-the-algorithm-dragon.md
+Post-Convert Hooks: _posts/2025-09-19-slaying-the-algorithm-dragon.md
+  Rendering Layout: _posts/2025-09-19-slaying-the-algorithm-dragon.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-09-26-confidently-wrong.md
+  Pre-Render Hooks: _posts/2025-09-26-confidently-wrong.md
+  Rendering Markup: _posts/2025-09-26-confidently-wrong.md
+Post-Convert Hooks: _posts/2025-09-26-confidently-wrong.md
+  Rendering Layout: _posts/2025-09-26-confidently-wrong.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-10-03-five-minutes-ahead.md
+  Pre-Render Hooks: _posts/2025-10-03-five-minutes-ahead.md
+  Rendering Markup: _posts/2025-10-03-five-minutes-ahead.md
+Post-Convert Hooks: _posts/2025-10-03-five-minutes-ahead.md
+  Rendering Layout: _posts/2025-10-03-five-minutes-ahead.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-10-10-a-philosophy-of-making.md
+  Pre-Render Hooks: _posts/2025-10-10-a-philosophy-of-making.md
+  Rendering Markup: _posts/2025-10-10-a-philosophy-of-making.md
+Post-Convert Hooks: _posts/2025-10-10-a-philosophy-of-making.md
+  Rendering Layout: _posts/2025-10-10-a-philosophy-of-making.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-10-24-the-weekly-reset-process-over-artifact.md
+  Pre-Render Hooks: _posts/2025-10-24-the-weekly-reset-process-over-artifact.md
+  Rendering Markup: _posts/2025-10-24-the-weekly-reset-process-over-artifact.md
+Post-Convert Hooks: _posts/2025-10-24-the-weekly-reset-process-over-artifact.md
+  Rendering Layout: _posts/2025-10-24-the-weekly-reset-process-over-artifact.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-10-29-the-rhetorical-machine.md
+  Pre-Render Hooks: _posts/2025-10-29-the-rhetorical-machine.md
+  Rendering Markup: _posts/2025-10-29-the-rhetorical-machine.md
+Post-Convert Hooks: _posts/2025-10-29-the-rhetorical-machine.md
+  Rendering Layout: _posts/2025-10-29-the-rhetorical-machine.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-11-05-the-liminal-workplace.md
+  Pre-Render Hooks: _posts/2025-11-05-the-liminal-workplace.md
+  Rendering Markup: _posts/2025-11-05-the-liminal-workplace.md
+Post-Convert Hooks: _posts/2025-11-05-the-liminal-workplace.md
+  Rendering Layout: _posts/2025-11-05-the-liminal-workplace.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-11-12-thinking-like-an-ecosystem.md
+  Pre-Render Hooks: _posts/2025-11-12-thinking-like-an-ecosystem.md
+  Rendering Markup: _posts/2025-11-12-thinking-like-an-ecosystem.md
+Post-Convert Hooks: _posts/2025-11-12-thinking-like-an-ecosystem.md
+  Rendering Layout: _posts/2025-11-12-thinking-like-an-ecosystem.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-11-19-digital-craftsmanship.md
+  Pre-Render Hooks: _posts/2025-11-19-digital-craftsmanship.md
+  Rendering Markup: _posts/2025-11-19-digital-craftsmanship.md
+Post-Convert Hooks: _posts/2025-11-19-digital-craftsmanship.md
+  Rendering Layout: _posts/2025-11-19-digital-craftsmanship.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-11-26-1-1-3-building-a-tech-career-on-what-you-already-know.md
+  Pre-Render Hooks: _posts/2025-11-26-1-1-3-building-a-tech-career-on-what-you-already-know.md
+  Rendering Markup: _posts/2025-11-26-1-1-3-building-a-tech-career-on-what-you-already-know.md
+Post-Convert Hooks: _posts/2025-11-26-1-1-3-building-a-tech-career-on-what-you-already-know.md
+  Rendering Layout: _posts/2025-11-26-1-1-3-building-a-tech-career-on-what-you-already-know.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-12-03-the-accidental-notetaker.md
+  Pre-Render Hooks: _posts/2025-12-03-the-accidental-notetaker.md
+  Rendering Markup: _posts/2025-12-03-the-accidental-notetaker.md
+Post-Convert Hooks: _posts/2025-12-03-the-accidental-notetaker.md
+  Rendering Layout: _posts/2025-12-03-the-accidental-notetaker.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-12-10-the-joy-of-missing-out-an-email-manifesto-for-december.md
+  Pre-Render Hooks: _posts/2025-12-10-the-joy-of-missing-out-an-email-manifesto-for-december.md
+  Rendering Markup: _posts/2025-12-10-the-joy-of-missing-out-an-email-manifesto-for-december.md
+Post-Convert Hooks: _posts/2025-12-10-the-joy-of-missing-out-an-email-manifesto-for-december.md
+  Rendering Layout: _posts/2025-12-10-the-joy-of-missing-out-an-email-manifesto-for-december.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2025-12-17-everything-is-brown.md
+  Pre-Render Hooks: _posts/2025-12-17-everything-is-brown.md
+  Rendering Markup: _posts/2025-12-17-everything-is-brown.md
+Post-Convert Hooks: _posts/2025-12-17-everything-is-brown.md
+  Rendering Layout: _posts/2025-12-17-everything-is-brown.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2026-01-07-three-ai-tricks-i-use-that-actually-work.md
+  Pre-Render Hooks: _posts/2026-01-07-three-ai-tricks-i-use-that-actually-work.md
+  Rendering Markup: _posts/2026-01-07-three-ai-tricks-i-use-that-actually-work.md
+Post-Convert Hooks: _posts/2026-01-07-three-ai-tricks-i-use-that-actually-work.md
+  Rendering Layout: _posts/2026-01-07-three-ai-tricks-i-use-that-actually-work.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2026-01-14-stop-petting-the-ai.md
+  Pre-Render Hooks: _posts/2026-01-14-stop-petting-the-ai.md
+  Rendering Markup: _posts/2026-01-14-stop-petting-the-ai.md
+Post-Convert Hooks: _posts/2026-01-14-stop-petting-the-ai.md
+  Rendering Layout: _posts/2026-01-14-stop-petting-the-ai.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2026-01-21-platforms-make-the-worst-landlords.md
+  Pre-Render Hooks: _posts/2026-01-21-platforms-make-the-worst-landlords.md
+  Rendering Markup: _posts/2026-01-21-platforms-make-the-worst-landlords.md
+Post-Convert Hooks: _posts/2026-01-21-platforms-make-the-worst-landlords.md
+  Rendering Layout: _posts/2026-01-21-platforms-make-the-worst-landlords.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2026-01-28-you-dont-need-another-wellness-system.md
+  Pre-Render Hooks: _posts/2026-01-28-you-dont-need-another-wellness-system.md
+  Rendering Markup: _posts/2026-01-28-you-dont-need-another-wellness-system.md
+Post-Convert Hooks: _posts/2026-01-28-you-dont-need-another-wellness-system.md
+  Rendering Layout: _posts/2026-01-28-you-dont-need-another-wellness-system.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2026-02-04-beyond-the-grimoire.md
+  Pre-Render Hooks: _posts/2026-02-04-beyond-the-grimoire.md
+  Rendering Markup: _posts/2026-02-04-beyond-the-grimoire.md
+Post-Convert Hooks: _posts/2026-02-04-beyond-the-grimoire.md
+  Rendering Layout: _posts/2026-02-04-beyond-the-grimoire.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2026-02-11-stop-losing-your-thread.md
+  Pre-Render Hooks: _posts/2026-02-11-stop-losing-your-thread.md
+  Rendering Markup: _posts/2026-02-11-stop-losing-your-thread.md
+Post-Convert Hooks: _posts/2026-02-11-stop-losing-your-thread.md
+  Rendering Layout: _posts/2026-02-11-stop-losing-your-thread.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2026-02-18-a-tale-of-two-chatbots.md
+  Pre-Render Hooks: _posts/2026-02-18-a-tale-of-two-chatbots.md
+  Rendering Markup: _posts/2026-02-18-a-tale-of-two-chatbots.md
+Post-Convert Hooks: _posts/2026-02-18-a-tale-of-two-chatbots.md
+  Rendering Layout: _posts/2026-02-18-a-tale-of-two-chatbots.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _posts/2026-02-25-identity-shifting.md
+  Pre-Render Hooks: _posts/2026-02-25-identity-shifting.md
+  Rendering Markup: _posts/2026-02-25-identity-shifting.md
+Post-Convert Hooks: _posts/2026-02-25-identity-shifting.md
+  Rendering Layout: _posts/2026-02-25-identity-shifting.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _pages/404.md
+  Pre-Render Hooks: _pages/404.md
+  Rendering Markup: _pages/404.md
+Post-Convert Hooks: _pages/404.md
+  Rendering Layout: _pages/404.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _pages/about.md
+  Pre-Render Hooks: _pages/about.md
+  Rendering Markup: _pages/about.md
+Post-Convert Hooks: _pages/about.md
+  Rendering Layout: _pages/about.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: feed.xml
+  Pre-Render Hooks: feed.xml
+  Rendering Liquid: feed.xml
+  Rendering Markup: feed.xml
+Post-Convert Hooks: feed.xml
+  Rendering Layout: feed.xml
+         Rendering: _pages/graph-data.json
+  Pre-Render Hooks: _pages/graph-data.json
+  Rendering Liquid: _pages/graph-data.json
+  Rendering Markup: _pages/graph-data.json
+Post-Convert Hooks: _pages/graph-data.json
+  Rendering Layout: _pages/graph-data.json
+         Rendering: _pages/graph.html
+  Pre-Render Hooks: _pages/graph.html
+  Rendering Liquid: _pages/graph.html
+  Rendering Markup: _pages/graph.html
+Post-Convert Hooks: _pages/graph.html
+  Rendering Layout: _pages/graph.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: index.html
+  Pre-Render Hooks: index.html
+  Rendering Liquid: index.html
+  Rendering Markup: index.html
+Post-Convert Hooks: index.html
+  Rendering Layout: index.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: assets/css/main.scss
+  Pre-Render Hooks: assets/css/main.scss
+  Rendering Liquid: assets/css/main.scss
+  Rendering Markup: assets/css/main.scss
+Post-Convert Hooks: assets/css/main.scss
+         Rendering: _pages/now.md
+  Pre-Render Hooks: _pages/now.md
+  Rendering Markup: _pages/now.md
+Post-Convert Hooks: _pages/now.md
+  Rendering Layout: _pages/now.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: _pages/rss.md
+  Pre-Render Hooks: _pages/rss.md
+  Rendering Markup: _pages/rss.md
+Post-Convert Hooks: _pages/rss.md
+  Rendering Layout: _pages/rss.md
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: assets/js/lunr/lunr-en.js
+  Pre-Render Hooks: assets/js/lunr/lunr-en.js
+  Rendering Liquid: assets/js/lunr/lunr-en.js
+  Rendering Markup: assets/js/lunr/lunr-en.js
+Post-Convert Hooks: assets/js/lunr/lunr-en.js
+         Rendering: assets/js/lunr/lunr-gr.js
+  Pre-Render Hooks: assets/js/lunr/lunr-gr.js
+  Rendering Liquid: assets/js/lunr/lunr-gr.js
+  Rendering Markup: assets/js/lunr/lunr-gr.js
+Post-Convert Hooks: assets/js/lunr/lunr-gr.js
+         Rendering: assets/js/lunr/lunr-store.js
+  Pre-Render Hooks: assets/js/lunr/lunr-store.js
+  Rendering Liquid: assets/js/lunr/lunr-store.js
+  Rendering Markup: assets/js/lunr/lunr-store.js
+Post-Convert Hooks: assets/js/lunr/lunr-store.js
+         Rendering: redirects.json
+  Pre-Render Hooks: redirects.json
+  Rendering Markup: redirects.json
+Post-Convert Hooks: redirects.json
+  Rendering Layout: redirects.json
+         Rendering: sitemap.xml
+  Pre-Render Hooks: sitemap.xml
+  Rendering Liquid: sitemap.xml
+  Rendering Markup: sitemap.xml
+Post-Convert Hooks: sitemap.xml
+  Rendering Layout: sitemap.xml
+         Rendering: robots.txt
+  Pre-Render Hooks: robots.txt
+  Rendering Liquid: robots.txt
+  Rendering Markup: robots.txt
+Post-Convert Hooks: robots.txt
+  Rendering Layout: robots.txt
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Liquid: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Liquid: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Liquid: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Liquid: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Liquid: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: .html
+  Pre-Render Hooks: .html
+  Rendering Markup: .html
+Post-Convert Hooks: .html
+  Rendering Layout: .html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/skip-links.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/masthead.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/search_form.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/footer.html
+ Include cache hit: /Users/W0001680/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/minimal-mistakes-jekyll-4.27.3/_includes/search/lunr-search-scripts.html
+         Rendering: assets/css/main.css.map
+  Pre-Render Hooks: assets/css/main.css.map
+  Rendering Markup: assets/css/main.css.map
+Post-Convert Hooks: assets/css/main.css.map
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/404.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/about/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/feed.xml
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/assets/data/graph.json
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/graph/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/assets/css/main.css
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/now/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/rss.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/assets/js/lunr/lunr-en.js
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/assets/js/lunr/lunr-gr.js
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/assets/js/lunr/lunr-store.js
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/redirects.json
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/sitemap.xml
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/robots.txt
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/articles/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/articles/page/2/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/articles/page/3/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/articles/page/4/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/articles/page/5/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/productivity/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/productivity/page/2/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/productivity/page/3/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/productivity/page/4/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/tools/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/tools/page/2/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/tools/page/3/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/digital-life/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/digital-life/page/2/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/habits/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/habits/page/2/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/communication/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/work/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/work/page/2/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/technology/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/technology/page/2/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/self-improvement/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/self-improvement/page/2/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/learning/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/wellness/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/creativity/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/ai/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/ai/page/2/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/assets/css/main.css.map
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/what-i-use-to-make-it-through-the-day/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/tasks-and-lists/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/just-do-it/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/lets-get-sticky/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/making-teams-work/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/dont-change-that-channel/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/minimalist-phone/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/unproject-management-part-1/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/unproject-management-part-2/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/plan-the-planny-plan-in-planner/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/why-email/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/your-inbox-is-thine-enemy/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/focus-with-music/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/projects-vs-operations/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/plain-text-rebellion/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/i-markdown/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/format-your-style/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/bing/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/is-the-stylus-mightier-than-the-keyboard/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/down-the-infographic-rabbit-hole/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/when-to-use-what-with-office-365/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/psa-take-care-of-your-eyes/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/dougs-rules-of-work-at-home/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/how-not-to-be-a-jerk-online/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/how-to-break-up-with-adobe/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/digital-fluency-in-2024/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/digital-wellness-working-smarter-happier-and-more-playfully/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/a-couple-llm-prompt-tips/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/some-goblins-are-kinda-cute/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/technology-self-help/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/taming-the-chaos/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/how-i-plan-my-week/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/microsoft-classic-vs-365-ecosystem/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/from-files-to-flow-looping-into-the-future/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/this-is-how-im-using-generative-ai/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/ai-is-the-new-literacy/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/the-workbench-is-not-the-work/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/ai-harmonizes-with-my-ideas/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/slaying-the-algorithm-dragon/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/confidently-wrong/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/five-minutes-ahead/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/a-philosophy-of-making/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/the-weekly-reset-process-over-artifact/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/the-rhetorical-machine/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/the-liminal-workplace/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/thinking-like-an-ecosystem/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/digital-craftsmanship/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/1-1-3-building-a-tech-career-on-what-you-already-know/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/the-accidental-notetaker/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/the-joy-of-missing-out-an-email-manifesto-for-december/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/everything-is-brown/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/three-ai-tricks-i-use-that-actually-work/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/stop-petting-the-ai/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/platforms-make-the-worst-landlords/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/you-dont-need-another-wellness-system/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/beyond-the-grimoire/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/stop-losing-your-thread/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/a-tale-of-two-chatbots/index.html
+           Writing: /Users/W0001680/GitHub/digital-doug/_site/identity-shifting/index.html
+                    done in 5.471 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.

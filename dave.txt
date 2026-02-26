@@ -1,0 +1,50 @@
+
+{
+  "nodes": [
+    
+    {
+      "id": "ai",
+      "label": "ai",
+      "size": 14
+    },
+    
+    {
+      "id": "communication",
+      "label": "communication",
+      "size": 11
+    },
+    
+    {
+      "id": "creativity",
+      "label": "creativity",
+      "size": 8
+    },
+    
+    {
+      "id": "digital-life",
+      "label": "digital-life",
+      "size": 16
+    },
+    
+    {
+      "id": "habits",
+      "label": "habits",
+      "size": 18
+    },
+    
+    {
+      "id": "learning",
+      "label": "learning",
+      "size": 11
+    },
+    
+    {
+      "id": "productivity",
+      "label": "productivity",
+      "size": 40
+    },
+    
+    {
+      "id": "self-improvement",
+      "label": "self-improvement",
+      "size": 13
