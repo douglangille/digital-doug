@@ -65,19 +65,6 @@ footer:
       url                 : "https://www.linkedin.com/in/douglangille/"
 
 # -----------------------------------------------------------------------------
-# Comments
-# -----------------------------------------------------------------------------
-comments:
-  provider: "giscus"
-  giscus:
-    repo_id              : "R_kgDOQ762Og" 
-    category_name        : "General" 
-    category_id          : "DIC_kwDOQ762Os4C2BMc"
-    discussion_term      : "pathname" 
-    reactions_enabled    : 1
-    theme                : "preferred_color_scheme"
-
-# -----------------------------------------------------------------------------
 # Build & Formatting
 # -----------------------------------------------------------------------------
 markdown                  : kramdown
