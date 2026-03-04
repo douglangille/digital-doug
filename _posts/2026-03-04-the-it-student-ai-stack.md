@@ -7,37 +7,48 @@ header:
   overlay_image: "/assets/images/the-it-student-ai-stack/ideogram-v3.0_photorealistic_image_of_a_student_laptop_screen_showing_GitHub_interface_with_a_-0.jpg"
 ---
 
+# The IT Student AI Stack
+## GitHub Education Edition
+
 Every AI YouTuber is telling you the same thing: upgrade to Claude Code, or pay for something premium. If you don't spend $20/month, you'll fall behind.
 
 You're a student. You're probably broke. And you don't need to spend a dime.
 
-The hype is real. Mostly. AI tools are useful. But the noise is crazy loud. The tech bro marketing machinery engineers FOMO and dangles Bright Shiny Objects (BSOs) as the cure. 
-
-There's a quiet middle path. 
+The hype is real. Mostly. AI tools are useful. But the noise is crazy loud. The tech bro marketing machinery engineers FOMO and dangles Bright Shiny Objects (BSOs) as the cure.
 
 You likely already qualify for professional-grade AI tools. Free. For as long as you're in school.
 
-But first, the thing nobody talks about: AI tools don't know when they're wrong. They'll give you a function that looks perfect and fails on edge cases, or cite a library version that was deprecated two years ago, and they won't blink. That's not a reason to avoid them. It's a reason to verify everything before shipping.
+## Why This Matters (And Why the Hype Exists)
 
-The verification habit is concrete: read the code line by line before pushing. Run the tests. Google the API version. Boilerplate you can skip. Business logic you read. That's the habit. It transfers to every tool you'll ever use.
+Option 1: You pay $20/month for Claude Code out of FOMO, open it twice, feel vaguely guilty about not using it more, cancel in two months. You learned nothing and you're $40 lighter. I've watched folks do this with every new tool that hits the LinkedIn hype cycle. I've done it too. Twice.
 
-One note: check your course expectations before using AI on graded work. Same rule as any tool -- know what's allowed before you ship it.
+Option 2: You claim free tools you already qualify for, build a real habit, and graduate with actual skill.
+
+The marketing machinery is selling you a subscription because there's money in it. The real value is quiet because it's in the work itself.
+
+The job market doesn't care which AI tool you used. It cares whether you can work with any of them without shipping garbage. AI tools don't know when they're wrong. They'll give you a function that looks perfect and fails on edge cases, or cite a library version that was deprecated two years ago, and they won't blink. That's not a reason to avoid them. It's a reason to verify everything before shipping.
+
+The habit is concrete: read the code line by line before pushing. Run the tests. Google the API version. Boilerplate you can skip. Business logic you read. That habit is yours forever.
+
+One note: check your course expectations before using AI on graded work. Same rule as any tool.
 
 ## What You Actually Need
 
 | Feature | Copilot Pro (Free) | Claude Code | Cursor |
 |---------|-------------------|------------|--------|
-| Code completion | ✅ | ✅ | ✅ |
-| Chat/Q&A | ✅ | ✅ | ✅ |
-| Multiple models | ✅ | ✅ | Limited |
-| IDE integration | ✅ | ✅ | ✅ |
-| **Cost for students** | **FREE** | $20/month | $20/month |
+| Code completion | Yes | Yes | Yes |
+| Chat/Q&A | Yes | Yes | Yes |
+| Multiple models | Yes (see note) | Yes | Limited |
+| IDE integration | Yes | Yes | Yes |
+| Cost for students | FREE | $20/month | $20/month |
 
-In practice, Copilot Pro covers the core of what Claude Code promises -- code completion, chat, multi-model access, IDE integration. The things you'll actually use daily. The gaps are real but narrow: Claude Code has tighter agentic workflow integration, better multi-file context for large codebases. If you're not already hitting those walls, you won't miss them. The subscription isn't the bottleneck. Your thinking and verification are. Spending $20/month on Claude Code doesn't make you better at coding than someone using free Copilot Pro who actually checks their work.
+Copilot Pro gives you access to Claude Sonnet, GPT-4, Gemini, and others. Claude Opus is available but counts against your monthly premium request allowance (300/month on Pro). In practice, that's plenty for student use.
 
-You don't pay for a premium gym membership and don't go. 
+Copilot Pro covers the core of what Claude Code promises -- code completion, chat, multi-model access, IDE integration. The things you'll actually use daily. The gaps are real but narrow: Claude Code has tighter agentic workflow integration, better multi-file context for large codebases. If you're not already hitting those walls, you won't miss them. The subscription isn't the bottleneck. Your thinking and testing are. Spending $20/month on Claude Code doesn't make you better at coding than someone using free Copilot Pro who actually checks their work.
 
-You show up and do your reps. 
+You don't pay for a premium gym membership and don't go.
+
+You show up and do your reps.
 
 ## What You Actually Get
 
@@ -45,7 +56,7 @@ GitHub Education gives you Copilot Pro the moment you verify you're a student.
 
 **Copilot Pro** is the headline:
 - Unlimited code completions and chat
-- Access to multiple models: Claude Sonnet, Claude Opus, GPT-4, Gemini, and others
+- Access to multiple models: Claude Sonnet, GPT-4, Gemini, and others
 - Works everywhere: VS Code, GitHub.com, your browser, any IDE
 - Syntax, structure, debugging
 - And yes, even vibe coding when you just need a thing to exist
@@ -62,7 +73,7 @@ GitHub Education gives you Copilot Pro the moment you verify you're a student.
 2. Add your school email to account settings (Settings → Emails → Add)
 3. Go to [github.com/settings/education/benefits](https://github.com/settings/education/benefits)
 4. Click "Claim Student Benefits"
-5. Upload school email OR proof document (student ID, enrollment letter, anything official)
+5. Verify via school email or upload a proof document (student ID, enrollment letter, anything official)
 6. Submit.
 
 GitHub verifies your status in 1-3 days and emails confirmation. Go back to settings, activate Copilot Pro. First use: click Copilot in the top nav, ask it something about a project you're already working on. That's the whole setup.
@@ -84,9 +95,9 @@ Go to [GitHub.com](https://github.com) → Copilot tab → ask a question. Works
 
 **Path 2: Build Real Things**
 
-This is how Copilot earns its keep. You describe what you want, it writes the code, you push it to GitHub. You don't need to understand every line. You need to understand enough to know if it's broken. And have ingested enough caffeine to care. (Spoiler: you will still have to fix some crap. That's coding. Copilot just means less of it.)
+This is how Copilot earns its keep. You describe what you want, it writes the code, you push it to GitHub. You don't need to understand every line. You need to understand enough to know if it's broken. (Spoiler: some of it will be. That's coding.)
 
-**Portfolio site**: Tell Copilot "I want a simple portfolio site with my name, bio, project list, and contact info." It generates the HTML. You push it to GitHub, enable GitHub Pages, and your site is live at `yourusername.github.io`. 
+**Portfolio site**: Tell Copilot "I want a simple portfolio site with my name, bio, project list, and contact info." It generates the HTML. You push it to GitHub, enable GitHub Pages, and your site is live at `yourusername.github.io`.
 
 That's it. Recruiters see: person who shipped something. That's the bar. It's low. That's the point. Add projects as you finish them. No Squarespace subscription. No "someday I'll build this." Done.
 
@@ -113,7 +124,7 @@ That's actually the best time to use it. Copilot is good at boilerplate and synt
 
 **After I graduate, does it stop?**
 
-Depending on when you sign up, your Copilot Pro license expires six months after graduation. Your account, code, and projects are permanent. By then you'll know whether you want to pay for upgraded tools. You get to make that call with actual experience instead of wild-ass guesswork.
+Depending on when you sign up, your Copilot Pro license expires six months after graduation. Your account, code, and projects are permanent. By then you'll know whether you want to pay for upgraded tools. You get to make that call with actual experience instead of guesswork.
 
 **What's the catch?**
 
