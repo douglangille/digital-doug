@@ -79,7 +79,7 @@ GitHub Education gives you Copilot Pro the moment you verify you're a student.
 GitHub verifies your status in 1-3 days and emails confirmation. Go back to settings, activate Copilot Pro. First use: click Copilot in the top nav, ask it something about a project you're already working on. That's the whole setup.
 
 **What Can Go Wrong** (and how to fix it):
-- "School email not recognized" → Upload a document instead. If you're at a college without a recognized education domain, budget a few days and some patience.
+- "School email not recognized" → Upload a document instead. If you're at a college without a recognized education email domain, budget a few days and some patience.
 - "I verified but don't see benefits" → 24-hour lag sometimes. Wait, check again. Contact support if stuck.
 - "I'm not a traditional student" → Upload documentation. GitHub's flexible on what counts.
 
