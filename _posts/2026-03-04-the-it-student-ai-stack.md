@@ -42,7 +42,7 @@ One note: check your course expectations before using AI on graded work. Same ru
 | IDE integration | Yes | Yes | Yes |
 | Cost for students | FREE | $20/month | $20/month |
 
-Copilot Pro gives you access to Claude Sonnet, GPT-4, Gemini, and others. Claude Opus is available but counts against your monthly premium request allowance (300/month on Pro). In practice, that's plenty for student use.
+**Note:** Copilot Pro gives you access to Claude Sonnet, GPT-4, Gemini, and others. Claude Opus is available but counts against your monthly premium request allowance (300/month on Pro). In practice, that's plenty for student use.
 
 Copilot Pro covers the core of what Claude Code promises -- code completion, chat, multi-model access, IDE integration. The things you'll actually use daily. The gaps are real but narrow: Claude Code has tighter agentic workflow integration, better multi-file context for large codebases. If you're not already hitting those walls, you won't miss them. The subscription isn't the bottleneck. Your thinking and testing are. Spending $20/month on Claude Code doesn't make you better at coding than someone using free Copilot Pro who actually checks their work.
 
