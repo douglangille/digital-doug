@@ -36,7 +36,7 @@ author:
   bio: "IT manager, tech writer, and creative storyteller"
   links:
     - label: "Nova Scotia"
-      icon: "fa-regular fa-location-dot"
+      icon: "fa-regular fa-compass"
       url: "https://en.wikipedia.org/wiki/Nova_Scotia"
     - label: "Darkling Whim"
       icon: "fa-solid fa-feather"
