@@ -166,11 +166,11 @@ defaults:
   - scope:
       path                : "_posts"
       type                : "posts"
-      show_date           : true
     values:
       comments            : true  
       layout              : "single"
       author_profile      : true
       read_time           : true
       share               : false
+      show_date           : trur
       related             : true
