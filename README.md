@@ -47,7 +47,7 @@ This Jekyll site uses the [Minimal Mistakes](https://mmistakes.github.io/minimal
 
 ## Deployment
 
-The site is automatically deployed to Netlify when changes are pushed to the `main` branch.
+The site is automatically deployed to GitHub Pages via GitHub Actions when changes are pushed to the `main` branch.
 
 ## Adding Content
 
