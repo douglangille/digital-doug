@@ -4,10 +4,7 @@
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
-{% comment %}
-Always include dark-mode.css for all pages
-{% endcomment %}
-<link rel="stylesheet" href="{{ "/assets/css/dark-mode.css" | relative_url }}">
+<link rel="stylesheet" href="{{ "/assets/css/main-dark.css" | relative_url }}" media="(prefers-color-scheme: dark)">
 
 <link rel="alternate" type="application/atom+xml" href="{{ "/feed.xml" | absolute_url }}">
 

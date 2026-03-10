@@ -1,0 +1,11 @@
+---
+---
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/dark";
+@import "minimal-mistakes";
+
+/* Override hardcoded light colors from main.scss that aren't caught by MM skin variables */
+.results > :first-child { border-bottom-color: #444; }
+.results p,
+.results .excerpt { color: #bbb; }
