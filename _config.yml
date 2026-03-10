@@ -162,6 +162,7 @@ defaults:
       read_time           : true
       share               : false
       comments            : false
+      date                : true
       classes             : wide
   - scope:
       path                : "_posts"
