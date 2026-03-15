@@ -7,7 +7,7 @@ header:
 categories:
 categories: []
 tags:
-  - ai
+  - genai
   - productivity
   - tools
   - habits

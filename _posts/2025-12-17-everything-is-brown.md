@@ -8,7 +8,7 @@ categories:
 categories: []
 tags:
 tags:
-  - ai
+  - genai
   - digital-life
   - productivity
   - habits

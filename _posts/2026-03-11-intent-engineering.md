@@ -1,7 +1,7 @@
 ---
 title: "Intent Engineering"
 excerpt: "Bob was reheating stale coffee on Monday. By Friday, he was drinking cafe Americano."
-tags: [learning, ai, productivity, communication]
+tags: [learning, genai, productivity, communication]
 header:
   teaser: "/assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png"
   overlay_image: "/assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png"

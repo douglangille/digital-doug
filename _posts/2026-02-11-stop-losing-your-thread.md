@@ -1,7 +1,7 @@
 ---
 title: "Stop Losing Your Thread"
 excerpt: "Your gaslighting robot has amnesia."
-tags: [ai, productivity, tools, digital-life, communication]
+tags: [genai, productivity, tools, digital-life, communication]
 header:
     teaser: "assets/images/stop-losing-your-thread/ChatGPT Image Feb 10, 2026 at 03_58_29 PM.png"
     overlay_image: "assets/images/stop-losing-your-thread/ChatGPT Image Feb 10, 2026 at 03_58_29 PM.png"

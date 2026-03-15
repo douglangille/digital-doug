@@ -7,7 +7,7 @@ header:
 categories:
   - 
 tags:
-  - ai
+  - genai
   - communication
   - technology
   - creativity

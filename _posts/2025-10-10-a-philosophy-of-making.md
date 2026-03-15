@@ -8,7 +8,7 @@ categories:
 categories: []
 tags:
   - creativity
-  - ai
+  - genai
   - self-improvement
 excerpt: "Plain Text, Story Systems, and the Human Loop"
 substack_post_id: "175735650.a-philosophy-of-making"

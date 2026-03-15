@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Grimoire"
 excerpt: "Why AI Mastery Is Wisdom, Not (Just) Spell Collection"
-tags: [ai, learning, productivity, work]
+tags: [genai, learning, productivity, work]
 header: 
     teaser: "/assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21 PM.png"
     overlay_image: "/assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21 PM.png"

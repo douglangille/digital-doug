@@ -4,7 +4,7 @@ header:
   teaser: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.png
   overlay_image: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.png
 tags:
-   - ai
+   - genai
    - digital-life
    - wellness
 excerpt: "How to Use ChatGPT Without Becoming Its Emotional Support Human"

@@ -8,7 +8,7 @@ categories:
   - 
 substack_post_id: "147751379.some-goblins-are-kinda-cute"
 tags:
-  - ai
+  - genai
   - productivity
   - technology
 ---

@@ -7,7 +7,7 @@ header:
 categories:
   - 
 tags:
-  - ai
+  - genai
   - productivity
   - tools
   - learning

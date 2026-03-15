@@ -7,7 +7,7 @@ header:
    overlay_image: /assets/images/ai-harmonizes-with-my-ideas/47981997-d20a-4864-9e64-02acba822434_1536x1024.png
 categories: []
 tags:
-   - ai
+   - genai
    - creativity
    - tools
    - productivity

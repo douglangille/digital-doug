@@ -1,7 +1,7 @@
 ---
 title: "A Tale of Two Chatbots"
 excerpt: "It was the best of bots, it was the worst of bots."
-tags: [ai, tools, work]
+tags: [genai, tools, work]
 header:
   teaser: "/assets/images/a-tale-of-two-chatbots/80421e81-eeb7-4e7e-9656-0d7aa9eae465.png"
   overlay_image: "/assets/images/a-tale-of-two-chatbots/80421e81-eeb7-4e7e-9656-0d7aa9eae465.png"

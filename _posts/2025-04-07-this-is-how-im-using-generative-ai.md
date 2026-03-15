@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86-a53c8c5d5063_1024x1024.png
 categories:
 tags:
-  - ai
+  - genai
   - tools
   - productivity
   - work
