@@ -22,7 +22,7 @@ I use AI as part of my writing and content creation process. Here's exactly how.
 
 ## Why This Works for Me
 
-I work best when I can think in bursts and revise relentlessly. The friction points are mechanical: organizing sprawling ideas, drafting sections, managing continuity across long-form arguments. Those phases drain focus from what I'm actually good at—thinking clearly, challenging assumptions, and sharpening prose.
+I work best when I can think in bursts and revise relentlessly. The friction points are mechanical: organizing sprawling ideas, drafting sections, managing continuity across long-form arguments. Those phases drain focus from what I'm actually good at-- thinking clearly, challenging assumptions, and sharpening prose.
 
 AI handles the mechanical scaffolding. I handle the thinking, the judgment, the voice. Result: clearer arguments, higher quality work, faster publication without sacrificing rigor.
 
