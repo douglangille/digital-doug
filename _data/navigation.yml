@@ -1,6 +1,8 @@
 main: 
   - title: "Articles"
     url: /articles/
+  - title: "AI"
+    url: /ai/
   - title: "About"
     url: /about/
   - title: "Now"
