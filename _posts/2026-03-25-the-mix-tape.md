@@ -107,7 +107,7 @@ The making does something to the maker. Transformation is the point, not the byp
 
 You're different after you've made a great mix tape than you were before. You know something about the recipient you didn't know when you started. You know something about yourself. What you were reaching for, what you were afraid to say, what you finally said anyway. The process revealed something the tape alone can't fully express.
 
-The long slow education of learning to pay attention to specific humans, specific moments, specific things that are true and hard to say. You can't shortcut it. You can't compress it. Every mix tape you made, good or bad, taught you something the next one could use. The terrain accumulates. The draft skills build. And when the algorithm fails, you'll know. Because you've been in there, doing the verb, long enough to feel it.
+The long slow education of learning to pay attention to specific humans, specific moments, specific things that are true and hard to say. You can't shortcut it. You can't compress it. Every mix tape you made, good or bad, taught you something the next one could use. The terrain accumulates. The draft skills build. And when the algorithm fails, you'll know. Because you've been in there, doing the actual thing, long enough to feel it.
 
 When you offload the consequential choices. When the AI selects the songs and determines the sequence and you approve it. You get the tape but not the education. The output looks the same. The maker is unchanged.
 
@@ -115,17 +115,17 @@ When you offload the consequential choices. When the AI selects the songs and de
 
 I didn't compose a single song on any mix tape I ever made. Never played an instrument, never wrote a lyric. Still made things that mattered to people. Still made things that said what I couldn't say out loud. Still took creative risks that could fail. Still learned something every time, good tape or bad.
 
-The creativity wasn't in the composition. It was in the verb. The choosing, the sequencing, the marking, the giving. The judgment. The terrain knowledge applied under constraint with something at stake. None of that required a credential. It required showing up and giving a shit enough to think about someone else.
+The creativity wasn't in the composition. It was in the caring act of curation. The choosing, the sequencing, the marking, the giving. The judgment. The terrain knowledge applied under constraint with something at stake. None of that required a credential. It required showing up and giving a shit long enough to think about someone else.
 
 That's still available to you. Right now. With whatever tools you have.
 
-The blank tape became a CD-RW became a streaming platform became an AI. What hasn't changed: somewhere in the process, a human has to be doing the creative action. Making consequential choices from a position of genuine knowing. Knowing the terrain, knowing the recipient, knowing what it means when something doesn't fit but you put it there anyway.
+The blank tape became a CD-RW became a streaming platform became an AI. What hasn't changed: somewhere in the process, a bona fide meatspace person has to be doing the creative action. Making consequential choices from a position of genuine knowing. Knowing the terrain, knowing the recipient, knowing what it means when something doesn't fit but you put it there anyway.
 
-When that's present, the human made the thing, regardless of what tools were involved.
+When that's present, the human soul made the thing, regardless of what tools were involved.
 
 When that's absent, no tool in the world fills the gap.
 
-The algorithm will never put the wrong song in on purpose. That's yours. That's always been yours.
+The algorithm will never put the wrong song in on purpose. That's your job. That's always been yours.
 
 ---
 
