@@ -27,7 +27,7 @@ And a student navigating inconsistent implementation -- some faculty ban AI, som
 
 What nobody says in the meeting: *I don't want this. I'm terrified.*
 
-> If you gaze long into this abyss--the chatbot learning from your work--the abyss gazes back into you.
+> If you gaze long into this abyss -- the chatbot learning from your work -- the abyss gazes back into you.
 
 What gets said in the lunchroom: "Did you see that? They're just expecting us to figure it out on our own. And it's learning while we do."
 
@@ -47,7 +47,7 @@ Anyone who says anything else sounds like they're not keeping pace. Sounds like 
 
 So you perform enthusiasm. Everyone does. You go to the meeting and you nod and you say it sounds interesting and you come home and you wonder if you're being left behind or if this whole thing is a waste of time.
 
-The official channel has the performance. The actual experience? Locked in the side quest chats. In the hallway conversations with people you trust. This is the liminal workplace--the gap between what's announced and what's actually true.
+The official channel has the performance. The actual experience? Locked in the side quest chats. In the hallway conversations with people you trust. This is the liminal workplace. The gap between what's announced and what's actually true.
 
 You can't close a trust gap with better slide decks.
 
