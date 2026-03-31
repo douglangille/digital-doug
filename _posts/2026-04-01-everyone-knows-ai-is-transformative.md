@@ -9,7 +9,7 @@ header:
 
 Right now, most institutions are still thrashing. Multiple initiatives, no coherent strategy, departments rolling out AI independently. The messaging is scattered. Some leaders are excited. Some are defensive. Some haven't said anything yet. It's chaos, but it's honest chaos. Nobody's pretending to know what they're doing.
 
-But this is changing. The institutions that are getting their act together--that have appointed AI committees and drafted governance policies and organized training modules--are moving toward coordination. Toward a message.
+But this is changing. The institutions that are getting their act together -- that have appointed AI committees and drafted governance policies and organized training modules -- are moving toward coordination. Toward a message.
 
 It looks like this: An all-hands meeting. Someone from leadership stands up and says AI is an incredible opportunity. There's a slide deck. There's a governance task force. There's a volunteer AI champion network. There are training modules with completion deadlines.
 
@@ -23,7 +23,7 @@ It's at the water dispensers. Breakrooms. Anywhere people can speak without bein
 
 There's a faculty member who built a whole teaching practice around a skill set. A chatbot is learning to do what she spent years mastering. She's been told it's an opportunity. What she's hearing is: your market value just dropped. And something is watching her teach, learning from it.
 
-And a student navigating inconsistent implementation--some faculty ban AI, some require it, some don't mention it at all. Which classes will prepare you and which ones are experimenting on you?
+And a student navigating inconsistent implementation -- some faculty ban AI, some require it, some don't mention it at all. Which classes will prepare you and which ones are experimenting on you?
 
 What nobody says in the meeting: *I don't want this. I'm terrified.*
 
@@ -31,9 +31,9 @@ What nobody says in the meeting: *I don't want this. I'm terrified.*
 
 What gets said in the lunchroom: "Did you see that? They're just expecting us to figure it out on our own. And it's learning while we do."
 
-I'm not the only terrified person here. And sure, I've been ahead of the curve on AI adoption. But I've been in enough rooms. This is what it sounds like, and it doesn't sound like Luddism. It sounds like normal people watching the ground shift under the skills they spent years earning. Watching something approximate a good enough version of  their life's work in minutes. That's rational. That's the right response to real uncertainty.
+I'm not the only terrified person here. And sure, I've been ahead of the curve on AI adoption. I've been in enough rooms. This is what it sounds like, and it ain't Luddism. It's normal people watching the ground shift under the skills they spent years earning. Watching something approximate a good enough version of  their life's work in minutes. That's rational. That's the right response to real uncertainty.
 
-The tools aren't the problem. The culture around their rollout is.
+The tools aren't the problem. The oozing culture around it is.
 
 Institutional AI rollout is being managed as a change management problem. The framework is adoption metrics: training completion rates and governance compliance. The success measure is uptake.
 
