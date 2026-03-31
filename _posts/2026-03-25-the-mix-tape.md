@@ -1,7 +1,7 @@
 ---
 title: "The Mix Tape"
 excerpt: "On creativity, curation, and what it means to be the human in the loop"
-tags: creativity, genai, digital-life, learning
+tags: [creativity, genai, digital-life, learning]
 header: 
     teaser: "/assets/images/the-mix-tape/ChatGPT Image Mar 23, 2026 at 12_18_37 PM.png"
     overlay_image: "/assets/images/the-mix-tape/ChatGPT Image Mar 23, 2026 at 12_18_37 PM.png"
