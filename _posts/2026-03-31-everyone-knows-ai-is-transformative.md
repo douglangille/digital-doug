@@ -1,7 +1,7 @@
 ---
 title: "Everyone Knows AI Is Transformative. Nobody Admits They're Scared."
 excerpt: "Stop performing. That's what closes the gap."
-tags: [ai, work, self-improvement]
+tags: [genai, work, technology]
 header:
   teaser: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
   overlay_image: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
@@ -11,7 +11,7 @@ Right now, most institutions are still thrashing. Multiple initiatives, no coher
 
 But this is changing. The institutions that are getting their act together -- that have appointed AI committees and drafted governance policies and organized training modules -- are moving toward coordination. Toward a message.
 
-It looks like this: An all-hands meeting. Someone from leadership stands up and says AI is an incredible opportunity. There's a slide deck. There's a governance task force. There's a volunteer AI champion network. There are training modules with completion deadlines.
+All tech change looks like this: An all-hands meeting. Someone from leadership stands up and says the new tech is an incredible opportunity. There's a slide deck. There's a governance task force. There's a volunteer champion network. There are training modules with completion deadlines.
 
 Everyone nods. Someone takes notes.
 
@@ -21,17 +21,17 @@ This is where institutions are heading. Every college. Every large org that's mo
 
 It's at the water dispensers. Breakrooms. Anywhere people can speak without being recorded. That's where the actual conversation is happening. And it's chunky.
 
-There's a faculty member who built a whole teaching practice around a skill set. A chatbot is learning to do what she spent years mastering. She's been told it's an opportunity. What she's hearing is: your market value just dropped. And something is watching her teach, learning from it.
+There's a faculty member who built a whole teaching practice around a skill set. A chatbot generating what she spent years mastering. She's been told it's an opportunity. What she's hearing is: your market value just dropped. 
 
 And a student navigating inconsistent implementation -- some faculty ban AI, some require it, some don't mention it at all. Which classes will prepare you and which ones are experimenting on you?
 
-What nobody says in the meeting: *I don't want this. I'm terrified.*
+What nobody says in the meeting: *I don't want this. I didn't ask for this. I'm terrified.*
 
-> If you gaze long into this abyss -- the chatbot learning from your work -- the abyss gazes back into you.
+> And if you gaze for long into an abyss, the abyss gazes also into you.
 
-What gets said in the lunchroom: "Did you see that? They're just expecting us to figure it out on our own. And it's learning while we do."
+What gets said in the lunchroom: "Did you see that? They're just expecting us to figure it out on our own."
 
-I'm not the only terrified person here. And sure, I've been ahead of the curve on AI adoption. I've been in enough rooms. This is what it sounds like, and it ain't Luddism. It's normal people watching the ground shift under the skills they spent years earning. Watching something approximate a good enough version of  their life's work in minutes. That's rational. That's the right response to real uncertainty.
+I'm not the only terrified person here. And sure, I've been ahead of the curve on AI adoption. I've been in enough rooms. This is what it sounds like, and it ain't Luddism. It's normal people watching the ground shift under the skills they spent years earning. Watching something approximate a good enough version of their life's work in minutes. That's rational. That's the right response to real uncertainty.
 
 The tools aren't the problem. The oozing culture around it is.
 
