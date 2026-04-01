@@ -59,6 +59,8 @@ That's not adoption. That's bullshit. It's people performing competence while wa
 
 The institution looks like it's winning. Adoption rates up. Training complete. Governance in place. But it's building something uglier underneath: a credibility gap that gets wider every time someone shuts up instead of standing up. That's not a slow-motion problem. That's credibility debt with interest.
 
+Good looks like a meeting where 'we don't know yet' is a legitimate outcome. Not a failure of vision, not a gap to close, but a real decision that emerges from actual conversation. Where the doubt in the room is the material, not the problem to manage.
+
 The only way this changes is if someone with power stops performing. If a leader boldly asks why the hell they're doing this. Out loud in a meeting and actually mean it.
 
 Not as strategy. Not theater. Real.
