@@ -73,4 +73,4 @@ Find one trusted peer and name it.
 
 If you're a leader, it has to start with you.
 
-Are we ready to admit we don't know what the hell we're doing?
+Are we brave enough to admit we don't know what the hell we're doing?
