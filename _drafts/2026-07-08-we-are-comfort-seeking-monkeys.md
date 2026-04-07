@@ -19,8 +19,6 @@ And it gets stranger.
 
 The concern isn't the tech. It's how we use it. And more specifically, it's the *shame* we've wrapped around using it, killing any honest conversation about what actually matters.
 
-## What Makes This Tool Different
-
 A hammer doesn't adapt to you. It stays the same. You learn to hit straighter, and the hammer's still... just a hammer. A hunk of tempered steel and a solid well-made handle.
 
 AI is responsive. It pattern-matches how you talk and shapes what it spits back out. You ask a question a certain way, it learns your phrasing. You correct it once, it corrects itself the same way next time. You soften your language, and suddenly its suggestions get softer too.
@@ -41,8 +39,6 @@ Both are *mirroring*. Both are responsive systems. The difference is whether the
 
 Debasing and cutting people down for AI-ing badly, and they don't learn to use it better. They just use it in the dark where nobody can help.
 
-## The Real Ethics Question
-
 So AI is a responsive environment. It adapts. It shapes how you think in real time. 
 
 Your next thought will be different than it would have been without the robot in the room.
@@ -61,8 +57,6 @@ The only question worth asking: Is this *your* thinking? Not "did a human write 
 
 If yes, you're good. If no, you should probably do that work again. I'll wait.
 
-## The Framework Is Simple
-
 What makes good work? With or without AI?
 
 - **Is it correct?** Not polished. Correct. Does it say true things?
@@ -73,8 +67,6 @@ What makes good work? With or without AI?
 Same standard as if you'd written it with a typewriter. Same standard as if you'd written it by hand. The tool doesn't change a thing. Your choices do.
 
 And the only way you develop judgment is by doing the work out loud. Asking questions. Admitting when you don't know. Making mistakes publicly where someone can help. Try a prompt, show the result, ask what's missing. That's how people learn. Not spiralling in shame and hidden failure, but through honest conversation about what works and what doesn't.
-
-## Stop Performing
 
 Stop performing certainty about authorship. Stop performing shame. Stop performing clarity when you don't have any.
 
