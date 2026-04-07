@@ -14,7 +14,7 @@ This file documents the simplified tagging scheme for the site, consolidating al
 8. work
 9. creativity
 10. wellness
-11. ai
+11. genai
 12. self-improvement
 
 ### Guidelines
