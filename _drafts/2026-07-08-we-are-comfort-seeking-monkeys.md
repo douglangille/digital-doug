@@ -23,7 +23,7 @@ A hammer doesn't adapt to you. It stays the same. You learn to hit straighter, a
 
 AI is responsive. It pattern-matches how you talk and shapes what it spits back out. You ask a question a certain way, it learns your phrasing. You correct it once, it corrects itself the same way next time. You soften your language, and suddenly its suggestions get softer too.
 
-Not magic. Just how feedback loops work. 
+Not magic. Just how feedback loops work. If you’re a lazy thinker, the AI becomes a megaphone for your laziness. If you’re a rigorous editor, it becomes a whetstone.
 
 Kinda like a conversation with someone who genuinely listens. Collaborating with a person who gets you. Knows your story. And adjusts. That human isn't magic either. They're just responsive. They mirror your thinking, your energy, your assumptions.
 
@@ -51,6 +51,8 @@ Want better AI outputs? Stop shaming. Start teaching. Literacy, not secrecy.
 
 The only bit that matters is: **Did you do better work? Is your judgment in it?**
 
+Judgment isn’t just liking the output. It’s knowing what to cut. If you didn’t delete anything, you didn’t use your judgment. You just signed a confession of apathy.
+
 You can use AI and do excellent work because you brought judgment to every step. You can use a pen and do lazy work because you didn't think about anything. The tool doesn't matter. The person doing the thinking matters.
 
 The only question worth asking: Is this *your* thinking? Not "did a human write every word". That's pointless. Is there human judgment in the choices that matter? Correctness. Persuasiveness. Clarity. Does it say what you meant to say?
@@ -59,7 +61,7 @@ If yes, you're good. If no, you should probably do that work again. I'll wait.
 
 What makes good work? With or without AI?
 
-- **Is it correct?** Not polished. Correct. Does it say true things?
+- **Is it correct?** Not polished. Correct. Does it say true things? Did you check?
 - **Does it persuade?** Not because it sounds nice. Because the argument holds.
 - **Does it get the message across?** Can the reader actually do something with this, or understand something they didn't before?
 - **Is it reflective of your thinking?** Not your typing. Your thinking. Your judgment. Your choices about what matters.
