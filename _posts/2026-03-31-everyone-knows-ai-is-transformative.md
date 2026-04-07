@@ -1,6 +1,6 @@
 ---
-title: "Everyone Knows AI Is Transformative. Nobody Admits They're Scared."
-excerpt: "Stop performing. That's what closes the gap."
+title: "Everyone Knows AI Is Transformative"
+excerpt: "Nobody Admits They're Scared."
 tags: [genai, work, technology]
 header:
   teaser: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
