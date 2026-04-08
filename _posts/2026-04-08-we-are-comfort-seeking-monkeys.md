@@ -17,7 +17,7 @@ The moment you chastise someone for using AI, they stop admitting they're using 
 
 And it gets stranger.
 
-The concern isn't the tech. It's how we use it. And more specifically, it's the *shame* we've wrapped around using it, killing any honest conversation about what actually matters.
+The concern isn't the tech. S'fine. Probably. It's how we apply it. And more specifically, it's the *shame* we've wrapped around using it, killing any honest conversation about what truly matters.
 
 A hammer doesn't adapt to you. It stays the same. You learn to hit straighter, and the hammer's still... just a hammer. A hunk of tempered steel and a solid well-made handle.
 
