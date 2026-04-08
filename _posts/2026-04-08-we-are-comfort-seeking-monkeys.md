@@ -4,7 +4,7 @@ excerpt: "On AI, Judgment and Shame"
 tags: [genai, communication, learning, work]
 header: 
     teaser: "/assets/images/we-are-comfort-seeking-monkeys/lucid-origin_A_figure_partially_hidden_in_shadow_shoulders_hunched_typing_or_speaking_into_a_-0.jpg"
-    image_overlay: "/assets/images/we-are-comfort-seeking-monkeys/lucid-origin_A_figure_partially_hidden_in_shadow_shoulders_hunched_typing_or_speaking_into_a_-0.jpg"
+    overlay_image: "/assets/images/we-are-comfort-seeking-monkeys/lucid-origin_A_figure_partially_hidden_in_shadow_shoulders_hunched_typing_or_speaking_into_a_-0.jpg"
 ---
 
 AI is just a tool. Also, no tool has ever done _this_.
