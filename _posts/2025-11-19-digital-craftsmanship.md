@@ -1,5 +1,6 @@
 ---
 title: "Digital Craftsmanship"
+date: 2025-11-19 08:00:00 -0400
 image: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png
 header:
   teaser: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png

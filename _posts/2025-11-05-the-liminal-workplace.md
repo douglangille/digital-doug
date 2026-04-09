@@ -1,5 +1,6 @@
 ---
 title: "The Liminal Workplace"
+date: 2025-11-05 08:00:00 -0400
 image: /assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.png
 header:
   teaser: /assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.png

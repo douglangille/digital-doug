@@ -1,5 +1,6 @@
 ---
 title: "Some Goblins Are Kinda Cute."
+date: 2024-04-10 08:00:00 -0400
 image: /assets/images/some-goblins-are-kinda-cute/4fdbe2a1-d88e-4a56-8c98-f625a982f514_1792x1024.png
 header:
   teaser: /assets/images/some-goblins-are-kinda-cute/4fdbe2a1-d88e-4a56-8c98-f625a982f514_1792x1024.png

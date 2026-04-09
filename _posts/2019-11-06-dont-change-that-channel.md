@@ -1,5 +1,6 @@
 ---
 title: "Don’t Change That Channel"
+date: 2019-11-06 08:00:00 -0400
 image: /assets/images/dont-change-that-channel/6e6737b2-d946-4860-b282-7945fbec5f27_1920x1271.jpeg
 header:
   teaser: /assets/images/dont-change-that-channel/6e6737b2-d946-4860-b282-7945fbec5f27_1920x1271.jpeg

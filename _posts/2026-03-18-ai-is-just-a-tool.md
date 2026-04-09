@@ -1,5 +1,6 @@
 ---
 title:  "AI Is Just A Tool"
+date: 2026-03-18 08:00:00 -0400
 excerpt: "Stop Pretending It Ain't"
 tags: [genai, productivity, tools, technology, creativity]
 header:

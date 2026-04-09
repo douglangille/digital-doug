@@ -1,5 +1,6 @@
 ---
 title: "Intent Engineering"
+date: 2026-03-11 08:00:00 -0400
 excerpt: "Bob was reheating stale coffee on Monday. By Friday, he was drinking cafe Americano."
 tags: [learning, genai, productivity, communication]
 header:

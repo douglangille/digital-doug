@@ -1,5 +1,6 @@
 ---
 title: "PSA: Take Care of Your Eyes"
+date: 2020-03-26 08:00:00 -0400
 image: /assets/images/psa-take-care-of-your-eyes/46fa4a12-43a8-4642-bccf-065c2b5afa7d_768x509.png
 header:
   teaser: /assets/images/psa-take-care-of-your-eyes/46fa4a12-43a8-4642-bccf-065c2b5afa7d_768x509.png

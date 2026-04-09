@@ -1,5 +1,6 @@
 ---
 title: "Unproject Management – Part 2"
+date: 2019-11-27 08:00:00 -0400
 image: /assets/images/unproject-management-part-2/6e0757fc-9ac2-40b0-b859-175ad17c1140_768x512.jpeg
 header:
   teaser: /assets/images/unproject-management-part-2/6e0757fc-9ac2-40b0-b859-175ad17c1140_768x512.jpeg

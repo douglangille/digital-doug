@@ -1,5 +1,6 @@
 ---
 title: "This Is How I'm Using Generative AI"
+date: 2025-04-07 08:00:00 -0400
 image: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86-a53c8c5d5063_1024x1024.png
 header:
   teaser: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86-a53c8c5d5063_1024x1024.png
@@ -12,7 +13,6 @@ tags:
   - work
 excerpt: "A personal workflow tour through tools, habits, and reflections in Spring 2025"
 substack_post_id: "160791220.this-is-how-im-using-generative-ai"
-
 ---
 
 I used to open my web browser and go down rabbit holes searching Google or Wikipedia. I'd travel from link to link to link to link. I used these tools like some folks use TikTok and short-form video today. I’d lose time in the pursuit of ingesting more and more information. Much like these video clip sessions, the quality of the experience is, um, subjective. More often than not, I’d start on a valid Wikipedia search and end up deep-diving into the history of toilet paper. Or the philosophical problems of evil. I wish I was kidding. This kind of info collecting is still a thing for me.

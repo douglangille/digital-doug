@@ -1,5 +1,6 @@
 ---
 title: "The Mix Tape"
+date: 2026-03-25 08:00:00 -0400
 excerpt: "On creativity, curation, and what it means to be the human in the loop"
 tags: [creativity, genai, digital-life, learning]
 header: 

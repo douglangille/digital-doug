@@ -1,5 +1,6 @@
 ---
 title: "Making Teams Work"
+date: 2019-10-30 08:00:00 -0400
 image: /assets/images/making-teams-work/b97dab68-8070-469c-b255-08823eba97e2_1024x442.png
 header:
   teaser: /assets/images/making-teams-work/b97dab68-8070-469c-b255-08823eba97e2_1024x442.png

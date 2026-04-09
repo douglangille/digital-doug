@@ -1,5 +1,6 @@
 ---
 title: "Format Your Style"
+date: 2020-02-05 08:00:00 -0400
 image: /assets/images/format-your-style/e35be88a-afa4-4328-ba73-afb8a6cf6e9a_580x386.jpeg
 header:
   teaser: /assets/images/format-your-style/e35be88a-afa4-4328-ba73-afb8a6cf6e9a_580x386.jpeg

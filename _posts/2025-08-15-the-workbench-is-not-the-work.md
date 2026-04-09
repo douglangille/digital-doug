@@ -1,5 +1,6 @@
 ---
 title: "The Workbench Is Not the Work"
+date: 2025-08-15 08:00:00 -0400
 image: /assets/images/the-workbench-is-not-the-work/e686722a-0364-4c63-9210-3adfe82a47fc_1536x1024.png
 header:
   teaser: /assets/images/the-workbench-is-not-the-work/e686722a-0364-4c63-9210-3adfe82a47fc_1536x1024.png
@@ -12,7 +13,6 @@ tags:
   - productivity
   - digital-life
   - self-improvement
-
 ---
 
 We love to polish our systems. Tag, colour-code, and tweak them until they gleam. But somewhere along the way, the shine starts to feel like progress. The container steals the spotlight from the content.

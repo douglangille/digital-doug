@@ -1,5 +1,6 @@
 ---
 title: "Is the Stylus Mightier than the Keyboard?"
+date: 2020-02-19 08:00:00 -0400
 image: /assets/images/is-the-stylus-mightier-than-the-keyboard/dfff8d4a-ed69-419b-8914-e8e98c2db7ca_1200x745.jpeg
 header:
   teaser: /assets/images/is-the-stylus-mightier-than-the-keyboard/dfff8d4a-ed69-419b-8914-e8e98c2db7ca_1200x745.jpeg

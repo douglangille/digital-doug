@@ -1,5 +1,6 @@
 ---
 title: "When to Use What with Office 365"
+date: 2020-03-11 08:00:00 -0400
 image: /assets/images/when-to-use-what-with-office-365/0cdb123a-0adb-4612-a450-d79da12a2f72_1024x675.jpeg
 header:
   teaser: /assets/images/when-to-use-what-with-office-365/0cdb123a-0adb-4612-a450-d79da12a2f72_1024x675.jpeg

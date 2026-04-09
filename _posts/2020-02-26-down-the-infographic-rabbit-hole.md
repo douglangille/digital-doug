@@ -1,5 +1,6 @@
 ---
 title: "Down the Infographic Rabbit Hole"
+date: 2020-02-26 08:00:00 -0400
 image: /assets/images/down-the-infographic-rabbit-hole/f75491cc-08d5-488a-84de-fcd2bcf1a029_1920x1271.jpeg
 header:
   teaser: /assets/images/down-the-infographic-rabbit-hole/f75491cc-08d5-488a-84de-fcd2bcf1a029_1920x1271.jpeg

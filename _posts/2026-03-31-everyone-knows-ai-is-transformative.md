@@ -1,5 +1,6 @@
 ---
 title: "Everyone Knows AI Is Transformative"
+date: 2026-03-31 08:00:00 -0400
 excerpt: "Nobody Admits They're Scared."
 tags: [genai, work, technology]
 header:

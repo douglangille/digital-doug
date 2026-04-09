@@ -1,5 +1,6 @@
 ---
 title: "Three AI Tricks I Use (That Actually Work)"
+date: 2026-01-07 08:00:00 -0400
 image: /assets/images/three-ai-tricks-i-use-that-actually-work/5ec195b4-06b5-4157-b3c2-be7670718ed7_1536x1024.png
 header:
   teaser: /assets/images/three-ai-tricks-i-use-that-actually-work/5ec195b4-06b5-4157-b3c2-be7670718ed7_1536x1024.png
@@ -13,7 +14,6 @@ tags:
   - habits
 excerpt: "I’m still procrastinating. The tools just make it look intentional."
 substack_post_id: "183779217.three-ai-tricks-i-use-that-actually"
-
 ---
 
 I’m a procrastinator. I put presentations off until the day before. Like tomorrow’s session on AI and productivity - I’m prepping it tonight.

@@ -1,5 +1,6 @@
 ---
 title: "Confidently Wrong"
+date: 2025-09-26 08:00:00 -0400
 image: /assets/images/confidently-wrong/cd8c89d7-cee6-4601-8ea0-a996df1f383a_1536x1024.png
 header:
   teaser: /assets/images/confidently-wrong/cd8c89d7-cee6-4601-8ea0-a996df1f383a_1536x1024.png
@@ -12,7 +13,6 @@ tags:
   - communication
   - productivity
   - work
-
 ---
 
 ### When Workslop Comes for You

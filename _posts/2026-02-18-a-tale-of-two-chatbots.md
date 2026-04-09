@@ -1,5 +1,6 @@
 ---
 title: "A Tale of Two Chatbots"
+date: 2026-02-18 08:00:00 -0400
 excerpt: "It was the best of bots, it was the worst of bots."
 tags: [genai, tools, work]
 header:

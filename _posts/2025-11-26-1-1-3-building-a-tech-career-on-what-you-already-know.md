@@ -1,5 +1,6 @@
 ---
 title: "1 + 1 = 3: Building a Tech Career on What You Already Know"
+date: 2025-11-26 08:00:00 -0400
 image: /assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.png
 header:
   teaser: /assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.png

@@ -1,5 +1,6 @@
 ---
 title: "The Accidental Notetaker"
+date: 2025-12-03 08:00:00 -0400
 image: /assets/images/the-accidental-notetaker/f9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.png
 header:
   teaser: /assets/images/the-accidental-notetaker/f9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.png

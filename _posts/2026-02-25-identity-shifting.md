@@ -1,5 +1,6 @@
 ---
 title: "Identity Shifting > Goal Setting"
+date: 2026-02-25 08:00:00 -0400
 excerpt: "Stop waiting to be legitimate."
 tags: [habits, self-improvement, work, creativity]
 header:

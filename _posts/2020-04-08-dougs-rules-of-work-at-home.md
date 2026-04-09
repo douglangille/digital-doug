@@ -1,5 +1,6 @@
 ---
 title: "Doug’s Rules of Work (At Home)"
+date: 2020-04-08 08:00:00 -0400
 image: /assets/images/dougs-rules-of-work-at-home/7115f2e6-4387-4800-a334-94f72bf6cf86_803x499.jpeg
 header:
   teaser: /assets/images/dougs-rules-of-work-at-home/7115f2e6-4387-4800-a334-94f72bf6cf86_803x499.jpeg

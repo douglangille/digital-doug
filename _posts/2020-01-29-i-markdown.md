@@ -1,5 +1,6 @@
 ---
 title: "I ♥ Markdown"
+date: 2020-01-29 08:00:00 -0400
 image: /assets/images/i-markdown/3ee94c2a-a2eb-4c58-a2e2-f818dcf7f9a5_640x300.png
 header:
   teaser: /assets/images/i-markdown/3ee94c2a-a2eb-4c58-a2e2-f818dcf7f9a5_640x300.png

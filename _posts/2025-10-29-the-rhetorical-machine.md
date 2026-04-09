@@ -1,5 +1,6 @@
 ---
 title: "The Rhetorical Machine"
+date: 2025-10-29 08:00:00 -0400
 image: /assets/images/the-rhetorical-machine/9e22586b-1d28-4a3b-84a9-ab0e226cf318_1536x1024.png
 header:
   teaser: /assets/images/the-rhetorical-machine/9e22586b-1d28-4a3b-84a9-ab0e226cf318_1536x1024.png

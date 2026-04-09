@@ -1,5 +1,6 @@
 ---
 title: "Focus with Music"
+date: 2020-01-08 08:00:00 -0400
 image: /assets/images/focus-with-music/08913387-d82d-4225-add7-52f65f1c429c_960x427.jpeg
 header:
   teaser: /assets/images/focus-with-music/08913387-d82d-4225-add7-52f65f1c429c_960x427.jpeg

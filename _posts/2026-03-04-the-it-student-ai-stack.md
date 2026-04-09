@@ -1,5 +1,6 @@
 ---
 title:  "The IT Student AI Stack"
+date: 2026-03-04 08:00:00 -0400
 excerpt: "GitHub Education Edition"
 tags: [learning,technology,tools,genai]
 header:

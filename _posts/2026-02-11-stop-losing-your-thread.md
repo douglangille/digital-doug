@@ -1,5 +1,6 @@
 ---
 title: "Stop Losing Your Thread"
+date: 2026-02-11 08:00:00 -0400
 excerpt: "Your gaslighting robot has amnesia."
 tags: [genai, productivity, tools, digital-life, communication]
 header:

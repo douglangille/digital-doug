@@ -1,5 +1,6 @@
 ---
 title: We Are Comfort-Seeking Monkeys
+date: 2026-04-08 08:00:00 -0400
 excerpt: "On AI, Judgment and Shame"
 tags: [genai, communication, learning, work]
 header: 

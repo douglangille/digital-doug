@@ -1,5 +1,6 @@
 ---
 title: "Plain Text Rebellion"
+date: 2020-01-22 08:00:00 -0400
 image: /assets/images/plain-text-rebellion/10fe202e-feb9-4b88-8df8-9e12ca146f23_1024x686.png
 header:
   teaser: /assets/images/plain-text-rebellion/10fe202e-feb9-4b88-8df8-9e12ca146f23_1024x686.png

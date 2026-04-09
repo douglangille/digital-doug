@@ -1,5 +1,6 @@
 ---
 title: "What I Use to Make It Through the Day"
+date: 2019-10-02 08:00:00 -0400
 image: /assets/images/what-i-use-to-make-it-through-the-day/5394dd5d-5303-4ff9-a9aa-f14c50d36569_756x510.jpeg
 header:
   teaser: /assets/images/what-i-use-to-make-it-through-the-day/5394dd5d-5303-4ff9-a9aa-f14c50d36569_756x510.jpeg

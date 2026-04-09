@@ -1,5 +1,6 @@
 ---
 title: "Your Inbox Is Thine Enemy"
+date: 2019-12-18 08:00:00 -0400
 image: /assets/images/your-inbox-is-thine-enemy/f3a807cf-26c3-41e4-bb26-84752601d003_960x540.jpeg
 header:
   teaser: /assets/images/your-inbox-is-thine-enemy/f3a807cf-26c3-41e4-bb26-84752601d003_960x540.jpeg
