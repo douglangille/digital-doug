@@ -1,6 +1,7 @@
 ---
 title: "Microsoft Classic vs 365 Ecosystem"
 date: 2024-08-14 08:00:00 -0400
+excerpt: "Change is hard."
 image: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
 header:
   teaser: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg

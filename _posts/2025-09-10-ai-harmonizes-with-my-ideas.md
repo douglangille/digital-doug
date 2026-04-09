@@ -1,6 +1,7 @@
 ---
 title: "AI Harmonizes with My Ideas"
 date: 2025-09-10 08:00:00 -0400
+excerpt: "Every rabbit hole needs style."
 
 image: /assets/images/ai-harmonizes-with-my-ideas/47981997-d20a-4864-9e64-02acba822434_1536x1024.png
 header:

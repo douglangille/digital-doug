@@ -1,6 +1,7 @@
 ---
 title: "How I Plan My Week"
 date: 2024-06-11 08:00:00 -0400
+excerpt: "I am messy."
 image: /assets/images/how-i-plan-my-week/8ce6b7d8-3010-48f5-8fa2-e872e24f9e77_1280x853.jpeg
 header:
   teaser: /assets/images/how-i-plan-my-week/8ce6b7d8-3010-48f5-8fa2-e872e24f9e77_1280x853.jpeg

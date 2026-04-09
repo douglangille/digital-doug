@@ -1,6 +1,7 @@
 ---
 title: "Digital Fluency in 2024"
 date: 2024-01-29 08:00:00 -0400
+excerpt: "Technology is an integral part of our lives."
 image: /assets/images/digital-fluency-in-2024/419caae1-ca6b-440b-8135-9477375cbf3c_1024x1024.jpeg
 header:
   teaser: /assets/images/digital-fluency-in-2024/419caae1-ca6b-440b-8135-9477375cbf3c_1024x1024.jpeg

@@ -1,6 +1,7 @@
 ---
 title: "Technology Self-Help"
 date: 2024-05-03 08:00:00 -0400
+excerpt: "It’s a strange time we live in."
 image: /assets/images/technology-self-help/1f383809-2ea0-4953-87dc-c9924e4f007a_640x400.jpeg
 header:
   teaser: /assets/images/technology-self-help/1f383809-2ea0-4953-87dc-c9924e4f007a_640x400.jpeg

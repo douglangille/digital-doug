@@ -1,6 +1,7 @@
 ---
 title: "Slaying the Algorithm Dragon"
 date: 2025-09-19 08:00:00 -0400
+excerpt: "Hoards your attention, breathes outrage fire."
 image: /assets/images/slaying-the-algorithm-dragon/aea9b245-a285-4add-892f-900d9d1b793e_1536x1024.png
 header:
   teaser: /assets/images/slaying-the-algorithm-dragon/aea9b245-a285-4add-892f-900d9d1b793e_1536x1024.png
@@ -14,8 +15,6 @@ tags:
   - technology
 substack_post_id: "174023996.slaying-the-algorithm-dragon"
 ---
-
-The Algorithm Dragon: hoards your attention, breathes outrage fire.
 
 "I cannot brain today. I have the dumb."
 
