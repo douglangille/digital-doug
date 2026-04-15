@@ -23,7 +23,7 @@ Ideas that skip the ugly stage don't come out worse. They come out shallower. Yo
 
 The mess has to go somewhere too. And it has to feel like yours.
 
-Zombie drafts in Word from 2019. OneNote cemeteries from the Teams era. Apple Notes as an infinite junk drawer. Things go in. Nothing comes out. MS Loop is currently accumulating months and months of my half-thoughts. And the biggest thought-trash-heap? AI chat windows. Ideas I brought in half-formed, stress-tested into clarity or gutlessness, then closed the tab on.
+Zombie drafts in Word from 2019. OneNote cemeteries from the pre-Teams era. Apple Notes as an infinite junk drawer. Things go in. Nothing comes out. MS Loop is currently accumulating months and months of my half-thoughts. And the biggest thought-trash-heap? AI chat windows. Ideas I brought in half-formed, stress-tested into clarity or gutlessness, then closed the tab on.
 
 And the paper: a bajillion notebooks, each a guilt-ridden reminder about ideas that went in and never came out. Unsearchable. Unreliable. At some point I stopped trusting the container. Maybe the problem was never the container.
 
