@@ -33,7 +33,7 @@ Connected tools impose a false tidiness. Drafts that sync before you've finished
 
 The mechanism is the same whether it's the tool or your own skull. You edit before you've written anything worth editing. You skip the ugly part because the stage feels observed somehow.
 
-Notice how differently you write and brainstorm on paper when no one is watching, or when you've convinced yourself nothing is at stake. The hand moves faster. The ideas are dumber and more honest. You cross things out instead of deleting them. The false starts stay on the page, and sometimes... not always, but sometimes. The false start was pointing at the real thing all along.
+Notice how differently you write and brainstorm on paper when no one is watching, or when you've convinced yourself nothing is at stake. The hand moves faster. The ideas are dumber and more honest. You cross things out instead of erasing them. The false starts stay on the page, and sometimes... not always, but sometimes. The false start was pointing at the real thing all along.
 
 What gets lost isn't the finished idea. It's what you learn from being wrong and sitting with it for long enough. That gap -- the ugly, unjudged middle -- is where the best ideas form. Or not. You can't manufacture it. You can only protect the conditions that make it possible.
 
