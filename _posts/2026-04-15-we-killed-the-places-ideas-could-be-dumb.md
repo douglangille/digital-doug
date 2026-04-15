@@ -1,6 +1,6 @@
 ---
 title: "We Killed the Places Where Ideas Could Be Dumb"
-excerpt: "The rough draft isn't a document. It's a cognitive state. And it's gone."
+excerpt: "The rough draft isn't a document. It's a cognitive state."
 tags: [creativity, productivity,technology, tools]
 header:
     teaser: /assets/images/we-killed-the-places-where-idesas-could-be-dumb/generated-image-5.png
