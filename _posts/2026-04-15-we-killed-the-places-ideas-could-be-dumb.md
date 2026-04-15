@@ -29,7 +29,7 @@ And the paper: a bajillion notebooks, each a guilt-ridden reminder about ideas t
 
 The worst containers are the rented ones: cloud tools, borrowed platforms. Anywhere the mess feels temporary. And temporary means you stop letting it get weird.
 
-Connected tools impose a false tidiness. Drafts that sync before you've finished typing. Autocomplete that finishes thoughts you haven't had yet. AI that red-teams half-formed ideas. Valuable because sycophancy is its own damage. But rigor has a cost. A rough idea in a sharp conversation either emerges stronger or gets sanded into something so smooth it's lost its teeth. There's no middle ground. No estuary of thought between the field and the glade.
+Connected tools impose a false tidiness. Drafts that sync before you've finished typing. Autocomplete that finishes thoughts you haven't had yet. AI that red-teams half-formed ideas. Valuable because sycophancy is its own damage. But rigor has a cost. A rough idea in a sharp conversation either emerges stronger or gets sanded into something so smooth it's lost its teeth. There's no middle ground. No estuary of thought between the field and the forest.
 
 The mechanism is the same whether it's the tool or your own skull. You edit before you've written anything worth editing. You skip the ugly part because the stage feels observed somehow.
 
