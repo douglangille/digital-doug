@@ -1,5 +1,5 @@
 ---
-title : "Hire the Analyst, Not the Oracle"
+title: "Hire the Analyst, Not the Oracle"
 excerpt: "Nobody is an AI expert."
 tags: [genai, work, learning]
 date: 2026-04-22 06:00:00 -0400
