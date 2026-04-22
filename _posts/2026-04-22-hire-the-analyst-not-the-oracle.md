@@ -24,9 +24,7 @@ Six months later you’ve got a digital dream board full of AI opportunities and
 
 Congratulations, you bought a very expensive roadmap from someone who won’t be around to execute it.
 
-Meanwhile there's a person down the hall who's spent years making complicated systems talk to each other. They've shepherded projects nobody wanted to own. They think in systems. 
-
-They know where the bodies are buried in your org chart. They’ve spent their career translating between what a business unit actually needs and what IT can actually build, and they’ve gotten good at it because the consequences of getting it wrong were real and landed on their desk. 
+Meanwhile there's a person down the hall who's spent years making complicated systems talk to each other. They've shepherded projects nobody wanted to own. They think in systems. They know where the bodies are buried in your org chart. They’ve spent their career translating between what a business unit actually needs and what IT can actually build, and they’ve gotten good at it because the consequences of getting it wrong were real and landed on their desk. 
 
 They’ve been quietly poking at AI for a year on their own time, figuring out where it actually helps versus where it’s a parlour trick dressed up in a demo. They’ve already killed two AI pilots quietly because the juice wasn’t worth the squeeze. They were right both times.
 
@@ -34,7 +32,7 @@ That person will out-perform the Oracle in six months. Employee or consultant. I
 
 Because here’s the thing about rolling out AI or any new technology in an actual organization: the tech part is not the hard part. Learning the tools takes weeks. Genuinely understanding a workflow, earning the trust of the people in it, knowing which friction points are worth solving versus which ones exist for a reason nobody remembers, but you’ll find out the hard way, that takes years. You cannot certify your way into institutional knowledge. You cannot invoice your way out of not having it.
 
-AI fluency is a multiplier not additive. If there’s nothing underneath it you get nothing. If there’s years of domain knowledge and systems thinking underneath it, you get something that actually works and doesn’t require a maintenance contract.
+AI fluency is a multiplier. If there’s nothing underneath it you get nothing. If there’s years of domain knowledge and systems thinking underneath it, you get something that actually works and doesn’t require a maintenance contract.
 
 The quality I’d screen for that nobody puts in a job posting or an RFP: comfortable being the least expert person in the room. Not as a concession. As a feature. The people who built their whole identity on knowing things are exactly the wrong fit for a space that changes every three months. You need someone who can be wrong on a Tuesday and pivot on Wednesday without having an existential crisis about their personal brand.
 
