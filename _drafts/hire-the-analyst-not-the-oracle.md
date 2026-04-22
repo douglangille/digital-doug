@@ -1,6 +1,12 @@
 ---
-Hire the Analyst, Not the Oracle
+title : "Hire the Analyst, Not the Oracle"
+excerpt: "Nobody is an AI expert."
+tags: [genai, work, learning]
+header:
+  teaser: "/"
+  overlay_image: "/"
 ---
+
 Nobody is an AI expert.
 
 I’ll say it again for the people in the back: nobody. A handful of researchers at three or four labs who’ve been doing this since before it was cool. Everyone else is a fast learner with a newsletter subscription and varying degrees of honesty about it. That includes me. That includes the person who just sent you a resume with “AI Expert” in the headline and a certification that’s eight months old. And it absolutely includes the consultant who just quoted you $15,000 for an AI readiness assessment.
