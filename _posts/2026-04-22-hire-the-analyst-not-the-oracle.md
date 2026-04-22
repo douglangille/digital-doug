@@ -2,7 +2,7 @@
 title : "Hire the Analyst, Not the Oracle"
 excerpt: "Nobody is an AI expert."
 tags: [genai, work, learning]
-date: 2026-04-22 08:00:00 -0400
+date: 2026-04-22 06:00:00 -0400
 header:
   teaser: "/assets/images/hire-the-analyst-not-the-oracle/IMG_0785.png"
   overlay_image: "/assets/images/hire-the-analyst-not-the-oracle/IMG_0785.png"
