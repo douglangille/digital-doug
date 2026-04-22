@@ -3,8 +3,8 @@ title : "Hire the Analyst, Not the Oracle"
 excerpt: "Nobody is an AI expert."
 tags: [genai, work, learning]
 header:
-  teaser: "/"
-  overlay_image: "/"
+  teaser: "/assets/images/hire-the-analyst-not-the-oracle/IMG_0785.png"
+  overlay_image: "/assets/images/hire-the-analyst-not-the-oracle/IMG_0785.png"
 ---
 
 Nobody is an AI expert.
