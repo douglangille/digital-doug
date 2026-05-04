@@ -15,6 +15,9 @@ tags:
   - learning
 substack_post_id: "147751380.a-couple-llm-prompt-tips"
 ---
+
+# A Couple LLM Prompt Tips…
+
 I’ve been tooling around with some LLMs. It’s insanely useful and a lot of fun.
 
 Logging into Microsoft 365 Copilot Enterprise ([https://copilot.microsoft.com](https://copilot.microsoft.com/)) is still the best way to stay on-side with privacy and college/corporate policy, even if said policies are still a work-in-progress. We ain’t special here. Nearly every organization is pretty much right with us. Go ahead and play with all the tools– just be mindful of your data privacy and that of others.

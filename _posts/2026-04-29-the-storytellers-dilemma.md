@@ -7,6 +7,9 @@ header:
     overlay_image: "/assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026 at 08_27_17 AM.png"
 ---
 
+
+# The Storyteller's Dilemma
+
 "Is this damn thing mine?"
 
 That's the actual question. Not whether you wrote the words. Not whether you designed the structure. Not whether you made the edits. The question is: Is it you telling the story? Are you owning it? Did you decide what gets said and why?

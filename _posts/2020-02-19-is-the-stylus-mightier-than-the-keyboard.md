@@ -14,6 +14,9 @@ tags:
 excerpt: "I have this weird obsession."
 substack_post_id: "141217717.is-the-stylus-mightier-than-the-keyboard"
 ---
+
+# Is the Stylus Mightier than the Keyboard?
+
 **I have this weird obsession.**
 
 Only one, you say? Sure. Just one.

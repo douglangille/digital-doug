@@ -13,6 +13,9 @@ tags:
   - work
   - self-improvement
 ---
+
+# The Liminal Workplace
+
 **The Sound of Waiting**  
 Modern workplaces are experts at waiting. We hold meetings, make subcommittees, circulate drafts, and call it progress. Higher education institutions seem to have elevated this to an art form.
 

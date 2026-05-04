@@ -8,6 +8,9 @@ header:
     overlay_image: "/assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21 PM.png"
 ---
 
+
+# Beyond the Grimoire
+
 You're forty-five minutes into a chat with your AI. You started with something simple: draft an email, outline a lesson plan, whatever. Now you're on iteration twenty-three, and each version is slightly different but not actually better. You keep thinking "just one more tweak." You're polishing a turd, hoping it'll transform into a rainbow unicorn horn.
 
 You know it's not working. But you can't stop. Because stopping means admitting you've wasted forty-five minutes on this.

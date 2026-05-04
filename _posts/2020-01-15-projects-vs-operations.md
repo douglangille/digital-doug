@@ -13,6 +13,9 @@ tags:
   - productivity
   - work
 ---
+
+# Projects vs Operations
+
 **Life.**
 
 It’s a workaday existence where we trade time for money in the hope we’ll have enough money to make the best of the time we have. We spend most of our time at work, but most of us value our time away from work more. Career satisfaction be damned, if I won the lottery, I’d likely do something else.

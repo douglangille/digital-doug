@@ -14,6 +14,9 @@ tags:
 excerpt: "Remember: NO CAPES!"
 substack_post_id: "141217715.dougs-rules-of-work-at-home"
 ---
+
+# Doug’s Rules of Work (At Home)
+
 **A few of you have seen Doug’s Rules of Work before.**
 
 The idea for this has been germinating for several years, but it was while reviewing an early draft of the Employee Code of Conduct, that this got some legs. Sitting at a table with Patsy MacDonald didn’t hurt.

@@ -16,6 +16,9 @@ excerpt: "I’m still procrastinating. The tools just make it look intentional."
 substack_post_id: "183779217.three-ai-tricks-i-use-that-actually"
 ---
 
+
+# Three AI Tricks I Use (That Actually Work)
+
 I’m a procrastinator. I put presentations off until the day before. Like tomorrow’s session on AI and productivity - I’m prepping it tonight.
 
 I like to tell myself I work better under pressure. It’s bullshit. No one works better under pressure. What actually happens: I either over-prepare and psych myself out, or I wing it and deliver something serviceable but not great. Lots of “ums” and “ahs.” Absent-minded professor vibes.

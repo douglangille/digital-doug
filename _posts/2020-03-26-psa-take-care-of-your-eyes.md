@@ -14,6 +14,9 @@ tags:
 excerpt: "BLINK"
 substack_post_id: "141217737.psa-take-care-of-your-eyes"
 ---
+
+# PSA: Take Care of Your Eyes
+
 We are all spending a bunch of time in front of our computers. I don’t know about you, but it’s pretty easy to lose time.
 
 [![ed2682aa-5c63-4ca6-8a2d-e30d4f0ab622](/assets/images/psa-take-care-of-your-eyes/c94ff045-75d0-4fdb-b1c5-9a34aaea4064_400x200.gif "ed2682aa-5c63-4ca6-8a2d-e30d4f0ab622")](https://substackcdn.com/image/fetch/$s_!vB5Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc94ff045-75d0-4fdb-b1c5-9a34aaea4064_400x200.gif)

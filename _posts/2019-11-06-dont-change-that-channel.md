@@ -14,6 +14,9 @@ tags:
 excerpt: "The Internet killed the video star."
 substack_post_id: "141217732.dont-change-that-channel"
 ---
+
+# Don’t Change That Channel
+
 **So, yeah, I love Microsoft Teams.**
 
 As I mentioned last week, most of the tool is very familiar. You got all the basics covered:

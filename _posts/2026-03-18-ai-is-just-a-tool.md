@@ -8,6 +8,9 @@ header:
     overlay_image: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
 ---
 
+
+# AI Is Just A Tool
+
 Last week someone asked if I used AI on a post. The panic on their face said everything. I felt the shame spiral anyway.
 
 Done right, it's just a tool. This post is about how I make the donuts. It's not about broad AI ethics or whether AGI will eat us. Just how I use it to say what I mean.

@@ -8,6 +8,9 @@ header:
     overlay_image: "assets/images/stop-losing-your-thread/ChatGPT Image Feb 10, 2026 at 03_58_29 PM.png"
 ---
 
+
+# Stop Losing Your Thread
+
 You're 30 messages into a conversation with an AI. It was perfect at message 5. By message 20, it's contradicting earlier decisions. By message 30, it's forgotten half of everything and you're rage-typing corrections. You're being gaslit by the robots. It's context drift, and it happens to everyone.
 
 The chatbot isn't broken. You just hit the limits of what it can hold in active memory. Modern systems can hold the half-million tokens of the Harry Potter franchise like a boss, but context degrades before you hit those limits. The output stays coherent. It just gets generic. Loses the specifics you asked for. Drifts away from your constraints. All the colors mix to brown.

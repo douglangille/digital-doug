@@ -14,6 +14,9 @@ tags:
 excerpt: "Daily Epic Wins"
 substack_post_id: "141217735.tasks-and-lists"
 ---
+
+# Tasks and Lists
+
 I’m generally quite terrible at getting stuff done. I have to work at it. *Constantly*. It isn’t a knowledge gap– not at all. It’s not even about willpower and discipline.
 
 It’s about life getting in the way.

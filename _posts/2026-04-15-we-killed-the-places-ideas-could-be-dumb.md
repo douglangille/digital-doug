@@ -8,6 +8,9 @@ header:
     overlay_image: /assets/images/we-killed-the-places-where-idesas-could-be-dumb/generated-image-5.png
 ---
 
+
+# We Killed the Places Where Ideas Could Be Dumb
+
 I deleted a note last week because it was too dumb to keep. Not wrong. Just dumb. Half a sentence about something I'd half-noticed, the kind of thing you'd scribble on a sticky note, slap it on our monitor and promptly forget until it became obvious. Instead, I typed it, read it back, cringed on behalf of my future self, and deleted it. I've been thinking about that fleeting decision ever since.
 
 The rough draft isn't a document. It's a cognitive state with structure. It's the moment before you know what you think, given a place to exist long enough to become... something. We've dismantled the conditions for spaces like this to be. I'm not sure when that happened.

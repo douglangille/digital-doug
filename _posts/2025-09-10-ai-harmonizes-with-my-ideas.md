@@ -16,6 +16,9 @@ tags:
 substack_post_id: "173291190.ai-harmonizes-with-my-ideas"
 ---
 
+
+# AI Harmonizes with My Ideas
+
 Every rabbit hole needs style.
 
 Best practices in synchronized crime.

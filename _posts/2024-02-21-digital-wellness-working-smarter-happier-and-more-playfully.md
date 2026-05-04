@@ -15,6 +15,9 @@ tags:
   - self-improvement
 substack_post_id: "147751381.digital-wellness-working-smarter-happier-and-more-playfully"
 ---
+
+# Digital Wellness: Working Smarter, Happier, and More Playfully
+
 **Digital life got you feeling like a hamster on a wheel?** Emails pinging, meetings multiplying, notifications nagging… suddenly “just a sec” becomes 45 minutes lost in the YouTube abyss. Been there, done that (except for the hamster wheel part… hopefully).
 
 **The truth? We’re all juggling digital demands, leaving us drained and scattered.** **You’re not alone.** This constant digital pressure cooker can lead to stress, anxiety, and even burnout. But what if we could transform that struggle into **smarter, happier, and even playful work?**

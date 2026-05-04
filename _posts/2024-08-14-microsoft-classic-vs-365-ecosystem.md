@@ -15,6 +15,9 @@ tags:
 substack_post_id: "147751375.microsoft-classic-vs-365-ecosystem"
 ---
 
+
+# Microsoft Classic vs 365 Ecosystem
+
 Change is hard. For everyone.
 
 Microsoft has a hard time changing too, largely because they often have to maintain the old legacy way of doing things while striving to innovate and push the tools to more modern techniques.

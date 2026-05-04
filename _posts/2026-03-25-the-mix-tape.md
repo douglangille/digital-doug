@@ -8,6 +8,9 @@ header:
     overlay_image: "/assets/images/the-mix-tape/ChatGPT Image Mar 23, 2026 at 12_18_37 PM.png"
 ---
 
+
+# The Mix Tape
+
 I was listening to Kate Compton on the [Approximately Correct podcast from AMII](https://www.amii.ca/updates-insights/-keep-ai-weird-kate-compton-on-creativity-in-computing-approximately-correct-podcast). She's a generative artist, researcher, and self-described weird futurist, probably best known for creating Tracery and generating the planets in *Spore*. And she said something that cracked something open for me.
 
 She's not interested in the debate over whether AI can be creative, because AI lacks what she thinks is the most important part of art: social connection. Kate said this: don't pick a weird thing to make. Pick a person. Figure out what you'd use to send them the strangest love letter.

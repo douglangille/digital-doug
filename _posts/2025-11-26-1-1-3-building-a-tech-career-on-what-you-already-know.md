@@ -14,6 +14,9 @@ tags:
   - learning
   - self-improvement
 ---  
+
+# 1 + 1 = 3: Building a Tech Career on What You Already Know
+
 Your first career wasn’t a mistake. It might be the thing that makes the next one work.
 
 Tech moves quickly, but that doesn’t mean you have to sprint. Most of the time, progress looks more like adding a small tool to a skill set you already trust. That’s the secret sauce of an additive career. You bring the experience you’ve lived. Tech brings leverage. Put them together and you get something bigger than the sum of the parts.

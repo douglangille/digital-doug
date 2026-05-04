@@ -14,6 +14,9 @@ tags:
 excerpt: "Future Me appreciates the upgrade."
 substack_post_id: "180564071.the-accidental-notetaker"
 ---
+
+# The Accidental Notetaker
+
 Taking notes is easy. Making sense of them later? That’s the part that always broke me. I’m lying. Taking notes hurts my soul. I kinda hate it and telling myself to *embrace the suck* is not helpful.
 
 I’ve tried everything: elaborate systems, minimalist systems, digital, analog, hybrid. Most collapsed under their own weight. The ones that didn’t still left me with a pile of fragments I never had the energy to reassemble.

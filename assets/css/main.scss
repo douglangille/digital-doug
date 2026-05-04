@@ -55,6 +55,12 @@ a:hover > .page__hero--overlay {
   opacity: 0.95!important;
 }
 
+/* Body H1 hidden on overlay posts — title already in hero banner.
+   H1 stays in .md source for Obsidian. */
+.page__hero--overlay ~ #main .page__content h1:first-child {
+  display: none;
+}
+
 /* teaser images in archive grid */
 .archive__item-teaser img, .half img { object-fit: cover; aspect-ratio: 3/2; }
 

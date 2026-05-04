@@ -16,6 +16,9 @@ tags:
   - tools
 substack_post_id: "147751378.technology-self-help"
 ---
+
+# Technology Self-Help
+
 It’s a strange time we live in.
 
 We’re expected to be experts in all the technology things and be both effective and efficient in all of it. But for the most part, we’ve never been taught the most basic of things. We just figure it out. More magic than science. And it’s all a lie.

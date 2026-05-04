@@ -14,6 +14,9 @@ tags:
 excerpt: "Monday doesn't care about your feelings."
 substack_post_id: "176948649.the-weekly-reset-process-over-artifact"
 ---
+
+# The Weekly Reset: Process Over Artifact
+
 I was on vacation last week and mostly disconnected from Teh Internets. There was plenty of farm-ish work to handle as part of the seasonal shutdown. All in all, it was great. So when I logged into a computer on Monday, what happened? What disasters awaited me?
 
 None. Everything kept going in my absence. Sure, I had an overflowing inbox. An hour to triage email for urgent items and then I left it alone. I’ll get to it. Anything I missed will bubble back up. It always does.

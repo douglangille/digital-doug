@@ -11,6 +11,9 @@ tags:
     - tools
 ---
 
+
+# Platforms Make the Worst Landlords
+
 I spent a year and a half convincing myself Substack was different. It wasn't.
 
 Digital Doug is moving. 

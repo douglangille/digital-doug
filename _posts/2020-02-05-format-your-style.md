@@ -14,6 +14,9 @@ tags:
   - tools
   - creativity
 ---
+
+# Format Your Style
+
 Okay. So the last two weeks, we’ve been on a plain text kick and then did the markdown thing. This week, I’m going to wrap this topic up.
 
 [![05c78b3b-6ab1-459d-869e-0dd937fc85ba](/assets/images/format-your-style/c7755316-1331-42cc-86ca-3bacc2893f57_500x211.gif "05c78b3b-6ab1-459d-869e-0dd937fc85ba")](https://substackcdn.com/image/fetch/$s_!BYDQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7755316-1331-42cc-86ca-3bacc2893f57_500x211.gif)

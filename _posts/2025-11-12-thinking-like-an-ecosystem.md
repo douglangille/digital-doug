@@ -13,6 +13,9 @@ tags:
 excerpt: "Root, Branch, and Bloom."
 substack_post_id: "178680859.thinking-like-and-ecosystem"
 ---
+
+# Thinking Like an Ecosystem
+
 ### Between Frost and Flow
 
 The leaves are mostly down now. Frost rims the grass at dawn, mud by noon. The forest looks dormant, but under the litter, roots and fungi are still trading what’s left of the year’s light. Ecosystems don’t rest; they reroute.

@@ -15,6 +15,9 @@ tags:
 excerpt: "Birds kinda freak me out."
 substack_post_id: "141217726.how-not-to-be-a-jerk-online"
 ---
+
+# How Not to Be a Jerk Online
+
 *This a re-post from my personal blog almost 6 years ago. Still relevant. All of the sentiment herein applies with any digital communication tool, be it Facebook, Twitter or Microsoft Teams.*
 
 It goes without saying that being active on the Internet requires a thick skin. With social media tools like Facebook, we now all create content whether we recognize it or not. Our opinions are open for criticism.

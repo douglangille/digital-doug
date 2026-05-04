@@ -8,6 +8,9 @@ header:
   overlay_image: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
 ---
 
+
+# Everyone Knows AI Is Transformative
+
 Right now, most institutions are still thrashing. Multiple initiatives, no coherent strategy, departments rolling out AI independently. The messaging is scattered. Some leaders are excited. Some are defensive. Some haven't said anything yet. It's chaos, but it's honest chaos. Nobody's pretending to know what they're doing.
 
 But this is changing. The institutions that are getting their act together -- that have appointed AI committees and drafted governance policies and organized training modules -- are moving toward coordination. Toward a message.

@@ -15,6 +15,9 @@ tags:
 excerpt: "Abusing PowerPoint"
 substack_post_id: "141217714.when-to-use-what-with-office-365"
 ---
+
+# When to Use What with Office 365
+
 As I mentioned two weeks ago, I was challenged with creating an infographic.
 
 I double-downed on said challenge and opted to do it with Office 365’s built-in tools.

@@ -15,6 +15,9 @@ tags:
   - work
   - self-improvement
 ---
+
+# Digital Craftsmanship
+
 It always starts the same way: I’m fixing something, the screwdriver slips, and I slice a finger just deep enough to question my life choices. There’s that moment of sucking the blood off, muttering something unprintable, and realizing, yep, this is what people mean by “blood, sweat, and tears.” It’s less poetic when you’re the one bleeding, but it’s honest. Craft usually is.
 
 > If you’re joining late, here’s the quick map:

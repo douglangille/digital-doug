@@ -17,6 +17,9 @@ excerpt: "Why Your Chatbot Needs a Reset"
 substack_post_id: "181879893.everything-is-brown"
 ---
 
+
+# Everything Is Brown
+
 ## The Play-Doh Problem
 
 When I was a kid, I had four colours of Play-Doh: blue, yellow, red, and white. For the first day or two, I could make anything. A yellow sun. A blue ocean. Red flowers with white centres. Infinite possibilities.

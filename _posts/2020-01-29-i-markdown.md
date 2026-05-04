@@ -15,6 +15,9 @@ tags:
 excerpt: "Marky Mark and the Funky Bunch"
 substack_post_id: "141217729.i-markdown"
 ---
+
+# I ♥ Markdown
+
 Back in high school, many moons ago, we had a single computer lab full of Commodore PCs. We’d boot them up with an MS-DOS 2.11 diskette then load up the word processor off another diskette.
 
 [![](/assets/images/i-markdown/a3c32e5c-a923-478a-b35b-c0adb72cc43c_300x225.jpeg)](https://substackcdn.com/image/fetch/$s_!q-1M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3c32e5c-a923-478a-b35b-c0adb72cc43c_300x225.jpeg)

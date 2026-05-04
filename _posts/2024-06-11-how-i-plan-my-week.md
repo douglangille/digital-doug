@@ -15,6 +15,9 @@ tags:
   - self-improvement
 substack_post_id: "147751376.how-i-plan-my-week"
 ---
+
+# How I Plan My Week
+
 I am messy.
 
 Contrary to what folks may think, I do not have a 100% digital setup. Seems a weird thing to say on this blog, but it is what it is. Deal with it.

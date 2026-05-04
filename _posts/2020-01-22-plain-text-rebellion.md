@@ -15,6 +15,9 @@ tags:
 excerpt: "Carriage Return Line Feed"
 substack_post_id: "141217718.plain-text-rebellion"
 ---
+
+# Plain Text Rebellion
+
 Let me tell you a story.
 
 When I was in high school, I remember when typewriters became computers and document processing a la touch typing became the darling-do.

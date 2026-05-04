@@ -14,6 +14,9 @@ tags:
 excerpt: "I love it when a plan comes together."
 substack_post_id: "141217734.plan-the-planny-plan-in-planner"
 ---
+
+# Plan the Planny Plan in Planner
+
 Microsoft simultaneously frustrates and inspires me.
 
 Task and project management is once such case.

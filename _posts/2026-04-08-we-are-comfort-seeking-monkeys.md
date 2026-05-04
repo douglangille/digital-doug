@@ -8,6 +8,9 @@ header:
     overlay_image: "/assets/images/we-are-comfort-seeking-monkeys/lucid-origin_A_figure_partially_hidden_in_shadow_shoulders_hunched_typing_or_speaking_into_a_-0.jpg"
 ---
 
+
+# We Are Comfort-Seeking Monkeys
+
 AI is just a tool. Also, no tool has ever done _this_.
 
 The anti-AI hand-wringing has a point. Critical thinking can atrophy if you offload it. You can forget how to write if you're prompting everything. Your judgment gets mushy if you let the algorithm do all your choosing. Those are real fears. They're the rational response to watching something do instantly what took you years to learn.

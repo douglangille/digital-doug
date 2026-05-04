@@ -15,6 +15,9 @@ tags:
 excerpt: "I only use 8-bit Crayons"
 substack_post_id: "141217736.unproject-management-part-1"
 ---
+
+# Unproject Management – Part 1
+
 I certified as a project manager several years ago. At the time, I figured it to be the best way to further my career. Turns out, I actually don’t do formal project management on the regular. So going through the rigmarole of keeping the certification up to date seemed like a futile and rather expensive endeavor.
 
 We got people for that at NSCC. I appreciate them with my whole heart. Because, even though I have a fairly deep understanding of the practice, I absolutely loathe structured project management.

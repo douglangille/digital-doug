@@ -13,6 +13,9 @@ tags:
 excerpt: "OPINION #TABLEFLIP"
 substack_post_id: "141217716.how-to-break-up-with-adobe"
 ---
+
+# How to Break Up with Adobe
+
 **Adobe Systems is a Monopoly; acts like one.**
 
 The company has created a wonderful set of applications that are considered the gold standard in business and creative industries.

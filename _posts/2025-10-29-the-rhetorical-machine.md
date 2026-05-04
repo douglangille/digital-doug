@@ -15,6 +15,9 @@ tags:
 excerpt: "What My Father the Salesman Taught Me About AI"
 substack_post_id: "177360408.the-rhetorical-machine"
 ---
+
+# The Rhetorical Machine
+
 My father used to say every conversation is a sale. Someone’s always buying, he’d grin. The only question was who.
 
 At sixteen I thought he meant hustling. At fifty-three I think he meant survival.

@@ -14,6 +14,9 @@ tags:
   - habits
   - self-improvement
 ---
+
+# Minimalist Phone
+
 I have a bad relationship with my phone.
 
 My high school pre-calc teacher used to deride calculator-use and focused on good arithmetic skills. He said, “Do you think you’ll have a calculator in your pocket all the time?”

@@ -14,6 +14,9 @@ tags:
 excerpt: "Hare today, gone tomorrow."
 substack_post_id: "141217730.down-the-infographic-rabbit-hole"
 ---
+
+# Down the Infographic Rabbit Hole
+
 I’m the Office 365 guy. I don’t twist all the knobs, turn the dials and pull the levers. But I’m the in-house strategist and evangelist. I love this stuff.
 
 Some of the technology is truly game-changing in the productivity sense.

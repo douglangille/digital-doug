@@ -16,6 +16,9 @@ tags:
 substack_post_id: "174023996.slaying-the-algorithm-dragon"
 ---
 
+
+# Slaying the Algorithm Dragon
+
 "I cannot brain today. I have the dumb."
 
 That’s when it hit me. My attention span had collapsed. YouTube and short-form feeds had nerfed my tolerance for reading anything longer than a tweet. Fiction, the thing I love to read and write, was gathering dust. Even sub-2000 word articles felt like homework. I’d catch myself running AI summaries just to cope with the sheer effort of text.

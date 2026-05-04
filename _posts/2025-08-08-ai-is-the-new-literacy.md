@@ -15,6 +15,9 @@ tags:
   - learning
 ---
 
+
+# AI Is the New Literacy.
+
 AI is moving from “interesting toy” to “everyday tool” faster than we’ve seen with anything since smartphones. In Nova Scotia, the people who could benefit the most are still on the outside looking in. If we repeat our broadband screw‑ups and slow rollouts, reactive policy, and shiny announcements with no depth, we’re going to bake inequity into our future.
 
 ---

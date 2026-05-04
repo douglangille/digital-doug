@@ -14,6 +14,9 @@ tags:
   - digital-life
   - work
 ---
+
+# Making Teams Work
+
 One of the long-standing stories that we love to tell at the college is that no one uses email, especially students. Or my favourite: “email is for old people”.
 
 Maybe. But for 20 years, it’s been: *“Email is dead! Long live email!”*

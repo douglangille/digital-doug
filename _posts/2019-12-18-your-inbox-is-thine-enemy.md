@@ -15,6 +15,9 @@ tags:
 excerpt: "Letters. We’ve got letters."
 substack_post_id: "141217725.your-inbox-is-thine-enemy"
 ---
+
+# Your Inbox Is Thine Enemy
+
 Last week, I made the case that email was the dominant communication tool in business and would remain so.
 
 Yes, there are other tools– even better tools, but email is still king.

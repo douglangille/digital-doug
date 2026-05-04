@@ -8,6 +8,9 @@ header:
   overlay_image: "/assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png"
 ---
 
+
+# Intent Engineering
+
 Bob had been optimizing prompts for six months. Three thousand words of custom instructions. The AI kept missing anyway.
 
 Turned out he was optimizing everything except what mattered.

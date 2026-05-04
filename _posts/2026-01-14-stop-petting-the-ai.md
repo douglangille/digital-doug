@@ -12,6 +12,9 @@ excerpt: "How to Use ChatGPT Without Becoming Its Emotional Support Human"
 substack_post_id: "184531625.stop-petting-the-ai"
 ---
 
+
+# Stop Petting the AI!
+
 It’s 3 AM. I’m in bed. I’ve gone from reading political news to spinning scenarios with ChatGPT about a “mad scientist vs. mad engineer” epic battle tournament.
 
 This isn’t productive. It’s not even fun. This is doom chatting.

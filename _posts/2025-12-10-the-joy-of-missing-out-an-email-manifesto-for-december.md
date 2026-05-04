@@ -15,6 +15,9 @@ tags:
 excerpt: "Email is someone else's to-do list colonizing your brain."
 substack_post_id: "181182367.the-joy-of-missing-out-an-email-manifesto"
 ---
+
+# The Joy of Missing Out: An Email Manifesto for December
+
 December is a weird month for productivity. You’ve got end-of-year reflections happening alongside holiday vacations, quarterly reviews colliding with cookie exchanges, and a pervasive sense that everyone’s just trying to clear their desk before the break. It’s also the perfect time to rethink how email shapes your attention.
 
 Because here’s the thing: most of us operate from a place of FOMO when it comes to our inbox. Fear of Missing Out. What if something urgent comes through? What if someone needs me? What if I miss that critical update buried in the 47th unread message?

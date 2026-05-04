@@ -15,6 +15,9 @@ tags:
   - self-improvement
 ---
 
+
+# The Workbench Is Not the Work
+
 We love to polish our systems. Tag, colour-code, and tweak them until they gleam. But somewhere along the way, the shine starts to feel like progress. The container steals the spotlight from the content.
 
 Whether you call it a PKM, a PARA setup, a Bullet Journal, or a digital garden, the danger is the same: the system starts to feel like the work.

@@ -8,6 +8,9 @@ header:
   overlay_image: "/assets/images/identity-shifting/Designer-2.png"
 ---
 
+
+# Identity Shifting > Goal Setting
+
 My grandfather died on Labour Day, just a couple months shy of his 95th birthday. The family joke is that it just killed him to not have to work. Gallows humor. My family lives in that space.
 
 He worked from the time he was ten years old. Retired at 65, but that didn't take. Into his 90s he was still fixing everyone's shitty car, still making soup on the back of the stove because he needed to contribute something, and trapping anyone who sat long enough in a rapt Robert Service recitation. When I was a teen, he taught me how to snare and process a rabbit. It mattered that I knew things. And he played cribbage with a sharp competitive edge. Those hands could crush yours from a lifetime of turning wrenches. Yet, the only time they shook was when he was pegging. Draw your own conclusions.

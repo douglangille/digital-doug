@@ -13,6 +13,9 @@ tags:
 excerpt: "Not a real word"
 substack_post_id: "141217731.lets-get-sticky"
 ---
+
+# Let’s Get Sticky!
+
 **I love sticky notes.**
 
 The real ones more than the digital kind.

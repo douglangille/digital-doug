@@ -15,6 +15,9 @@ tags:
 excerpt: "Whiskey, probably"
 substack_post_id: "141217741.what-i-use-to-make-it-through-the-day"
 ---
+
+# What I Use to Make It Through the Day
+
 **Hello**!
 
 Welcome to Digital Doug. Glad you could make it. So what’s this about? Well, in this blog series, I’ll layout how I use digital tools to get work done. Since we’re a Microsoft Office 365 shop, I’ll spend time on each of the tools in the suite that I use. It’ll be more than just knobs-and-dials though– that’s a Google-able thing. What I’m aiming for is how to actually leverage these tools to remove friction from your work life.

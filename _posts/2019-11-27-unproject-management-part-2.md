@@ -14,6 +14,9 @@ tags:
 excerpt: "I kinda miss Clippy"
 substack_post_id: "141217721.unproject-management-part-2"
 ---
+
+# Unproject Management – Part 2
+
 After the last post, we need to talk about some things before we can really get a handle on what Microsoft Planner can do.
 
 There’s a lot to this and it’s a long post, so it’s a bit of a story.

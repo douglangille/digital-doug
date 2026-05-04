@@ -9,6 +9,9 @@ header:
   overlay_filter: 0.4
 ---
 
+
+# A Tale of Two Chatbots
+
 I run two completely different chatbot setups. M365 Copilot for NSCC work, Perplexity for personal projects. Same principle, opposite strategies. This works for me because I have separable contexts. Your situation might be different. Here's what I've learned and what my configs look like. Or don't. The counter-argument is worth hearing first.
 
 ## The Problem: Context Contamination Is Real

@@ -9,7 +9,6 @@ header:
 ---
 
 # The IT Student AI Stack
-## GitHub Education Edition
 
 Every AI YouTuber is telling you the same thing: upgrade to Claude Code, or pay for something premium. If you don't spend $20/month, you'll fall behind.
 
