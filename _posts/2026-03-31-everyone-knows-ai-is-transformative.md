@@ -1,11 +1,14 @@
 ---
-title: "Everyone Knows AI Is Transformative"
+title: Everyone Knows AI Is Transformative
 date: 2026-03-31 08:00:00 -0400
-excerpt: "Nobody Admits They're Scared."
-tags: [genai, work, technology]
+excerpt: Nobody Admits They're Scared.
 header:
   teaser: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
   overlay_image: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
+tags:
+- genai
+- ai-strategy
+- work
 ---
 
 

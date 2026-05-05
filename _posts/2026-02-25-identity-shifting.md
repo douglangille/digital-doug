@@ -1,11 +1,14 @@
 ---
-title: "Identity Shifting > Goal Setting"
+title: Identity Shifting > Goal Setting
 date: 2026-02-25 08:00:00 -0400
-excerpt: "Stop waiting to be legitimate."
-tags: [habits, self-improvement, work, creativity]
+excerpt: Stop waiting to be legitimate.
 header:
-  teaser: "/assets/images/identity-shifting/Designer-2.png"
-  overlay_image: "/assets/images/identity-shifting/Designer-2.png"
+  teaser: /assets/images/identity-shifting/Designer-2.png
+  overlay_image: /assets/images/identity-shifting/Designer-2.png
+tags:
+- habits
+- self-improvement
+- work
 ---
 
 

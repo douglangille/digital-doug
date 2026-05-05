@@ -1,18 +1,18 @@
 ---
-title: "Don’t Change That Channel"
+title: "Don\u2019t Change That Channel"
 date: 2019-11-06 08:00:00 -0400
 image: /assets/images/dont-change-that-channel/6e6737b2-d946-4860-b282-7945fbec5f27_1920x1271.jpeg
 header:
   teaser: /assets/images/dont-change-that-channel/6e6737b2-d946-4860-b282-7945fbec5f27_1920x1271.jpeg
   overlay_image: /assets/images/dont-change-that-channel/6e6737b2-d946-4860-b282-7945fbec5f27_1920x1271.jpeg
 categories:
-  - 
+- null
+substack_post_id: 141217732.dont-change-that-channel
 tags:
-  - tools
-  - communication
-  - work
-excerpt: "The Internet killed the video star."
-substack_post_id: "141217732.dont-change-that-channel"
+- communication
+- tools
+- digital-life
+- technology
 ---
 
 # Don’t Change That Channel

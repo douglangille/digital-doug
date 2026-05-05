@@ -1,18 +1,17 @@
 ---
-title: "The Weekly Reset: Process Over Artifact"
+title: 'The Weekly Reset: Process Over Artifact'
 date: 2025-10-24 08:00:00 -0400
 image: /assets/images/the-weekly-reset-process-over-artifact/a94eb8b8-2c35-4848-a216-449ad84bb18a_1536x1024.png
 header:
   teaser: /assets/images/the-weekly-reset-process-over-artifact/a94eb8b8-2c35-4848-a216-449ad84bb18a_1536x1024.png
   overlay_image: /assets/images/the-weekly-reset-process-over-artifact/a94eb8b8-2c35-4848-a216-449ad84bb18a_1536x1024.png
 categories:
-  - 
+- null
+substack_post_id: 176948649.the-weekly-reset-process-over-artifact
 tags:
-  - productivity
-  - habits
-  - self-improvement
-excerpt: "Monday doesn't care about your feelings."
-substack_post_id: "176948649.the-weekly-reset-process-over-artifact"
+- productivity
+- workflow
+- habits
 ---
 
 # The Weekly Reset: Process Over Artifact

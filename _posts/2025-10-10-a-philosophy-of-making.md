@@ -1,18 +1,16 @@
 ---
-title: "A Philosophy of Making"
+title: A Philosophy of Making
 date: 2025-10-10 08:00:00 -0400
 image: /assets/images/a-philosophy-of-making/e15c0292-a0a2-480e-876a-0941691e81c3_1536x1024.png
 header:
   teaser: /assets/images/a-philosophy-of-making/e15c0292-a0a2-480e-876a-0941691e81c3_1536x1024.png
   overlay_image: /assets/images/a-philosophy-of-making/e15c0292-a0a2-480e-876a-0941691e81c3_1536x1024.png
-categories:
 categories: []
+substack_post_id: 175735650.a-philosophy-of-making
 tags:
-  - creativity
-  - genai
-  - self-improvement
-excerpt: "Plain Text, Story Systems, and the Human Loop"
-substack_post_id: "175735650.a-philosophy-of-making"
+- creativity
+- technology
+- writing-craft
 ---
 
 

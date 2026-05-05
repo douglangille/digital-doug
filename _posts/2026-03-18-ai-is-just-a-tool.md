@@ -1,11 +1,14 @@
 ---
-title:  "AI Is Just A Tool"
+title: AI Is Just A Tool
 date: 2026-03-18 08:00:00 -0400
-excerpt: "Stop Pretending It Ain't"
-tags: [genai, productivity, tools, technology, creativity]
+excerpt: Stop Pretending It Ain't
 header:
-    teaser: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
-    overlay_image: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
+  teaser: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
+  overlay_image: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
+tags:
+- genai
+- ai-fluency
+- productivity
 ---
 
 

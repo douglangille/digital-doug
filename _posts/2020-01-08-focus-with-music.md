@@ -1,18 +1,18 @@
 ---
-title: "Focus with Music"
+title: Focus with Music
 date: 2020-01-08 08:00:00 -0400
 image: /assets/images/focus-with-music/08913387-d82d-4225-add7-52f65f1c429c_960x427.jpeg
 header:
   teaser: /assets/images/focus-with-music/08913387-d82d-4225-add7-52f65f1c429c_960x427.jpeg
   overlay_image: /assets/images/focus-with-music/08913387-d82d-4225-add7-52f65f1c429c_960x427.jpeg
 categories:
-  - 
-excerpt: "Can ya feel the beat?"
-substack_post_id: "141217719.focus-with-music"
+- null
+excerpt: Can ya feel the beat?
+substack_post_id: 141217719.focus-with-music
 tags:
-  - productivity
-  - habits
-  - wellness
+- focus
+- productivity
+- wellness
 ---
 
 # Focus with Music

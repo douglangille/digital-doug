@@ -1,18 +1,17 @@
 ---
-title: "Is the Stylus Mightier than the Keyboard?"
+title: Is the Stylus Mightier than the Keyboard?
 date: 2020-02-19 08:00:00 -0400
 image: /assets/images/is-the-stylus-mightier-than-the-keyboard/dfff8d4a-ed69-419b-8914-e8e98c2db7ca_1200x745.jpeg
 header:
   teaser: /assets/images/is-the-stylus-mightier-than-the-keyboard/dfff8d4a-ed69-419b-8914-e8e98c2db7ca_1200x745.jpeg
   overlay_image: /assets/images/is-the-stylus-mightier-than-the-keyboard/dfff8d4a-ed69-419b-8914-e8e98c2db7ca_1200x745.jpeg
 categories:
-  - 
+- null
+substack_post_id: 141217717.is-the-stylus-mightier-than-the-keyboard
 tags:
-  - technology
-  - productivity
-  - tools
-excerpt: "I have this weird obsession."
-substack_post_id: "141217717.is-the-stylus-mightier-than-the-keyboard"
+- tools
+- technology
+- productivity
 ---
 
 # Is the Stylus Mightier than the Keyboard?

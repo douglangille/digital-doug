@@ -1,17 +1,17 @@
 ---
-title: "How to Break Up with Adobe"
+title: How to Break Up with Adobe
 date: 2020-09-01 08:00:00 -0400
 image: /assets/images/how-to-break-up-with-adobe/ad6ce082-092c-48c1-a501-d50f79abe3fe_2048x1365.jpeg
 header:
   teaser: /assets/images/how-to-break-up-with-adobe/ad6ce082-092c-48c1-a501-d50f79abe3fe_2048x1365.jpeg
   overlay_image: /assets/images/how-to-break-up-with-adobe/ad6ce082-092c-48c1-a501-d50f79abe3fe_2048x1365.jpeg
 categories:
-  - 
+- null
+substack_post_id: 141217716.how-to-break-up-with-adobe
 tags:
-  - technology
-  - learning
-excerpt: "OPINION #TABLEFLIP"
-substack_post_id: "141217716.how-to-break-up-with-adobe"
+- technology
+- tools
+- writing-craft
 ---
 
 # How to Break Up with Adobe

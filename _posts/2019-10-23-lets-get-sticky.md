@@ -1,17 +1,17 @@
 ---
-title: "Let’s Get Sticky!"
+title: "Let\u2019s Get Sticky!"
 date: 2019-10-23 08:00:00 -0400
 image: /assets/images/lets-get-sticky/22c585b5-f5d2-410c-bffb-0ce8047bc577_447x393.jpeg
 header:
   teaser: /assets/images/lets-get-sticky/22c585b5-f5d2-410c-bffb-0ce8047bc577_447x393.jpeg
   overlay_image: /assets/images/lets-get-sticky/22c585b5-f5d2-410c-bffb-0ce8047bc577_447x393.jpeg
 categories:
-  - 
+- null
+substack_post_id: 141217731.lets-get-sticky
 tags:
-  - productivity
-  - tools
-excerpt: "Not a real word"
-substack_post_id: "141217731.lets-get-sticky"
+- productivity
+- tools
+- note-taking
 ---
 
 # Let’s Get Sticky!

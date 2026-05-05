@@ -1,19 +1,17 @@
 ---
-title: "I ♥ Markdown"
+title: "I \u2665 Markdown"
 date: 2020-01-29 08:00:00 -0400
 image: /assets/images/i-markdown/3ee94c2a-a2eb-4c58-a2e2-f818dcf7f9a5_640x300.png
 header:
   teaser: /assets/images/i-markdown/3ee94c2a-a2eb-4c58-a2e2-f818dcf7f9a5_640x300.png
   overlay_image: /assets/images/i-markdown/3ee94c2a-a2eb-4c58-a2e2-f818dcf7f9a5_640x300.png
 categories:
-  - 
+- null
+substack_post_id: 141217729.i-markdown
 tags:
-  - productivity
-  - technology
-  - tools
-  - creativity
-excerpt: "Marky Mark and the Funky Bunch"
-substack_post_id: "141217729.i-markdown"
+- tools
+- productivity
+- writing-craft
 ---
 
 # I ♥ Markdown

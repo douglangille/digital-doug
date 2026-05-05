@@ -1,11 +1,14 @@
 ---
-title: "Hire the Analyst, Not the Oracle"
-excerpt: "Nobody is an AI expert."
-tags: [genai, work, learning]
+title: Hire the Analyst, Not the Oracle
+excerpt: Nobody is an AI expert.
 date: 2026-04-22 06:00:00 -0300
 header:
-  teaser: "/assets/images/hire-the-analyst-not-the-oracle/IMG_0785.png"
-  overlay_image: "/assets/images/hire-the-analyst-not-the-oracle/IMG_0785.png"
+  teaser: /assets/images/hire-the-analyst-not-the-oracle/IMG_0785.png
+  overlay_image: /assets/images/hire-the-analyst-not-the-oracle/IMG_0785.png
+tags:
+- genai
+- ai-critique
+- work
 ---
 
 

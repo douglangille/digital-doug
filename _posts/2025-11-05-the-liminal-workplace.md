@@ -1,17 +1,18 @@
 ---
-title: "The Liminal Workplace"
+title: The Liminal Workplace
 date: 2025-11-05 08:00:00 -0400
 image: /assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.png
 header:
   teaser: /assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.png
   overlay_image: /assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.png
 categories:
-  - 
-excerpt: "Change is hard. Bring snacks."
-substack_post_id: "178007267.the-liminal-workplace"
+- null
+excerpt: Change is hard. Bring snacks.
+substack_post_id: 178007267.the-liminal-workplace
 tags:
-  - work
-  - self-improvement
+- work
+- leadership
+- institutional-change
 ---
 
 # The Liminal Workplace

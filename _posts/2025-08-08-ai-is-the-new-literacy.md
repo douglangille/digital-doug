@@ -1,18 +1,17 @@
 ---
-title: "AI Is the New Literacy."
+title: AI Is the New Literacy.
 date: 2025-08-08 08:00:00 -0400
 image: /assets/images/ai-is-the-new-literacy/ca90c7c8-a9a1-4012-a671-137311065956_1536x1024.png
 header:
   teaser: /assets/images/ai-is-the-new-literacy/ca90c7c8-a9a1-4012-a671-137311065956_1536x1024.png
   overlay_image: /assets/images/ai-is-the-new-literacy/ca90c7c8-a9a1-4012-a671-137311065956_1536x1024.png
-categories:
 categories: []
-excerpt: "Why Nova Scotia needs to treat AI like public infrastructure."
-substack_post_id: "170439614.ai-is-the-new-literacy-most-nova"
+excerpt: Why Nova Scotia needs to treat AI like public infrastructure.
+substack_post_id: 170439614.ai-is-the-new-literacy-most-nova
 tags:
-  - genai
-  - technology
-  - learning
+- genai
+- learning
+- education-systems
 ---
 
 

@@ -1,19 +1,18 @@
 ---
-title: "Digital Wellness: Working Smarter, Happier, and More Playfully"
+title: 'Digital Wellness: Working Smarter, Happier, and More Playfully'
 date: 2024-02-21 08:00:00 -0400
-excerpt: "**Digital life got you feeling like a hamster on a wheel?"
+excerpt: '**Digital life got you feeling like a hamster on a wheel?'
 image: /assets/images/digital-wellness-working-smarter-happier-and-more-playfully/5f07f900-215b-4715-8388-945da9a2711b_1024x1024.png
 header:
   teaser: /assets/images/digital-wellness-working-smarter-happier-and-more-playfully/5f07f900-215b-4715-8388-945da9a2711b_1024x1024.png
   overlay_image: /assets/images/digital-wellness-working-smarter-happier-and-more-playfully/5f07f900-215b-4715-8388-945da9a2711b_1024x1024.png
 categories:
-  - 
+- null
+substack_post_id: 147751381.digital-wellness-working-smarter-happier-and-more-playfully
 tags:
-  - wellness
-  - digital-life
-  - productivity
-  - self-improvement
-substack_post_id: "147751381.digital-wellness-working-smarter-happier-and-more-playfully"
+- wellness
+- digital-life
+- productivity
 ---
 
 # Digital Wellness: Working Smarter, Happier, and More Playfully

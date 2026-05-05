@@ -1,17 +1,19 @@
 ---
-title: "Projects vs Operations"
+title: Projects vs Operations
 date: 2020-01-15 08:00:00 -0400
 image: /assets/images/projects-vs-operations/08efca77-7cb6-4a06-8e41-cef5d401f5ee_1280x1024.png
 header:
   teaser: /assets/images/projects-vs-operations/08efca77-7cb6-4a06-8e41-cef5d401f5ee_1280x1024.png
   overlay_image: /assets/images/projects-vs-operations/08efca77-7cb6-4a06-8e41-cef5d401f5ee_1280x1024.png
 categories:
-  - 
-excerpt: "Knock knock, Neo"
-substack_post_id: "141217727.projects-vs-operations"
+- null
+excerpt: Knock knock, Neo
+substack_post_id: 141217727.projects-vs-operations
 tags:
-  - productivity
-  - work
+- productivity
+- workflow
+- leadership
+- systems-thinking
 ---
 
 # Projects vs Operations

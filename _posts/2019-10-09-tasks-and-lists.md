@@ -1,18 +1,18 @@
 ---
-title: "Tasks and Lists"
+title: Tasks and Lists
 date: 2019-10-09 08:00:00 -0400
 image: /assets/images/tasks-and-lists/8ef5ddb4-21bf-40a6-861a-d552199057bc_1200x734.jpeg
 header:
   teaser: /assets/images/tasks-and-lists/8ef5ddb4-21bf-40a6-861a-d552199057bc_1200x734.jpeg
   overlay_image: /assets/images/tasks-and-lists/8ef5ddb4-21bf-40a6-861a-d552199057bc_1200x734.jpeg
 categories:
-  - 
+- null
+substack_post_id: 141217735.tasks-and-lists
 tags:
-  - productivity
-  - habits
-  - tools
-excerpt: "Daily Epic Wins"
-substack_post_id: "141217735.tasks-and-lists"
+- productivity
+- workflow
+- tools
+- habits
 ---
 
 # Tasks and Lists

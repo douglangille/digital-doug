@@ -1,18 +1,19 @@
 ---
-title: "Minimalist Phone"
+title: Minimalist Phone
 date: 2019-11-13 08:00:00 -0400
 image: /assets/images/minimalist-phone/c4066259-604d-493b-9129-49bb294aa7e4_6016x4000.jpeg
 header:
   teaser: /assets/images/minimalist-phone/c4066259-604d-493b-9129-49bb294aa7e4_6016x4000.jpeg
   overlay_image: /assets/images/minimalist-phone/c4066259-604d-493b-9129-49bb294aa7e4_6016x4000.jpeg
 categories:
-  - 
-excerpt: "Rage against the Machine"
-substack_post_id: "141217723.minimalist-phone"
+- null
+excerpt: Rage against the Machine
+substack_post_id: 141217723.minimalist-phone
 tags:
-  - technology
-  - habits
-  - self-improvement
+- focus
+- wellness
+- digital-sovereignty
+- technology
 ---
 
 # Minimalist Phone

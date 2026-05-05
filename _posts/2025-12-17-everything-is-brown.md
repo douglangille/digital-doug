@@ -1,20 +1,16 @@
 ---
-title: "Everything Is Brown"
+title: Everything Is Brown
 date: 2025-12-17 08:00:00 -0400
 image: /assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.png
 header:
   teaser: /assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.png
   overlay_image: /assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.png
-categories:
 categories: []
+substack_post_id: 181879893.everything-is-brown
 tags:
-tags:
-  - genai
-  - digital-life
-  - productivity
-  - habits
-excerpt: "Why Your Chatbot Needs a Reset"
-substack_post_id: "181879893.everything-is-brown"
+- genai
+- creativity
+- communication
 ---
 
 

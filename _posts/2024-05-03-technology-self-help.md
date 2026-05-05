@@ -1,20 +1,18 @@
 ---
-title: "Technology Self-Help"
+title: Technology Self-Help
 date: 2024-05-03 08:00:00 -0400
-excerpt: "It’s a strange time we live in."
+excerpt: "It\u2019s a strange time we live in."
 image: /assets/images/technology-self-help/1f383809-2ea0-4953-87dc-c9924e4f007a_640x400.jpeg
 header:
   teaser: /assets/images/technology-self-help/1f383809-2ea0-4953-87dc-c9924e4f007a_640x400.jpeg
   overlay_image: /assets/images/technology-self-help/1f383809-2ea0-4953-87dc-c9924e4f007a_640x400.jpeg
 categories:
-  - 
+- null
+substack_post_id: 147751378.technology-self-help
 tags:
-  - technology
-  - learning
-  - self-improvement
-  - productivity
-  - tools
-substack_post_id: "147751378.technology-self-help"
+- technology
+- learning
+- personal-development
 ---
 
 # Technology Self-Help

@@ -1,18 +1,17 @@
 ---
-title: "Plan the Planny Plan in Planner"
+title: Plan the Planny Plan in Planner
 date: 2019-12-04 08:00:00 -0400
 image: /assets/images/plan-the-planny-plan-in-planner/688c4853-b251-4496-8ddc-028d8bf71652_1200x803.jpeg
 header:
   teaser: /assets/images/plan-the-planny-plan-in-planner/688c4853-b251-4496-8ddc-028d8bf71652_1200x803.jpeg
   overlay_image: /assets/images/plan-the-planny-plan-in-planner/688c4853-b251-4496-8ddc-028d8bf71652_1200x803.jpeg
 categories:
-  - 
+- null
+substack_post_id: 141217734.plan-the-planny-plan-in-planner
 tags:
-  - tools
-  - productivity
-  - work
-excerpt: "I love it when a plan comes together."
-substack_post_id: "141217734.plan-the-planny-plan-in-planner"
+- productivity
+- tools
+- workflow
 ---
 
 # Plan the Planny Plan in Planner

@@ -1,18 +1,18 @@
 ---
-title: "Making Teams Work"
+title: Making Teams Work
 date: 2019-10-30 08:00:00 -0400
 image: /assets/images/making-teams-work/b97dab68-8070-469c-b255-08823eba97e2_1024x442.png
 header:
   teaser: /assets/images/making-teams-work/b97dab68-8070-469c-b255-08823eba97e2_1024x442.png
   overlay_image: /assets/images/making-teams-work/b97dab68-8070-469c-b255-08823eba97e2_1024x442.png
 categories:
-  - 
-excerpt: "Hulk is too hulky."
-substack_post_id: "141217740.making-teams-work"
+- null
+excerpt: Hulk is too hulky.
+substack_post_id: 141217740.making-teams-work
 tags:
-  - communication
-  - digital-life
-  - work
+- work
+- communication
+- collaboration
 ---
 
 # Making Teams Work

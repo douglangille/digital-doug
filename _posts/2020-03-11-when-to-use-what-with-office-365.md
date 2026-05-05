@@ -1,19 +1,18 @@
 ---
-title: "When to Use What with Office 365"
+title: When to Use What with Office 365
 date: 2020-03-11 08:00:00 -0400
 image: /assets/images/when-to-use-what-with-office-365/0cdb123a-0adb-4612-a450-d79da12a2f72_1024x675.jpeg
 header:
   teaser: /assets/images/when-to-use-what-with-office-365/0cdb123a-0adb-4612-a450-d79da12a2f72_1024x675.jpeg
   overlay_image: /assets/images/when-to-use-what-with-office-365/0cdb123a-0adb-4612-a450-d79da12a2f72_1024x675.jpeg
 categories:
-  - 
+- null
+substack_post_id: 141217714.when-to-use-what-with-office-365
 tags:
-  - tools
-  - productivity
-  - communication
-  - technology
-excerpt: "Abusing PowerPoint"
-substack_post_id: "141217714.when-to-use-what-with-office-365"
+- tools
+- technology
+- communication
+- productivity
 ---
 
 # When to Use What with Office 365

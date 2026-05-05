@@ -1,19 +1,18 @@
 ---
-title: "Digital Fluency in 2024"
+title: Digital Fluency in 2024
 date: 2024-01-29 08:00:00 -0400
-excerpt: "Technology is an integral part of our lives."
+excerpt: Technology is an integral part of our lives.
 image: /assets/images/digital-fluency-in-2024/419caae1-ca6b-440b-8135-9477375cbf3c_1024x1024.jpeg
 header:
   teaser: /assets/images/digital-fluency-in-2024/419caae1-ca6b-440b-8135-9477375cbf3c_1024x1024.jpeg
   overlay_image: /assets/images/digital-fluency-in-2024/419caae1-ca6b-440b-8135-9477375cbf3c_1024x1024.jpeg
 categories:
-  - 
+- null
+substack_post_id: 141217724.digital-fluency-in-2024
 tags:
-  - technology
-  - digital-life
-  - learning
-  - wellness
-substack_post_id: "141217724.digital-fluency-in-2024"
+- technology
+- learning
+- digital-life
 ---
 
 # Digital Fluency in 2024

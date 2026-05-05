@@ -1,18 +1,17 @@
 ---
-title: "Five Minutes Ahead"
+title: Five Minutes Ahead
 date: 2025-10-03 08:00:00 -0400
 image: /assets/images/five-minutes-ahead/293f0030-c6fc-486e-a839-aede49153471_1536x1024.png
 header:
   teaser: /assets/images/five-minutes-ahead/293f0030-c6fc-486e-a839-aede49153471_1536x1024.png
   overlay_image: /assets/images/five-minutes-ahead/293f0030-c6fc-486e-a839-aede49153471_1536x1024.png
 categories:
-  - 
+- null
+substack_post_id: 175124242.five-minutes-ahead
 tags:
-  - learning
-  - technology
-  - work
-excerpt: "The Myth of the Subject Matter Expert"
-substack_post_id: "175124242.five-minutes-ahead"
+- learning
+- personal-development
+- ai-fluency
 ---
 
 

@@ -1,18 +1,17 @@
 ---
-title: "Microsoft Classic vs 365 Ecosystem"
+title: Microsoft Classic vs 365 Ecosystem
 date: 2024-08-14 08:00:00 -0400
-excerpt: "Change is hard."
+excerpt: Change is hard.
 image: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
 header:
   teaser: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
   overlay_image: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
-categories:
 categories: []
+substack_post_id: 147751375.microsoft-classic-vs-365-ecosystem
 tags:
-  - tools
-  - technology
-  - productivity
-substack_post_id: "147751375.microsoft-classic-vs-365-ecosystem"
+- tools
+- technology
+- microsoft-365
 ---
 
 
