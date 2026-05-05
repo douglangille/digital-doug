@@ -16,7 +16,7 @@ pagination:
   {% for tag in alltags %}
     {% if tag[1].size >= 5 %}
       <li>
-        <a href="{{ site.baseurl }}/{{ tag[0] | slugify }}/">
+        <a href="{{ site.baseurl }}/tag/{{ tag[0] | slugify }}/">
           <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
         </a>
       </li>
