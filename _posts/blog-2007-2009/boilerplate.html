@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang-="en">
+
+<head>
+<meta charset="utf-8">
+
+<title>Site Title</title>
+<link rel="shortcut icon" href="">
+<link rel="alternate" type="application/rss+xml" href="/rss">
+<meta name="description" content="Site Description" />
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+html, body { padding: 0; margin: 0; border: 0; outline: 0; }
+html { box-sizing: border-box; } *, *:before, *:after { box-sizing: inherit; }
+html { font-size: 100%; overflow-y: scroll; } 
+body { margin: 0 auto; min-height: 100vh; font: 1rem/1.618 Georgia, serif; }
+img, embed, object, picture, video, iframe { display: block; max-width: 100%; height: auto; margin: 0; padding: 0; border: 0; }
+input, button, textarea, select { font: inherit; }
+
+
+h1 { font-size: 2.000rem; line-height: 1.236; margin-bottom: .809rem; } 
+h2 { font-size: 1.618rem; line-height: 1.236; margin-bottom: .809rem; } 
+h3 { font-size: 1.236rem; line-height: 1.236; margin-bottom: .809rem; } 
+h4, h5, h6 { font-size: 1rem; line-height: 1; margin-bottom: .809rem; }
+  
+p, ul, ol, dl, blockquote { font-size: 1rem; margin-bottom: 1.618rem; max-width: 30rem; }
+ul { list-style-type: disc; margin-left: 1.618rem; } ol { list-style-type: decimal; margin-left: 1.618rem; }
+a, a:visited { color: cadetblue; text-decoration: none; } a:hover { text-decoration: underline; } 
+
+.cf:before, .cf:after { content: ""; display: block; } .cf:after { clear: both; }
+
+#container { margin: 0 auto; padding: 0; }
+
+/*header { position: sticky; top: 0; padding: 0 .809rem; border-bottom: black solid 1px;  }*/
+header { position: sticky; top: 0; margin: 0 .809rem; padding:0; border-bottom: black solid 1px;  }
+header h1, #burger-wrap label { font-size: 2rem; margin: .809rem 0;  color: black; }
+#burger-wrap { display: flex; justify-content: space-between; align-items: center;   }
+#burger-wrap label { margin-left: .809rem; cursor: pointer; } 
+#burger { display: none; }
+header nav { display: none; } 
+#burger:checked ~ nav { display: block; border-top: black solid 1px; }
+header nav ul { display: flex; flex-direction: column; justify-content: space-between; align-items: center; list-style: none; padding: 0; }
+header nav ul li { text-align: center; padding: 0; }
+header nav ul li a { padding: .809rem .809rem;  }
+main { margin: 0 .809rem; }
+main h1 { margin-top: 0; padding: .809rem 0; border-bottom: black solid 1px; }
+footer { margin: 0 .809rem; }
+footer h1 { margin: 0; padding: .809rem 0; border-top: black solid 1px; }
+footer p { margin: 0; padding: 0 0 .809rem; }
+
+@media screen and (min-width: 33.236rem) {
+    #container { max-width: 30rem; }
+    header { margin: 0 1.618rem; }
+    #burger-wrap label { margin-left: 1.618rem; }
+    header nav ul { flex-direction: row; flex-wrap: wrap; justify-content: center; }
+    main { margin: 0 1.618rem; }
+    footer { margin: 0 1.618rem; }
+}
+
+@media screen and (min-width: 63.236rem) {
+    #container { max-width: 60rem; }
+    header { display: flex; justify-content: space-between; align-items: center; }
+    header label { display: none; } 
+    header nav { position: static; display: block; border-top: none!important; }
+    header nav ul { justify-content: flex-end; }
+    footer { display: flex; justify-content: space-between;  }
+}
+
+
+/*
+main { margin: 0; padding: 0; }
+main h1 { margin: 0; padding: .809rem; }
+article { margin: 0 0 .809rem; padding: 0; }
+footer { margin: 0; padding: 0; }
+footer h1 { margin: 0; padding: .809rem; }
+p { margin: 0; padding: 0 .809rem .809rem; }
+*/
+
+/*
+article { padding-bottom: .809rem; }
+article { margin-bottom: 1.618rem; }
+article h1 { padding: .809rem .809rem 0; }
+article p { margin: 0; padding: .809rem .809rem .809rem;  }
+article p { margin-bottom: .809rem; padding: 0 .809rem; }
+*/
+/*
+article p:first-of-type { font-size: 1.309rem; margin-bottom: .809rem; padding: .809rem .809rem 0; }
+*/
+/*
+article img { width: 30rem; }
+article aside, article blockquote, article figure, article img { width: 100%; }
+*/
+/*
+footer {  text-align: justify; margin: 0; padding: 0; }
+footer p { margin:0; padding: .809rem; }
+footer img { float: left; padding-right: .809rem; }
+/*
+h1.site-title { font-size: 2.618rem; margin-top: 0; padding-top: .809rem; } 
+h2.page-title { margin: 0; padding: 1.236rem .809rem; }
+*/
+/*
+figure { margin: 0; padding: 0; border: 0; }
+footer { margin: 1.618rem 0 0; padding: 1.618rem 0 0; }
+footer p { float: left; margin-right: 1rem; }
+*/
+
+
+
+
+/* papa mama bear *
+@media screen and (min-width: 33.236rem) {
+    #container { padding: 0 .809rem; max-width: 60rem; }
+}
+
+/* papa bear only */
+/*
+@media screen and (min-width: 63.236rem) {
+    header h1 {   }
+    header label { display: none; }
+    header nav { position: relative; top: 0; 
+        display: table-cell; vertical-align: middle; }
+    header nav ul { display: block; text-align: right; line-height: 2rem; }
+    header nav ul li { display: inline-block; padding: 0 1rem; margin: 0; }
+}
+/* mama bear only *
+@media screen and (min-width: 30rem) and (max-width: 63.236rem) {
+    #container { width: 30rem; }
+    p { max-width: 30rem; }
+}
+*/
+
+html { background: black; color: black; }
+body { background: whitesmoke; }
+#container { background: whitesmoke; }
+header { background: blue;  }
+header a, header a:hover, header a:visited { color: black; text-decoration: none; } 
+main { background: whitesmoke; }
+footer { background: whitesmoke; }
+nav { background: yellow;  }
+
+
+nav ul { background: green;  }
+nav ul li { background: red; }
+nav a, nav a:visited { background: whitesmoke; color: black; text-decoration: none; }
+nav a:hover { background: black; color: white; text-decoration: none; }
+main { background: whitesmoke; }
+main h1 { background: whitesmoke; }
+article { background: magenta; } 
+article h1 { background: cyan; }
+footer { background: whitesmoke; }
+footer h1 { background: whitesmoke; }
+footer p { background: whitesmoke; }
+h1, h2, h3, h4, h5, h6 { background: whitesmoke; }
+p { background: cornsilk; }
+
+</style>
+    
+</head>
+
+<body>
+<div id="container">
+<header>
+    <div id="burger-wrap">
+        <h1><a href="/">Site Title Site Title Site Title Site Title Site Title</a></h1>
+        <label for="burger">&#9776;</label>
+    </div>
+    <input type="checkbox" id="burger">
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="#">Menu Item</a></li>
+            <li><a href="#">Menu Item</a></li>
+            <li><a href="#">Menu Item</a></li>
+            <li><a href="#">Menu Item</a></li>
+            <li><a href="#">Menu Item</a></li>
+            <li><a href="#">Menu Item</a></li>
+            <li><a href="#">Menu Item</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <h1>Page Title Page Title Page Title Page Title Page Title Page Title Page Title</h1>
+    <!--
+    <article>
+        <h1>Article Title Article Title Article Title Article Title Article Title Article Title Article Title Article Title</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus corrupti possimus doloribus harum consectetur laborum sit magni, molestiae nulla molestias, commodi debitis doloremque id eum asperiores quasi veniam at soluta.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus corrupti possimus doloribus harum consectetur laborum sit magni, molestiae nulla molestias, commodi debitis doloremque id eum asperiores quasi veniam at soluta.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus corrupti possimus doloribus harum consectetur laborum sit magni, molestiae nulla molestias, commodi debitis doloremque id eum asperiores quasi veniam at soluta.</p>
+    </article>
+    <article>
+        <h1>Article Title</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus corrupti possimus doloribus harum consectetur laborum sit magni, molestiae nulla molestias, commodi debitis doloremque id eum asperiores quasi veniam at soluta.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus corrupti possimus doloribus harum consectetur laborum sit magni, molestiae nulla molestias, commodi debitis doloremque id eum asperiores quasi veniam at soluta.</p>
+    </article>
+    <article>
+        <h1>Article Title</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus corrupti possimus doloribus harum consectetur laborum sit magni, molestiae nulla molestias, commodi debitis doloremque id eum asperiores quasi veniam at soluta.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus corrupti possimus doloribus harum consectetur laborum sit magni, molestiae nulla molestias, commodi debitis doloremque id eum asperiores quasi veniam at soluta.</p>
+    </article>
+-->
+</main>
+
+<footer>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, eligendi! Animi sequi illo excepturi deserunt ex consequatur reiciendis asperiores expedita accusamus repellat commodi, dolorum error id veritatis ab repudiandae.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, eligendi! Animi sequi illo excepturi deserunt ex consequatur reiciendis asperiores expedita accusamus repellat commodi, dolorum error id veritatis ab repudiandae.</p>
+</footer>
+
+</div><!--/container-->
+</body>
+
+</html>
