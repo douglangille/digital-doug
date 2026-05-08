@@ -1,5 +1,5 @@
 ---
-title: "Thinking Like an Ecosystem"
+title: Thinking Like an Ecosystem
 date: 2025-11-12 08:00:00 -0400
 image: /assets/images/thinking-like-an-ecosystem/f0a4f9bf-9e86-405c-9eb9-f5282e3415d5_1536x1024.png
 header:
@@ -8,7 +8,14 @@ header:
 categories:
 - null
 substack_post_id: 178680859.thinking-like-and-ecosystem
-tags: [systems-thinking, ecological-metaphors, interconnection, complexity-thinking, network-effects, systems-thinking, learning, leadership]
+tags:
+- systems-thinking
+- ecological-metaphors
+- interconnection
+- complexity-thinking
+- network-effects
+- learning
+- leadership
 ---
 
 # Thinking Like an Ecosystem

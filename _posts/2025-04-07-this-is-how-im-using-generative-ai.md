@@ -5,9 +5,13 @@ image: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86
 header:
   teaser: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86-a53c8c5d5063_1024x1024.png
   overlay_image: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86-a53c8c5d5063_1024x1024.png
-categories:
+categories: null
 substack_post_id: 160791220.this-is-how-im-using-generative-ai
-tags: [generative-ai, practical-application, llm-usage, productivity-transformation]
+tags:
+- generative-ai
+- practical-application
+- llm-usage
+- transformation
 ---
 
 

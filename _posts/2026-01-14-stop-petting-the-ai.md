@@ -1,12 +1,19 @@
 ---
-title: "Stop Petting the AI!"
+title: Stop Petting the AI!
 date: 2026-01-14 08:00:00 -0400
 header:
   teaser: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.png
-  overlay_image: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.png - genai - digital-life - wellness
-excerpt: "How to Use ChatGPT Without Becoming Its Emotional Support Human"
+  overlay_image: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.png
+    - genai - digital-life - wellness
+excerpt: How to Use ChatGPT Without Becoming Its Emotional Support Human
 substack_post_id: 184531625.stop-petting-the-ai
-tags: [ai-relationship, anthropomorphization-critique, human-ai-boundaries, tool-mentality, responsible-use, parasocial-relationships, ai-fluency]
+tags:
+- ai-relationship
+- anthropomorphization-critique
+- human-ai-boundaries
+- tool-mentality
+- responsible-use
+- ai-fluency
 ---
 
 

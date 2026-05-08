@@ -1,11 +1,17 @@
 ---
-title: "The Mix Tape"
+title: The Mix Tape
 date: 2026-03-25 08:00:00 -0400
-excerpt: "On creativity, curation, and what it means to be the human in the loop"
+excerpt: On creativity, curation, and what it means to be the human in the loop
 header:
   teaser: /assets/images/the-mix-tape/ChatGPT Image Mar 23, 2026 at 12_18_37 PM.png
-  overlay_image: /assets/images/the-mix-tape/ChatGPT Image Mar 23, 2026 at 12_18_37 PM.png
-tags: [generative-art, ai-creativity-critique, social-connection-in-art, weird-futurism, audience-centered-creation]
+  overlay_image: /assets/images/the-mix-tape/ChatGPT Image Mar 23, 2026 at 12_18_37
+    PM.png
+tags:
+- generative-ai
+- ai-creativity-critique
+- social-connection-in-art
+- weird-futurism
+- audience-centered-creation
 ---
 
 # The Mix Tape

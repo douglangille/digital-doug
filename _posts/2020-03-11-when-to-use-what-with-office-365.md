@@ -6,9 +6,14 @@ header:
   teaser: /assets/images/when-to-use-what-with-office-365/0cdb123a-0adb-4612-a450-d79da12a2f72_1024x675.jpeg
   overlay_image: /assets/images/when-to-use-what-with-office-365/0cdb123a-0adb-4612-a450-d79da12a2f72_1024x675.jpeg
 categories:
-  - 
+- null
 substack_post_id: 141217714.when-to-use-what-with-office-365
-tags: [tool-appropriateness, decision-support, office-365-integration, use-case-matching, visual-decision-support]
+tags:
+- tool-appropriateness
+- decision-authority
+- office-365-integration
+- use-case-matching
+- visual-decision-support
 ---
 
 # When to Use What with Office 365

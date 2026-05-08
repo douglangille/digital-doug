@@ -8,7 +8,13 @@ header:
   overlay_image: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
 categories: []
 substack_post_id: 147751375.microsoft-classic-vs-365-ecosystem
-tags: [platform-migration, legacy-systems, ecosystem-comparison, technology-transition, architectural-decisions,microsoft-365]  
+tags:
+- platform-migration
+- legacy-systems
+- ecosystem-comparison
+- technology-adoption
+- architectural-decisions
+- microsoft
 ---
 
 

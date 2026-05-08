@@ -1,13 +1,19 @@
 ---
 title: Taming the Chaos
 date: 2024-05-30 08:00:00 -0400
-excerpt: Let’s face it, the digital age has brought a double-edged sword.
+excerpt: "Let\u2019s face it, the digital age has brought a double-edged sword."
 image: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
 header:
   teaser: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
   overlay_image: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
 substack_post_id: 147751377.taming-the-chaos
-tags: [organizational-systems, chaos-management, operational-clarity, systematic-thinking, institutional-structure, workflow]
+tags:
+- organizational-culture
+- context-management
+- operational-clarity
+- semantic-linking
+- institutional-structure
+- workflow
 ---
 
 # Taming the Chaos

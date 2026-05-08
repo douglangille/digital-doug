@@ -1,11 +1,17 @@
 ---
-title: "We Are Comfort-Seeking Monkeys"
+title: We Are Comfort-Seeking Monkeys
 date: 2026-04-08 08:00:00 -0400
-excerpt: "On AI, Judgment and Shame"
+excerpt: On AI, Judgment and Shame
 header:
   teaser: /assets/images/we-are-comfort-seeking-monkeys/lucid-origin_A_figure_partially_hidden_in_shadow_shoulders_hunched_typing_or_speaking_into_a_-0.jpg
   overlay_image: /assets/images/we-are-comfort-seeking-monkeys/lucid-origin_A_figure_partially_hidden_in_shadow_shoulders_hunched_typing_or_speaking_into_a_-0.jpg
-tags: [human-nature, behavioral-psychology, comfort-seeking, motivation-understanding, institutional-design, learning]
+tags:
+- human-nature
+- behavioral-psychology
+- comfort-seeking
+- motivation-understanding
+- institutional-change
+- learning
 ---
 
 

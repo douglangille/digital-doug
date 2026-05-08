@@ -7,9 +7,15 @@ header:
   teaser: /assets/images/slaying-the-algorithm-dragon/aea9b245-a285-4add-892f-900d9d1b793e_1536x1024.png
   overlay_image: /assets/images/slaying-the-algorithm-dragon/aea9b245-a285-4add-892f-900d9d1b793e_1536x1024.png
 categories:
-  - 
+- null
 substack_post_id: 174023996.slaying-the-algorithm-dragon
-tags: [algorithmic-awareness, algorithmic-resistance, social-media-critique, platform-critique, intentional-use, digital-sovereignty]
+tags:
+- algorithmic-awareness
+- algorithmic-resistance
+- social-media-critique
+- platform-criticism
+- intentional-creation
+- digital-sovereignty
 ---
 
 

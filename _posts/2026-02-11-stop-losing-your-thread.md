@@ -3,9 +3,16 @@ title: Stop Losing Your Thread
 date: 2026-02-11 08:00:00 -0400
 excerpt: Your gaslighting robot has amnesia.
 header:
-  teaser: assets/images/stop-losing-your-thread/ChatGPT Image Feb 10, 2026 at 03_58_29 PM.png
-  overlay_image: assets/images/stop-losing-your-thread/ChatGPT Image Feb 10, 2026 at 03_58_29 PM.png
-tags: [ai-context-limits, conversation-degradation, token-memory, chatbot-management, specificity-drift]
+  teaser: assets/images/stop-losing-your-thread/ChatGPT Image Feb 10, 2026 at 03_58_29
+    PM.png
+  overlay_image: assets/images/stop-losing-your-thread/ChatGPT Image Feb 10, 2026
+    at 03_58_29 PM.png
+tags:
+- ai-context-limits
+- conversation-degradation
+- token-memory
+- context-management
+- specificity-drift
 ---
 
 

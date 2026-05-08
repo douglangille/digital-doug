@@ -1,15 +1,21 @@
 ---
-title: "1 + 1 = 3: Building a Tech Career on What You Already Know"
+title: '1 + 1 = 3: Building a Tech Career on What You Already Know'
 date: 2025-11-26 08:00:00 -0400
 image: /assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.png
 header:
   teaser: /assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.png
   overlay_image: /assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.png
 categories:
-  - 
-excerpt: For anyone who keeps thinking “maybe it’s time to pivot.”
+- null
+excerpt: "For anyone who keeps thinking \u201Cmaybe it\u2019s time to pivot.\u201D"
 substack_post_id: 180013147.1-1-3-building-a-tech-career-on-what
-tags: [career-development, skill-leveraging, professional-identity, knowledge-integration, institutional-positioning, career-pivot, learning]
+tags:
+- personal-development
+- skill-leveraging
+- google-drive-integration
+- institutional-positioning
+- career-pivot
+- learning
 ---
 
 # 1 + 1 = 3: Building a Tech Career on What You Already Know

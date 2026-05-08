@@ -1,11 +1,17 @@
 ---
-title: "Hire the Analyst, Not the Oracle"
-excerpt: "Nobody is an AI expert."
+title: Hire the Analyst, Not the Oracle
+excerpt: Nobody is an AI expert.
 date: 2026-04-22 06:00:00 -0300
 header:
   teaser: /assets/images/hire-the-analyst-not-the-oracle/IMG_0785.png
   overlay_image: /assets/images/hire-the-analyst-not-the-oracle/IMG_0785.png
-tags: [hiring-practice, critical-thinking, analytical-skills, role-clarity, capability-assessment, ai-critique]
+tags:
+- hiring-practice
+- critical-thinking
+- analytical-skills
+- purpose-clarity
+- capability-assessment
+- ai-critique
 ---
 
 # Hire the Analyst, Not the Oracle

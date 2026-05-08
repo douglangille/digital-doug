@@ -6,10 +6,14 @@ header:
   teaser: /assets/images/what-i-use-to-make-it-through-the-day/5394dd5d-5303-4ff9-a9aa-f14c50d36569_756x510.jpeg
   overlay_image: /assets/images/what-i-use-to-make-it-through-the-day/5394dd5d-5303-4ff9-a9aa-f14c50d36569_756x510.jpeg
 categories:
-  - 
+- null
 excerpt: Whiskey, probably
 substack_post_id: 141217741.what-i-use-to-make-it-through-the-day
-tags: [tool-integration, context-switching, personal-infrastructure, friction-reduction]
+tags:
+- ai-integration
+- context-switching
+- personal-infrastructure
+- cost-reduction
 ---
 
 # What I Use to Make It Through the Day

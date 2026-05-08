@@ -1,11 +1,16 @@
 ---
-title: "Identity Shifting > Goal Setting"
+title: Identity Shifting > Goal Setting
 date: 2026-02-25 08:00:00 -0400
-excerpt: "Stop waiting to be legitimate."
+excerpt: Stop waiting to be legitimate.
 header:
   teaser: /assets/images/identity-shifting/Designer-2.png
   overlay_image: /assets/images/identity-shifting/Designer-2.png
-tags: [identity-transformation, inheritance-and-values, work-ethic, generational-patterns, being-vs-doing]
+tags:
+- transformation
+- inheritance-and-values
+- work-ethic
+- generational-myths
+- being-vs-doing
 ---
 
 # Identity Shifting > Goal Setting

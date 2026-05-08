@@ -8,7 +8,14 @@ header:
 categories:
 - null
 substack_post_id: 175124242.five-minutes-ahead
-tags: [strategic-positioning, competitive-advantage, foresight-thinking, anticipatory-strategy, pattern-recognition, learning, personal-development, ai-fluency]
+tags:
+- ai-fluency
+- anticipatory-strategy
+- competitive-advantage
+- foresight-thinking
+- learning
+- pattern-recognition
+- personal-development
 ---
 
 
