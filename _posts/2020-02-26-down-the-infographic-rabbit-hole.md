@@ -8,8 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217730.down-the-infographic-rabbit-hole
-tags:
-  - note-taking
+tags: [visual-communication, design-tools, tool-appropriateness, information-design, creative-adoption]
 ---
 
 # Down the Infographic Rabbit Hole

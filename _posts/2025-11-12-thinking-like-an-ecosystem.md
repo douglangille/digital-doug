@@ -8,7 +8,7 @@ header:
 categories:
 - null
 substack_post_id: 178680859.thinking-like-and-ecosystem
-tags:
+tags: [systems-thinking, ecological-metaphors, interconnection, complexity-thinking, network-effects]
 - systems-thinking
 - learning
 - leadership

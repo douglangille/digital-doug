@@ -9,8 +9,7 @@ categories:
   - 
 excerpt: Long live Comic Papyrus
 substack_post_id: 141217720.format-your-style
-tags:
-  - writing-craft
+tags: [semantic-styling, document-conversion, accessibility-implementation, typographic-systems, style-architecture]
 ---
 
 # Format Your Style

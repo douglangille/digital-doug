@@ -9,10 +9,7 @@ categories:
   - 
 excerpt: Knock knock, Neo
 substack_post_id: 141217727.projects-vs-operations
-tags:
-  - workflow
-  - leadership
-  - systems-thinking
+tags: [priority-matrices, urgency-vs-importance, time-allocation, intentional-decision-making, opportunity-cost]
 ---
 
 # Projects vs Operations

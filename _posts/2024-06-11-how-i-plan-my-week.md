@@ -9,7 +9,7 @@ header:
 categories:
   - 
 substack_post_id: 147751376.how-i-plan-my-week
-tags:
+tags: [weekly-planning, time-blocking, ritual-discipline, intentional-scheduling, planning-frameworks]
   - workflow
 ---
 

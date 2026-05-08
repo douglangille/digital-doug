@@ -9,6 +9,7 @@ header:
 categories:
   - 
 substack_post_id: 147751381.digital-wellness-working-smarter-happier-and-more-playfully
+tags: [digital-wellness, energy-management, attention-economy, playful-productivity, burnout-prevention]
 ---
 
 # Digital Wellness: Working Smarter, Happier, and More Playfully

@@ -8,8 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217729.i-markdown
-tags:
-  - writing-craft
+tags: [markdown-syntax, document-accessibility, semantic-markup, format-sustainability, content-portability]
 ---
 
 # I ♥ Markdown

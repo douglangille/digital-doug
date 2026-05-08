@@ -9,6 +9,7 @@ header:
 categories:
   - 
 substack_post_id: 147751379.some-goblins-are-kinda-cute
+tags: [assistive-technology, neurodivergent-design, ai-productivity, cognitive-accessibility, task-articulation]
 ---
 
 # Some Goblins Are Kinda Cute.

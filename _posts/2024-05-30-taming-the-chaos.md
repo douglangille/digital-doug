@@ -9,7 +9,7 @@ header:
 categories:
   - 
 substack_post_id: 147751377.taming-the-chaos
-tags:
+tags: [organizational-systems, chaos-management, operational-clarity, systematic-thinking, institutional-structure]
   - workflow
 ---
 

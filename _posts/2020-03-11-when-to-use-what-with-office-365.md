@@ -8,6 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217714.when-to-use-what-with-office-365
+tags: [tool-appropriateness, decision-support, office-365-integration, use-case-matching, visual-decision-support]
 ---
 
 # When to Use What with Office 365

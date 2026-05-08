@@ -8,7 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 176948649.the-weekly-reset-process-over-artifact
-tags:
+tags: [ritual-design, weekly-cadence, process-orientation, continuous-improvement, reflective-practice]
   - workflow
 ---
 

@@ -5,7 +5,7 @@ excerpt: On AI, Judgment and Shame
 header:
   teaser: /assets/images/we-are-comfort-seeking-monkeys/lucid-origin_A_figure_partially_hidden_in_shadow_shoulders_hunched_typing_or_speaking_into_a_-0.jpg
   overlay_image: /assets/images/we-are-comfort-seeking-monkeys/lucid-origin_A_figure_partially_hidden_in_shadow_shoulders_hunched_typing_or_speaking_into_a_-0.jpg
-tags:
+tags: [human-nature, behavioral-psychology, comfort-seeking, motivation-understanding, institutional-design]
   - learning
 ---
 

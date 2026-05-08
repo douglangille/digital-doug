@@ -5,7 +5,7 @@ excerpt: Stop Pretending It Ain't
 header:
   teaser: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
   overlay_image: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
-tags:
+tags: [ai-pragmatism, technological-naturalism, tool-framing, capability-understanding, realistic-assessment]
   - ai-fluency
 ---
 

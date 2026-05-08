@@ -8,6 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217718.plain-text-rebellion
+tags: [plaintext-persistence, separation-of-concerns, writing-discipline, format-longevity, distraction-elimination]
 ---
 
 # Plain Text Rebellion

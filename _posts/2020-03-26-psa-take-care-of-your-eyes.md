@@ -8,6 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217737.psa-take-care-of-your-eyes
+tags: [occupational-health, ergonomic-practices, visual-wellness, preventative-care, environmental-optimization]
 ---
 
 # PSA: Take Care of Your Eyes

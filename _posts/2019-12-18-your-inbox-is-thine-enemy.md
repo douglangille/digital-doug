@@ -8,8 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217725.your-inbox-is-thine-enemy
-tags:
-  - email-management
+tags: [attention-hijacking, behavioral-addiction, deep-work-protection, notification-discipline, activity-vs-productivity]
 ---
 
 # Your Inbox Is Thine Enemy

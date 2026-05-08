@@ -9,9 +9,7 @@ header:
 categories:
   - 
 substack_post_id: 147751378.technology-self-help
-tags:
-  - learning
-  - personal-development
+tags: [self-directed-learning, professional-development, learning-resources, skill-acquisition, continuous-improvement]
 ---
 
 # Technology Self-Help

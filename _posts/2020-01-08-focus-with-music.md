@@ -9,8 +9,7 @@ categories:
   - 
 excerpt: Can ya feel the beat?
 substack_post_id: 141217719.focus-with-music
-tags:
-  - focus
+tags: [flow-state-induction, focus-optimization, auditory-environment, behavioral-psychology, arousal-regulation]
 ---
 
 # Focus with Music

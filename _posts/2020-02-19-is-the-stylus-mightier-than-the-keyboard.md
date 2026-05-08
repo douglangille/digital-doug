@@ -8,6 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217717.is-the-stylus-mightier-than-the-keyboard
+tags: [input-modalities, device-form-factors, human-computer-interaction, platform-tradeoffs, productivity-ergonomics]
 ---
 
 # Is the Stylus Mightier than the Keyboard?

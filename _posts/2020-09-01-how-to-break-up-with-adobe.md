@@ -8,8 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217716.how-to-break-up-with-adobe
-tags:
-  - writing-craft
+tags: [vendor-alternatives, open-source-software, cost-benefit-analysis, software-independence, tool-evaluation]
 ---
 
 # How to Break Up with Adobe

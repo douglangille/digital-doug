@@ -8,7 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 158364508.from-files-to-flow-looping-into-the
-tags:
+tags: [information-flow, systems-thinking, automation-thinking, feedback-loops, operational-improvement]
   - workflow
 ---
 

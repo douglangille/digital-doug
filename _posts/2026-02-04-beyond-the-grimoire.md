@@ -5,7 +5,7 @@ excerpt: Why AI Mastery Is Wisdom, Not (Just) Spell Collection
 header:
   teaser: /assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21 PM.png
   overlay_image: /assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21 PM.png
-tags:
+tags: [knowledge-organization, metaphorical-thinking, system-evolution, documentation-philosophy, beyond-metaphor]
   - learning
 ---
 
