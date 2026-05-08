@@ -6,11 +6,8 @@ image: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x
 header:
   teaser: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
   overlay_image: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
-categories:
-  - 
 substack_post_id: 147751377.taming-the-chaos
-tags: [organizational-systems, chaos-management, operational-clarity, systematic-thinking, institutional-structure]
-  - workflow
+tags: [organizational-systems, chaos-management, operational-clarity, systematic-thinking, institutional-structure, workflow]
 ---
 
 # Taming the Chaos

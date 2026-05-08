@@ -1,14 +1,12 @@
 ---
-title: We Killed the Places Where Ideas Could Be Dumb
-excerpt: The rough draft isn't a document. It's a cognitive state.
+title: "We Killed the Places Where Ideas Could Be Dumb"
+excerpt: "The rough draft isn't a document. It's a cognitive state."
 date: 2026-04-15 08:00:00 -0400
 header:
   teaser: /assets/images/we-killed-the-places-where-idesas-could-be-dumb/generated-image-5.png
   overlay_image: /assets/images/we-killed-the-places-where-idesas-could-be-dumb/generated-image-5.png
-tags: [ideation-space, creative-culture, experimentation-safety, organizational-culture, innovation-conditions]
-  - writing-craft
+tags: [ideation-space, creative-culture, experimentation-safety, organizational-culture, innovation-conditions, writing-craft]
 ---
-
 
 # We Killed the Places Where Ideas Could Be Dumb
 

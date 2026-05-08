@@ -9,9 +9,7 @@ categories:
   - 
 excerpt: For anyone who keeps thinking “maybe it’s time to pivot.”
 substack_post_id: 180013147.1-1-3-building-a-tech-career-on-what
-tags: [career-development, skill-leveraging, professional-identity, knowledge-integration, institutional-positioning]
-  - career-pivot
-  - learning
+tags: [career-development, skill-leveraging, professional-identity, knowledge-integration, institutional-positioning, career-pivot, learning]
 ---
 
 # 1 + 1 = 3: Building a Tech Career on What You Already Know

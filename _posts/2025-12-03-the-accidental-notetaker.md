@@ -8,8 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 180564071.the-accidental-notetaker
-tags: [note-taking-systems, accidental-discovery, emergent-practice, capture-discipline, knowledge-accumulation]
-  - note-taking
+tags: [note-taking-systems, accidental-discovery, emergent-practice, capture-discipline, knowledge-accumulation, note-taking]
 ---
 
 # The Accidental Notetaker
