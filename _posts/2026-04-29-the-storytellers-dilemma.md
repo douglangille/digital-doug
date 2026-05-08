@@ -1,6 +1,6 @@
 ---
-title: The Storyteller's Dilemma
-excerpt: The AI question isn't about kudos and disclosure.
+title: "The Storyteller's Dilemma"
+excerpt: "The AI question isn't about kudos and disclosure."
 tags: [narrative-ownership, ai-authorship, creative-agency, story-authenticity, human-decision-making]
 date: 2026-04-29 08:00:00 -0400
 header:
