@@ -8,8 +8,6 @@ header:
 categories:
   - 
 substack_post_id: 141217718.plain-text-rebellion
-tags:
-  - tools
 ---
 
 # Plain Text Rebellion

@@ -10,7 +10,6 @@ categories:
 substack_post_id: 181182367.the-joy-of-missing-out-an-email-manifesto
 tags:
   - email-management
-  - wellness
 ---
 
 # The Joy of Missing Out: An Email Manifesto for December

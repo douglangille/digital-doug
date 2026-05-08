@@ -10,7 +10,6 @@ categories:
 substack_post_id: 180564071.the-accidental-notetaker
 tags:
   - note-taking
-  - tools
 ---
 
 # The Accidental Notetaker

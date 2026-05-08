@@ -8,8 +8,6 @@ header:
 categories:
   - 
 substack_post_id: 141217717.is-the-stylus-mightier-than-the-keyboard
-tags:
-  - tools
 ---
 
 # Is the Stylus Mightier than the Keyboard?

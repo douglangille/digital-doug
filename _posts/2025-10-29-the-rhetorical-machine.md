@@ -9,7 +9,6 @@ categories:
   - 
 substack_post_id: 177360408.the-rhetorical-machine
 tags:
-  - genai
   - ai-fluency
 ---
 

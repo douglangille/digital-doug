@@ -9,8 +9,6 @@ categories:
   - 
 excerpt: The Map is Not the Terrain
 substack_post_id: 179280225.digital-craftsmanship
-tags:
-  - creativity
 ---
 
 # Digital Craftsmanship

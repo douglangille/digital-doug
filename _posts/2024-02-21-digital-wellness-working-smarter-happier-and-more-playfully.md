@@ -9,8 +9,6 @@ header:
 categories:
   - 
 substack_post_id: 147751381.digital-wellness-working-smarter-happier-and-more-playfully
-tags:
-  - wellness
 ---
 
 # Digital Wellness: Working Smarter, Happier, and More Playfully

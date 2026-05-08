@@ -8,9 +8,6 @@ header:
 categories:
   - 
 substack_post_id: 141217715.dougs-rules-of-work-at-home
-tags:
-  - work
-  - wellness
 ---
 
 # Doug’s Rules of Work (At Home)

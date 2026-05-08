@@ -5,9 +5,6 @@ excerpt: Stop waiting to be legitimate.
 header:
   teaser: /assets/images/identity-shifting/Designer-2.png
   overlay_image: /assets/images/identity-shifting/Designer-2.png
-tags:
-  - self-improvement
-  - work
 ---
 
 

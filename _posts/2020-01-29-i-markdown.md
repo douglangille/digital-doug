@@ -9,7 +9,6 @@ categories:
   - 
 substack_post_id: 141217729.i-markdown
 tags:
-  - tools
   - writing-craft
 ---
 

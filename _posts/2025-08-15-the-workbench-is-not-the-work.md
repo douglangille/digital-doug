@@ -10,7 +10,6 @@ excerpt: Clearing space for what matters.
 substack_post_id: 171067727.the-workbench-is-not-the-work
 tags:
   - workflow
-  - creativity
 ---
 
 

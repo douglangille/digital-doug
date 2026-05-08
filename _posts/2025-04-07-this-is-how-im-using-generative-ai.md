@@ -8,7 +8,6 @@ header:
 categories:
 substack_post_id: 160791220.this-is-how-im-using-generative-ai
 tags:
-  - genai
   - ai-workflow
 ---
 

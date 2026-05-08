@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png
 tags:
   - intent-engineering
-  - genai
 ---
 
 

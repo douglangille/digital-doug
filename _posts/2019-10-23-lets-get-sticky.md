@@ -9,7 +9,6 @@ categories:
   - 
 substack_post_id: 141217731.lets-get-sticky
 tags:
-  - tools
   - note-taking
 ---
 

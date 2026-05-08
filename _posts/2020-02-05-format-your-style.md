@@ -11,7 +11,6 @@ excerpt: Long live Comic Papyrus
 substack_post_id: 141217720.format-your-style
 tags:
   - writing-craft
-  - tools
 ---
 
 # Format Your Style

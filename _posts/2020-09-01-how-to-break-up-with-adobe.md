@@ -9,7 +9,6 @@ categories:
   - 
 substack_post_id: 141217716.how-to-break-up-with-adobe
 tags:
-  - tools
   - writing-craft
 ---
 

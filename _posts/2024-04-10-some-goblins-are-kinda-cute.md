@@ -9,9 +9,6 @@ header:
 categories:
   - 
 substack_post_id: 147751379.some-goblins-are-kinda-cute
-tags:
-  - genai
-  - tools
 ---
 
 # Some Goblins Are Kinda Cute.

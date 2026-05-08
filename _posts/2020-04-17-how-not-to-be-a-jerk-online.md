@@ -8,8 +8,6 @@ header:
 categories:
   - 
 substack_post_id: 141217726.how-not-to-be-a-jerk-online
-tags:
-  - wellness
 ---
 
 # How Not to Be a Jerk Online

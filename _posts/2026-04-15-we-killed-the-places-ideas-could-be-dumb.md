@@ -6,7 +6,6 @@ header:
   teaser: /assets/images/we-killed-the-places-where-idesas-could-be-dumb/generated-image-5.png
   overlay_image: /assets/images/we-killed-the-places-where-idesas-could-be-dumb/generated-image-5.png
 tags:
-  - creativity
   - writing-craft
 ---
 

@@ -8,7 +8,6 @@ header:
 categories: []
 substack_post_id: 183779217.three-ai-tricks-i-use-that-actually
 tags:
-  - genai
   - ai-workflow
 ---
 

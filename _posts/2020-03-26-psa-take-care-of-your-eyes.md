@@ -8,8 +8,6 @@ header:
 categories:
   - 
 substack_post_id: 141217737.psa-take-care-of-your-eyes
-tags:
-  - wellness
 ---
 
 # PSA: Take Care of Your Eyes

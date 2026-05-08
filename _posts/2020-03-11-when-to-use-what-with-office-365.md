@@ -8,8 +8,6 @@ header:
 categories:
   - 
 substack_post_id: 141217714.when-to-use-what-with-office-365
-tags:
-  - tools
 ---
 
 # When to Use What with Office 365

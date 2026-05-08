@@ -10,7 +10,6 @@ categories:
 substack_post_id: 141217735.tasks-and-lists
 tags:
   - workflow
-  - tools
 ---
 
 # Tasks and Lists

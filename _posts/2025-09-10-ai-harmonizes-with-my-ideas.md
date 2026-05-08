@@ -9,9 +9,7 @@ header:
 categories: []
 substack_post_id: 173291190.ai-harmonizes-with-my-ideas
 tags:
-- genai
-- creativity
-- ai-fluency
+  - ai-fluency
 ---
 
 

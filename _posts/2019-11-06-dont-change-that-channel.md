@@ -8,8 +8,6 @@ header:
 categories:
   - 
 substack_post_id: 141217732.dont-change-that-channel
-tags:
-  - tools
 ---
 
 # Don’t Change That Channel

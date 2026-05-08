@@ -9,7 +9,6 @@ categories: []
 excerpt: Workslop looks good, says nothing, and wastes your time.
 substack_post_id: 174556495.confidently-wrong
 tags:
-  - genai
   - ai-critique
 ---
 
