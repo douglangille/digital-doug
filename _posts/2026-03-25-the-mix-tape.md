@@ -5,6 +5,7 @@ excerpt: On creativity, curation, and what it means to be the human in the loop
 header:
   teaser: /assets/images/the-mix-tape/ChatGPT Image Mar 23, 2026 at 12_18_37 PM.png
   overlay_image: /assets/images/the-mix-tape/ChatGPT Image Mar 23, 2026 at 12_18_37 PM.png
+tags: [generative-art, ai-creativity-critique, social-connection-in-art, weird-futurism, audience-centered-creation]
 ---
 
 

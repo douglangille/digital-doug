@@ -9,7 +9,7 @@ header:
 categories:
   - 
 substack_post_id: 147751380.a-couple-llm-prompt-tips
-tags: [prompt-engineering, generative-ai, llm-interaction, context-optimization, tool-comparison]
+tags: [generative-ai, llm-interaction, context-optimization, tool-comparison]
 ---
 
 # A Couple LLM Prompt Tips…

@@ -1,6 +1,8 @@
 ---
 title: The Storyteller's Dilemma
 excerpt: The AI question isn't about kudos and disclosure.
+tags: [narrative-ownership, ai-authorship, creative-agency, story-authenticity, human-decision-making]
+date: 2026-04-29 08:00:00 -0400
 header:
   teaser: /assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026 at 08_27_17 AM.png
   overlay_image: /assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026 at 08_27_17 AM.png
