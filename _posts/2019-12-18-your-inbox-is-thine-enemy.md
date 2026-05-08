@@ -6,12 +6,10 @@ header:
   teaser: /assets/images/your-inbox-is-thine-enemy/f3a807cf-26c3-41e4-bb26-84752601d003_960x540.jpeg
   overlay_image: /assets/images/your-inbox-is-thine-enemy/f3a807cf-26c3-41e4-bb26-84752601d003_960x540.jpeg
 categories:
-- null
+  - 
 substack_post_id: 141217725.your-inbox-is-thine-enemy
 tags:
-- email-management
-- productivity
-- communication
+  - email-management
 ---
 
 # Your Inbox Is Thine Enemy

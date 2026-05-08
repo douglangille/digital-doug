@@ -7,12 +7,10 @@ header:
   teaser: /assets/images/how-i-plan-my-week/8ce6b7d8-3010-48f5-8fa2-e872e24f9e77_1280x853.jpeg
   overlay_image: /assets/images/how-i-plan-my-week/8ce6b7d8-3010-48f5-8fa2-e872e24f9e77_1280x853.jpeg
 categories:
-- null
+  - 
 substack_post_id: 147751376.how-i-plan-my-week
 tags:
-- productivity
-- workflow
-- habits
+  - workflow
 ---
 
 # How I Plan My Week

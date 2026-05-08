@@ -6,13 +6,11 @@ header:
   teaser: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png
   overlay_image: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png
 categories:
-- null
+  - 
 excerpt: The Map is Not the Terrain
 substack_post_id: 179280225.digital-craftsmanship
 tags:
-- digital-life
-- creativity
-- technology
+  - creativity
 ---
 
 # Digital Craftsmanship

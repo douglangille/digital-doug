@@ -6,13 +6,12 @@ header:
   teaser: /assets/images/focus-with-music/08913387-d82d-4225-add7-52f65f1c429c_960x427.jpeg
   overlay_image: /assets/images/focus-with-music/08913387-d82d-4225-add7-52f65f1c429c_960x427.jpeg
 categories:
-- null
+  - 
 excerpt: Can ya feel the beat?
 substack_post_id: 141217719.focus-with-music
 tags:
-- focus
-- productivity
-- wellness
+  - focus
+  - wellness
 ---
 
 # Focus with Music

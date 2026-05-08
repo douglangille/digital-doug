@@ -2,14 +2,11 @@
 title: The Storyteller's Dilemma
 excerpt: The AI question isn't about kudos and disclosure.
 header:
-  teaser: /assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026 at 08_27_17
-    AM.png
-  overlay_image: /assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026
-    at 08_27_17 AM.png
+  teaser: /assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026 at 08_27_17 AM.png
+  overlay_image: /assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026 at 08_27_17 AM.png
 tags:
-- genai
-- creativity
-- communication
+  - genai
+  - creativity
 ---
 
 

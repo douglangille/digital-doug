@@ -6,14 +6,13 @@ header:
   teaser: /assets/images/minimalist-phone/c4066259-604d-493b-9129-49bb294aa7e4_6016x4000.jpeg
   overlay_image: /assets/images/minimalist-phone/c4066259-604d-493b-9129-49bb294aa7e4_6016x4000.jpeg
 categories:
-- null
+  - 
 excerpt: Rage against the Machine
 substack_post_id: 141217723.minimalist-phone
 tags:
-- focus
-- wellness
-- digital-sovereignty
-- technology
+  - focus
+  - wellness
+  - digital-sovereignty
 ---
 
 # Minimalist Phone

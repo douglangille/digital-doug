@@ -6,14 +6,13 @@ header:
   teaser: /assets/images/projects-vs-operations/08efca77-7cb6-4a06-8e41-cef5d401f5ee_1280x1024.png
   overlay_image: /assets/images/projects-vs-operations/08efca77-7cb6-4a06-8e41-cef5d401f5ee_1280x1024.png
 categories:
-- null
+  - 
 excerpt: Knock knock, Neo
 substack_post_id: 141217727.projects-vs-operations
 tags:
-- productivity
-- workflow
-- leadership
-- systems-thinking
+  - workflow
+  - leadership
+  - systems-thinking
 ---
 
 # Projects vs Operations

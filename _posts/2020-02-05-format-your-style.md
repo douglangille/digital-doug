@@ -6,13 +6,12 @@ header:
   teaser: /assets/images/format-your-style/e35be88a-afa4-4328-ba73-afb8a6cf6e9a_580x386.jpeg
   overlay_image: /assets/images/format-your-style/e35be88a-afa4-4328-ba73-afb8a6cf6e9a_580x386.jpeg
 categories:
-- null
+  - 
 excerpt: Long live Comic Papyrus
 substack_post_id: 141217720.format-your-style
 tags:
-- productivity
-- writing-craft
-- tools
+  - writing-craft
+  - tools
 ---
 
 # Format Your Style

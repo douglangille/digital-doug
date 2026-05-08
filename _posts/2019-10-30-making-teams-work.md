@@ -6,13 +6,12 @@ header:
   teaser: /assets/images/making-teams-work/b97dab68-8070-469c-b255-08823eba97e2_1024x442.png
   overlay_image: /assets/images/making-teams-work/b97dab68-8070-469c-b255-08823eba97e2_1024x442.png
 categories:
-- null
+  - 
 excerpt: Hulk is too hulky.
 substack_post_id: 141217740.making-teams-work
 tags:
-- work
-- communication
-- collaboration
+  - work
+  - collaboration
 ---
 
 # Making Teams Work

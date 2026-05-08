@@ -6,9 +6,8 @@ header:
   teaser: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
   overlay_image: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
 tags:
-- genai
-- ai-fluency
-- productivity
+  - genai
+  - ai-fluency
 ---
 
 

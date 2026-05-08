@@ -1,15 +1,12 @@
 ---
 title: Platforms Make the Worst Landlords
 date: 2026-01-21 08:00:00 -0400
-excerpt: Why I'm leaving Substack for owned infrastructure, and what platform independence
-  actually looks like.
+excerpt: Why I'm leaving Substack for owned infrastructure, and what platform independence actually looks like.
 header:
   teaser: /assets/images/platforms-make-the-worst-landlords/ChatGPT%20Image%20Jan%2021,%202026%20at%2007_05_55%20AM.png
   overlay_image: /assets/images/platforms-make-the-worst-landlords/ChatGPT%20Image%20Jan%2021,%202026%20at%2007_05_55%20AM.png
 tags:
-- digital-sovereignty
-- digital-life
-- technology
+  - digital-sovereignty
 ---
 
 

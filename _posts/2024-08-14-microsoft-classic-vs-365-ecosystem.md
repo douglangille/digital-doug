@@ -9,9 +9,8 @@ header:
 categories: []
 substack_post_id: 147751375.microsoft-classic-vs-365-ecosystem
 tags:
-- tools
-- technology
-- microsoft-365
+  - tools
+  - microsoft-365
 ---
 
 

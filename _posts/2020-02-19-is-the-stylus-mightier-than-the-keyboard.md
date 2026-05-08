@@ -6,12 +6,10 @@ header:
   teaser: /assets/images/is-the-stylus-mightier-than-the-keyboard/dfff8d4a-ed69-419b-8914-e8e98c2db7ca_1200x745.jpeg
   overlay_image: /assets/images/is-the-stylus-mightier-than-the-keyboard/dfff8d4a-ed69-419b-8914-e8e98c2db7ca_1200x745.jpeg
 categories:
-- null
+  - 
 substack_post_id: 141217717.is-the-stylus-mightier-than-the-keyboard
 tags:
-- tools
-- technology
-- productivity
+  - tools
 ---
 
 # Is the Stylus Mightier than the Keyboard?

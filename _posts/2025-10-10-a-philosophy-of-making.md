@@ -8,9 +8,8 @@ header:
 categories: []
 substack_post_id: 175735650.a-philosophy-of-making
 tags:
-- creativity
-- technology
-- writing-craft
+  - creativity
+  - writing-craft
 ---
 
 

@@ -6,9 +6,8 @@ header:
   teaser: /assets/images/identity-shifting/Designer-2.png
   overlay_image: /assets/images/identity-shifting/Designer-2.png
 tags:
-- habits
-- self-improvement
-- work
+  - self-improvement
+  - work
 ---
 
 

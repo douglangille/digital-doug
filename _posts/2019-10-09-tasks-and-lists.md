@@ -6,13 +6,11 @@ header:
   teaser: /assets/images/tasks-and-lists/8ef5ddb4-21bf-40a6-861a-d552199057bc_1200x734.jpeg
   overlay_image: /assets/images/tasks-and-lists/8ef5ddb4-21bf-40a6-861a-d552199057bc_1200x734.jpeg
 categories:
-- null
+  - 
 substack_post_id: 141217735.tasks-and-lists
 tags:
-- productivity
-- workflow
-- tools
-- habits
+  - workflow
+  - tools
 ---
 
 # Tasks and Lists

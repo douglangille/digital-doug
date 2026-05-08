@@ -6,9 +6,8 @@ header:
   teaser: /assets/images/the-it-student-ai-stack/ideogram-v3.0_photorealistic_image_of_a_student_laptop_screen_showing_GitHub_interface_with_a_-0.jpg
   overlay_image: /assets/images/the-it-student-ai-stack/ideogram-v3.0_photorealistic_image_of_a_student_laptop_screen_showing_GitHub_interface_with_a_-0.jpg
 tags:
-- technology
-- tools
-- learning
+  - tools
+  - learning
 ---
 
 # The IT Student AI Stack

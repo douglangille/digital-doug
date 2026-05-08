@@ -3,14 +3,11 @@ title: Stop Losing Your Thread
 date: 2026-02-11 08:00:00 -0400
 excerpt: Your gaslighting robot has amnesia.
 header:
-  teaser: assets/images/stop-losing-your-thread/ChatGPT Image Feb 10, 2026 at 03_58_29
-    PM.png
-  overlay_image: assets/images/stop-losing-your-thread/ChatGPT Image Feb 10, 2026
-    at 03_58_29 PM.png
+  teaser: assets/images/stop-losing-your-thread/ChatGPT Image Feb 10, 2026 at 03_58_29 PM.png
+  overlay_image: assets/images/stop-losing-your-thread/ChatGPT Image Feb 10, 2026 at 03_58_29 PM.png
 tags:
-- genai
-- productivity
-- tools
+  - genai
+  - tools
 ---
 
 

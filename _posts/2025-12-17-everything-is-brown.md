@@ -8,9 +8,8 @@ header:
 categories: []
 substack_post_id: 181879893.everything-is-brown
 tags:
-- genai
-- creativity
-- communication
+  - genai
+  - creativity
 ---
 
 
