@@ -8,10 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217736.unproject-management-part-1
-tags:
-  - workflow
-  - systems-thinking
-  - leadership
+tags: [scope-management, definition-of-done, stakeholder-alignment, agile-thinking, lean-execution]
 ---
 
 # Unproject Management – Part 1

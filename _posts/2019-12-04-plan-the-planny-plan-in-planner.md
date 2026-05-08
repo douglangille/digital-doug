@@ -8,8 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217734.plan-the-planny-plan-in-planner
-tags:
-  - workflow
+tags: [project-visualization, kanban-execution, team-coordination, burndown-charts, agile-frameworks]
 ---
 
 # Plan the Planny Plan in Planner

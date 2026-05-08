@@ -9,9 +9,7 @@ categories:
   - 
 excerpt: Rage against the Machine
 substack_post_id: 141217723.minimalist-phone
-tags:
-  - focus
-  - digital-sovereignty
+tags: [attention-management, intentional-consumption, behavioral-design, digital-autonomy, device-boundaries]
 ---
 
 # Minimalist Phone

@@ -8,8 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217731.lets-get-sticky
-tags:
-  - note-taking
+tags: [ephemeral-capture, transient-systems, quick-reference, idea-capture, note-consolidation]
 ---
 
 # Let’s Get Sticky!

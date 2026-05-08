@@ -9,8 +9,7 @@ categories:
   - 
 excerpt: Hulk is too hulky.
 substack_post_id: 141217740.making-teams-work
-tags:
-  - collaboration
+tags: [real-time-communication, organizational-culture, channel-based-conversation, communication-persistence, email-vs-chat]
 ---
 
 # Making Teams Work

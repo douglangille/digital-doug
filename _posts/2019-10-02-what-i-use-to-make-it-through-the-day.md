@@ -9,6 +9,7 @@ categories:
   - 
 excerpt: Whiskey, probably
 substack_post_id: 141217741.what-i-use-to-make-it-through-the-day
+tags: [productivity-systems, tool-integration, context-switching, personal-infrastructure, friction-reduction]
 ---
 
 # What I Use to Make It Through the Day

@@ -8,6 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217732.dont-change-that-channel
+tags: [channel-governance, team-organization, sharepoint-integration, collaborative-infrastructure, conversation-topology]
 ---
 
 # Don’t Change That Channel

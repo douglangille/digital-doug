@@ -8,9 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217721.unproject-management-part-2
-tags:
-  - workflow
-  - systems-thinking
+tags: [kanban-boards, user-stories, story-points, work-in-progress-limits, velocity-measurement]
 ---
 
 # Unproject Management – Part 2

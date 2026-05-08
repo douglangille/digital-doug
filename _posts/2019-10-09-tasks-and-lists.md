@@ -8,8 +8,7 @@ header:
 categories:
   - 
 substack_post_id: 141217735.tasks-and-lists
-tags:
-  - workflow
+tags: [task-definition, outcome-based-planning, mind-clearing, accountability-systems, getting-things-done]
 ---
 
 # Tasks and Lists
