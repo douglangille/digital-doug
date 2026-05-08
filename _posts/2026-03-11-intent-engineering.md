@@ -10,7 +10,6 @@ tags:
 - intentionality-design
 - purpose-clarity
 - agile-thinking
-- prompt-engineering
 - deliberate-action
 - intent-engineering
 ---

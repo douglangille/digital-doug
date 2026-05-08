@@ -9,7 +9,6 @@ categories:
 - null
 substack_post_id: 141217714.when-to-use-what-with-office-365
 tags:
-- tool-appropriateness
 - decision-authority
 - office-365-integration
 - use-case-matching

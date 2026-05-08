@@ -8,7 +8,6 @@ header:
 tags:
 - ai-pragmatism
 - technological-naturalism
-- tool-framing
 - capability-understanding
 - realistic-assessment
 - ai-fluency

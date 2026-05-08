@@ -13,7 +13,6 @@ tags:
 - kanban-execution
 - team-coordination
 - burndown-charts
-- frameworks
 ---
 
 # Plan the Planny Plan in Planner

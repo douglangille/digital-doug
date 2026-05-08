@@ -12,7 +12,6 @@ substack_post_id: 180013147.1-1-3-building-a-tech-career-on-what
 tags:
 - personal-development
 - skill-leveraging
-- google-drive-integration
 - institutional-positioning
 - career-pivot
 - learning

@@ -13,7 +13,6 @@ tags:
 - open-source-software
 - cost-benefit-analysis
 - software-independence
-- tool-evaluation
 ---
 
 # How to Break Up with Adobe

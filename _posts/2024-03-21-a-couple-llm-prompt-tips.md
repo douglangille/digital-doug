@@ -12,8 +12,7 @@ substack_post_id: 147751380.a-couple-llm-prompt-tips
 tags:
 - generative-ai
 - ai-integration
-- context-optimization
-- tool-comparison
+- context-management
 ---
 
 # A Couple LLM Prompt Tips…

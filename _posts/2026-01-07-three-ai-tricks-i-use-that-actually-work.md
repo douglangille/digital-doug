@@ -13,7 +13,7 @@ tags:
 - ai-mastery
 - applied-learning
 - creative-practice
-- agentic-workflows
+- agentic-systems
 ---
 
 # Three AI Tricks I Use (That Actually Work)

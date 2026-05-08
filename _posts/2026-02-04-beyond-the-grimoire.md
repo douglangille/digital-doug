@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21
     PM.png
 tags:
-- knowledge-organization
+- knowledge-management
 - metaphorical-thinking
 - system-evolution
 - documentation-philosophy

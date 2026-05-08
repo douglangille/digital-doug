@@ -10,7 +10,6 @@ categories:
 substack_post_id: 141217730.down-the-infographic-rabbit-hole
 tags:
 - respectful-communication
-- tool-appropriateness
 - information-design
 - creative-adoption
 ---

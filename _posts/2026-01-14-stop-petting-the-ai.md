@@ -11,7 +11,6 @@ tags:
 - ai-relationship
 - anthropomorphization-critique
 - human-ai-boundaries
-- tool-mentality
 - responsible-use
 - ai-fluency
 ---

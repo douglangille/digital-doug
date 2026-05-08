@@ -14,7 +14,6 @@ tags:
 - ecosystem-comparison
 - technology-adoption
 - architectural-decisions
-- microsoft
 ---
 
 

@@ -13,7 +13,6 @@ tags:
 - outcome-based-planning
 - mind-clearing
 - accountability-mechanisms
-- getting-things-done
 ---
 
 # Tasks and Lists

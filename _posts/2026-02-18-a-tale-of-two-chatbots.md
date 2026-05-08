@@ -8,9 +8,6 @@ header:
   overlay_filter: 0.4
 tags:
 - context-separation-strategy
-- tool-multiplicity
-- m365-copilot
-- perplexity-ai
 - specialized-contexts
 ---
 
