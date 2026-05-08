@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## About
 
-Digital Doug is a Jekyll blog ([digital.douglangille.ca](https://digital.douglangille.ca)) using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme. It was migrated from Substack to Jekyll in January 2026. Deployed automatically to GitHub Pages via GitHub Actions on push to `main`.
+Digital Doug is a Jekyll blog ([digital.douglangille.ca](https://digital.douglangille.ca)) using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme. Deployed automatically to GitHub Pages via GitHub Actions on push to `main`.
 
 ## Commands
 
@@ -29,7 +29,6 @@ bundle exec jekyll serve --drafts  # Serve including _drafts/
 **Configuration notes (`_config.yml`):**
 - Categories are disabled; only tags are used for archives
 - Tags auto-generate archive pages at `/:tag/` via `jekyll-archives` + `jekyll-paginate-v2`
-- Several private PARA folders (`/__inbox`, `/_writing`, `/_work`, etc.) are excluded from the build
 
 ## Post Front Matter
 
@@ -43,9 +42,3 @@ header:
   overlay_image: "/assets/images/post-slug/image.png"
 ---
 ```
-
-## Tagging Scheme
-
-Every post must have **at least two** tags from this fixed list (see `TAGGING_SCHEME.md`):
-
-`productivity` · `technology` · `digital-life` · `habits` · `learning` · `communication` · `tools` · `work` · `creativity` · `wellness` · `ai` · `self-improvement`
