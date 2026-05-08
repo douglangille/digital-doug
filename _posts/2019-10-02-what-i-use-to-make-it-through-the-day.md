@@ -11,7 +11,6 @@ excerpt: Whiskey, probably
 substack_post_id: 141217741.what-i-use-to-make-it-through-the-day
 tags:
 - context-switching
-- personal-infrastructure
 - attention-management
 - knowledge-management
 ---

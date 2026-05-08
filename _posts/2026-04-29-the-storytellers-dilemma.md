@@ -5,8 +5,8 @@ tags:
 - narrative-ownership
 - ai-authorship
 - creative-agency
-- story-authenticity
 - human-decision-making
+- authenticity
 date: 2026-04-29 08:00:00 -0400
 header:
   teaser: /assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026 at 08_27_17
