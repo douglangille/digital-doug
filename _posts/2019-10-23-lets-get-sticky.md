@@ -10,10 +10,9 @@ categories:
 substack_post_id: 141217731.lets-get-sticky
 tags:
 - ephemeral-capture
-- agentic-systems
 - quick-reference
-- idea-capture
 - memory-consolidation
+- knowledge-management
 ---
 
 # Let’s Get Sticky!

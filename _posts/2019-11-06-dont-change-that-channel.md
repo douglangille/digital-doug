@@ -9,11 +9,10 @@ categories:
 - null
 substack_post_id: 141217732.dont-change-that-channel
 tags:
-- ai-governance
 - team-coordination
-- ai-integration
 - collaborative-infrastructure
 - conversation-topology
+- knowledge-management
 ---
 
 # Don’t Change That Channel

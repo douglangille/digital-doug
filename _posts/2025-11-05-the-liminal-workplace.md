@@ -11,12 +11,9 @@ excerpt: Change is hard. Bring snacks.
 substack_post_id: 178007267.the-liminal-workplace
 tags:
 - workplace-transitions
-- liminal-space
-- organizational-culture
+- organizational-change
 - critical-thinking
 - in-between-states
-- leadership
-- institutional-change
 ---
 
 # The Liminal Workplace

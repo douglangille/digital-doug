@@ -13,8 +13,7 @@ tags:
 - weekly-planning
 - time-blocking
 - daily-discipline
-- intentional-creation
-- workflow
+- ritual-constraint
 ---
 
 # How I Plan My Week

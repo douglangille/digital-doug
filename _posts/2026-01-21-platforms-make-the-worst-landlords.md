@@ -8,10 +8,9 @@ header:
   overlay_image: /assets/images/platforms-make-the-worst-landlords/ChatGPT%20Image%20Jan%2021,%202026%20at%2007_05_55%20AM.png
 tags:
 - platform-criticism
-- digital-dependency
 - digital-sovereignty
-- organizational-culture
 - alternatives-thinking
+- digital-autonomy
 ---
 
 

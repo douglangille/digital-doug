@@ -9,11 +9,11 @@ categories:
 - null
 substack_post_id: 141217736.unproject-management-part-1
 tags:
-- context-management
 - definition-of-done
 - stakeholder-alignment
 - agile-thinking
 - kanban-execution
+- philosophical-clarity
 ---
 
 # Unproject Management – Part 1

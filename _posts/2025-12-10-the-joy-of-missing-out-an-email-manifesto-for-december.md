@@ -10,11 +10,9 @@ categories:
 substack_post_id: 181182367.the-joy-of-missing-out-an-email-manifesto
 tags:
 - ai-critique
-- fomo-resistance
-- intentional-creation
 - selective-participation
-- hiring-practice
 - context-management
+- intentional-boundaries
 ---
 
 # The Joy of Missing Out: An Email Manifesto for December

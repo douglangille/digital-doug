@@ -9,11 +9,9 @@ header:
     PM.png
 tags:
 - knowledge-management
-- metaphorical-thinking
 - system-evolution
 - documentation-philosophy
-- beyond-metaphor
-- learning
+- metaphorical-thinking
 ---
 
 

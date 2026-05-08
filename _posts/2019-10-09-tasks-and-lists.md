@@ -9,10 +9,10 @@ categories:
 - null
 substack_post_id: 141217735.tasks-and-lists
 tags:
-- criteria-definition
 - outcome-based-planning
 - mind-clearing
 - accountability-mechanisms
+- deep-work
 ---
 
 # Tasks and Lists

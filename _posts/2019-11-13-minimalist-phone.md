@@ -11,10 +11,10 @@ excerpt: Rage against the Machine
 substack_post_id: 141217723.minimalist-phone
 tags:
 - attention-management
-- intentional-creation
-- behavioral-addiction
 - digital-autonomy
 - device-boundaries
+- deep-work
+- ritual-constraint
 ---
 
 # Minimalist Phone

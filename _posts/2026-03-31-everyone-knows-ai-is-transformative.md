@@ -7,11 +7,9 @@ header:
   overlay_image: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
 tags:
 - ai-skepticism
-- ai-critique
-- transformative-claims
 - realistic-assessment
 - nuanced-perspective
-- ai-strategy
+- critical-thinking
 ---
 
 # Everyone Knows AI Is Transformative

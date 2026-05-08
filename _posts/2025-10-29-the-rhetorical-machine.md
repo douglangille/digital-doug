@@ -11,10 +11,8 @@ substack_post_id: 177360408.the-rhetorical-machine
 tags:
 - communication-theory
 - persuasion-mechanics
-- rhetorical-analysis
 - language-power
 - argument-structure
-- ai-fluency
 ---
 
 # The Rhetorical Machine

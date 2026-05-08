@@ -12,9 +12,8 @@ substack_post_id: 179280225.digital-craftsmanship
 tags:
 - craft-philosophy
 - human-ai-collaboration
-- intentional-creation
 - joy-in-work
-- shipping-quality
+- authenticity
 ---
 
 # Digital Craftsmanship

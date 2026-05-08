@@ -8,10 +8,8 @@ header:
 tags:
 - ideation-space
 - creative-culture
-- experimentation-safety
-- organizational-culture
 - innovation-conditions
-- writing-ref
+- experimentation-safety
 ---
 
 # We Killed the Places Where Ideas Could Be Dumb

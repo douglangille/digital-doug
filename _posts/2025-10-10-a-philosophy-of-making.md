@@ -9,11 +9,9 @@ categories: []
 substack_post_id: 175735650.a-philosophy-of-making
 tags:
 - craft-philosophy
-- hiring-practice
 - creation-process
 - material-engagement
-- intentional-creation
-- writing-ref
+- authenticity
 ---
 
 

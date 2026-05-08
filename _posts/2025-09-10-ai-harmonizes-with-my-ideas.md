@@ -12,8 +12,6 @@ tags:
 - human-ai-collaboration
 - creative-partnership
 - ideation-amplification
-- human-ai-synergy
-- personal-development
 - ai-fluency
 ---
 

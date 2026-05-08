@@ -11,11 +11,8 @@ substack_post_id: 175124242.five-minutes-ahead
 tags:
 - ai-fluency
 - anticipatory-strategy
-- competitive-advantage
-- foresight-thinking
-- learning
 - pattern-recognition
-- personal-development
+- foresight-thinking
 ---
 
 

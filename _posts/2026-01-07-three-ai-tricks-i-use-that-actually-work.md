@@ -8,12 +8,10 @@ header:
 categories: []
 substack_post_id: 183779217.three-ai-tricks-i-use-that-actually
 tags:
-- practical-ai-techniques
-- reproducible-methods
-- ai-mastery
 - applied-learning
-- creative-practice
 - agentic-systems
+- practical-ai-techniques
+- creative-practice
 ---
 
 # Three AI Tricks I Use (That Actually Work)

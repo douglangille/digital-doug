@@ -10,10 +10,10 @@ categories:
 excerpt: Whiskey, probably
 substack_post_id: 141217741.what-i-use-to-make-it-through-the-day
 tags:
-- ai-integration
 - context-switching
 - personal-infrastructure
-- cost-reduction
+- attention-management
+- knowledge-management
 ---
 
 # What I Use to Make It Through the Day

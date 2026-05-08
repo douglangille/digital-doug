@@ -9,9 +9,9 @@ categories:
 - null
 substack_post_id: 141217730.down-the-infographic-rabbit-hole
 tags:
-- respectful-communication
-- information-design
-- creative-adoption
+- tool-evaluation
+- collaborative-infrastructure
+- document-design
 ---
 
 # Down the Infographic Rabbit Hole

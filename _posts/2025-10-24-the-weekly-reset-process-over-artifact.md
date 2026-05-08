@@ -13,8 +13,6 @@ tags:
 - weekly-cadence
 - process-orientation
 - continuous-improvement
-- creative-practice
-- workflow
 ---
 
 # The Weekly Reset: Process Over Artifact

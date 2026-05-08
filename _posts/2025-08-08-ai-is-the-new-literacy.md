@@ -10,11 +10,8 @@ excerpt: Why Nova Scotia needs to treat AI like public infrastructure.
 substack_post_id: 170439614.ai-is-the-new-literacy-most-nova
 tags:
 - ai-literacy
-- competency-frameworks
 - knowledge-management
-- capability-shift
-- educational-implications
-- learning
+- learning-infrastructure
 - education-systems
 ---
 

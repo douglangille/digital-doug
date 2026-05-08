@@ -9,9 +9,7 @@ tags:
 - hiring-practice
 - critical-thinking
 - analytical-skills
-- purpose-clarity
 - capability-assessment
-- ai-critique
 ---
 
 # Hire the Analyst, Not the Oracle
