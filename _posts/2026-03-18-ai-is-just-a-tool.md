@@ -1,11 +1,17 @@
 ---
-title: "AI Is Just A Tool"
+title: AI Is Just A Tool
 date: 2026-03-18 08:00:00 -0400
-excerpt: "Stop Pretending It Ain't"
+excerpt: Stop Pretending It Ain't
 header:
   teaser: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
   overlay_image: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
-tags: [ai-pragmatism, technological-naturalism, tool-framing, capability-understanding, realistic-assessment, ai-fluency]
+tags:
+- ai-pragmatism
+- technological-naturalism
+- tool-framing
+- capability-understanding
+- realistic-assessment
+- ai-fluency
 ---
 
 # AI Is Just A Tool

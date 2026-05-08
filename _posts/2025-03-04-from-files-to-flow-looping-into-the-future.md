@@ -1,14 +1,20 @@
 ---
-title: "From Files to Flow: Looping into the Future"
+title: 'From Files to Flow: Looping into the Future'
 date: 2025-03-04 08:00:00 -0400
 image: /assets/images/from-files-to-flow-looping-into-the-future/4476010b-3b9c-4042-bd43-aa2a3d4df9e0_1019x631.png
 header:
   teaser: /assets/images/from-files-to-flow-looping-into-the-future/4476010b-3b9c-4042-bd43-aa2a3d4df9e0_1019x631.png
   overlay_image: /assets/images/from-files-to-flow-looping-into-the-future/4476010b-3b9c-4042-bd43-aa2a3d4df9e0_1019x631.png
 categories:
-  - 
+- null
 substack_post_id: 158364508.from-files-to-flow-looping-into-the
-tags: [information-flow, systems-thinking, automation-thinking, feedback-loops, operational-improvement, workflow]
+tags:
+- information-flow
+- systems-thinking
+- automation-thinking
+- feedback-loops
+- operational-improvement
+- workflow
 ---
 
 

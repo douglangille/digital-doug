@@ -1,11 +1,19 @@
 ---
-title: "Beyond the Grimoire"
+title: Beyond the Grimoire
 date: 2026-02-04 08:00:00 -0400
-excerpt: "Why AI Mastery Is Wisdom, Not (Just) Spell Collection"
+excerpt: Why AI Mastery Is Wisdom, Not (Just) Spell Collection
 header:
-  teaser: /assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21 PM.png
-  overlay_image: /assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21 PM.png
-tags: [knowledge-organization, metaphorical-thinking, system-evolution, documentation-philosophy, beyond-metaphor, learning]
+  teaser: /assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21
+    PM.png
+  overlay_image: /assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21
+    PM.png
+tags:
+- knowledge-organization
+- metaphorical-thinking
+- system-evolution
+- documentation-philosophy
+- beyond-metaphor
+- learning
 ---
 
 

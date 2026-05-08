@@ -1,14 +1,20 @@
 ---
-title: "The Rhetorical Machine"
+title: The Rhetorical Machine
 date: 2025-10-29 08:00:00 -0400
 image: /assets/images/the-rhetorical-machine/9e22586b-1d28-4a3b-84a9-ab0e226cf318_1536x1024.png
 header:
   teaser: /assets/images/the-rhetorical-machine/9e22586b-1d28-4a3b-84a9-ab0e226cf318_1536x1024.png
   overlay_image: /assets/images/the-rhetorical-machine/9e22586b-1d28-4a3b-84a9-ab0e226cf318_1536x1024.png
 categories:
-  - 
+- null
 substack_post_id: 177360408.the-rhetorical-machine
-tags: [communication-theory, persuasion-mechanics, rhetorical-analysis, language-power, argument-structure, ai-fluency]
+tags:
+- communication-theory
+- persuasion-mechanics
+- rhetorical-analysis
+- language-power
+- argument-structure
+- ai-fluency
 ---
 
 # The Rhetorical Machine

@@ -6,9 +6,14 @@ header:
   teaser: /assets/images/plain-text-rebellion/10fe202e-feb9-4b88-8df8-9e12ca146f23_1024x686.png
   overlay_image: /assets/images/plain-text-rebellion/10fe202e-feb9-4b88-8df8-9e12ca146f23_1024x686.png
 categories:
-  - 
+- null
 substack_post_id: 141217718.plain-text-rebellion
-tags: [plaintext-persistence, separation-of-concerns, writing-discipline, format-longevity, distraction-elimination]
+tags:
+- plaintext-persistence
+- separation-of-concerns
+- writing-discipline
+- format-longevity
+- distraction-elimination
 ---
 
 # Plain Text Rebellion

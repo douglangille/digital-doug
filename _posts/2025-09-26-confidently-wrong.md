@@ -8,7 +8,13 @@ header:
 categories: []
 excerpt: Workslop looks good, says nothing, and wastes your time.
 substack_post_id: 174556495.confidently-wrong
-tags: [epistemic-humility, belief-revision, uncertainty-acknowledgment, knowledge-limits, intellectual-honesty, ai-critique]
+tags:
+- epistemic-humility
+- belief-revision
+- uncertainty-acknowledgment
+- knowledge-limits
+- intellectual-honesty
+- ai-critique
 ---
 
 
