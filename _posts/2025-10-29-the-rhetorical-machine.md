@@ -8,11 +8,11 @@ header:
 categories:
 - null
 substack_post_id: 177360408.the-rhetorical-machine
-tags:
-- communication-theory
-- persuasion-mechanics
-- language-power
-- argument-structure
+tags: 
+  - institutional
+  - diagnostic
+  - knowledge-epistemology
+  - ai-collaboration
 ---
 
 # The Rhetorical Machine

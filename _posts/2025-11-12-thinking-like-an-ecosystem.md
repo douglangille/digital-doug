@@ -8,11 +8,11 @@ header:
 categories:
 - null
 substack_post_id: 178680859.thinking-like-and-ecosystem
-tags:
-- systems-thinking
-- network-effects
-- complexity-thinking
-- interconnection
+tags: 
+  - institutional
+  - foundational
+  - governance-structure
+  - knowledge-epistemology
 ---
 
 # Thinking Like an Ecosystem

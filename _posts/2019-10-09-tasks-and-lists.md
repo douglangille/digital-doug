@@ -8,11 +8,10 @@ header:
 categories:
 - null
 substack_post_id: 141217735.tasks-and-lists
-tags:
-- outcome-based-planning
-- mind-clearing
-- accountability-mechanisms
-- deep-work
+tags: 
+  - personal
+  - prescriptive
+  - productivity-systems
 ---
 
 # Tasks and Lists

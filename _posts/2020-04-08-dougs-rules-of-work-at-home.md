@@ -8,12 +8,10 @@ header:
 categories:
 - null
 substack_post_id: 141217715.dougs-rules-of-work-at-home
-tags:
-- work-culture
-- remote-work-discipline
-- professional-ethics
-- arousal-regulation
-- personal-agency
+tags: 
+  - interpersonal
+  - prescriptive
+  - governance-structure
 ---
 
 # Doug’s Rules of Work (At Home)

@@ -6,11 +6,11 @@ excerpt: Why I'm leaving Substack for owned infrastructure, and what platform in
 header:
   teaser: /assets/images/platforms-make-the-worst-landlords/ChatGPT%20Image%20Jan%2021,%202026%20at%2007_05_55%20AM.png
   overlay_image: /assets/images/platforms-make-the-worst-landlords/ChatGPT%20Image%20Jan%2021,%202026%20at%2007_05_55%20AM.png
-tags:
-- platform-criticism
-- digital-sovereignty
-- alternatives-thinking
-- digital-autonomy
+tags: 
+  - personal
+  - diagnostic
+  - technical-infrastructure
+  - governance-structure
 ---
 
 

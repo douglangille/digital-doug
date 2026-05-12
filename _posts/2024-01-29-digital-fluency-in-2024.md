@@ -9,12 +9,10 @@ header:
 categories:
 - null
 substack_post_id: 141217724.digital-fluency-in-2024
-tags:
-- digital-literacy
-- competency-frameworks
-- digital-wellbeing
-- lifelong-learning
-- generational-myths
+tags: 
+  - institutional
+  - foundational
+  - knowledge-epistemology
 ---
 
 # Digital Fluency in 2024

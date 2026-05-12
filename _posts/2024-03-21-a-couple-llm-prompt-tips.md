@@ -9,10 +9,10 @@ header:
 categories:
 - null
 substack_post_id: 147751380.a-couple-llm-prompt-tips
-tags:
-- generative-ai
-- context-management
-- llm-interaction
+tags: 
+  - personal
+  - prescriptive
+  - ai-collaboration
 ---
 
 # A Couple LLM Prompt Tips…

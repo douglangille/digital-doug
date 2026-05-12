@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
   overlay_image: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
 substack_post_id: 147751377.taming-the-chaos
-tags:
-- context-management
-- operational-clarity
-- semantic-linking
-- workflow
+tags: 
+  - personal
+  - prescriptive
+  - productivity-systems
 ---
 
 # Taming the Chaos

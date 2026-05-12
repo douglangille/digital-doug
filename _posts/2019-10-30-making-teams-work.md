@@ -9,12 +9,11 @@ categories:
 - null
 excerpt: Hulk is too hulky.
 substack_post_id: 141217740.making-teams-work
-tags:
-- real-time-communication
-- channel-based-conversation
-- communication-persistence
-- collaborative-infrastructure
-- context-management
+tags: 
+  - institutional
+  - foundational
+  - governance-structure
+  - technical-infrastructure
 ---
 
 # Making Teams Work

@@ -9,12 +9,11 @@ categories:
 - null
 excerpt: "For anyone who keeps thinking \u201Cmaybe it\u2019s time to pivot.\u201D"
 substack_post_id: 180013147.1-1-3-building-a-tech-career-on-what
-tags:
-- personal-development
-- skill-leveraging
-- institutional-positioning
-- career-pivot
-- learning
+tags: 
+  - institutional
+  - prescriptive
+  - governance-structure
+  - knowledge-epistemology
 ---
 
 # 1 + 1 = 3: Building a Tech Career on What You Already Know

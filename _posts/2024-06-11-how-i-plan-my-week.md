@@ -9,11 +9,10 @@ header:
 categories:
 - null
 substack_post_id: 147751376.how-i-plan-my-week
-tags:
-- weekly-planning
-- time-blocking
-- daily-discipline
-- ritual-constraint
+tags: 
+  - personal
+  - prescriptive
+  - productivity-systems
 ---
 
 # How I Plan My Week

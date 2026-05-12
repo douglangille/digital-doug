@@ -9,12 +9,10 @@ categories:
 - null
 excerpt: Long live Comic Papyrus
 substack_post_id: 141217720.format-your-style
-tags:
-- semantic-linking
-- document-conversion
-- accessibility-implementation
-- typographic-systems
-- llm-architecture
+tags: 
+  - personal
+  - prescriptive
+  - technical-infrastructure
 ---
 
 # Format Your Style

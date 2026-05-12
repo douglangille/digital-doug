@@ -6,12 +6,11 @@ excerpt: Bob was reheating stale coffee on Monday. By Friday, he was drinking ca
 header:
   teaser: /assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png
   overlay_image: /assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png
-tags:
-- intentionality-design
-- purpose-clarity
-- agile-thinking
-- deliberate-action
-- intent-engineering
+tags: 
+  - personal
+  - prescriptive
+  - ai-collaboration
+  - productivity-systems
 ---
 
 

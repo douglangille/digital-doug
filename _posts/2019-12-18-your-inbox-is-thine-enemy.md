@@ -8,11 +8,10 @@ header:
 categories:
 - null
 substack_post_id: 141217725.your-inbox-is-thine-enemy
-tags:
-- deep-work
-- attention-management
-- notification-discipline
-- ritual-constraint
+tags: 
+  - personal
+  - diagnostic
+  - productivity-systems
 ---
 
 # Your Inbox Is Thine Enemy

@@ -8,12 +8,10 @@ header:
 categories:
 - null
 substack_post_id: 141217736.unproject-management-part-1
-tags:
-- definition-of-done
-- stakeholder-alignment
-- agile-thinking
-- kanban-execution
-- philosophical-clarity
+tags: 
+  - institutional
+  - foundational
+  - governance-structure
 ---
 
 # Unproject Management – Part 1

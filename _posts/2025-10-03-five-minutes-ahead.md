@@ -8,11 +8,11 @@ header:
 categories:
 - null
 substack_post_id: 175124242.five-minutes-ahead
-tags:
-- ai-fluency
-- anticipatory-strategy
-- pattern-recognition
-- foresight-thinking
+tags: 
+  - institutional
+  - prescriptive
+  - governance-structure
+  - knowledge-epistemology
 ---
 
 

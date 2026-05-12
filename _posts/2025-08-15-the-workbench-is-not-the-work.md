@@ -8,12 +8,11 @@ header:
 categories: []
 excerpt: Clearing space for what matters.
 substack_post_id: 171067727.the-workbench-is-not-the-work
-tags:
-- semantic-distinction
-- infrastructure-automation
-- means-vs-ends
-- philosophical-clarity
-- workflow
+tags: 
+  - personal
+  - prescriptive
+  - productivity-systems
+  - craft-authenticity
 ---
 
 

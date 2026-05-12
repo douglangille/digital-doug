@@ -7,12 +7,11 @@ header:
   overlay_image: /assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.png
 categories: []
 substack_post_id: 181879893.everything-is-brown
-tags:
-- context-management
-- memory-degradation
-- digital-hygiene
-- chatbot-limitations
-- quarterly-reset
+tags: 
+  - personal
+  - prescriptive
+  - ai-collaboration
+  - productivity-systems
 ---
 
 

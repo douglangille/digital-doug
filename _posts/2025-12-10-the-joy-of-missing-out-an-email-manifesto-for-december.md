@@ -8,11 +8,10 @@ header:
 categories:
 - null
 substack_post_id: 181182367.the-joy-of-missing-out-an-email-manifesto
-tags:
-- ai-critique
-- selective-participation
-- context-management
-- intentional-boundaries
+tags: 
+  - personal
+  - prescriptive
+  - productivity-systems
 ---
 
 # The Joy of Missing Out: An Email Manifesto for December

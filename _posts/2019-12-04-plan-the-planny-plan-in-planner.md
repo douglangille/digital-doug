@@ -8,11 +8,11 @@ header:
 categories:
 - null
 substack_post_id: 141217734.plan-the-planny-plan-in-planner
-tags:
-- project-visualization
-- kanban-execution
-- team-coordination
-- burndown-charts
+tags: 
+  - institutional
+  - prescriptive
+  - governance-structure
+  - technical-infrastructure
 ---
 
 # Plan the Planny Plan in Planner

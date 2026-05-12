@@ -8,11 +8,11 @@ header:
 categories:
 - null
 substack_post_id: 141217714.when-to-use-what-with-office-365
-tags:
-- decision-authority
-- office-365-integration
-- use-case-matching
-- visual-decision-support
+tags: 
+  - institutional
+  - prescriptive
+  - governance-structure
+  - technical-infrastructure
 ---
 
 # When to Use What with Office 365

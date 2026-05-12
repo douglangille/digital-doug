@@ -9,10 +9,10 @@ categories:
 - null
 excerpt: Whiskey, probably
 substack_post_id: 141217741.what-i-use-to-make-it-through-the-day
-tags:
-- context-switching
-- attention-management
-- knowledge-management
+tags: 
+  - personal
+  - prescriptive
+  - productivity-systems
 ---
 
 # What I Use to Make It Through the Day

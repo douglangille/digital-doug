@@ -8,12 +8,11 @@ header:
 categories:
 - null
 substack_post_id: 141217718.plain-text-rebellion
-tags:
-- plaintext-persistence
-- separation-of-concerns
-- writing-discipline
-- format-longevity
-- distraction-elimination
+tags: 
+  - personal
+  - prescriptive
+  - craft-authenticity
+  - technical-infrastructure
 ---
 
 # Plain Text Rebellion

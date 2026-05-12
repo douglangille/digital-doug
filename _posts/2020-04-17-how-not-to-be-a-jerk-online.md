@@ -8,11 +8,10 @@ header:
 categories:
 - null
 substack_post_id: 141217726.how-not-to-be-a-jerk-online
-tags:
-- digital-citizenship
-- online-etiquette
-- community-participation
-- dehumanization-risk
+tags: 
+  - interpersonal
+  - prescriptive
+  - governance-structure
 ---
 
 # How Not to Be a Jerk Online

@@ -8,10 +8,10 @@ header:
 categories:
 - null
 substack_post_id: 141217730.down-the-infographic-rabbit-hole
-tags:
-- tool-evaluation
-- collaborative-infrastructure
-- document-design
+tags: 
+  - institutional
+  - prescriptive
+  - technical-infrastructure
 ---
 
 # Down the Infographic Rabbit Hole

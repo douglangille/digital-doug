@@ -8,11 +8,11 @@ header:
 categories:
 - null
 substack_post_id: 141217732.dont-change-that-channel
-tags:
-- team-coordination
-- collaborative-infrastructure
-- conversation-topology
-- knowledge-management
+tags: 
+  - institutional
+  - prescriptive
+  - governance-structure
+  - technical-infrastructure
 ---
 
 # Don’t Change That Channel

@@ -8,12 +8,11 @@ header:
 categories:
 - null
 substack_post_id: 180564071.the-accidental-notetaker
-tags:
-- accidental-discovery
-- emergent-practice
-- capture-discipline
-- knowledge-accumulation
-- note-taking
+tags: 
+  - personal
+  - prescriptive
+  - ai-collaboration
+  - productivity-systems
 ---
 
 # The Accidental Notetaker

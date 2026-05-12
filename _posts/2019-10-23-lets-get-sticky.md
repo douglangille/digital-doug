@@ -8,11 +8,10 @@ header:
 categories:
 - null
 substack_post_id: 141217731.lets-get-sticky
-tags:
-- ephemeral-capture
-- quick-reference
-- memory-consolidation
-- knowledge-management
+tags: 
+  - personal
+  - prescriptive
+  - productivity-systems
 ---
 
 # Let’s Get Sticky!

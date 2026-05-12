@@ -9,12 +9,10 @@ header:
 categories:
 - null
 substack_post_id: 147751378.technology-self-help
-tags:
-- self-directed-learning
-- personal-development
-- learning-resources
-- skill-acquisition
-- continuous-improvement
+tags: 
+  - personal
+  - prescriptive
+  - knowledge-epistemology
 ---
 
 # Technology Self-Help

@@ -8,12 +8,10 @@ header:
 categories:
 - null
 substack_post_id: 141217721.unproject-management-part-2
-tags:
-- kanban-boards
-- user-stories
-- story-points
-- work-in-progress-limits
-- velocity-measurement
+tags: 
+  - institutional
+  - prescriptive
+  - governance-structure
 ---
 
 # Unproject Management – Part 2

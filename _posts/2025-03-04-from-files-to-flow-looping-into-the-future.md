@@ -8,11 +8,11 @@ header:
 categories:
 - null
 substack_post_id: 158364508.from-files-to-flow-looping-into-the
-tags:
-- information-flow
-- systems-thinking
-- feedback-loops
-- workflow
+tags: 
+  - institutional
+  - prescriptive
+  - technical-infrastructure
+  - governance-structure
 ---
 
 

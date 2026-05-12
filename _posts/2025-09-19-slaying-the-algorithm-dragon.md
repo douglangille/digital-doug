@@ -9,11 +9,11 @@ header:
 categories:
 - null
 substack_post_id: 174023996.slaying-the-algorithm-dragon
-tags:
-- algorithmic-awareness
-- platform-criticism
-- digital-sovereignty
-- resistance-thinking
+tags: 
+  - personal
+  - prescriptive
+  - productivity-systems
+  - knowledge-epistemology
 ---
 
 

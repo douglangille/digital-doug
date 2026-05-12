@@ -9,11 +9,11 @@ categories:
 - null
 excerpt: The Map is Not the Terrain
 substack_post_id: 179280225.digital-craftsmanship
-tags:
-- craft-philosophy
-- human-ai-collaboration
-- joy-in-work
-- authenticity
+tags: 
+  - personal
+  - foundational
+  - craft-authenticity
+  - ai-collaboration
 ---
 
 # Digital Craftsmanship

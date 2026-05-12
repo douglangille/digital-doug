@@ -8,11 +8,10 @@ header:
 categories:
 - null
 substack_post_id: 176948649.the-weekly-reset-process-over-artifact
-tags:
-- ritual-design
-- weekly-cadence
-- process-orientation
-- continuous-improvement
+tags: 
+  - personal
+  - prescriptive
+  - productivity-systems
 ---
 
 # The Weekly Reset: Process Over Artifact

@@ -7,12 +7,11 @@ header:
     PM.png
   overlay_image: assets/images/stop-losing-your-thread/ChatGPT Image Feb 10, 2026
     at 03_58_29 PM.png
-tags:
-- ai-context-limits
-- conversation-degradation
-- token-memory
-- context-management
-- specificity-drift
+tags: 
+  - personal
+  - prescriptive
+  - ai-collaboration
+  - technical-infrastructure
 ---
 
 

@@ -9,12 +9,10 @@ categories:
 - null
 excerpt: Rage against the Machine
 substack_post_id: 141217723.minimalist-phone
-tags:
-- attention-management
-- digital-autonomy
-- device-boundaries
-- deep-work
-- ritual-constraint
+tags: 
+  - personal
+  - prescriptive
+  - productivity-systems
 ---
 
 # Minimalist Phone

@@ -8,12 +8,11 @@ header:
 categories:
 - null
 substack_post_id: 141217729.i-markdown
-tags:
-- markdown-syntax
-- cognitive-accessibility
-- semantic-markup
-- format-sustainability
-- content-portability
+tags: 
+  - personal
+  - prescriptive
+  - technical-infrastructure
+  - craft-authenticity
 ---
 
 # I ♥ Markdown

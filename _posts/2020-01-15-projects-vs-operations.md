@@ -9,12 +9,11 @@ categories:
 - null
 excerpt: Knock knock, Neo
 substack_post_id: 141217727.projects-vs-operations
-tags:
-- priority-matrices
-- urgency-vs-importance
-- time-allocation
-- intentional-decision-making
-- opportunity-cost
+tags: 
+  - institutional
+  - foundational
+  - governance-structure
+  - productivity-systems
 ---
 
 # Projects vs Operations

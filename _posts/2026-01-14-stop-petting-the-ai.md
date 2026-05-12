@@ -7,12 +7,11 @@ header:
     - genai - digital-life - wellness
 excerpt: How to Use ChatGPT Without Becoming Its Emotional Support Human
 substack_post_id: 184531625.stop-petting-the-ai
-tags:
-- ai-relationship
-- anthropomorphization-critique
-- human-ai-boundaries
-- responsible-use
-- ai-fluency
+tags: 
+  - personal
+  - prescriptive
+  - ai-collaboration
+  - knowledge-epistemology
 ---
 
 

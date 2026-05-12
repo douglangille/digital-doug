@@ -6,11 +6,11 @@ header:
   teaser: /assets/images/a-tale-of-two-chatbots/80421e81-eeb7-4e7e-9656-0d7aa9eae465.png
   overlay_image: /assets/images/a-tale-of-two-chatbots/80421e81-eeb7-4e7e-9656-0d7aa9eae465.png
   overlay_filter: 0.4
-tags:
-- context-management
-- ai-literacy
-- specialized-contexts
-- tool-selection
+tags: 
+  - personal
+  - prescriptive
+  - ai-collaboration
+  - governance-structure
 ---
 
 

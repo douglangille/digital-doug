@@ -6,12 +6,10 @@ header:
   overlay_image: /assets/images/you-dont-need-another-wellness-system/IMG_0627.jpeg
     - wellness - digital-life - habits - productivity - self-improvement
 excerpt: Being Okay Ain't Religion
-tags:
-- wellness-skepticism
-- systems-anti-pattern
-- personal-mess-acceptance
-- realistic-self-care
-- institutional-wellness-critique
+tags: 
+  - personal
+  - prescriptive
+  - productivity-systems
 ---
 
 

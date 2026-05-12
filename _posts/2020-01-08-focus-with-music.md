@@ -9,12 +9,10 @@ categories:
 - null
 excerpt: Can ya feel the beat?
 substack_post_id: 141217719.focus-with-music
-tags:
-- flow-state
-- context-management
-- auditory-environment
-- behavioral-psychology
-- arousal-regulation
+tags: 
+  - personal
+  - prescriptive
+  - productivity-systems
 ---
 
 # Focus with Music

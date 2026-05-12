@@ -5,11 +5,10 @@ excerpt: Nobody Admits They're Scared.
 header:
   teaser: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
   overlay_image: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
-tags:
-- ai-skepticism
-- realistic-assessment
-- nuanced-perspective
-- critical-thinking
+tags: 
+  - institutional
+  - diagnostic
+  - governance-structure
 ---
 
 # Everyone Knows AI Is Transformative
