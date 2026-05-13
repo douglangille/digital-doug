@@ -133,8 +133,8 @@ I grabbed this text from [RikerIpsum](http://www.rikeripsum.com) because... reas
 - The number of # marks determines the depth of the document structure.
 
   - Convention has it that the first single # is reserved for the document title.
-  - Two #s are for sections and three #s denotes a new subsection.
-  - You can technically go to six #s, but that seems a wee bit silly.
+  - Two #'s are for sections and three #'s denotes a new subsection.
+  - You can technically go to six #'s, but that seems a wee bit silly.
   - These sections can be used to generate a table of contents. This is really important for screen readers and in generating ebooks.
 - Three \*s by itself represents a horizontal line. Semantically, it indicates a change in context or topic, but isn’t reflected in the document’s overall structure.
 - Use a blank line as a spacer between paragraphs. Text on adjacent lines are treated as a single paragraph. Multiple line breaks are ignored.

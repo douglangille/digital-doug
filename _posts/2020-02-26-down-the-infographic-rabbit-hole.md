@@ -40,7 +40,7 @@ We talk about this as a management team all the time. At our last meeting of the
 
 And that’s what this post is about. Not the infographic itself, but how to make one.
 
-You’ll have to wait until next week for When-To-Use-What. **#baitandswitch**
+You’ll have to wait until next week for When-To-Use-What. 
 
 [![a54e2dac-aec4-4cd7-8082-44193b30e4d1](/assets/images/down-the-infographic-rabbit-hole/0c260fc0-7c95-4e46-a86a-ed3c2d527bb6_500x281.gif "a54e2dac-aec4-4cd7-8082-44193b30e4d1")](https://substackcdn.com/image/fetch/$s_!eUnI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c260fc0-7c95-4e46-a86a-ed3c2d527bb6_500x281.gif)
 
