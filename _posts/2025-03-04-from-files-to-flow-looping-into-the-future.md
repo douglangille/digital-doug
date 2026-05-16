@@ -8,11 +8,14 @@ header:
 categories:
 - null
 substack_post_id: 158364508.from-files-to-flow-looping-into-the
-tags: 
-  - institutional
-  - prescriptive
-  - technical-infrastructure
-  - governance-structure
+tags:
+- institutional
+- prescriptive
+- technical-infrastructure
+- governance-structure
+description: The essay argues that organizations should replace fragmented file‑based
+  sharing with integrated, flow‑oriented collaboration platforms to eliminate version
+  chaos.
 ---
 
 

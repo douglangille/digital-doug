@@ -9,11 +9,13 @@ categories:
 - null
 excerpt: Knock knock, Neo
 substack_post_id: 141217727.projects-vs-operations
-tags: 
-  - institutional
-  - foundational
-  - governance-structure
-  - productivity-systems
+tags:
+- institutional
+- foundational
+- governance-structure
+- productivity-systems
+description: The essay argues that employees must balance project work and operational
+  tasks by using a productivity rubric to make work time worthwhile.
 ---
 
 # Projects vs Operations

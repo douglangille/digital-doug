@@ -9,10 +9,13 @@ header:
 categories:
 - null
 substack_post_id: 141217724.digital-fluency-in-2024
-tags: 
-  - institutional
-  - foundational
-  - knowledge-epistemology
+tags:
+- institutional
+- foundational
+- knowledge-epistemology
+description: The essay argues that digital fluency requires integrating literacy,
+  functional tool mastery, and wellbeing to effectively create, communicate, and sustain
+  digital work.
 ---
 
 # Digital Fluency in 2024

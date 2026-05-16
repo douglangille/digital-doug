@@ -1,5 +1,5 @@
 ---
-title: "Don\u2019t Change That Channel"
+title: Don’t Change That Channel
 date: 2019-11-06 08:00:00 -0400
 image: /assets/images/dont-change-that-channel/6e6737b2-d946-4860-b282-7945fbec5f27_1920x1271.jpeg
 header:
@@ -8,11 +8,13 @@ header:
 categories:
 - null
 substack_post_id: 141217732.dont-change-that-channel
-tags: 
-  - institutional
-  - prescriptive
-  - governance-structure
-  - technical-infrastructure
+tags:
+- institutional
+- prescriptive
+- governance-structure
+- technical-infrastructure
+description: The essay argues that Microsoft Teams, while not revolutionary, is a
+  reliable, slick solution for group communication and collaboration across devices.
 ---
 
 # Don’t Change That Channel

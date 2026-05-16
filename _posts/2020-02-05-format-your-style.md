@@ -9,10 +9,12 @@ categories:
 - null
 excerpt: Long live Comic Papyrus
 substack_post_id: 141217720.format-your-style
-tags: 
-  - personal
-  - prescriptive
-  - technical-infrastructure
+tags:
+- personal
+- prescriptive
+- technical-infrastructure
+description: The essay argues that adopting plain‑text and markdown, then converting
+  with Pandoc, is a sustainable, efficient workflow for document creation.
 ---
 
 # Format Your Style

@@ -9,10 +9,12 @@ categories:
 - null
 excerpt: Can ya feel the beat?
 substack_post_id: 141217719.focus-with-music
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
+tags:
+- personal
+- prescriptive
+- productivity-systems
+description: The essay argues that eliminating digital distractions and focusing on
+  a single task dramatically improves productivity and mental clarity.
 ---
 
 # Focus with Music

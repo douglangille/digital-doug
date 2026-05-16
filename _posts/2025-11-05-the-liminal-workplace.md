@@ -9,10 +9,13 @@ categories:
 - null
 excerpt: Change is hard. Bring snacks.
 substack_post_id: 178007267.the-liminal-workplace
-tags: 
-  - institutional
-  - diagnostic
-  - governance-structure
+tags:
+- institutional
+- diagnostic
+- governance-structure
+description: The essay argues that higher‑education workplaces linger in a liminal
+  pause, where outdated practices persist while new learning and governance pathways
+  remain undefined.
 ---
 
 # The Liminal Workplace

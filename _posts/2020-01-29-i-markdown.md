@@ -1,5 +1,5 @@
 ---
-title: "I \u2665 Markdown"
+title: I ♥ Markdown
 date: 2020-01-29 08:00:00 -0400
 image: /assets/images/i-markdown/3ee94c2a-a2eb-4c58-a2e2-f818dcf7f9a5_640x300.png
 header:
@@ -8,11 +8,13 @@ header:
 categories:
 - null
 substack_post_id: 141217729.i-markdown
-tags: 
-  - personal
-  - prescriptive
-  - technical-infrastructure
-  - craft-authenticity
+tags:
+- personal
+- prescriptive
+- technical-infrastructure
+- craft-authenticity
+description: The essay reflects on how early low‑tech word processors shaped the writer’s
+  craft, emphasizing the value of physical‑digital separation.
 ---
 
 # I ♥ Markdown

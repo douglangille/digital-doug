@@ -1,8 +1,8 @@
 ---
 title: Some Goblins Are Kinda Cute.
 date: 2024-04-10 08:00:00 -0400
-excerpt: "I\u2019m always on the lookout for tools and technologies that can help\
-  \ our teams be more productive, focused, and effective in our work."
+excerpt: I’m always on the lookout for tools and technologies that can help our teams
+  be more productive, focused, and effective in our work.
 image: /assets/images/some-goblins-are-kinda-cute/4fdbe2a1-d88e-4a56-8c98-f625a982f514_1792x1024.png
 header:
   teaser: /assets/images/some-goblins-are-kinda-cute/4fdbe2a1-d88e-4a56-8c98-f625a982f514_1792x1024.png
@@ -10,11 +10,13 @@ header:
 categories:
 - null
 substack_post_id: 147751379.some-goblins-are-kinda-cute
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
-  - ai-collaboration
+tags:
+- personal
+- prescriptive
+- productivity-systems
+- ai-collaboration
+description: The essay argues that Goblin Tools' AI-powered applications uniquely
+  boost neurodivergent knowledge workers' productivity and focus, urging adoption.
 ---
 
 # Some Goblins Are Kinda Cute.

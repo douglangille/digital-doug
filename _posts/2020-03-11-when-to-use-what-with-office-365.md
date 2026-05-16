@@ -8,11 +8,13 @@ header:
 categories:
 - null
 substack_post_id: 141217714.when-to-use-what-with-office-365
-tags: 
-  - institutional
-  - prescriptive
-  - governance-structure
-  - technical-infrastructure
+tags:
+- institutional
+- prescriptive
+- governance-structure
+- technical-infrastructure
+description: The author advises personally using Office 365 PowerPoint to create infographics,
+  emphasizing practicality over printing to preserve resources.
 ---
 
 # When to Use What with Office 365

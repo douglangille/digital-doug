@@ -8,11 +8,13 @@ header:
 categories:
 - null
 substack_post_id: 178680859.thinking-like-and-ecosystem
-tags: 
-  - institutional
-  - foundational
-  - governance-structure
-  - knowledge-epistemology
+tags:
+- institutional
+- foundational
+- governance-structure
+- knowledge-epistemology
+description: The essay argues that institutions must recognize hidden, ongoing ecosystem-like
+  processes and redesign governance to sustain productivity beyond visible activity.
 ---
 
 # Thinking Like an Ecosystem

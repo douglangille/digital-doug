@@ -8,11 +8,13 @@ header:
 categories: []
 excerpt: Why Nova Scotia needs to treat AI like public infrastructure.
 substack_post_id: 170439614.ai-is-the-new-literacy-most-nova
-tags: 
-  - institutional
-  - diagnostic
-  - knowledge-epistemology
-  - governance-structure
+tags:
+- institutional
+- diagnostic
+- knowledge-epistemology
+- governance-structure
+description: Nova Scotia must treat AI as public infrastructure, ensuring affordable
+  universal access to prevent widening digital inequity.
 ---
 
 

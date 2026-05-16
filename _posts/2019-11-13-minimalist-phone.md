@@ -9,10 +9,12 @@ categories:
 - null
 excerpt: Rage against the Machine
 substack_post_id: 141217723.minimalist-phone
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
+tags:
+- personal
+- prescriptive
+- productivity-systems
+description: The essay argues that adopting a minimalist phone habit, limiting app
+  distractions, restores authentic focus and personal productivity.
 ---
 
 # Minimalist Phone

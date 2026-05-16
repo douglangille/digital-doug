@@ -8,11 +8,14 @@ header:
 categories:
 - null
 substack_post_id: 141217716.how-to-break-up-with-adobe
-tags: 
-  - institutional
-  - diagnostic
-  - governance-structure
-  - technical-infrastructure
+tags:
+- institutional
+- diagnostic
+- governance-structure
+- technical-infrastructure
+description: Institutions should abandon Adobe’s monopolistic licensing by choosing
+  alternative tools, reducing revenue reliance and protecting students from predatory
+  practices.
 ---
 
 # How to Break Up with Adobe

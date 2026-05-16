@@ -5,10 +5,13 @@ excerpt: Nobody Admits They're Scared.
 header:
   teaser: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
   overlay_image: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
-tags: 
-  - institutional
-  - diagnostic
-  - governance-structure
+tags:
+- institutional
+- diagnostic
+- governance-structure
+description: The essay diagnoses institutional AI chaos, urging coordinated governance
+  structures and collaborative frameworks to transform fragmented initiatives into
+  effective action.
 ---
 
 # Everyone Knows AI Is Transformative

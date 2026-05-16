@@ -1,5 +1,5 @@
 ---
-title: "Doug\u2019s Rules of Work (At Home)"
+title: Doug’s Rules of Work (At Home)
 date: 2020-04-08 08:00:00 -0400
 image: /assets/images/dougs-rules-of-work-at-home/7115f2e6-4387-4800-a334-94f72bf6cf86_803x499.jpeg
 header:
@@ -8,10 +8,12 @@ header:
 categories:
 - null
 substack_post_id: 141217715.dougs-rules-of-work-at-home
-tags: 
-  - interpersonal
-  - prescriptive
-  - governance-structure
+tags:
+- interpersonal
+- prescriptive
+- governance-structure
+description: Doug argues employees must maintain professional habits at home by designating
+  a work space, dressing appropriately, and honoring commitments.
 ---
 
 # Doug’s Rules of Work (At Home)

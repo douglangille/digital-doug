@@ -8,10 +8,12 @@ header:
 categories:
 - null
 substack_post_id: 141217737.psa-take-care-of-your-eyes
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
+tags:
+- personal
+- prescriptive
+- productivity-systems
+description: The author advises personal screen users to adopt regular breaks, blinking,
+  hydration, and lens cleaning to reduce eye strain and improve well‑being.
 ---
 
 # PSA: Take Care of Your Eyes

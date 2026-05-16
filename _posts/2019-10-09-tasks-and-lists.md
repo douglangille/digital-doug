@@ -8,10 +8,12 @@ header:
 categories:
 - null
 substack_post_id: 141217735.tasks-and-lists
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
+tags:
+- personal
+- prescriptive
+- productivity-systems
+description: The essay argues that external disruptions, not lack of will, derail
+  personal productivity, highlighting the need for resilient task‑management systems.
 ---
 
 # Tasks and Lists

@@ -8,10 +8,12 @@ header:
 categories:
 - null
 substack_post_id: 141217726.how-not-to-be-a-jerk-online
-tags: 
-  - interpersonal
-  - prescriptive
-  - governance-structure
+tags:
+- interpersonal
+- prescriptive
+- governance-structure
+description: The essay argues that online interactions require conscious empathy and
+  respectful language to counter anonymity-driven hostility and preserve civil discourse.
 ---
 
 # How Not to Be a Jerk Online

@@ -5,10 +5,12 @@ excerpt: Stop waiting to be legitimate.
 header:
   teaser: /assets/images/identity-shifting/Designer-2.png
   overlay_image: /assets/images/identity-shifting/Designer-2.png
-tags: 
-  - personal
-  - prescriptive
-  - knowledge-epistemology
+tags:
+- personal
+- prescriptive
+- knowledge-epistemology
+description: The essay urges individuals to abandon waiting for external validation
+  and adopt an authentic, work‑centered identity over rigid goal‑setting.
 ---
 
 # Identity Shifting > Goal Setting

@@ -9,11 +9,13 @@ categories:
 - null
 excerpt: Hulk is too hulky.
 substack_post_id: 141217740.making-teams-work
-tags: 
-  - institutional
-  - foundational
-  - governance-structure
-  - technical-infrastructure
+tags:
+- institutional
+- foundational
+- governance-structure
+- technical-infrastructure
+description: The essay argues that despite claims email is obsolete, institutions
+  must recognize its continued central role for reliable team communication.
 ---
 
 # Making Teams Work

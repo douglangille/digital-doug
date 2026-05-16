@@ -8,10 +8,12 @@ header:
 categories:
 - null
 substack_post_id: 141217725.your-inbox-is-thine-enemy
-tags: 
-  - personal
-  - diagnostic
-  - productivity-systems
+tags:
+- personal
+- diagnostic
+- productivity-systems
+description: Email has become a toxic institutional habit that erodes productivity
+  and requires reshaping how organizations govern digital communication practices.
 ---
 
 # Your Inbox Is Thine Enemy

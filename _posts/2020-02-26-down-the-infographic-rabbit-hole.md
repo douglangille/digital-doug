@@ -8,10 +8,12 @@ header:
 categories:
 - null
 substack_post_id: 141217730.down-the-infographic-rabbit-hole
-tags: 
-  - institutional
-  - prescriptive
-  - technical-infrastructure
+tags:
+- institutional
+- prescriptive
+- technical-infrastructure
+description: The essay argues that deploying Microsoft Teams transforms institutional
+  productivity but creates chaos unless clear guidance on tool selection is established.
 ---
 
 # Down the Infographic Rabbit Hole

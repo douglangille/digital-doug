@@ -9,11 +9,13 @@ header:
 categories:
 - null
 substack_post_id: 174023996.slaying-the-algorithm-dragon
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
-  - knowledge-epistemology
+tags:
+- personal
+- prescriptive
+- productivity-systems
+- knowledge-epistemology
+description: The essay argues that algorithm-driven short-form content erodes deep
+  reading, urging personal disengagement to restore authentic literary practice.
 ---
 
 

@@ -8,10 +8,12 @@ header:
 categories:
 - null
 substack_post_id: 181182367.the-joy-of-missing-out-an-email-manifesto
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
+tags:
+- personal
+- prescriptive
+- productivity-systems
+description: The essay argues that individuals should adopt JOMO by limiting email
+  engagement to reduce cognitive overload and improve December productivity.
 ---
 
 # The Joy of Missing Out: An Email Manifesto for December

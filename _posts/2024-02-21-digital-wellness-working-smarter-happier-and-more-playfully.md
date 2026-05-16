@@ -9,10 +9,13 @@ header:
 categories:
 - null
 substack_post_id: 147751381.digital-wellness-working-smarter-happier-and-more-playfully
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
+tags:
+- personal
+- prescriptive
+- productivity-systems
+description: The essay argues that individuals should deliberately balance technology
+  use to boost productivity and joy, turning digital overload into mindful, playful
+  work.
 ---
 
 # Digital Wellness: Working Smarter, Happier, and More Playfully

@@ -8,11 +8,13 @@ header:
 categories: []
 excerpt: Workslop looks good, says nothing, and wastes your time.
 substack_post_id: 174556495.confidently-wrong
-tags: 
-  - institutional
-  - diagnostic
-  - ai-collaboration
-  - knowledge-epistemology
+tags:
+- institutional
+- diagnostic
+- ai-collaboration
+- knowledge-epistemology
+description: The essay warns that AI‑generated ‘workslop’ masquerades as polished
+  output, eroding authentic effort and wasting time in organizational settings.
 ---
 
 

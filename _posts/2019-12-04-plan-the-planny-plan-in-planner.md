@@ -8,11 +8,14 @@ header:
 categories:
 - null
 substack_post_id: 141217734.plan-the-planny-plan-in-planner
-tags: 
-  - institutional
-  - prescriptive
-  - governance-structure
-  - technical-infrastructure
+tags:
+- institutional
+- prescriptive
+- governance-structure
+- technical-infrastructure
+description: The essay argues that Microsoft Project is overly complex for most users,
+  requiring extensive knowledge, while simpler tools like To‑Do better fit everyday
+  task management.
 ---
 
 # Plan the Planny Plan in Planner

@@ -8,10 +8,13 @@ header:
 categories:
 - null
 substack_post_id: 141217717.is-the-stylus-mightier-than-the-keyboard
-tags: 
-  - personal
-  - foundational
-  - technical-infrastructure
+tags:
+- personal
+- foundational
+- technical-infrastructure
+description: The author argues that heavy, heat‑producing laptops hinder sustained
+  work, so lightweight touch‑and‑stylus devices are a more efficient personal computing
+  solution.
 ---
 
 # Is the Stylus Mightier than the Keyboard?

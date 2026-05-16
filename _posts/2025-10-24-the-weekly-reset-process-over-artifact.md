@@ -8,10 +8,12 @@ header:
 categories:
 - null
 substack_post_id: 176948649.the-weekly-reset-process-over-artifact
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
+tags:
+- personal
+- prescriptive
+- productivity-systems
+description: The essay argues that leveraging AI‑assisted note‑taking and calendar
+  review as a repeatable weekly reset maximizes personal productivity after time off.
 ---
 
 # The Weekly Reset: Process Over Artifact

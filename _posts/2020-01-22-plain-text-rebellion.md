@@ -8,11 +8,13 @@ header:
 categories:
 - null
 substack_post_id: 141217718.plain-text-rebellion
-tags: 
-  - personal
-  - prescriptive
-  - craft-authenticity
-  - technical-infrastructure
+tags:
+- personal
+- prescriptive
+- craft-authenticity
+- technical-infrastructure
+description: The essay laments how modern word processors erode authentic, disciplined
+  writing practices, diagnosing technology’s ease as a threat to craft.
 ---
 
 # Plain Text Rebellion

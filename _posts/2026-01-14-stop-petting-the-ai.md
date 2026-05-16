@@ -7,11 +7,13 @@ header:
     - genai - digital-life - wellness
 excerpt: How to Use ChatGPT Without Becoming Its Emotional Support Human
 substack_post_id: 184531625.stop-petting-the-ai
-tags: 
-  - personal
-  - prescriptive
-  - ai-collaboration
-  - knowledge-epistemology
+tags:
+- personal
+- prescriptive
+- ai-collaboration
+- knowledge-epistemology
+description: The essay advises individuals to stop treating ChatGPT as a companion
+  and use it strictly as a productivity tool to avoid emotional dependence.
 ---
 
 

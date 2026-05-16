@@ -1,5 +1,5 @@
 ---
-title: "Let\u2019s Get Sticky!"
+title: Let’s Get Sticky!
 date: 2019-10-23 08:00:00 -0400
 image: /assets/images/lets-get-sticky/22c585b5-f5d2-410c-bffb-0ce8047bc577_447x393.jpeg
 header:
@@ -8,10 +8,12 @@ header:
 categories:
 - null
 substack_post_id: 141217731.lets-get-sticky
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
+tags:
+- personal
+- prescriptive
+- productivity-systems
+description: The essay argues that using a sideways peel prevents sticky notes from
+  curling and outlines where Microsoft’s Sticky Notes are accessible across platforms.
 ---
 
 # Let’s Get Sticky!

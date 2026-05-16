@@ -1,16 +1,19 @@
 ---
 title: Taming the Chaos
 date: 2024-05-30 08:00:00 -0400
-excerpt: "Let\u2019s face it, the digital age has brought a double-edged sword."
+excerpt: Let’s face it, the digital age has brought a double-edged sword.
 image: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
 header:
   teaser: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
   overlay_image: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
 substack_post_id: 147751377.taming-the-chaos
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
+tags:
+- personal
+- prescriptive
+- productivity-systems
+description: The essay argues that adopting a strategic digital calendar and task
+  manager like Outlook and To Do dramatically improves personal productivity and reduces
+  overwhelm.
 ---
 
 # Taming the Chaos

@@ -6,11 +6,13 @@ header:
   teaser: /assets/images/a-tale-of-two-chatbots/80421e81-eeb7-4e7e-9656-0d7aa9eae465.png
   overlay_image: /assets/images/a-tale-of-two-chatbots/80421e81-eeb7-4e7e-9656-0d7aa9eae465.png
   overlay_filter: 0.4
-tags: 
-  - personal
-  - prescriptive
-  - ai-collaboration
-  - governance-structure
+tags:
+- personal
+- prescriptive
+- ai-collaboration
+- governance-structure
+description: Using separate chatbot configurations prevents context contamination,
+  enhancing productivity and collaboration across personal and institutional tasks.
 ---
 
 

@@ -8,11 +8,13 @@ header:
 categories:
 - null
 substack_post_id: 180564071.the-accidental-notetaker
-tags: 
-  - personal
-  - prescriptive
-  - ai-collaboration
-  - productivity-systems
+tags:
+- personal
+- prescriptive
+- ai-collaboration
+- productivity-systems
+description: The essay argues that personal note‑taking improves when you shift from
+  forcing elaborate systems to a timed, reflective perspective on captured ideas.
 ---
 
 # The Accidental Notetaker

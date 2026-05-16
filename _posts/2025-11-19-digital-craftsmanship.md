@@ -9,11 +9,13 @@ categories:
 - null
 excerpt: The Map is Not the Terrain
 substack_post_id: 179280225.digital-craftsmanship
-tags: 
-  - personal
-  - foundational
-  - craft-authenticity
-  - ai-collaboration
+tags:
+- personal
+- foundational
+- craft-authenticity
+- ai-collaboration
+description: The essay argues that authentic digital craftsmanship emerges when individuals
+  deliberately integrate AI collaboration into personal work practices.
 ---
 
 # Digital Craftsmanship

@@ -9,10 +9,12 @@ header:
 categories:
 - null
 substack_post_id: 147751376.how-i-plan-my-week
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
+tags:
+- personal
+- prescriptive
+- productivity-systems
+description: The author critiques their fragmented planning setup, arguing that combining
+  context‑based reminders across analog and digital tools improves personal productivity.
 ---
 
 # How I Plan My Week

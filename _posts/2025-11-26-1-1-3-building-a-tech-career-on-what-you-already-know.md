@@ -7,13 +7,15 @@ header:
   overlay_image: /assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.png
 categories:
 - null
-excerpt: "For anyone who keeps thinking \u201Cmaybe it\u2019s time to pivot.\u201D"
+excerpt: For anyone who keeps thinking “maybe it’s time to pivot.”
 substack_post_id: 180013147.1-1-3-building-a-tech-career-on-what
-tags: 
-  - institutional
-  - prescriptive
-  - governance-structure
-  - knowledge-epistemology
+tags:
+- institutional
+- prescriptive
+- governance-structure
+- knowledge-epistemology
+description: The essay argues that building on existing experience by incrementally
+  adding tech skills creates a career greater than the sum of its parts.
 ---
 
 # 1 + 1 = 3: Building a Tech Career on What You Already Know

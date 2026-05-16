@@ -8,11 +8,13 @@ header:
   overlay_image: /assets/images/ai-harmonizes-with-my-ideas/47981997-d20a-4864-9e64-02acba822434_1536x1024.png
 categories: []
 substack_post_id: 173291190.ai-harmonizes-with-my-ideas
-tags: 
-  - personal
-  - prescriptive
-  - ai-collaboration
-  - productivity-systems
+tags:
+- personal
+- prescriptive
+- ai-collaboration
+- productivity-systems
+description: The essay diagnoses how personal AI tool choices affect workflow, favoring
+  integrated services like ChatGPT Plus and Copilot while discarding niche alternatives.
 ---
 
 

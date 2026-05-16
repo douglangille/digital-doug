@@ -7,11 +7,13 @@ header:
     PM.png
   overlay_image: assets/images/stop-losing-your-thread/ChatGPT Image Feb 10, 2026
     at 03_58_29 PM.png
-tags: 
-  - personal
-  - prescriptive
-  - ai-collaboration
-  - technical-infrastructure
+tags:
+- personal
+- prescriptive
+- ai-collaboration
+- technical-infrastructure
+description: The essay argues that users must actively manage AI conversation context
+  using specific techniques to prevent drift and maintain relevance.
 ---
 
 

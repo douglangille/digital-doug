@@ -8,11 +8,13 @@ header:
 categories: []
 excerpt: Clearing space for what matters.
 substack_post_id: 171067727.the-workbench-is-not-the-work
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
-  - craft-authenticity
+tags:
+- personal
+- prescriptive
+- productivity-systems
+- craft-authenticity
+description: The essay argues that personal knowledge‑management systems should remain
+  functional workbenches, not become the end goal of perfect, decorative organization.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: "A Couple LLM Prompt Tips\u2026"
+title: A Couple LLM Prompt Tips…
 date: 2024-03-21 08:00:00 -0400
-excerpt: "I\u2019ve been tooling around with some LLMs."
+excerpt: I’ve been tooling around with some LLMs.
 image: /assets/images/a-couple-llm-prompt-tips/488a81c4-d40b-4800-917b-ec77632ecf0f_1600x900.jpeg
 header:
   teaser: /assets/images/a-couple-llm-prompt-tips/488a81c4-d40b-4800-917b-ec77632ecf0f_1600x900.jpeg
@@ -9,10 +9,12 @@ header:
 categories:
 - null
 substack_post_id: 147751380.a-couple-llm-prompt-tips
-tags: 
-  - personal
-  - prescriptive
-  - ai-collaboration
+tags:
+- personal
+- prescriptive
+- ai-collaboration
+description: Use Microsoft 365 Copilot Enterprise for secure, policy‑compliant AI
+  work while leveraging longer prompt windows in Copilot Notebook for efficient productivity.
 ---
 
 # A Couple LLM Prompt Tips…

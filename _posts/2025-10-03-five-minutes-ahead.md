@@ -8,11 +8,13 @@ header:
 categories:
 - null
 substack_post_id: 175124242.five-minutes-ahead
-tags: 
-  - institutional
-  - prescriptive
-  - governance-structure
-  - knowledge-epistemology
+tags:
+- institutional
+- prescriptive
+- governance-structure
+- knowledge-epistemology
+description: The essay argues that labeling team members as SMEs imposes unrealistic
+  authority, undermining honest expertise and collaborative decision‑making.
 ---
 
 

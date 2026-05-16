@@ -9,10 +9,12 @@ categories:
 - null
 excerpt: Whiskey, probably
 substack_post_id: 141217741.what-i-use-to-make-it-through-the-day
-tags: 
-  - personal
-  - prescriptive
-  - productivity-systems
+tags:
+- personal
+- prescriptive
+- productivity-systems
+description: The essay argues that leveraging Outlook, Gmail, and other Office 365
+  apps across devices boosts personal productivity by eliminating workflow friction.
 ---
 
 # What I Use to Make It Through the Day

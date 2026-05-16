@@ -1,5 +1,5 @@
 ---
-title: "Unproject Management \u2013 Part 2"
+title: Unproject Management – Part 2
 date: 2019-11-27 08:00:00 -0400
 image: /assets/images/unproject-management-part-2/6e0757fc-9ac2-40b0-b859-175ad17c1140_768x512.jpeg
 header:
@@ -8,10 +8,12 @@ header:
 categories:
 - null
 substack_post_id: 141217721.unproject-management-part-2
-tags: 
-  - institutional
-  - prescriptive
-  - governance-structure
+tags:
+- institutional
+- prescriptive
+- governance-structure
+description: The essay prescribes using a simple three‑column board and epic user
+  stories in Microsoft Planner to improve project tracking and execution.
 ---
 
 # Unproject Management – Part 2

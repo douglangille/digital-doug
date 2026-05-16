@@ -5,11 +5,13 @@ excerpt: GitHub Education Edition
 header:
   teaser: /assets/images/the-it-student-ai-stack/ideogram-v3.0_photorealistic_image_of_a_student_laptop_screen_showing_GitHub_interface_with_a_-0.jpg
   overlay_image: /assets/images/the-it-student-ai-stack/ideogram-v3.0_photorealistic_image_of_a_student_laptop_screen_showing_GitHub_interface_with_a_-0.jpg
-tags: 
-  - institutional
-  - prescriptive
-  - technical-infrastructure
-  - knowledge-epistemology
+tags:
+- institutional
+- prescriptive
+- technical-infrastructure
+- knowledge-epistemology
+description: Students should avoid paid AI subscriptions, instead use free school-eligible
+  tools to build lasting habits and genuine skill development.
 ---
 
 # The IT Student AI Stack
