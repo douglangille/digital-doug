@@ -15,6 +15,7 @@ tags:
 - knowledge-epistemology
 description: The essay argues that institutions must recognize hidden, ongoing ecosystem-like
   processes and redesign governance to sustain productivity beyond visible activity.
+feature: /assets/images/thinking-like-an-ecosystem/f0a4f9bf-9e86-405c-9eb9-f5282e3415d5_1536x1024.png
 ---
 
 # Thinking Like an Ecosystem

@@ -14,6 +14,7 @@ tags:
 description: The essay argues that adopting a strategic digital calendar and task
   manager like Outlook and To Do dramatically improves personal productivity and reduces
   overwhelm.
+feature: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
 ---
 
 # Taming the Chaos

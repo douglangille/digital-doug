@@ -16,6 +16,7 @@ tags:
 description: The essay argues that digital fluency requires integrating literacy,
   functional tool mastery, and wellbeing to effectively create, communicate, and sustain
   digital work.
+feature: /assets/images/digital-fluency-in-2024/419caae1-ca6b-440b-8135-9477375cbf3c_1024x1024.jpeg
 ---
 
 # Digital Fluency in 2024

@@ -13,6 +13,7 @@ tags:
 - productivity-systems
 description: The essay argues that effective AI use requires aligning prompts with
   underlying intent rather than over‑optimizing superficial prompt variables.
+feature: /assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png
 ---
 
 

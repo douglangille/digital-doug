@@ -14,6 +14,7 @@ tags:
 - knowledge-epistemology
 description: The essay advises individuals to stop treating ChatGPT as a companion
   and use it strictly as a productivity tool to avoid emotional dependence.
+feature: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.png
 ---
 
 

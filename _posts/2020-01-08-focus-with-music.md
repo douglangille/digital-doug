@@ -15,6 +15,7 @@ tags:
 - productivity-systems
 description: The essay argues that eliminating digital distractions and focusing on
   a single task dramatically improves productivity and mental clarity.
+feature: /assets/images/focus-with-music/08913387-d82d-4225-add7-52f65f1c429c_960x427.jpeg
 ---
 
 # Focus with Music

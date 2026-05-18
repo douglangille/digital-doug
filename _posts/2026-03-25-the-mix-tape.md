@@ -13,6 +13,7 @@ tags:
 - ai-collaboration
 description: The essay argues that authentic creativity requires human-centered curation,
   using personal mix‑tapes as a model for AI‑augmented artistic connection.
+feature: /assets/images/the-mix-tape/ChatGPT Image Mar 23, 2026 at 12_18_37 PM.png
 ---
 
 # The Mix Tape

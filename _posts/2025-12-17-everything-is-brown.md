@@ -14,6 +14,7 @@ tags:
 - productivity-systems
 description: The essay argues that accumulating unchecked context in chatbots degrades
   their performance, warning users that more data can cause drift.
+feature: /assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.png
 ---
 
 

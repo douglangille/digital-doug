@@ -14,6 +14,7 @@ tags:
 - governance-structure
 description: The author criticizes formal project management structures while affirming
   daily personal project work as authentic, productive practice.
+feature: /assets/images/unproject-management-part-1/2e0f9b72-1015-436c-a671-1d331b01264a_1600x1200.png
 ---
 
 # Unproject Management – Part 1

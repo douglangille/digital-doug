@@ -16,6 +16,7 @@ tags:
 description: The essay argues that individuals should deliberately balance technology
   use to boost productivity and joy, turning digital overload into mindful, playful
   work.
+feature: /assets/images/digital-wellness-working-smarter-happier-and-more-playfully/5f07f900-215b-4715-8388-945da9a2711b_1024x1024.png
 ---
 
 # Digital Wellness: Working Smarter, Happier, and More Playfully

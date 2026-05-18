@@ -15,6 +15,7 @@ tags:
 - knowledge-epistemology
 description: The essay warns that AI‑generated ‘workslop’ masquerades as polished
   output, eroding authentic effort and wasting time in organizational settings.
+feature: /assets/images/confidently-wrong/cd8c89d7-cee6-4601-8ea0-a996df1f383a_1536x1024.png
 ---
 
 

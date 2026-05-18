@@ -16,6 +16,7 @@ tags:
 - productivity-systems
 description: The essay argues that employees must balance project work and operational
   tasks by using a productivity rubric to make work time worthwhile.
+feature: /assets/images/projects-vs-operations/08efca77-7cb6-4a06-8e41-cef5d401f5ee_1280x1024.png
 ---
 
 # Projects vs Operations

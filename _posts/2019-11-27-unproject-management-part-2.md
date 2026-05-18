@@ -14,6 +14,7 @@ tags:
 - governance-structure
 description: The essay prescribes using a simple three‑column board and epic user
   stories in Microsoft Planner to improve project tracking and execution.
+feature: /assets/images/unproject-management-part-2/6e0757fc-9ac2-40b0-b859-175ad17c1140_768x512.jpeg
 ---
 
 # Unproject Management – Part 2

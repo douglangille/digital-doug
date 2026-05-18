@@ -11,6 +11,7 @@ tags:
 - governance-structure
 description: The essay argues that modern institutional incentives erase the cognitive
   space for rough drafts, suppressing uncertain, half‑formed ideas.
+feature: /assets/images/we-killed-the-places-where-idesas-could-be-dumb/generated-image-5.png
 ---
 
 # We Killed the Places Where Ideas Could Be Dumb

@@ -14,8 +14,8 @@ tags:
 - ai-collaboration
 description: The essay argues that obsessively collecting AI prompts hinders genuine
   mastery, urging individuals to focus on thoughtful, purpose‑driven AI collaboration.
+feature: /assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21 PM.png
 ---
-
 
 # Beyond the Grimoire
 

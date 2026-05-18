@@ -15,6 +15,7 @@ tags:
 - governance-structure
 description: Microsoft’s legacy Outlook architecture hampers innovation, forcing the
   company to balance backward compatibility with adopting modern Microsoft 365 capabilities.
+feature: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
 ---
 
 

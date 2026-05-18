@@ -14,6 +14,7 @@ tags:
 - productivity-systems
 description: The essay argues that leveraging AI‑assisted note‑taking and calendar
   review as a repeatable weekly reset maximizes personal productivity after time off.
+feature: /assets/images/the-weekly-reset-process-over-artifact/a94eb8b8-2c35-4848-a216-449ad84bb18a_1536x1024.png
 ---
 
 # The Weekly Reset: Process Over Artifact

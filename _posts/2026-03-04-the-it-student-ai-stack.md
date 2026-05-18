@@ -12,6 +12,7 @@ tags:
 - knowledge-epistemology
 description: Students should avoid paid AI subscriptions, instead use free school-eligible
   tools to build lasting habits and genuine skill development.
+feature: /assets/images/the-it-student-ai-stack/ideogram-v3.0_photorealistic_image_of_a_student_laptop_screen_showing_GitHub_interface_with_a_-0.jpg
 ---
 
 # The IT Student AI Stack

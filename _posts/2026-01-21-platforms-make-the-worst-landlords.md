@@ -13,6 +13,7 @@ tags:
 - governance-structure
 description: The essay argues that platform-controlled publishing services, like Substack,
   act as restrictive landlords, urging creators to adopt independent technical infrastructure.
+feature: /assets/images/platforms-make-the-worst-landlords/ChatGPT%20Image%20Jan%2021,%202026%20at%2007_05_55%20AM.png
 ---
 
 

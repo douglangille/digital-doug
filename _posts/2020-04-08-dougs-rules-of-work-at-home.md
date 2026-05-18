@@ -14,6 +14,7 @@ tags:
 - governance-structure
 description: Doug argues employees must maintain professional habits at home by designating
   a work space, dressing appropriately, and honoring commitments.
+feature: /assets/images/dougs-rules-of-work-at-home/7115f2e6-4387-4800-a334-94f72bf6cf86_803x499.jpeg
 ---
 
 # Doug’s Rules of Work (At Home)

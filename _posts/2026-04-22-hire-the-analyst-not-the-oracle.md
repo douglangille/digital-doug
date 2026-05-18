@@ -12,6 +12,7 @@ tags:
 - knowledge-epistemology
 description: The essay argues organizations should hire practical AI analysts rather
   than self‑proclaimed experts, emphasizing realistic expertise over hype.
+feature: /assets/images/hire-the-analyst-not-the-oracle/IMG_0785.png
 ---
 
 # Hire the Analyst, Not the Oracle

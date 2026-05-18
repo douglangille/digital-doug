@@ -16,6 +16,7 @@ tags:
 - knowledge-epistemology
 description: The essay argues that building on existing experience by incrementally
   adding tech skills creates a career greater than the sum of its parts.
+feature: /assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.png
 ---
 
 # 1 + 1 = 3: Building a Tech Career on What You Already Know

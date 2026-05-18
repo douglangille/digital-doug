@@ -13,6 +13,7 @@ tags:
 description: The essay argues that AI, when transparently integrated into personal
   writing workflows, functions merely as a collaborative tool rather than an ethical
   dilemma.
+feature: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
 ---
 
 # AI Is Just A Tool

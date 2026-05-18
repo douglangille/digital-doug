@@ -12,6 +12,7 @@ header:
   overlay_image: /assets/images/the-monday-morning-reset/generated-image-7.png
 description: Skipping a Monday review leads to chaotic inbox overload, while a consistent
   review restores focus and prevents burnout.
+feature: /assets/images/the-monday-morning-reset/generated-image-7.png
 ---
 
 # The Monday Morning Reset
