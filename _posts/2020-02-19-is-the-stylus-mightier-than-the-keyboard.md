@@ -12,7 +12,7 @@ tags:
 - personal
 - foundational
 - technical-infrastructure
-description: The author argues that heavy, heat‑producing laptops hinder sustained
+meta: The author argues that heavy, heat‑producing laptops hinder sustained
   work, so lightweight touch‑and‑stylus devices are a more efficient personal computing
   solution.
 feature: /assets/images/is-the-stylus-mightier-than-the-keyboard/dfff8d4a-ed69-419b-8914-e8e98c2db7ca_1200x745.jpeg

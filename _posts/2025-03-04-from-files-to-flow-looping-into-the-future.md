@@ -13,7 +13,7 @@ tags:
 - prescriptive
 - technical-infrastructure
 - governance-structure
-description: The essay argues that organizations should replace fragmented file‑based
+meta: The essay argues that organizations should replace fragmented file‑based
   sharing with integrated, flow‑oriented collaboration platforms to eliminate version
   chaos.
 feature: /assets/images/from-files-to-flow-looping-into-the-future/4476010b-3b9c-4042-bd43-aa2a3d4df9e0_1019x631.png

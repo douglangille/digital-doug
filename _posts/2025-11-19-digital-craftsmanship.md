@@ -14,7 +14,7 @@ tags:
 - foundational
 - craft-authenticity
 - ai-collaboration
-description: The essay argues that authentic digital craftsmanship emerges when individuals
+meta: The essay argues that authentic digital craftsmanship emerges when individuals
   deliberately integrate AI collaboration into personal work practices.
 feature: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png
 ---

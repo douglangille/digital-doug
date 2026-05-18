@@ -10,7 +10,7 @@ tags:
 - personal
 - prescriptive
 - productivity-systems
-description: The essay argues that amid crisis and overload, wellness programs feel
+meta: The essay argues that amid crisis and overload, wellness programs feel
   misguided, urging individuals to accept messy productivity rather than adopt another
   system.
 feature: /assets/images/you-dont-need-another-wellness-system/IMG_0627.jpeg

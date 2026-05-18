@@ -13,7 +13,7 @@ tags:
 - diagnostic
 - knowledge-epistemology
 - ai-collaboration
-description: The essay argues that AI extends ancient rhetorical techniques, turning
+meta: The essay argues that AI extends ancient rhetorical techniques, turning
   personal persuasion into scalable, automated communication that reshapes how we
   understand knowledge.
 feature: /assets/images/the-rhetorical-machine/9e22586b-1d28-4a3b-84a9-ab0e226cf318_1536x1024.png

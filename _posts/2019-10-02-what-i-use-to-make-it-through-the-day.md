@@ -13,7 +13,7 @@ tags:
 - personal
 - prescriptive
 - productivity-systems
-description: The essay argues that leveraging Outlook, Gmail, and other Office 365
+meta: The essay argues that leveraging Outlook, Gmail, and other Office 365
   apps across devices boosts personal productivity by eliminating workflow friction.
 feature: /assets/images/what-i-use-to-make-it-through-the-day/5394dd5d-5303-4ff9-a9aa-f14c50d36569_756x510.jpeg
 ---

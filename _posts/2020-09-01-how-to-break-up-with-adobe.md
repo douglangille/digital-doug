@@ -13,7 +13,7 @@ tags:
 - diagnostic
 - governance-structure
 - technical-infrastructure
-description: Institutions should abandon Adobe’s monopolistic licensing by choosing
+meta: Institutions should abandon Adobe’s monopolistic licensing by choosing
   alternative tools, reducing revenue reliance and protecting students from predatory
   practices.
 feature: /assets/images/how-to-break-up-with-adobe/ad6ce082-092c-48c1-a501-d50f79abe3fe_2048x1365.jpeg

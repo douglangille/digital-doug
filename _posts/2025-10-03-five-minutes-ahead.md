@@ -13,7 +13,7 @@ tags:
 - prescriptive
 - governance-structure
 - knowledge-epistemology
-description: The essay argues that labeling team members as SMEs imposes unrealistic
+meta: The essay argues that labeling team members as SMEs imposes unrealistic
   authority, undermining honest expertise and collaborative decision‑making.
 feature: /assets/images/five-minutes-ahead/293f0030-c6fc-486e-a839-aede49153471_1536x1024.png
 ---

@@ -10,7 +10,7 @@ date: 2026-04-29 08:00:00 -0400
 header:
   teaser: /assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026 at 08_27_17 AM.png
   overlay_image: /assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026 at 08_27_17 AM.png
-description: The essay argues that using AI blurs the line between writer, editor, and author, challenging personal ownership of authentic storytelling.
+meta: The essay argues that using AI blurs the line between writer, editor, and author, challenging personal ownership of authentic storytelling.
 feature: /assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026 at 08_27_17 AM.png
 ---
 

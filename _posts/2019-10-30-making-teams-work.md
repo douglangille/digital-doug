@@ -14,7 +14,7 @@ tags:
 - foundational
 - governance-structure
 - technical-infrastructure
-description: The essay argues that despite claims email is obsolete, institutions
+meta: The essay argues that despite claims email is obsolete, institutions
   must recognize its continued central role for reliable team communication.
 feature: /assets/images/making-teams-work/b97dab68-8070-469c-b255-08823eba97e2_1024x442.png
 ---
