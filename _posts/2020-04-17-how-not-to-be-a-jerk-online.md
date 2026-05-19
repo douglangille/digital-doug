@@ -6,15 +6,15 @@ header:
   teaser: /assets/images/how-not-to-be-a-jerk-online/2fe635c8-8f8f-4e9f-932f-ab4fe92b6eff_1024x768.jpeg
   overlay_image: /assets/images/how-not-to-be-a-jerk-online/2fe635c8-8f8f-4e9f-932f-ab4fe92b6eff_1024x768.jpeg
 categories:
-- null
+  - 
 substack_post_id: 141217726.how-not-to-be-a-jerk-online
 tags:
-- interpersonal
-- prescriptive
-- governance-structure
-meta: The essay argues that online interactions require conscious empathy and
-  respectful language to counter anonymity-driven hostility and preserve civil discourse.
+  - interpersonal
+  - prescriptive
+  - governance-structure
+meta: The essay argues that online interactions require conscious empathy and respectful language to counter anonymity-driven hostility and preserve civil discourse.
 feature: /assets/images/how-not-to-be-a-jerk-online/2fe635c8-8f8f-4e9f-932f-ab4fe92b6eff_1024x768.jpeg
+feature_y: 50.0%
 ---
 
 # How Not to Be a Jerk Online
@@ -59,7 +59,7 @@ Here, in no particular order, are some guideposts so you don’t end up being a 
 - Don’t talk about other people’s personal issues without their permission. Gossip is ugly.
 - Give credit. Don’t post stuff that isn’t yours without giving attribution to where it’s found. “I found this on the Internet” is not good enough. Take the time to cite sources. Even on Facebook.
 
-[![dd21fdcf-672f-4ae9-ad75-0c8ffff56219](/assets/images/how-not-to-be-a-jerk-online/4eb12ae0-0be3-4347-80e6-fb6ab053590f_382x215.gif "dd21fdcf-672f-4ae9-ad75-0c8ffff56219")](https://substackcdn.com/image/fetch/$s_!ee03!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4eb12ae0-0be3-4347-80e6-fb6ab053590f_382x215.gif)
+![dd21fdcf-672f-4ae9-ad75-0c8ffff56219](/assets/images/how-not-to-be-a-jerk-online/4eb12ae0-0be3-4347-80e6-fb6ab053590f_382x215.gif "dd21fdcf-672f-4ae9-ad75-0c8ffff56219")
 
 **And lastly, remember:**
 
