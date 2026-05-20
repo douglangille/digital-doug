@@ -8,7 +8,6 @@ header:
   overlay_image: /assets/images/a-couple-llm-prompt-tips/488a81c4-d40b-4800-917b-ec77632ecf0f_1600x900.jpeg
 categories:
 - null
-substack_post_id: 147751380.a-couple-llm-prompt-tips
 tags:
 - personal
 - prescriptive

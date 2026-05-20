@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/i-markdown/3ee94c2a-a2eb-4c58-a2e2-f818dcf7f9a5_640x300.png
 categories:
 - null
-substack_post_id: 141217729.i-markdown
 tags:
 - personal
 - prescriptive
@@ -22,37 +21,37 @@ feature: /assets/images/i-markdown/3ee94c2a-a2eb-4c58-a2e2-f818dcf7f9a5_640x300.
 
 Back in high school, many moons ago, we had a single computer lab full of Commodore PCs. We’d boot them up with an MS-DOS 2.11 diskette then load up the word processor off another diskette.
 
-[![](/assets/images/i-markdown/a3c32e5c-a923-478a-b35b-c0adb72cc43c_300x225.jpeg)](https://substackcdn.com/image/fetch/$s_!q-1M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3c32e5c-a923-478a-b35b-c0adb72cc43c_300x225.jpeg)
+![](/assets/images/i-markdown/a3c32e5c-a923-478a-b35b-c0adb72cc43c_300x225.jpeg)
 
 The one we used then was called pfs:FirstChoice and that was my first exposure to writing digitally. I always wrote first drafts in pen. This transcription process between drafts was a great place to do a first-pass edit with a forced separation between writing and editing.
 
-[![](/assets/images/i-markdown/d6d4ed8a-48d3-407b-9f08-35917deaee88_640x400.png)](https://substackcdn.com/image/fetch/$s_!pwSK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d4ed8a-48d3-407b-9f08-35917deaee88_640x400.png)
+![](/assets/images/i-markdown/d6d4ed8a-48d3-407b-9f08-35917deaee88_640x400.png)
 
 I’d be remiss in not admitting that the Kobayashi Alternative was a great game that I also played on those PCs.
 
-[![](/assets/images/i-markdown/bb78e232-4c8e-4ea1-95d7-97058ee2ef29_640x400.png)](https://substackcdn.com/image/fetch/$s_!nxEl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb78e232-4c8e-4ea1-95d7-97058ee2ef29_640x400.png)
+![](/assets/images/i-markdown/bb78e232-4c8e-4ea1-95d7-97058ee2ef29_640x400.png)
 
 In university, the first software I ever purchased for my Compaq Turbo XT was QuickBasic 4.5 and Spinnaker’s Better Working Eight-in-One. Horrible name, but a fantastically popular low-end office productivity suite. I’d re-do all my Modula-2 assignments in QB and write all my papers in 8n1.
 
-[![](/assets/images/i-markdown/ccb4ab89-ec95-4ebf-a7aa-02023e928d68_642x302.png)](https://substackcdn.com/image/fetch/$s_!5_Qo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccb4ab89-ec95-4ebf-a7aa-02023e928d68_642x302.png)
+![](/assets/images/i-markdown/ccb4ab89-ec95-4ebf-a7aa-02023e928d68_642x302.png)
 
-[![](/assets/images/i-markdown/e02d9723-6a49-440d-b836-9cb6b2d06a6b_720x400.png)](https://substackcdn.com/image/fetch/$s_!_CNy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe02d9723-6a49-440d-b836-9cb6b2d06a6b_720x400.png)
+![](/assets/images/i-markdown/e02d9723-6a49-440d-b836-9cb6b2d06a6b_720x400.png)
 
 Eventually, I moved to WordPerfect 5.1 and Lotus 123. And then on Windows 3.1, I switched to MS Works (because WP6 sucked hard).
 
-[![](/assets/images/i-markdown/ce0e949b-eef9-4eac-a6eb-4efc6ac4882f_641x402.png)](https://substackcdn.com/image/fetch/$s_!8ycR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce0e949b-eef9-4eac-a6eb-4efc6ac4882f_641x402.png)
+![](/assets/images/i-markdown/ce0e949b-eef9-4eac-a6eb-4efc6ac4882f_641x402.png)
 
-[![](/assets/images/i-markdown/f6b80981-3274-4bd2-8b9f-acad5971339f_640x480.gif)](https://substackcdn.com/image/fetch/$s_!_Sax!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6b80981-3274-4bd2-8b9f-acad5971339f_640x480.gif)
+![](/assets/images/i-markdown/f6b80981-3274-4bd2-8b9f-acad5971339f_640x480.gif)
 
-[![](/assets/images/i-markdown/8682b450-aeb3-4db1-beb9-dae77216f261_640x480.png)](https://substackcdn.com/image/fetch/$s_!oT4K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8682b450-aeb3-4db1-beb9-dae77216f261_640x480.png)
+![](/assets/images/i-markdown/8682b450-aeb3-4db1-beb9-dae77216f261_640x480.png)
 
 There’s a big problem with all that history though. Aside from having crap on a stack of floppies that always seemed to attract cat fur and feathers (don’t ask), the real quandary was in keeping my documents converted to a format that I could open in newer software.
 
 **Eventually all roads led to Microsoft Office.**
 
-[![](/assets/images/i-markdown/d65549a7-e6b5-4eb8-aafc-2ec124f33ba8_464x356.gif)](https://substackcdn.com/image/fetch/$s_!2z_x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd65549a7-e6b5-4eb8-aafc-2ec124f33ba8_464x356.gif)
+![](/assets/images/i-markdown/d65549a7-e6b5-4eb8-aafc-2ec124f33ba8_464x356.gif)
 
-[![](/assets/images/i-markdown/27581c19-0369-4aec-9ea1-751689d94bcf_629x480.gif)](https://substackcdn.com/image/fetch/$s_!J6EP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27581c19-0369-4aec-9ea1-751689d94bcf_629x480.gif)
+![](/assets/images/i-markdown/27581c19-0369-4aec-9ea1-751689d94bcf_629x480.gif)
 
 And that’s one of the big reasons I talk about plain text as a preferred format for long-term storage.
 
@@ -131,7 +130,7 @@ I grabbed this text from [RikerIpsum](http://www.rikeripsum.com) because... reas
 
 **You’ll note a couple things:**
 
-[![3499ed58-8fdf-41b3-a55f-9803e21d16c9](/assets/images/i-markdown/91b9cc26-9774-4def-a0b3-4a50d81bae14_481x824.png "3499ed58-8fdf-41b3-a55f-9803e21d16c9")](https://substackcdn.com/image/fetch/$s_!6A11!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91b9cc26-9774-4def-a0b3-4a50d81bae14_481x824.png)
+![3499ed58-8fdf-41b3-a55f-9803e21d16c9](/assets/images/i-markdown/91b9cc26-9774-4def-a0b3-4a50d81bae14_481x824.png "3499ed58-8fdf-41b3-a55f-9803e21d16c9")
 
 - The number of # marks determines the depth of the document structure.
 
@@ -152,7 +151,7 @@ I grabbed this text from [RikerIpsum](http://www.rikeripsum.com) because... reas
 
 There are more things you can do with Markdown for images, tables, footnotes and other fancy pants stuff. To be honest, I rarely use them. You can make Markdown more complicated if you like, but the KISS principle is best applied here.
 
-[![3539a410-9ef6-4ee9-b6af-eea6628c2e99](/assets/images/i-markdown/f572d1de-2e2f-44c5-b447-4b69f250e10d_800x535.png "3539a410-9ef6-4ee9-b6af-eea6628c2e99")](https://substackcdn.com/image/fetch/$s_!hgoW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff572d1de-2e2f-44c5-b447-4b69f250e10d_800x535.png)
+![3539a410-9ef6-4ee9-b6af-eea6628c2e99](/assets/images/i-markdown/f572d1de-2e2f-44c5-b447-4b69f250e10d_800x535.png "3539a410-9ef6-4ee9-b6af-eea6628c2e99")
 
 **Next week…**
 

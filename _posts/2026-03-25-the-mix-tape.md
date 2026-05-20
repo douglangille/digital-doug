@@ -3,9 +3,8 @@ title: The Mix Tape
 date: 2026-03-25 08:00:00 -0400
 excerpt: On creativity, curation, and what it means to be the human in the loop
 header:
-  teaser: /assets/images/the-mix-tape/ChatGPT Image Mar 23, 2026 at 12_18_37 PM.png
-  overlay_image: /assets/images/the-mix-tape/ChatGPT Image Mar 23, 2026 at 12_18_37
-    PM.png
+  teaser: /assets/images/the-mix-tape/feature.png
+  overlay_image: /assets/images/the-mix-tape/feature.png
 tags:
 - personal
 - foundational
@@ -13,7 +12,7 @@ tags:
 - ai-collaboration
 meta: The essay argues that authentic creativity requires human-centered curation,
   using personal mix‑tapes as a model for AI‑augmented artistic connection.
-feature: /assets/images/the-mix-tape/ChatGPT Image Mar 23, 2026 at 12_18_37 PM.png
+feature: /assets/images/the-mix-tape/feature.png
 ---
 
 # The Mix Tape

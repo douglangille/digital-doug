@@ -8,7 +8,6 @@ header:
 categories:
 - null
 excerpt: Hulk is too hulky.
-substack_post_id: 141217740.making-teams-work
 tags:
 - institutional
 - foundational
@@ -38,7 +37,7 @@ If you disagree, feel free to fight me after school. I’ll be waiting by the bi
 >
 > Me-e-e
 
-[![3a104626-4414-45ba-939a-5eba4d1d0d22](/assets/images/making-teams-work/153ac212-8294-4742-8620-80d9d49c68c5_480x270.gif "3a104626-4414-45ba-939a-5eba4d1d0d22")](https://substackcdn.com/image/fetch/$s_!8ifL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F153ac212-8294-4742-8620-80d9d49c68c5_480x270.gif)
+![3a104626-4414-45ba-939a-5eba4d1d0d22](/assets/images/making-teams-work/153ac212-8294-4742-8620-80d9d49c68c5_480x270.gif "3a104626-4414-45ba-939a-5eba4d1d0d22")
 
 Anyway, the truth is that communication is changing and there is a world beyond email. What’s funny is that the thing that’s being touted as the new-fangled usurper of the crown isn’t all that new at all.
 
@@ -48,7 +47,7 @@ We used to have this thing called [Internet Relay Chat (IRC)](https://en.wikiped
 
 Also, there was [USENET](https://en.wikipedia.org/wiki/Usenet) or newsgroups, which resembled email in a lot of ways but was more public and the threaded conversations could be archived and searched. Most of this is sitting in [Google Groups](https://groups.google.com/).
 
-[![a2f7f2e8-d686-4f2a-8cca-43789806ac56](/assets/images/making-teams-work/5c823699-e639-42bd-a320-e6da2f6d771d_500x418.gif "a2f7f2e8-d686-4f2a-8cca-43789806ac56")](https://substackcdn.com/image/fetch/$s_!_Ae5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c823699-e639-42bd-a320-e6da2f6d771d_500x418.gif)
+![a2f7f2e8-d686-4f2a-8cca-43789806ac56](/assets/images/making-teams-work/5c823699-e639-42bd-a320-e6da2f6d771d_500x418.gif "a2f7f2e8-d686-4f2a-8cca-43789806ac56")
 
 Cultures grew up in both these universes and while wildly popular in their communities, there was always a vacuum. Like we wanted something more.
 
@@ -79,7 +78,7 @@ So, a couple of observations:
 1. You can see where Microsoft is headed in replacing Skype for Business with Teams. Chat/Calendar/Calls are all functional alternatives to their Skype equivalents. The integrations show up in Outlook for the desktop and in parts of Outlook on the web and mobile. This will continue and will only get better.
 2. The Microsoft Teams app is positioned as a hub to DO ALL THE THINGS. Converse, collaborate, work and share files.
 
-[![8b366f45-5675-43b4-866b-dd4c3805eac8](/assets/images/making-teams-work/de299bf5-0103-43aa-8544-72dc5b64abae_960x521.png "8b366f45-5675-43b4-866b-dd4c3805eac8")](https://substackcdn.com/image/fetch/$s_!lWJT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde299bf5-0103-43aa-8544-72dc5b64abae_960x521.png)
+![8b366f45-5675-43b4-866b-dd4c3805eac8](/assets/images/making-teams-work/de299bf5-0103-43aa-8544-72dc5b64abae_960x521.png "8b366f45-5675-43b4-866b-dd4c3805eac8")
 
 **The only thing you can’t do in Teams is email.**
 

@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/dougs-rules-of-work-at-home/7115f2e6-4387-4800-a334-94f72bf6cf86_803x499.jpeg
 categories:
 - null
-substack_post_id: 141217715.dougs-rules-of-work-at-home
 tags:
 - interpersonal
 - prescriptive

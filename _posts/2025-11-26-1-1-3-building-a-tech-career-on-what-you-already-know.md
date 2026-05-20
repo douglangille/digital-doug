@@ -8,7 +8,6 @@ header:
 categories:
 - null
 excerpt: For anyone who keeps thinking “maybe it’s time to pivot.”
-substack_post_id: 180013147.1-1-3-building-a-tech-career-on-what
 tags:
 - institutional
 - prescriptive

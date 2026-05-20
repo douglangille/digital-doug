@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/dont-change-that-channel/6e6737b2-d946-4860-b282-7945fbec5f27_1920x1271.jpeg
 categories:
 - null
-substack_post_id: 141217732.dont-change-that-channel
 tags:
 - institutional
 - prescriptive
@@ -32,7 +31,7 @@ As I mentioned last week, most of the tool is very familiar. You got all the bas
 
 To be honest, these things aren’t by themselves particularly innovative or even all that interesting. I mean, we have iMessage, FaceTime, Facebook Messenger, WhatsApp, Zoom, PolyCom and, yes, even Skype for Business.
 
-[![](/assets/images/dont-change-that-channel/76aeffe6-802a-491b-b616-87e08beb4913_245x145.gif)](https://substackcdn.com/image/fetch/$s_!xKB1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76aeffe6-802a-491b-b616-87e08beb4913_245x145.gif)
+![](/assets/images/dont-change-that-channel/76aeffe6-802a-491b-b616-87e08beb4913_245x145.gif)
 
 Well, I haven’t fought one person for so long. I’ve been specialized in groups, battling gangs for local charities, that kind of thing […] You use different moves when you’re fighting half a dozen people, than when you only have to be worried about one.
 
@@ -77,7 +76,7 @@ It’s actually quite a bit of infrastructure that’s provisioned when you make
 - Teams are discoverable in that you can search for a Team and request membership from the Owner.
 - There is no deeper level of granularity.
 
-[![df4786b3-b3ec-4ac5-ac31-67c6c09a292e](/assets/images/dont-change-that-channel/c07fd889-51e4-4de4-bb6e-c943bb7cee05_960x510.png "df4786b3-b3ec-4ac5-ac31-67c6c09a292e")](https://substackcdn.com/image/fetch/$s_!i1JZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc07fd889-51e4-4de4-bb6e-c943bb7cee05_960x510.png)
+![df4786b3-b3ec-4ac5-ac31-67c6c09a292e](/assets/images/dont-change-that-channel/c07fd889-51e4-4de4-bb6e-c943bb7cee05_960x510.png "df4786b3-b3ec-4ac5-ac31-67c6c09a292e")
 
 **Here’s How Channels Work**
 
@@ -101,9 +100,9 @@ This is where the SharePoint-y bits start to show up. In every Channel, you’ll
 
 What’s cool about this is that you can collaborate on a document right within the Teams Channel.
 
-[![](/assets/images/dont-change-that-channel/795b9912-74fa-4116-8b89-465df1ccc6a6_1024x544.png)](https://substackcdn.com/image/fetch/$s_!CFNd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F795b9912-74fa-4116-8b89-465df1ccc6a6_1024x544.png)
+![](/assets/images/dont-change-that-channel/795b9912-74fa-4116-8b89-465df1ccc6a6_1024x544.png)
 
-[![](/assets/images/dont-change-that-channel/ec33fef0-6926-446a-a915-cc5f3999ad0c_1920x1020.png)](https://substackcdn.com/image/fetch/$s_!d6SM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec33fef0-6926-446a-a915-cc5f3999ad0c_1920x1020.png)
+![](/assets/images/dont-change-that-channel/ec33fef0-6926-446a-a915-cc5f3999ad0c_1920x1020.png)
 
 **Remember**
 

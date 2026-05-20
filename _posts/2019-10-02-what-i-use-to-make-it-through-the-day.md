@@ -8,7 +8,6 @@ header:
 categories:
 - null
 excerpt: Whiskey, probably
-substack_post_id: 141217741.what-i-use-to-make-it-through-the-day
 tags:
 - personal
 - prescriptive
@@ -24,7 +23,7 @@ feature: /assets/images/what-i-use-to-make-it-through-the-day/5394dd5d-5303-4ff9
 
 Welcome to Digital Doug. Glad you could make it. So what’s this about? Well, in this blog series, I’ll layout how I use digital tools to get work done. Since we’re a Microsoft Office 365 shop, I’ll spend time on each of the tools in the suite that I use. It’ll be more than just knobs-and-dials though– that’s a Google-able thing. What I’m aiming for is how to actually leverage these tools to remove friction from your work life.
 
-[![022b73b2-a0bd-492f-840f-ed084e38af78](/assets/images/what-i-use-to-make-it-through-the-day/5ae58017-4728-47a4-9986-d6971b84c910_601x400.jpeg "022b73b2-a0bd-492f-840f-ed084e38af78")](https://substackcdn.com/image/fetch/$s_!k7Xw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae58017-4728-47a4-9986-d6971b84c910_601x400.jpeg)
+![022b73b2-a0bd-492f-840f-ed084e38af78](/assets/images/what-i-use-to-make-it-through-the-day/5ae58017-4728-47a4-9986-d6971b84c910_601x400.jpeg "022b73b2-a0bd-492f-840f-ed084e38af78")
 
 In short, it’s about Getting Stuff Done.
 

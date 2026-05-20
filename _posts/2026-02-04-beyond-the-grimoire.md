@@ -3,10 +3,8 @@ title: Beyond the Grimoire
 date: 2026-02-04 08:00:00 -0400
 excerpt: Why AI Mastery Is Wisdom, Not (Just) Spell Collection
 header:
-  teaser: /assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21
-    PM.png
-  overlay_image: /assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21
-    PM.png
+  teaser: /assets/images/beyond-the-grimoire/feature.png
+  overlay_image: /assets/images/beyond-the-grimoire/feature.png
 tags:
 - institutional
 - foundational
@@ -14,7 +12,7 @@ tags:
 - ai-collaboration
 meta: The essay argues that obsessively collecting AI prompts hinders genuine
   mastery, urging individuals to focus on thoughtful, purpose‑driven AI collaboration.
-feature: /assets/images/beyond-the-grimoire/ChatGPT Image Feb 3, 2026 at 03_51_21 PM.png
+feature: /assets/images/beyond-the-grimoire/feature.png
 ---
 
 # Beyond the Grimoire

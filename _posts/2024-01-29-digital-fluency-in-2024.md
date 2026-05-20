@@ -8,7 +8,6 @@ header:
   overlay_image: /assets/images/digital-fluency-in-2024/419caae1-ca6b-440b-8135-9477375cbf3c_1024x1024.jpeg
 categories:
 - null
-substack_post_id: 141217724.digital-fluency-in-2024
 tags:
 - institutional
 - foundational
@@ -32,7 +31,7 @@ Digital fluency has three main components: digital literacy, digital currency an
   - **digital hygiene**: protecting privacy, data and devices from cyber threats.
   - **digital balance**: managing screen time, online stress, and mental wellness.
 
-[![](/assets/images/digital-fluency-in-2024/c1110cce-2ae8-452f-8965-6b4eee1a3df1_300x300.gif)](https://substackcdn.com/image/fetch/$s_!h0Pb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1110cce-2ae8-452f-8965-6b4eee1a3df1_300x300.gif)
+![](/assets/images/digital-fluency-in-2024/c1110cce-2ae8-452f-8965-6b4eee1a3df1_300x300.gif)
 
 These three components of digital fluency are essential to thrive in the digital age. This can resonate for all learners, staff and faculty. As teachers and learners, we need to use technology to enhance outcomes. We need to keep up with trends and innovations in our fields. And we must maintain our social, mental and physical health in the face of constant stimuli.
 

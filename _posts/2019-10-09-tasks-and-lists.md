@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/tasks-and-lists/8ef5ddb4-21bf-40a6-861a-d552199057bc_1200x734.jpeg
 categories:
 - null
-substack_post_id: 141217735.tasks-and-lists
 tags:
 - personal
 - prescriptive
@@ -23,7 +22,7 @@ I’m generally quite terrible at getting stuff done. I have to work at it. *Con
 
 It’s about life getting in the way.
 
-[![f2c386b8-16b5-4772-83f2-55e1de92c981](/assets/images/tasks-and-lists/0748f391-00fa-4797-a4d6-a63425f4aadc_960x640.png "f2c386b8-16b5-4772-83f2-55e1de92c981")](https://substackcdn.com/image/fetch/$s_!Wo1K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0748f391-00fa-4797-a4d6-a63425f4aadc_960x640.png)
+![f2c386b8-16b5-4772-83f2-55e1de92c981](/assets/images/tasks-and-lists/0748f391-00fa-4797-a4d6-a63425f4aadc_960x640.png "f2c386b8-16b5-4772-83f2-55e1de92c981")
 
 **\* Sharpie not included.**
 

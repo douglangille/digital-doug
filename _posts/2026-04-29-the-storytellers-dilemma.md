@@ -8,10 +8,10 @@ tags:
   - ai-collaboration
 date: 2026-04-29 08:00:00 -0400
 header:
-  teaser: /assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026 at 08_27_17 AM.png
-  overlay_image: /assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026 at 08_27_17 AM.png
+  teaser: /assets/images/the-storytellers-dilemma/feature.png
+  overlay_image: /assets/images/the-storytellers-dilemma/feature.png
 meta: The essay argues that using AI blurs the line between writer, editor, and author, challenging personal ownership of authentic storytelling.
-feature: /assets/images/the-storytellers-dilemma/ChatGPT Image Apr 29, 2026 at 08_27_17 AM.png
+feature: /assets/images/the-storytellers-dilemma/feature.png
 ---
 
 # The Storyteller's Dilemma

@@ -8,7 +8,6 @@ header:
 categories:
 - null
 excerpt: Can ya feel the beat?
-substack_post_id: 141217719.focus-with-music
 tags:
 - personal
 - prescriptive
@@ -33,7 +32,7 @@ We’ve become quite busy in our lives with all the beeps and blips of modern li
 
 Multitasking is a myth– I’m pretty sure you’ve heard this by now. The more tasks we try to do at once, the more time we spend switching between them than actually doing them.
 
-[![48e8e75d-fdae-4f52-99f6-349224f79bd9](/assets/images/focus-with-music/bf1e20d5-3fc8-4f20-97ad-0e4ea3e2d136_960x522.png "48e8e75d-fdae-4f52-99f6-349224f79bd9")](https://substackcdn.com/image/fetch/$s_!z-20!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf1e20d5-3fc8-4f20-97ad-0e4ea3e2d136_960x522.png)
+![48e8e75d-fdae-4f52-99f6-349224f79bd9](/assets/images/focus-with-music/bf1e20d5-3fc8-4f20-97ad-0e4ea3e2d136_960x522.png "48e8e75d-fdae-4f52-99f6-349224f79bd9")
 
 **It’s madness.**
 
@@ -43,7 +42,7 @@ So we follow all the good advice so we can get to working or creating or studyin
 
 Turn off the TV. Turn off the phone. Turn off the Internet.
 
-[![700c71f8-0d5b-40f7-ac72-1efb18588ab9](/assets/images/focus-with-music/4bd6740d-47b9-4bc1-9f58-b38d23d4d87e_336x254.gif "700c71f8-0d5b-40f7-ac72-1efb18588ab9")](https://substackcdn.com/image/fetch/$s_!88yj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bd6740d-47b9-4bc1-9f58-b38d23d4d87e_336x254.gif)
+![700c71f8-0d5b-40f7-ac72-1efb18588ab9](/assets/images/focus-with-music/4bd6740d-47b9-4bc1-9f58-b38d23d4d87e_336x254.gif "700c71f8-0d5b-40f7-ac72-1efb18588ab9")
 
 **But how do you turn off your brain?**
 
@@ -53,7 +52,7 @@ Our minds wander. Our thoughts race. We get anxious. We check in with the world�
 
 But, every once in a while, you do it. Right?
 
-[![01170ec5-ee65-4114-bacc-3caf54ec54cc](/assets/images/focus-with-music/a6b6fee2-9988-4e5f-98f2-e17fd9dd47bf_500x254.gif "01170ec5-ee65-4114-bacc-3caf54ec54cc")](https://substackcdn.com/image/fetch/$s_!-FDb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6b6fee2-9988-4e5f-98f2-e17fd9dd47bf_500x254.gif)
+![01170ec5-ee65-4114-bacc-3caf54ec54cc](/assets/images/focus-with-music/a6b6fee2-9988-4e5f-98f2-e17fd9dd47bf_500x254.gif "01170ec5-ee65-4114-bacc-3caf54ec54cc")
 
 You get **IN THE ZONE.**
 
@@ -61,7 +60,7 @@ Ah, the Zone. It’s a wonderful place where the sense of time evaporates and al
 
 Aaannndddd…. you can never seem to get that that magical focus again. You can’t call upon it on command. It’s a roll of the dice and a spin of the wheel.
 
-[![e209c1f9-e953-47be-b098-06bdbfb195e3](/assets/images/focus-with-music/d59bdbf9-7938-4830-982b-e7c8a9416d0d_500x395.gif "e209c1f9-e953-47be-b098-06bdbfb195e3")](https://substackcdn.com/image/fetch/$s_!YeyE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd59bdbf9-7938-4830-982b-e7c8a9416d0d_500x395.gif)
+![e209c1f9-e953-47be-b098-06bdbfb195e3](/assets/images/focus-with-music/d59bdbf9-7938-4830-982b-e7c8a9416d0d_500x395.gif "e209c1f9-e953-47be-b098-06bdbfb195e3")
 
 But. What if I told you it was possible to induce this state of [FLOW](https://en.wikipedia.org/wiki/Flow_(psychology))?
 
@@ -79,7 +78,7 @@ Video game designers have figured it out too. 120 bmp soundtracks keep players f
 
 Casinos have this figured out too. #jussayin
 
-[![a9394ec6-d1d7-4c52-b9c7-89334ffb0b1a](/assets/images/focus-with-music/846c3785-f634-466b-a8d9-dc8b16545bef_300x275.gif "a9394ec6-d1d7-4c52-b9c7-89334ffb0b1a")](https://substackcdn.com/image/fetch/$s_!qKF6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F846c3785-f634-466b-a8d9-dc8b16545bef_300x275.gif)
+![a9394ec6-d1d7-4c52-b9c7-89334ffb0b1a](/assets/images/focus-with-music/846c3785-f634-466b-a8d9-dc8b16545bef_300x275.gif "a9394ec6-d1d7-4c52-b9c7-89334ffb0b1a")
 
 **Listening to music to help you work is nothing new.**
 

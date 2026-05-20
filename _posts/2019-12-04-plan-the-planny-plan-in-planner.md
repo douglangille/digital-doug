@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/plan-the-planny-plan-in-planner/688c4853-b251-4496-8ddc-028d8bf71652_1200x803.jpeg
 categories:
 - null
-substack_post_id: 141217734.plan-the-planny-plan-in-planner
 tags:
 - institutional
 - prescriptive
@@ -39,7 +38,7 @@ But that’s not where we’re at, is it? Enter Microsoft’s newer entry into t
 
 **Microsoft Planner**
 
-[![9d1f1a21-b3af-4efa-a3ee-440ea6399c05](/assets/images/plan-the-planny-plan-in-planner/e1e2d607-8445-4a98-8639-2255d8e53c9a_960x502.png "9d1f1a21-b3af-4efa-a3ee-440ea6399c05")](https://substackcdn.com/image/fetch/$s_!ns7f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1e2d607-8445-4a98-8639-2255d8e53c9a_960x502.png)
+![9d1f1a21-b3af-4efa-a3ee-440ea6399c05](/assets/images/plan-the-planny-plan-in-planner/e1e2d607-8445-4a98-8639-2255d8e53c9a_960x502.png "9d1f1a21-b3af-4efa-a3ee-440ea6399c05")
 
 If you caught last week’s post on Kanban boards, then you’ll recognize that’s what Planner is in a nutshell.
 
@@ -48,7 +47,7 @@ There are a couple ways to get a Plan up and running.
 - Go to the Planner tile in the Waffle menu or app-list in Office 365. Click New Plan. Daz it.
 - Go to any SharePoint Team Site (not Communication site). Click the New menu and then Plan. Daz also it.
 
-[![f5a3af89-3579-4c29-bf87-5b94d4a114f1](/assets/images/plan-the-planny-plan-in-planner/b14d8318-a861-4930-942f-f9ac37df6697_960x502.png "f5a3af89-3579-4c29-bf87-5b94d4a114f1")](https://substackcdn.com/image/fetch/$s_!ovEg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb14d8318-a861-4930-942f-f9ac37df6697_960x502.png)
+![f5a3af89-3579-4c29-bf87-5b94d4a114f1](/assets/images/plan-the-planny-plan-in-planner/b14d8318-a861-4930-942f-f9ac37df6697_960x502.png "f5a3af89-3579-4c29-bf87-5b94d4a114f1")
 
 Here’s what happens:
 
@@ -64,7 +63,7 @@ Here’s what I recommend:
 
 **Behold! A Plan**
 
-[![408c834c-8fda-4d7e-972c-170eae9fbd0f](/assets/images/plan-the-planny-plan-in-planner/bf07b138-0ded-42d1-b5a0-8ca048bd48c9_960x502.png "408c834c-8fda-4d7e-972c-170eae9fbd0f")](https://substackcdn.com/image/fetch/$s_!1mPg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf07b138-0ded-42d1-b5a0-8ca048bd48c9_960x502.png)
+![408c834c-8fda-4d7e-972c-170eae9fbd0f](/assets/images/plan-the-planny-plan-in-planner/bf07b138-0ded-42d1-b5a0-8ca048bd48c9_960x502.png "408c834c-8fda-4d7e-972c-170eae9fbd0f")
 
 It’s all about the Kanban board. If you need to go back and read the previous post, you should do that now. Don’t worry. I’ll wait.
 
@@ -74,7 +73,7 @@ There are several ways of viewing the board. You can view the cards by Bucket, P
 
 Click ‘Add task’ to, well, add a task.
 
-[![785d29da-ee85-4346-9f1b-e76372a24fb5](/assets/images/plan-the-planny-plan-in-planner/2bc4c832-cfa0-4e27-aaf6-7e32d35b706d_960x502.png "785d29da-ee85-4346-9f1b-e76372a24fb5")](https://substackcdn.com/image/fetch/$s_!Z0Ik!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bc4c832-cfa0-4e27-aaf6-7e32d35b706d_960x502.png)
+![785d29da-ee85-4346-9f1b-e76372a24fb5](/assets/images/plan-the-planny-plan-in-planner/2bc4c832-cfa0-4e27-aaf6-7e32d35b706d_960x502.png "785d29da-ee85-4346-9f1b-e76372a24fb5")
 
 You can drag a card from one column to another and depending on the view, it changes that card’s property.
 
@@ -88,7 +87,7 @@ Remember, with Kanban:
 
 **Pick a Card, Any Card…**
 
-[![a3395994-634c-4d2e-af38-53cb95677c12](/assets/images/plan-the-planny-plan-in-planner/810823eb-13ef-4e1b-a28b-3c43cf79c970_960x502.png "a3395994-634c-4d2e-af38-53cb95677c12")](https://substackcdn.com/image/fetch/$s_!ECxV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F810823eb-13ef-4e1b-a28b-3c43cf79c970_960x502.png)
+![a3395994-634c-4d2e-af38-53cb95677c12](/assets/images/plan-the-planny-plan-in-planner/810823eb-13ef-4e1b-a28b-3c43cf79c970_960x502.png "a3395994-634c-4d2e-af38-53cb95677c12")
 
 Pretty much all of these fields are standard tasks/project management fields:
 
@@ -100,7 +99,7 @@ What I like is that for certain cards, you can have checklists for subtasks. It�
 
 When you attach files to a card, they show up in the Document Library of the associated Team Site, so…. very handy.
 
-[![ce458d28-948c-4ed2-86ec-b49a25413758](/assets/images/plan-the-planny-plan-in-planner/95428c80-bbbc-40af-87cf-d6db434b46c3_960x502.png "ce458d28-948c-4ed2-86ec-b49a25413758")](https://substackcdn.com/image/fetch/$s_!Aaoc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95428c80-bbbc-40af-87cf-d6db434b46c3_960x502.png)
+![ce458d28-948c-4ed2-86ec-b49a25413758](/assets/images/plan-the-planny-plan-in-planner/95428c80-bbbc-40af-87cf-d6db434b46c3_960x502.png "ce458d28-948c-4ed2-86ec-b49a25413758")
 
 The Charts view is pretty handy for getting a birds-eye view of progress. This is especially true for creative projects that are a wee bit organic in nature.
 

@@ -8,7 +8,6 @@ header:
   overlay_image: /assets/images/digital-wellness-working-smarter-happier-and-more-playfully/5f07f900-215b-4715-8388-945da9a2711b_1024x1024.png
 categories:
 - null
-substack_post_id: 147751381.digital-wellness-working-smarter-happier-and-more-playfully
 tags:
 - personal
 - prescriptive
@@ -53,7 +52,7 @@ Many thanks. <3
 
 **Calendars and planners? Cool, but they forget two key players: your energy and focus.** Think of your energy as the fuel powering your work, and your focus as the laser beam aiming it. But social media and notifications are playing a ruthless game, draining your battery and scattering your laser with every ping.
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/a75c09fa-103e-4867-ade8-281665eb65c2_300x165.png)](https://substackcdn.com/image/fetch/$s_!TBhU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa75c09fa-103e-4867-ade8-281665eb65c2_300x165.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/a75c09fa-103e-4867-ade8-281665eb65c2_300x165.png)
 
 **Suddenly you’re context-switching like a mental ping-pong champion, feeling fried and depleted.** So, how do we juggle this act without dropping the balls?
 
@@ -77,7 +76,7 @@ Many thanks. <3
 
 **Embrace “digital minimalism”:** use tech intentionally, not impulsively. Tame those notifications, try scheduled social media breaks, and explore focus and mindfulness tools.
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/20abfb0a-78d3-4fde-baeb-b7b88c9ae383_300x278.png)](https://substackcdn.com/image/fetch/$s_!tL72!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20abfb0a-78d3-4fde-baeb-b7b88c9ae383_300x278.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/20abfb0a-78d3-4fde-baeb-b7b88c9ae383_300x278.png)
 
 **Remember, you’re not alone in this struggle!** Reclaiming your time, energy, and attention is a journey, not a destination. Take small steps, prioritize your well-being, and you’ll work smarter, happier, and even playfully in the digital age.
 
@@ -89,9 +88,9 @@ While the Quadrants of Urgency and Importance help manage time, they neglect the
 
 **Enter the secret weapon for focus: play!** Don’t ditch your responsibilities, just **infuse them with a playful spirit.** Even the most important tasks can feel like a slog if you’re dragging your feet. Playfulness, on the other hand, injects **joy and energy**, making work feel more engaging and productive.
 
-- [![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/abbbd59f-b5c1-4989-ae88-b0cfc3823888_400x181.png)](https://substackcdn.com/image/fetch/$s_!60r6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fabbbd59f-b5c1-4989-ae88-b0cfc3823888_400x181.png)
-- [![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/33c815be-4b56-431b-9b01-5da1fef4a6d2_400x221.png)](https://substackcdn.com/image/fetch/$s_!h4JC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33c815be-4b56-431b-9b01-5da1fef4a6d2_400x221.png)
-- [![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/9b364494-750b-4652-8a17-1166799a25a0_400x181.png)](https://substackcdn.com/image/fetch/$s_!jnNq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b364494-750b-4652-8a17-1166799a25a0_400x181.png)
+- ![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/abbbd59f-b5c1-4989-ae88-b0cfc3823888_400x181.png)
+- ![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/33c815be-4b56-431b-9b01-5da1fef4a6d2_400x221.png)
+- ![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/9b364494-750b-4652-8a17-1166799a25a0_400x181.png)
 
 **Why Play Matters:**
 
@@ -119,13 +118,13 @@ Three themes emerge:
 2. Connect with Others
 3. Empower Yourself
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/d93f08f7-51ac-4613-a45a-387244603029_300x162.png)](https://substackcdn.com/image/fetch/$s_!Npb5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd93f08f7-51ac-4613-a45a-387244603029_300x162.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/d93f08f7-51ac-4613-a45a-387244603029_300x162.png)
 
 **Embrace the Playful Power:**
 
 Remember losing yourself in childhood laughter and exploration? **Play isn’t just for kids!** It fuels creativity, learning, and even helps you bounce back from setbacks. There are several play styles (more in a bit). Find yours and **infuse play into your day.** Turn research into a detective game, craft lessons like a captivating story, or schedule time for creative expression. Play sparks joy, fuels curiosity, and recharges your mental batteries. **Play harder, learn deeper, thrive longer!**
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/a0f6b6bd-cbd3-47fb-babf-da61e14224b8_300x300.png)](https://substackcdn.com/image/fetch/$s_!KuD0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0f6b6bd-cbd3-47fb-babf-da61e14224b8_300x300.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/a0f6b6bd-cbd3-47fb-babf-da61e14224b8_300x300.png)
 
 *Robots made this image. Don’t look at the details. Shudder.*
 
@@ -152,7 +151,7 @@ Knowledge is power, especially when it comes to your digital habits. Tools like 
 
 Ali Abdaal, productivity nerd, says we all have eight **play personalities,** based on the research of Dr Stuart Brown**:**
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/be4f2046-ce6f-4b23-80a5-977777b50cc8_300x148.png)](https://substackcdn.com/image/fetch/$s_!JNRo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe4f2046-ce6f-4b23-80a5-977777b50cc8_300x148.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/be4f2046-ce6f-4b23-80a5-977777b50cc8_300x148.png)
 
 *Image from untoldplay.com*
 
@@ -192,7 +191,7 @@ Imagine a calmer, focused you. Cal Newport’s **digital minimalism** helps yo
 
 Minimalism is a great start, but let’s level up…
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/ea0a3826-85a3-452d-a5d6-b440c30ffae6_300x292.png)](https://substackcdn.com/image/fetch/$s_!ZX8P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea0a3826-85a3-452d-a5d6-b440c30ffae6_300x292.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/ea0a3826-85a3-452d-a5d6-b440c30ffae6_300x292.png)
 
 **Digital Flourishing: Tech as Your Ally, Not Your Overlord**
 
@@ -215,7 +214,7 @@ The Digital Wellness Institute says **digital flourishing** is about using tec
 - **Level up your skills:** Learn new things online, expand your horizons.
 - **Connect with purpose:** Find online communities that empower and inspire you.
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/0e4b9a90-2e5b-4062-9a72-4b23a83fd61a_292x300.png)](https://substackcdn.com/image/fetch/$s_!qhyu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e4b9a90-2e5b-4062-9a72-4b23a83fd61a_292x300.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/0e4b9a90-2e5b-4062-9a72-4b23a83fd61a_292x300.png)
 
 **Remember, it’s your journey!** Explore both approaches, see what works, and find the balance that brings you joy, well-being, and digital freedom.
 
@@ -225,7 +224,7 @@ Embrace a tech-powered life that works for you, not the other way around!
 
 Still feel like your phone’s controlling you? Let’s **rewire your brain for tech-powered happiness!** We’ll dive into how your brain reacts to tech and how to **turn it into a superpower.**
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/1eec1ac5-24d8-41d8-bf30-6bac2b0727a4_300x169.png)](https://substackcdn.com/image/fetch/$s_!P-op!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1eec1ac5-24d8-41d8-bf30-6bac2b0727a4_300x169.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/1eec1ac5-24d8-41d8-bf30-6bac2b0727a4_300x169.png)
 
 **Unmasking Tech’s Mind Games:**
 
@@ -273,7 +272,7 @@ Stuck in a digital rut? Feeling like your brain’s on autopilot, scrolling thro
 
 Think outside the digital box! Forget just Googling answers. Napoleon Hill, the OG success guru, suggests tapping into the wisdom of **historical figures or experts.** Imagine brainstorming with Marie Curie or Steve Jobs! Write down their “advice” to challenge your thinking and spark fresh ideas. Feeling stuck on a project? **Collaborate face-to-face with colleagues**, bouncing ideas off each other for a creative explosion.
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/08af260c-f0df-475b-b25d-29a7753b940e_300x212.png)](https://substackcdn.com/image/fetch/$s_!xvjU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08af260c-f0df-475b-b25d-29a7753b940e_300x212.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/08af260c-f0df-475b-b25d-29a7753b940e_300x212.png)
 
 **Mastermind Your Way to Success**
 
@@ -297,7 +296,7 @@ Exploring and solving problems are superpowers for your well-being, happiness, a
 - **Deepen your learning and growth**
 - **Level up your career and reputation**
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/72f64d95-1098-4cf8-9269-7e2470c35e6e_300x124.png)](https://substackcdn.com/image/fetch/$s_!TzpY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72f64d95-1098-4cf8-9269-7e2470c35e6e_300x124.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/72f64d95-1098-4cf8-9269-7e2470c35e6e_300x124.png)
 
 **Explore with Less Distraction**
 
@@ -314,7 +313,7 @@ By working with others and facing challenges head-on, we can unleash our brain�
 
 Feeling like your to-do list is swallowing you whole? Don’t let digital overwhelm crush your creativity! Let’s inject some playfulness and **agile-ness** into your productivity toolbox, inspired by JD Meier’s “Agile Results.” There’s an [epic book](https://gettingresults.com/getting-results-the-agile-way/) and even a free jumpstart ([html](https://gettingresults.com/30-days-of-getting-results/)/[pdf](https://gettingresults.com/30-days-of-getting-results-free-ebook/)).
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/d01e1c58-635b-46f7-ae5a-287762b194fd_300x92.png)](https://substackcdn.com/image/fetch/$s_!qLmK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd01e1c58-635b-46f7-ae5a-287762b194fd_300x92.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/d01e1c58-635b-46f7-ae5a-287762b194fd_300x92.png)
 
 **Dump the Monster List, Embrace Epic Quests:**
 
@@ -332,7 +331,7 @@ Being productive isn’t just about work, it’s about **unlocking your awesome
 - **Balance for the win:** Create space for offline activities and avoid burnout.
 - **Autonomy and control:** Resist distractions and be the boss of your digital world.
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/37bbe534-cabb-4ae7-a39d-dd2c2f2e52a3_241x300.png)](https://substackcdn.com/image/fetch/$s_!lBUk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37bbe534-cabb-4ae7-a39d-dd2c2f2e52a3_241x300.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/37bbe534-cabb-4ae7-a39d-dd2c2f2e52a3_241x300.png)
 
 **Tech can be your productivity buddy, not a foe:**
 
@@ -378,11 +377,11 @@ Use Viva Insights to track and improve your micro-habits, leading to better digi
 
 Thankfulness is a superpower! Take a moment each day to appreciate what you have. Do some meditation or walk in nature to reduce stress and boost focus. Remember, a happy you is a productive you!
 
-- [![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/f31ba59b-3b68-4c17-89ef-2465d3e39299_400x221.png)](https://substackcdn.com/image/fetch/$s_!bPzf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff31ba59b-3b68-4c17-89ef-2465d3e39299_400x221.png)
-- [![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/030d7749-9c49-4bf8-b496-946e61584a1a_400x182.png)](https://substackcdn.com/image/fetch/$s_!Ry_I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F030d7749-9c49-4bf8-b496-946e61584a1a_400x182.png)
-- [![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/a15a9ee0-2f86-4399-97ce-31b9f48a9103_400x164.png)](https://substackcdn.com/image/fetch/$s_!VFa3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa15a9ee0-2f86-4399-97ce-31b9f48a9103_400x164.png)
-- [![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/cae91136-87c9-42ae-bb65-e9c37cb8ad42_400x244.png)](https://substackcdn.com/image/fetch/$s_!_Avi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae91136-87c9-42ae-bb65-e9c37cb8ad42_400x244.png)
-- [![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/9e3c943a-015e-4182-b0eb-39dfb39ac67d_400x223.png)](https://substackcdn.com/image/fetch/$s_!1Ojm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e3c943a-015e-4182-b0eb-39dfb39ac67d_400x223.png)
+- ![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/f31ba59b-3b68-4c17-89ef-2465d3e39299_400x221.png)
+- ![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/030d7749-9c49-4bf8-b496-946e61584a1a_400x182.png)
+- ![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/a15a9ee0-2f86-4399-97ce-31b9f48a9103_400x164.png)
+- ![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/cae91136-87c9-42ae-bb65-e9c37cb8ad42_400x244.png)
+- ![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/9e3c943a-015e-4182-b0eb-39dfb39ac67d_400x223.png)
 
 Embrace micro-habits and Viva Insights to transform your digital experience. Tiny steps lead to big changes, boosting your well-being, happiness, and success in the digital age!
 
@@ -398,7 +397,7 @@ Imagine: **gamifying projects, virtual coffee breaks with colleagues, turning t
 
 Remember: you can’t always choose “what,” but you can choose “how.” So, ask yourself:
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/0e45c86a-c985-45de-be0b-ea127b7d9cc0_300x225.png)](https://substackcdn.com/image/fetch/$s_!WNKf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e45c86a-c985-45de-be0b-ea127b7d9cc0_300x225.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/0e45c86a-c985-45de-be0b-ea127b7d9cc0_300x225.png)
 
 > “What would this look like if it were fun?”
 
@@ -438,7 +437,7 @@ Feeling buried in the digital world? Don’t worry, **your personalized roadmap
 
 **Power Up Your Journey:** Take your wellness to the next level with Microsoft Viva Insights, your digital productivity coach. Set it up in Microsoft Teams or in [Microsoft 365](https://insights.viva.office.com/). Think of it as your Yoda, guiding you on your digital quest.
 
-[![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/ea67bcc4-1480-4112-a03d-4322b020ae0b_300x300.png)](https://substackcdn.com/image/fetch/$s_!k-OT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea67bcc4-1480-4112-a03d-4322b020ae0b_300x300.png)
+![](/assets/images/digital-wellness-working-smarter-happier-and-more-playfully/ea67bcc4-1480-4112-a03d-4322b020ae0b_300x300.png)
 
 **Remember:** Digital wellness is a journey, not a destination. Experiment, adapt, and have fun along the way!
 

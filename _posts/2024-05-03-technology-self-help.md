@@ -8,7 +8,6 @@ header:
   overlay_image: /assets/images/technology-self-help/1f383809-2ea0-4953-87dc-c9924e4f007a_640x400.jpeg
 categories:
 - null
-substack_post_id: 147751378.technology-self-help
 tags:
 - personal
 - prescriptive

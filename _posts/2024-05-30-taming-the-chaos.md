@@ -6,7 +6,6 @@ image: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x
 header:
   teaser: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
   overlay_image: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
-substack_post_id: 147751377.taming-the-chaos
 tags:
 - personal
 - prescriptive
@@ -29,7 +28,7 @@ Now, I know what you’re thinking. “Digital calendars and task managers? Grou
 
 Stay with me.
 
-[![](/assets/images/taming-the-chaos/214b3f95-ef74-49ac-b76d-58870cb7de66_196x300.jpeg)](https://substackcdn.com/image/fetch/$s_!tQqn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F214b3f95-ef74-49ac-b76d-58870cb7de66_196x300.jpeg)
+![](/assets/images/taming-the-chaos/214b3f95-ef74-49ac-b76d-58870cb7de66_196x300.jpeg)
 
 Let me spin you a yarn about the digital age’s wizardry, where your calendar isn’t just a calendar, and your task manager is more than a checklist. They’re your secret weapons in the war against chaos and the race against time. And when it comes to these digital marvels, **Microsoft Outlook** and **Microsoft To Do** are like the Batman and Robin of productivity tools.
 
@@ -59,7 +58,7 @@ Once upon a time, in the land of endless meetings and to-do lists longer than a 
 
 Let’s start with this. Email is not a productivity tool. It’s a communication tool. Outlook tries to be all things though and that sends us skipping down the garden path of busy work. Activity ain’t always productivity and neither is playing whack-a-mole with your inbox. Email is someone else’s priority, not yours. Make your core work important and stop clicking refresh. Stop it.
 
-[![](/assets/images/taming-the-chaos/7722dc9b-a53e-4753-829f-bd62ca2f26a5_300x220.jpeg)](https://substackcdn.com/image/fetch/$s_!FEWb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7722dc9b-a53e-4753-829f-bd62ca2f26a5_300x220.jpeg)
+![](/assets/images/taming-the-chaos/7722dc9b-a53e-4753-829f-bd62ca2f26a5_300x220.jpeg)
 
 Ahem. You. In the back. The one who read that email and then marked it as unread so you wouldn’t forget it. But, you say, there was a potential action item associated with it! I’ll ask you: how many times did you open that email, scan it for actions, closed it and marked it unread again? Stop it.
 
@@ -73,7 +72,7 @@ Oh, for the love of Pete, use the **Scheduling Assistant**. It’s like having a
 
 Just so we’re clear, I’ll say it again. Microsoft Outlook isn’t just for emails. That calendar tab? It’s pure gold. Here’s the trick: your calendar should be your ultimate life map. Everything you plan to do — from meetings to workouts to epic report writing sessions — goes here. Treat it like a sacred text.
 
-[![](/assets/images/taming-the-chaos/82b6caca-be4e-4883-9781-3432c26c29fd_300x289.png)](https://substackcdn.com/image/fetch/$s_!byTy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82b6caca-be4e-4883-9781-3432c26c29fd_300x289.png)
+![](/assets/images/taming-the-chaos/82b6caca-be4e-4883-9781-3432c26c29fd_300x289.png)
 
 **First Rule: Block Your Time.**
 
@@ -95,7 +94,7 @@ And the best part? The **My Day** feature. It’s like having a cheerleader for 
 
 Microsoft To Do is your second brain. It’s where tasks go to live, breathe, and sometimes die (let’s be honest). Here’s how to turn it into a productivity powerhouse.
 
-[![](/assets/images/taming-the-chaos/b3084906-6528-4690-9c36-2c468b93ed21_297x300.png)](https://substackcdn.com/image/fetch/$s_!Lowl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3084906-6528-4690-9c36-2c468b93ed21_297x300.png)
+![](/assets/images/taming-the-chaos/b3084906-6528-4690-9c36-2c468b93ed21_297x300.png)
 
 **First Principle: The Daily Review.**
 
@@ -139,7 +138,7 @@ Nothing is set in stone. Life throws curveballs. Regularly review your calendar 
 
 When you combine the powers of Outlook and To Do, you unlock a level of productivity that would make even the most seasoned procrastinator weep tears of joy.
 
-[![](/assets/images/taming-the-chaos/4bd8e12c-9644-4730-b8a1-f8365af88544_300x200.jpeg)](https://substackcdn.com/image/fetch/$s_!3z7q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bd8e12c-9644-4730-b8a1-f8365af88544_300x200.jpeg)
+![](/assets/images/taming-the-chaos/4bd8e12c-9644-4730-b8a1-f8365af88544_300x200.jpeg)
 
 Imagine this: you open Outlook, and your day is laid out before you like a well-planned battle strategy. Your meetings are neatly organized, and your tasks from To Do are seamlessly integrated into your calendar, so you know exactly what needs to be done and when. No more double-booking or forgetting crucial deadlines – it’s all right there, at your fingertips.
 

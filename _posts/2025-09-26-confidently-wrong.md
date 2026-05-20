@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/confidently-wrong/cd8c89d7-cee6-4601-8ea0-a996df1f383a_1536x1024.png
 categories: []
 excerpt: Workslop looks good, says nothing, and wastes your time.
-substack_post_id: 174556495.confidently-wrong
 tags:
 - institutional
 - diagnostic
@@ -69,7 +68,7 @@ You’ll know you’re knee-deep in workslop when:
 - You roll your eyes at the chatbot.
 - You quietly stop trusting a tool that promised to save you time.
 
-[![](/assets/images/confidently-wrong/423904f1-3ad5-4595-b396-3caa350058d5_1536x1024.png)](https://substackcdn.com/image/fetch/$s_!Z4g9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F423904f1-3ad5-4595-b396-3caa350058d5_1536x1024.png)
+![](/assets/images/confidently-wrong/423904f1-3ad5-4595-b396-3caa350058d5_1536x1024.png)
 
 ---
 

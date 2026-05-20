@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/the-weekly-reset-process-over-artifact/a94eb8b8-2c35-4848-a216-449ad84bb18a_1536x1024.png
 categories:
 - null
-substack_post_id: 176948649.the-weekly-reset-process-over-artifact
 tags:
 - personal
 - prescriptive

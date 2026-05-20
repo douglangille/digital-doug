@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/the-workbench-is-not-the-work/e686722a-0364-4c63-9210-3adfe82a47fc_1536x1024.png
 categories: []
 excerpt: Clearing space for what matters.
-substack_post_id: 171067727.the-workbench-is-not-the-work
 tags:
 - personal
 - prescriptive

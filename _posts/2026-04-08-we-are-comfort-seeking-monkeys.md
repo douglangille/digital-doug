@@ -15,7 +15,6 @@ meta: Shaming AI users discourages transparency, leading to hidden, poorer
 feature: /assets/images/we-are-comfort-seeking-monkeys/lucid-origin_A_figure_partially_hidden_in_shadow_shoulders_hunched_typing_or_speaking_into_a_-0.jpg
 ---
 
-
 # We Are Comfort-Seeking Monkeys
 
 AI is just a tool. Also, no tool has ever done _this_.

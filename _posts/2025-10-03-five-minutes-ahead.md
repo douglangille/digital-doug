@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/five-minutes-ahead/293f0030-c6fc-486e-a839-aede49153471_1536x1024.png
 categories:
 - null
-substack_post_id: 175124242.five-minutes-ahead
 tags:
 - institutional
 - prescriptive
@@ -37,7 +36,7 @@ But that’s not how this works. Not in emerging tech. Not in anything, for that
 
 I’ve done both. Neither feels good.
 
-Humans are great at being confidently wrong. Back in the day I even had a t‑shirt that said, *“If you can’t dazzle them with brilliance, baffle ‘em with bullshit.”* [We even taught the AI models that trick](https://douglangille.substack.com/p/confidently-wrong).
+Humans are great at being confidently wrong. Back in the day I even had a t‑shirt that said, *“If you can’t dazzle them with brilliance, baffle ‘em with bullshit.”* [We even taught the AI models that trick](/confidently-wrong/).
 
 ---
 

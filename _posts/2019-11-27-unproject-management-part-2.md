@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/unproject-management-part-2/6e0757fc-9ac2-40b0-b859-175ad17c1140_768x512.jpeg
 categories:
 - null
-substack_post_id: 141217721.unproject-management-part-2
 tags:
 - institutional
 - prescriptive
@@ -25,7 +24,7 @@ There’s a lot to this and it’s a long post, so it’s a bit of a story.
 
 > Picture it. Sicily. 1949.
 
-[![36d16073-4950-4e26-94a1-68ff6593d24e](/assets/images/unproject-management-part-2/c6ce8ee4-d78d-4238-b793-9653da2d4500_445x299.jpeg "36d16073-4950-4e26-94a1-68ff6593d24e")](https://substackcdn.com/image/fetch/$s_!qYR4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6ce8ee4-d78d-4238-b793-9653da2d4500_445x299.jpeg)
+![36d16073-4950-4e26-94a1-68ff6593d24e](/assets/images/unproject-management-part-2/c6ce8ee4-d78d-4238-b793-9653da2d4500_445x299.jpeg "36d16073-4950-4e26-94a1-68ff6593d24e")
 
 Just kidding.
 
@@ -35,7 +34,7 @@ I’m going to lay this out like video game levels instead.
 
 Pretend you have a project. It’s pretty darn important.
 
-[![bc30e6b2-0c5a-46f0-ad5b-57f104d489b9](/assets/images/unproject-management-part-2/c034f489-01b8-40b6-a1b3-7243f0110ee3_799x459.jpeg "bc30e6b2-0c5a-46f0-ad5b-57f104d489b9")](https://substackcdn.com/image/fetch/$s_!itSL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc034f489-01b8-40b6-a1b3-7243f0110ee3_799x459.jpeg)
+![bc30e6b2-0c5a-46f0-ad5b-57f104d489b9](/assets/images/unproject-management-part-2/c034f489-01b8-40b6-a1b3-7243f0110ee3_799x459.jpeg "bc30e6b2-0c5a-46f0-ad5b-57f104d489b9")
 
 And imagine, if you will, a whiteboard. Grab your dry erase marker (not the Sharpie) and divide it into 3 columns with a header row. Label them left-to-right To Do, Doing and Done. You can have more columns. It’s about tracking status.
 
@@ -51,7 +50,7 @@ LPT: Remember to peel the stickies off the stack sideways so they don’t curl.
 
 Take the three immediately doable stories and put ‘em in the doing column.
 
-[![64d43e33-2838-4c18-a807-d271a5f2f02e](/assets/images/unproject-management-part-2/dd28d3d7-2fae-4961-87a6-91289a118b6b_532x307.png "64d43e33-2838-4c18-a807-d271a5f2f02e")](https://substackcdn.com/image/fetch/$s_!ppzr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd28d3d7-2fae-4961-87a6-91289a118b6b_532x307.png)
+![64d43e33-2838-4c18-a807-d271a5f2f02e](/assets/images/unproject-management-part-2/dd28d3d7-2fae-4961-87a6-91289a118b6b_532x307.png "64d43e33-2838-4c18-a807-d271a5f2f02e")
 
 Do the things. Move the completed tasks to Done.
 
@@ -63,7 +62,7 @@ Congratulations, you have completed Level 1.
 
 As you complete a story in Doing, move the next story from To Do to Doing. Keep only three items in the Doing column at all times.
 
-[![f4f6350e-fb87-490c-a6db-2defe6c5fb4a](/assets/images/unproject-management-part-2/00ce892b-5e22-4a69-bb8e-3177e69be3dd_960x445.png "f4f6350e-fb87-490c-a6db-2defe6c5fb4a")](https://substackcdn.com/image/fetch/$s_!XNsd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00ce892b-5e22-4a69-bb8e-3177e69be3dd_960x445.png)
+![f4f6350e-fb87-490c-a6db-2defe6c5fb4a](/assets/images/unproject-management-part-2/00ce892b-5e22-4a69-bb8e-3177e69be3dd_960x445.png "f4f6350e-fb87-490c-a6db-2defe6c5fb4a")
 
 This Work-In-Progress limit keeps you focused on doing the work.
 
@@ -77,7 +76,7 @@ The important thing is that your WIP is relative.
 
 “But not every story is the same, Doug!” you say.
 
-[![4da3f1ee-19ee-49ba-883f-bd851a1ab22f](/assets/images/unproject-management-part-2/d9920b3d-71ad-4b4a-a8cd-72efabc9476d_960x502.png "4da3f1ee-19ee-49ba-883f-bd851a1ab22f")](https://substackcdn.com/image/fetch/$s_!p4_I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9920b3d-71ad-4b4a-a8cd-72efabc9476d_960x502.png)
+![4da3f1ee-19ee-49ba-883f-bd851a1ab22f](/assets/images/unproject-management-part-2/d9920b3d-71ad-4b4a-a8cd-72efabc9476d_960x502.png "4da3f1ee-19ee-49ba-883f-bd851a1ab22f")
 
 Nope. Some stories are harder than others. Some are more complex. Some take more time. How do you deal with effort estimates in a kanban board.
 
@@ -91,11 +90,11 @@ All is not lost, tho.
 
 Humans are totally boss at comparing things. It’s how we get along in this big bad world. It’s how we learn.
 
-[![d6f24fc2-5f90-4662-9b55-a11f2374d9a4](/assets/images/unproject-management-part-2/29aa42b8-305f-40f9-ab40-86691f0738e2_960x356.jpeg "d6f24fc2-5f90-4662-9b55-a11f2374d9a4")](https://substackcdn.com/image/fetch/$s_!zMC1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29aa42b8-305f-40f9-ab40-86691f0738e2_960x356.jpeg)
+![d6f24fc2-5f90-4662-9b55-a11f2374d9a4](/assets/images/unproject-management-part-2/29aa42b8-305f-40f9-ab40-86691f0738e2_960x356.jpeg "d6f24fc2-5f90-4662-9b55-a11f2374d9a4")
 
 In the context of user stories, it means we can say that one story is harder than another. We can even say that one story is twice as hard as another.
 
-[![e00fea58-0c47-4a4d-8856-0dd05d5a3bf9](/assets/images/unproject-management-part-2/7b66ab38-c48d-49b9-8b8d-b7fa4dd202b9_960x605.png "e00fea58-0c47-4a4d-8856-0dd05d5a3bf9")](https://substackcdn.com/image/fetch/$s_!1vJW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b66ab38-c48d-49b9-8b8d-b7fa4dd202b9_960x605.png)
+![e00fea58-0c47-4a4d-8856-0dd05d5a3bf9](/assets/images/unproject-management-part-2/7b66ab38-c48d-49b9-8b8d-b7fa4dd202b9_960x605.png "e00fea58-0c47-4a4d-8856-0dd05d5a3bf9")
 
 So, take a gander at all your sticky notes. Score each one for how hard it is.
 
@@ -129,7 +128,7 @@ But, if points map to hours for you, you’re using tasks not *stories*. **Revis
 
 If you’re a team, you must agree on the Story Point value of each user story.
 
-[![68056d68-216d-4684-ad7b-c7b8e2b50202](/assets/images/unproject-management-part-2/8b0a99a5-edbe-4f58-a2b6-35ab3a50da11_695x487.jpeg "68056d68-216d-4684-ad7b-c7b8e2b50202")](https://substackcdn.com/image/fetch/$s_!poaM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b0a99a5-edbe-4f58-a2b6-35ab3a50da11_695x487.jpeg)
+![68056d68-216d-4684-ad7b-c7b8e2b50202](/assets/images/unproject-management-part-2/8b0a99a5-edbe-4f58-a2b6-35ab3a50da11_695x487.jpeg "68056d68-216d-4684-ad7b-c7b8e2b50202")
 
 Grab your dry erase marker again and resist sniffing the cap. The headache isn’t worth the fruity smell.
 
@@ -143,7 +142,7 @@ Each member is responsible for taking the next most appropriate sticky from the 
 
 You measure and report progress using a Burndown Chart– with Time on the X access and remaining Story Points on the Y axis.
 
-[![e3d7f12a-88be-4f41-9329-04eb6887b662](/assets/images/unproject-management-part-2/e04ccd05-e1a8-48da-b27f-7ea3ce1a7c9a_608x348.jpeg "e3d7f12a-88be-4f41-9329-04eb6887b662")](https://substackcdn.com/image/fetch/$s_!nSQL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe04ccd05-e1a8-48da-b27f-7ea3ce1a7c9a_608x348.jpeg)
+![e3d7f12a-88be-4f41-9329-04eb6887b662](/assets/images/unproject-management-part-2/e04ccd05-e1a8-48da-b27f-7ea3ce1a7c9a_608x348.jpeg "e3d7f12a-88be-4f41-9329-04eb6887b662")
 
 If you business-types only like graphs going up and to the right, sorry #notsorry.
 
@@ -159,7 +158,7 @@ It’s day 9. You just might be done. Check. This happens a lot in Kanban-manage
 
 **Level 6**
 
-[![215e914b-f017-4a20-947b-6c46ceabdfef](/assets/images/unproject-management-part-2/d53081a9-3290-454a-806f-05d181b8b716_700x300.png "215e914b-f017-4a20-947b-6c46ceabdfef")](https://substackcdn.com/image/fetch/$s_!U4eY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd53081a9-3290-454a-806f-05d181b8b716_700x300.png)
+![215e914b-f017-4a20-947b-6c46ceabdfef](/assets/images/unproject-management-part-2/d53081a9-3290-454a-806f-05d181b8b716_700x300.png "215e914b-f017-4a20-947b-6c46ceabdfef")
 
 We’ve really only talked about a single sprint.
 
@@ -169,7 +168,7 @@ A big tenet in Agile is iterative results. Versioning, if that makes sense. Whil
 
 Say you have a three month project. You can decide that that’s three equal sprints of four weeks.
 
-[![6847-agile-sprints](/assets/images/unproject-management-part-2/6413a10d-9eed-4f2d-a6ed-3cfa912103a6_600x400.svg "6847-agile-sprints")](https://substackcdn.com/image/fetch/$s_!7KPS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6413a10d-9eed-4f2d-a6ed-3cfa912103a6_600x400.svg)
+![6847-agile-sprints](/assets/images/unproject-management-part-2/6413a10d-9eed-4f2d-a6ed-3cfa912103a6_600x400.svg "6847-agile-sprints")
 
 At the end of each sprint, you release/publish/share whatever targeted outcome you’ve achieved with the stakeholders.
 
@@ -185,7 +184,7 @@ Move the stickies from the Backlog to Current Sprint that meets the Sprint Theme
 
 At the end of each sprint and before you start the next one, stop and celebrate your win. Then have you’re Kaizen moment. Adjust your WIPs and layout your next sprint.
 
-[![266aa616-7df4-48fe-9773-99a38618d247](/assets/images/unproject-management-part-2/982768e8-165c-4cee-a098-2a42f084beb0_960x1013.jpeg "266aa616-7df4-48fe-9773-99a38618d247")](https://substackcdn.com/image/fetch/$s_!kgXl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F982768e8-165c-4cee-a098-2a42f084beb0_960x1013.jpeg)
+![266aa616-7df4-48fe-9773-99a38618d247](/assets/images/unproject-management-part-2/982768e8-165c-4cee-a098-2a42f084beb0_960x1013.jpeg "266aa616-7df4-48fe-9773-99a38618d247")
 
 **What’s a Kaizen?**
 
@@ -199,4 +198,4 @@ There’s a whole lot more to talk about; but that’s the subject of books, not
 
 Next week, we’ll map these concepts to Microsoft Planner and where Microsoft is headed with its project management tool-set.
 
-[![75fdc314-a4bc-465c-bd30-646792778665](/assets/images/unproject-management-part-2/fe8cf680-5a8a-4e66-9c65-badbea90895e_900x266.gif "75fdc314-a4bc-465c-bd30-646792778665")](https://substackcdn.com/image/fetch/$s_!MPOj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe8cf680-5a8a-4e66-9c65-badbea90895e_900x266.gif)
+![75fdc314-a4bc-465c-bd30-646792778665](/assets/images/unproject-management-part-2/fe8cf680-5a8a-4e66-9c65-badbea90895e_900x266.gif "75fdc314-a4bc-465c-bd30-646792778665")

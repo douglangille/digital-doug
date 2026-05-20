@@ -8,7 +8,6 @@ header:
 categories:
 - null
 excerpt: Rage against the Machine
-substack_post_id: 141217723.minimalist-phone
 tags:
 - personal
 - prescriptive

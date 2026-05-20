@@ -8,7 +8,6 @@ header:
 categories:
 - null
 excerpt: Long live Comic Papyrus
-substack_post_id: 141217720.format-your-style
 tags:
 - personal
 - prescriptive
@@ -22,7 +21,7 @@ feature: /assets/images/format-your-style/e35be88a-afa4-4328-ba73-afb8a6cf6e9a_5
 
 Okay. So the last two weeks, we’ve been on a plain text kick and then did the markdown thing. This week, I’m going to wrap this topic up.
 
-[![05c78b3b-6ab1-459d-869e-0dd937fc85ba](/assets/images/format-your-style/c7755316-1331-42cc-86ca-3bacc2893f57_500x211.gif "05c78b3b-6ab1-459d-869e-0dd937fc85ba")](https://substackcdn.com/image/fetch/$s_!BYDQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7755316-1331-42cc-86ca-3bacc2893f57_500x211.gif)
+![05c78b3b-6ab1-459d-869e-0dd937fc85ba](/assets/images/format-your-style/c7755316-1331-42cc-86ca-3bacc2893f57_500x211.gif "05c78b3b-6ab1-459d-869e-0dd937fc85ba")
 
 We’ve already established that plain text is a great sustainable, future-proof and portable document format and that markdown provides enough text formatting to convey the semantic meaning of document structure beyond the words themselves.
 
@@ -30,7 +29,7 @@ It’s a great way to manage the “source code” of your creative works.
 
 **Of course, life isn’t lived in black-and-white and plain text isn’t the final presentation.**
 
-[![f54d2013-4cf6-46bb-b34a-1312160a5a13](/assets/images/format-your-style/1fe4cd78-9875-4f0f-a571-b19ce0c38ccb_480x278.gif "f54d2013-4cf6-46bb-b34a-1312160a5a13")](https://substackcdn.com/image/fetch/$s_!B2oV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fe4cd78-9875-4f0f-a571-b19ce0c38ccb_480x278.gif)
+![f54d2013-4cf6-46bb-b34a-1312160a5a13](/assets/images/format-your-style/1fe4cd78-9875-4f0f-a571-b19ce0c38ccb_480x278.gif "f54d2013-4cf6-46bb-b34a-1312160a5a13")
 
 There are many tools that are used to convert markdown-formatted plain text to other formats. Most of the apps out there use Pandoc in the background to do the heavy lifting. [Pandoc](https://pandoc.org/) is free.
 
@@ -84,7 +83,7 @@ Here’s how pandoc converts it to HTML:
 </ul>
 ```
 
-[![b142139a-1eee-4624-a77e-17b629415b07](/assets/images/format-your-style/a7b2c4aa-c79d-4ade-8608-69cd5f7e1814_350x400.png "b142139a-1eee-4624-a77e-17b629415b07")](https://substackcdn.com/image/fetch/$s_!K44o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7b2c4aa-c79d-4ade-8608-69cd5f7e1814_350x400.png)
+![b142139a-1eee-4624-a77e-17b629415b07](/assets/images/format-your-style/a7b2c4aa-c79d-4ade-8608-69cd5f7e1814_350x400.png "b142139a-1eee-4624-a77e-17b629415b07")
 
 You’ll quickly notice how much more readable markdown is as source-code over HTML. Which is the whole reason markdown was created in the first place– a one-to-one element conversion to HTML.
 
@@ -100,7 +99,7 @@ If you want to chat more about HTML and CSS, I’d be only too happy to do such.
 
 I converted the snippet above to Word and it looks like this:
 
-[![](/assets/images/format-your-style/d5f7ac30-a504-45e0-8a7e-973152a52c76_735x566.png)](https://substackcdn.com/image/fetch/$s_!du94!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5f7ac30-a504-45e0-8a7e-973152a52c76_735x566.png)
+![](/assets/images/format-your-style/d5f7ac30-a504-45e0-8a7e-973152a52c76_735x566.png)
 
 You’ll notice all the semantic structure came across and were styled in that oh-so-unique Microsoft way. Take a look at the other screengrab. You’ll see how the markdown formatting became Word styles.
 
@@ -112,9 +111,9 @@ The reasons are many, but here are three:
 2. **Theming**. If you’re using Word’s style functionality, then you can use the themes stuff under the Design ribbon. And, yes, you can define your own theme design. This is pretty much the same as the CSS styling for HTML documents.
 3. **Tables of Contents** link to Microsoft heading styles… automagically.
 
-[![](/assets/images/format-your-style/551edbdd-96b3-4bae-a6af-fddf0d9caabf_757x680.png)](https://substackcdn.com/image/fetch/$s_!e1fm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F551edbdd-96b3-4bae-a6af-fddf0d9caabf_757x680.png)
+![](/assets/images/format-your-style/551edbdd-96b3-4bae-a6af-fddf0d9caabf_757x680.png)
 
-[![](/assets/images/format-your-style/da99ff2e-f64d-45fc-ac6d-4ad245c53dd4_1114x685.png)](https://substackcdn.com/image/fetch/$s_!8TWZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda99ff2e-f64d-45fc-ac6d-4ad245c53dd4_1114x685.png)
+![](/assets/images/format-your-style/da99ff2e-f64d-45fc-ac6d-4ad245c53dd4_1114x685.png)
 
 **So that’s it for now.**
 

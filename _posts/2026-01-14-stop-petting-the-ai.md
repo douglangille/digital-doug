@@ -6,7 +6,6 @@ header:
   overlay_image: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.png
     - genai - digital-life - wellness
 excerpt: How to Use ChatGPT Without Becoming Its Emotional Support Human
-substack_post_id: 184531625.stop-petting-the-ai
 tags:
 - personal
 - prescriptive

@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/your-inbox-is-thine-enemy/f3a807cf-26c3-41e4-bb26-84752601d003_960x540.jpeg
 categories:
 - null
-substack_post_id: 141217725.your-inbox-is-thine-enemy
 tags:
 - personal
 - diagnostic
@@ -25,7 +24,7 @@ Yes, there are other tools– even better tools, but email is still king.
 
 Today, I want to offer a counterpoint of sorts. Not to say that email isn’t important and vital, but that email culture hasn’t been great.
 
-[![0254d43e-6c35-4a12-acff-e138bc307b9b](/assets/images/your-inbox-is-thine-enemy/c5de50ab-e921-483a-86bb-09f505f2bdee_500x255.gif "0254d43e-6c35-4a12-acff-e138bc307b9b")](https://substackcdn.com/image/fetch/$s_!8rvH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5de50ab-e921-483a-86bb-09f505f2bdee_500x255.gif)
+![0254d43e-6c35-4a12-acff-e138bc307b9b](/assets/images/your-inbox-is-thine-enemy/c5de50ab-e921-483a-86bb-09f505f2bdee_500x255.gif "0254d43e-6c35-4a12-acff-e138bc307b9b")
 
 I posit that, behaviorally, our relationship with email borders on the toxic.
 
@@ -33,7 +32,7 @@ A few weeks back, I shared my combat strategies with another toxic digital relat
 
 You see, if we consider that social media apps were inspired by casinos to be the addictive dopamine-generating slot machines of the attention economy, then we’d also have to admit that email is the grand-pappy one-armed bandit that started it all.
 
-[![50626783-9700-4726-8694-85c6f32fca1f](/assets/images/your-inbox-is-thine-enemy/1d03f17a-80c7-4d2a-8526-fe7a3635d00d_400x275.gif "50626783-9700-4726-8694-85c6f32fca1f")](https://substackcdn.com/image/fetch/$s_!XU8T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d03f17a-80c7-4d2a-8526-fe7a3635d00d_400x275.gif)
+![50626783-9700-4726-8694-85c6f32fca1f](/assets/images/your-inbox-is-thine-enemy/1d03f17a-80c7-4d2a-8526-fe7a3635d00d_400x275.gif "50626783-9700-4726-8694-85c6f32fca1f")
 
 I blame Blackberry, or Research In Motion, if you prefer.
 
@@ -49,7 +48,7 @@ Most of the time, we miss a few steps like ‘Read’ and ‘Think’ and ‘Com
 
 Correspondence shouldn’t be like that. There was a time when letter-writing was a craft.
 
-[![8faa8b31-e860-4505-af20-1ee28a00d2f3](/assets/images/your-inbox-is-thine-enemy/a977ae0c-7d94-46b6-9bee-4443fb83420a_480x480.gif "8faa8b31-e860-4505-af20-1ee28a00d2f3")](https://substackcdn.com/image/fetch/$s_!yeDV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa977ae0c-7d94-46b6-9bee-4443fb83420a_480x480.gif)
+![8faa8b31-e860-4505-af20-1ee28a00d2f3](/assets/images/your-inbox-is-thine-enemy/a977ae0c-7d94-46b6-9bee-4443fb83420a_480x480.gif "8faa8b31-e860-4505-af20-1ee28a00d2f3")
 
 It’s a pace thing. Even if we were to use more appropriate tools like chat or voice or (gasp) in person interaction, we’d still get trapped in to the same one-way conversations.
 
@@ -65,7 +64,7 @@ We say ‘yes’ or ‘no’ too quickly.
 
 Because we are all under the misunderstanding that speed trumps quality.
 
-[![ba8b2061-cb12-4432-8112-7aed68ec0e42](/assets/images/your-inbox-is-thine-enemy/55c4f075-2b5d-4e86-8a99-0907470ce8a9_480x480.gif "ba8b2061-cb12-4432-8112-7aed68ec0e42")](https://substackcdn.com/image/fetch/$s_!07mK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55c4f075-2b5d-4e86-8a99-0907470ce8a9_480x480.gif)
+![ba8b2061-cb12-4432-8112-7aed68ec0e42](/assets/images/your-inbox-is-thine-enemy/55c4f075-2b5d-4e86-8a99-0907470ce8a9_480x480.gif "ba8b2061-cb12-4432-8112-7aed68ec0e42")
 
 **Shenanigans.**
 
@@ -83,7 +82,7 @@ Every other email can wait. Literally every email. If it is urgent, I’m availa
 
 Of course, I’m not as good as I’d like to be often enough, leave the damnable email client open and end up losing time playing digital whack-a-mole. I feel tired at the end of it, because it’s activity. The thing is tho: it ain’t productivity.
 
-[![a348f233-531f-4f37-b25d-d20107d921a7](/assets/images/your-inbox-is-thine-enemy/982fb586-ed24-4669-94cb-d16cfc111c56_425x240.gif "a348f233-531f-4f37-b25d-d20107d921a7")](https://substackcdn.com/image/fetch/$s_!q0FQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F982fb586-ed24-4669-94cb-d16cfc111c56_425x240.gif)
+![a348f233-531f-4f37-b25d-d20107d921a7](/assets/images/your-inbox-is-thine-enemy/982fb586-ed24-4669-94cb-d16cfc111c56_425x240.gif "a348f233-531f-4f37-b25d-d20107d921a7")
 
 Email is busy-work. It’s a conceit, a cover for doing easy things instead of deep work. Email is the worst of the low-hanging fruit. Most of the time, it’s empty accomplishment. Like eating cookies, it’s a quick sugar fix.
 

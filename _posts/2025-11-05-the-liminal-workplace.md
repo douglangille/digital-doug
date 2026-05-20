@@ -8,7 +8,6 @@ header:
 categories:
 - null
 excerpt: Change is hard. Bring snacks.
-substack_post_id: 178007267.the-liminal-workplace
 tags:
 - institutional
 - diagnostic
@@ -76,4 +75,4 @@ Change begins when reflection turns into decision.
 
 One person’s choice can change the temperature of a room. But real transformation starts when those small decisions sync up. The hallway of closed doors becomes a network of open ones. Air flows. Light spreads. Energy circulates. That’s when the organization stops waiting for direction and starts learning to move.
 
-Next: [Thinking Like an Ecosystem](https://douglangille.substack.com/p/thinking-like-and-ecosystem), about how friction becomes flow, and connection becomes the medium of change.
+Next: [Thinking Like an Ecosystem](/thinking-like-an-ecosystem/), about how friction becomes flow, and connection becomes the medium of change.

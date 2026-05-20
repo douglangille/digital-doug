@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/ai-is-the-new-literacy/ca90c7c8-a9a1-4012-a671-137311065956_1536x1024.png
 categories: []
 excerpt: Why Nova Scotia needs to treat AI like public infrastructure.
-substack_post_id: 170439614.ai-is-the-new-literacy-most-nova
 tags:
 - institutional
 - diagnostic

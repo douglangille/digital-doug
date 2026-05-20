@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/how-to-break-up-with-adobe/ad6ce082-092c-48c1-a501-d50f79abe3fe_2048x1365.jpeg
 categories:
 - null
-substack_post_id: 141217716.how-to-break-up-with-adobe
 tags:
 - institutional
 - diagnostic
@@ -25,7 +24,7 @@ feature: /assets/images/how-to-break-up-with-adobe/ad6ce082-092c-48c1-a501-d50f7
 
 The company has created a wonderful set of applications that are considered the gold standard in business and creative industries.
 
-[![99c37383-852f-4418-ac37-b729be07e334](/assets/images/how-to-break-up-with-adobe/eadd4797-d010-46ae-8490-5d2a32e52966_500x500.gif "99c37383-852f-4418-ac37-b729be07e334")](https://substackcdn.com/image/fetch/$s_!z73G!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feadd4797-d010-46ae-8490-5d2a32e52966_500x500.gif)
+![99c37383-852f-4418-ac37-b729be07e334](/assets/images/how-to-break-up-with-adobe/eadd4797-d010-46ae-8490-5d2a32e52966_500x500.gif "99c37383-852f-4418-ac37-b729be07e334")
 
 So much so, that Photoshop is a verb-substitute for “image editing”.
 
@@ -54,7 +53,7 @@ Even though we’ll pay the bill and ensure that learners have access to the ver
 
 **Here are some products you can use instead of supporting Adobe:**
 
-[![3b5ca261-6a8c-42f9-b0e5-b3728ac9027b](/assets/images/how-to-break-up-with-adobe/c4469b6c-0df7-41cc-a82b-f481cdb88110_400x901.jpeg "3b5ca261-6a8c-42f9-b0e5-b3728ac9027b")](https://substackcdn.com/image/fetch/$s_!5bCe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4469b6c-0df7-41cc-a82b-f481cdb88110_400x901.jpeg)
+![3b5ca261-6a8c-42f9-b0e5-b3728ac9027b](/assets/images/how-to-break-up-with-adobe/c4469b6c-0df7-41cc-a82b-f481cdb88110_400x901.jpeg "3b5ca261-6a8c-42f9-b0e5-b3728ac9027b")
 
 - For raster-image editing, alternatives to Photoshop:
 

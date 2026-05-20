@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/the-joy-of-missing-out-an-email-manifesto-for-december/7a216b0b-8702-404a-a671-f4b7b954e9d2_1536x1024.png
 categories:
 - null
-substack_post_id: 181182367.the-joy-of-missing-out-an-email-manifesto
 tags:
 - personal
 - prescriptive

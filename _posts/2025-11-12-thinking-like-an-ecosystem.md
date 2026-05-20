@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/thinking-like-an-ecosystem/f0a4f9bf-9e86-405c-9eb9-f5282e3415d5_1536x1024.png
 categories:
 - null
-substack_post_id: 178680859.thinking-like-and-ecosystem
 tags:
 - institutional
 - foundational
@@ -28,7 +27,7 @@ Colleges and organizations work the same way. When the visible activity slows, t
 
 > In Part I of this *Navigating the In-Between* series, we talked about agency and the moment an individual chooses to move again.
 >
-> If you missed it, it’s here: [The Liminal Workplace](https://douglangille.substack.com/p/the-liminal-workplace).
+> If you missed it, it’s here: [The Liminal Workplace](/the-liminal-workplace/).
 >
 > This time, we trace what happens when that movement circulates.
 
@@ -92,7 +91,7 @@ That’s when the ecosystem comes back online. Not because someone redesigned th
 
 ### Field Note
 
-If *[The Liminal Workplace](https://douglangille.substack.com/p/the-liminal-workplace)* was about personal agency and change, *Thinking Like an Ecosystem* is about circulation and how that agency becomes shared oxygen. The closing entry explores *[Digital Craftsmanship](https://open.substack.com/pub/douglangille/p/digital-craftsmanship)*: how we make and use tools without losing ourselves to them.
+If *[The Liminal Workplace](/the-liminal-workplace/)* was about personal agency and change, *Thinking Like an Ecosystem* is about circulation and how that agency becomes shared oxygen. The closing entry explores *[Digital Craftsmanship](/digital-craftsmanship/)*: how we make and use tools without losing ourselves to them.
 
 But for now, the invitation is simple.
 

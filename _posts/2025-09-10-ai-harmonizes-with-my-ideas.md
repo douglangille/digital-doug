@@ -7,7 +7,6 @@ header:
   teaser: /assets/images/ai-harmonizes-with-my-ideas/47981997-d20a-4864-9e64-02acba822434_1536x1024.png
   overlay_image: /assets/images/ai-harmonizes-with-my-ideas/47981997-d20a-4864-9e64-02acba822434_1536x1024.png
 categories: []
-substack_post_id: 173291190.ai-harmonizes-with-my-ideas
 tags:
 - personal
 - prescriptive
@@ -18,7 +17,6 @@ meta: The essay diagnoses how personal AI tool choices affect workflow, favoring
 feature: /assets/images/ai-harmonizes-with-my-ideas/47981997-d20a-4864-9e64-02acba822434_1536x1024.png
 ---
 
-
 # AI Harmonizes with My Ideas
 
 Every rabbit hole needs style.
@@ -27,7 +25,7 @@ Best practices in synchronized crime.
 
 ## **What Stuck, What Fell Away**
 
-As I extolled in [my spring post](https://douglangille.substack.com/p/this-is-how-im-using-generative-ai), I was using everything I could get my hands on. That was fun, but unsustainable.
+As I extolled in [my spring post](/this-is-how-im-using-generative-ai/), I was using everything I could get my hands on. That was fun, but unsustainable.
 
 **What stuck:** ChatGPT Plus is my daily driver. Yeah, I upgraded. The subscription killed throttling, gave me persistent memory between chats, and expanded the context window. At work, Microsoft Copilot keeps Personally Identifiable Information (PII) and Intellectual Property (IP) safe, and has GPT-5, memory and custom instructions. I just like to keep work and personal separate. I have access to the Copilot for M365 as a pilot. It is genuinely useful, even if we’ll never afford it at scale.
 
@@ -88,7 +86,7 @@ Fence instructions from content with XML. This helps more than you think. I have
 
 Add an extra ending instruction: `Think hard about this` for deep dives, `Quick answer only` for brevity. This is a GPT-5 thing.
 
-[![](/assets/images/ai-harmonizes-with-my-ideas/1d3c7538-0dce-42c1-bdc1-13d3b6bb0fb1_1536x1024.png)](https://substackcdn.com/image/fetch/$s_!ukVg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d3c7538-0dce-42c1-bdc1-13d3b6bb0fb1_1536x1024.png)
+![](/assets/images/ai-harmonizes-with-my-ideas/1d3c7538-0dce-42c1-bdc1-13d3b6bb0fb1_1536x1024.png)
 
 The only setting that matters.
 
@@ -151,7 +149,7 @@ Output:
 
 **Over-Polish.** Too many beta-reader rounds and the writing gets worse, not better. Trust your own judgement. Seriously. The phrase "turd-polishing" came from somewhere.
 
-[![](/assets/images/ai-harmonizes-with-my-ideas/db8510ec-b3c3-4718-9b08-68f42d2524fa_1536x1024.png)](https://substackcdn.com/image/fetch/$s_!kd8g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb8510ec-b3c3-4718-9b08-68f42d2524fa_1536x1024.png)
+![](/assets/images/ai-harmonizes-with-my-ideas/db8510ec-b3c3-4718-9b08-68f42d2524fa_1536x1024.png)
 
 Me, every Monday morning.
 
@@ -207,7 +205,7 @@ So, for anyone who writes long-form, you know that writing is not nearly as roma
 
 By fractaling outward (think of it like expanding a [snowflake into a blizzard of detail](https://www.advancedfictionwriting.com/articles/snowflake-method/)), I get scaffolding that’s expansive but not overwhelming. Still my story, just better organized.
 
-[![](/assets/images/ai-harmonizes-with-my-ideas/f140379a-a109-4d9b-8e8c-f9ccb47813f5_1536x1024.png)](https://substackcdn.com/image/fetch/$s_!Lm4P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff140379a-a109-4d9b-8e8c-f9ccb47813f5_1536x1024.png)
+![](/assets/images/ai-harmonizes-with-my-ideas/f140379a-a109-4d9b-8e8c-f9ccb47813f5_1536x1024.png)
 
 One idea, infinite echoes.
 
@@ -243,9 +241,9 @@ Steps:
 
 ### **Flash Fiction Reborn**
 
-I wrote a piece of flash fiction a decade ago called [Mitzy and the Butterfly](https://douglangille.substack.com/p/mitzy-and-the-butterfly). I've always wanted to expand upon it but had no idea where to go. I did some assessment and rubric-generated brainstorming with it and found something that kinda-sorta worked. Then ran a prompt to brainstorm [Save the Cat beatsheets](https://en.wikipedia.org/wiki/Save_the_Cat%21). I totally hated it. Too Hollywood. This isn't the MCU. So I asked for alternatives. The model surfaced storytelling frameworks I’d never considered, and suddenly the draft came alive again. I'm really excited to revisit this piece. I now have a plan.
+I wrote a piece of flash fiction a decade ago called [Mitzy and the Butterfly](/mitzy-and-the-butterfly/). I've always wanted to expand upon it but had no idea where to go. I did some assessment and rubric-generated brainstorming with it and found something that kinda-sorta worked. Then ran a prompt to brainstorm [Save the Cat beatsheets](https://en.wikipedia.org/wiki/Save_the_Cat%21). I totally hated it. Too Hollywood. This isn't the MCU. So I asked for alternatives. The model surfaced storytelling frameworks I’d never considered, and suddenly the draft came alive again. I'm really excited to revisit this piece. I now have a plan.
 
-[![](/assets/images/ai-harmonizes-with-my-ideas/9c05b2ee-3ebb-45f9-9e44-fd836cb8b43b_1536x1024.png)](https://substackcdn.com/image/fetch/$s_!KxqM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c05b2ee-3ebb-45f9-9e44-fd836cb8b43b_1536x1024.png)
+![](/assets/images/ai-harmonizes-with-my-ideas/9c05b2ee-3ebb-45f9-9e44-fd836cb8b43b_1536x1024.png)
 
 Drafts never really die.
 
@@ -322,7 +320,7 @@ What’s changed most isn’t the tools. It’s me.
 
 **What still worries me:** **Equity of access.** The UN is already close to declaring internet access a human right. AI may be next. If premium versions stay locked behind fees, the gap widens. We’ve got a chance to democratize access instead of gatekeeping it. Let’s not blow it. If AI becomes a human right, how do we make sure everyone actually benefits?
 
-[![](/assets/images/ai-harmonizes-with-my-ideas/2a93531d-054f-45f4-a0da-8f513506cb4e_1536x1024.png)](https://substackcdn.com/image/fetch/$s_!mfta!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a93531d-054f-45f4-a0da-8f513506cb4e_1536x1024.png)
+![](/assets/images/ai-harmonizes-with-my-ideas/2a93531d-054f-45f4-a0da-8f513506cb4e_1536x1024.png)
 
 Access isn’t optional.
 

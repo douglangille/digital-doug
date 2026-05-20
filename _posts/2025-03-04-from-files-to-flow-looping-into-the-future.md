@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/from-files-to-flow-looping-into-the-future/4476010b-3b9c-4042-bd43-aa2a3d4df9e0_1019x631.png
 categories:
 - null
-substack_post_id: 158364508.from-files-to-flow-looping-into-the
 tags:
 - institutional
 - prescriptive
@@ -29,7 +28,7 @@ Think about how we typically work. We create documents, store them in folders (o
 
 Version control becomes a joke. "Final\_v2\_revised\_final\_final.docx" anyone? Collaborative editing turns into a game of "pin the tail on the document," with everyone trying to merge their changes without accidentally overwriting someone else's work. And project management? Don't even get me started. Excel spreadsheets become graveyards of outdated information, and project updates are communicated through cryptic emails that leave everyone confused
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/10c28ac6-6684-47e9-a9b7-adb7f255c13e_2048x2048.jpeg)](https://substackcdn.com/image/fetch/$s_!_yFi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10c28ac6-6684-47e9-a9b7-adb7f255c13e_2048x2048.jpeg)
+![](/assets/images/from-files-to-flow-looping-into-the-future/10c28ac6-6684-47e9-a9b7-adb7f255c13e_2048x2048.jpeg)
 
 ## **The Content-Centric Revolution: It's Not About Files, It's About Flow**
 
@@ -39,7 +38,7 @@ So, what's the alternative? It's a shift in mindset, a move away from focusing o
 
 This is where Microsoft Loop and Planner come in. Think of them as the dynamic duo of the content-centric revolution. Loop is your collaborative canvas, a place where teams can create and edit content together in real time. Forget about emailing attachments; with Loop, everyone works on the same living document, incorporating text, tables, lists, images – whatever you need – all within a single, shared space. It's a powerful new way to work.
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/88ae2f51-0f5d-43f0-8768-cbdc62185ab6_2048x2048.jpeg)](https://substackcdn.com/image/fetch/$s_!3sJy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88ae2f51-0f5d-43f0-8768-cbdc62185ab6_2048x2048.jpeg)
+![](/assets/images/from-files-to-flow-looping-into-the-future/88ae2f51-0f5d-43f0-8768-cbdc62185ab6_2048x2048.jpeg)
 
 **Planner** is your project management sidekick, bringing structure and organization to the collaborative chaos. You can assign tasks, set deadlines, track progress, and keep everyone on the same page (literally and figuratively). Imagine those faculty and instructors updating their curriculum. With Loop, they can co-create learning modules, incorporating feedback from colleagues as they go. And with Planner, they can manage the project, ensuring that everything stays on track and deadlines are met. It's like having a project manager and a creative director all rolled into one.
 
@@ -55,21 +54,21 @@ In higher education, this means more effective collaboration among faculty and s
 
 ## **Visualizing the Ecosystem: Loop, Teams, Planner, and To Do**
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/fa7463f9-40d9-4d26-b5af-f9cb3bc5e640_1060x780.png)](https://substackcdn.com/image/fetch/$s_!HOaC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa7463f9-40d9-4d26-b5af-f9cb3bc5e640_1060x780.png)
+![](/assets/images/from-files-to-flow-looping-into-the-future/fa7463f9-40d9-4d26-b5af-f9cb3bc5e640_1060x780.png)
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/35e9f0e3-74af-4587-9a3e-050296d3818e_723x705.png)](https://substackcdn.com/image/fetch/$s_!umVG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35e9f0e3-74af-4587-9a3e-050296d3818e_723x705.png)
+![](/assets/images/from-files-to-flow-looping-into-the-future/35e9f0e3-74af-4587-9a3e-050296d3818e_723x705.png)
 
 a Loop component in Teams is always editable
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/8ef938d9-41dd-452b-b397-3b8421b1ac05_1171x552.png)](https://substackcdn.com/image/fetch/$s_!DRXl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ef938d9-41dd-452b-b397-3b8421b1ac05_1171x552.png)
+![](/assets/images/from-files-to-flow-looping-into-the-future/8ef938d9-41dd-452b-b397-3b8421b1ac05_1171x552.png)
 
 the same Loop component in a Workspace
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/a7b8ca31-60ce-41d9-acd5-4678b13c69ea_952x1151.png)](https://substackcdn.com/image/fetch/$s_!VeBp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7b8ca31-60ce-41d9-acd5-4678b13c69ea_952x1151.png)
+![](/assets/images/from-files-to-flow-looping-into-the-future/a7b8ca31-60ce-41d9-acd5-4678b13c69ea_952x1151.png)
 
 a Loop page can contain many mixed components
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/75805642-5ccb-4a1b-a9d4-3afa00941944_952x1151.png)](https://substackcdn.com/image/fetch/$s_!e9p2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75805642-5ccb-4a1b-a9d4-3afa00941944_952x1151.png)
+![](/assets/images/from-files-to-flow-looping-into-the-future/75805642-5ccb-4a1b-a9d4-3afa00941944_952x1151.png)
 
 a Planner plan can be a workspace component
 
@@ -81,15 +80,15 @@ TL;DR: A *workspace* contains pages and subpages. The pages themselves are made 
 
 Got it? Good.
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/019b6f18-6970-434c-9359-2b97b4c6d8bb_1167x1228.png)](https://substackcdn.com/image/fetch/$s_!GpcG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F019b6f18-6970-434c-9359-2b97b4c6d8bb_1167x1228.png)
+![](/assets/images/from-files-to-flow-looping-into-the-future/019b6f18-6970-434c-9359-2b97b4c6d8bb_1167x1228.png)
 
 ## **Planner in Action: A Visual Example**
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/06a44172-ab11-4330-b287-b7f4e4c78c27_1187x757.png)](https://substackcdn.com/image/fetch/$s_!mmji!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06a44172-ab11-4330-b287-b7f4e4c78c27_1187x757.png)
+![](/assets/images/from-files-to-flow-looping-into-the-future/06a44172-ab11-4330-b287-b7f4e4c78c27_1187x757.png)
 
 a Planner plan in Planner
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/37749b50-48db-4849-ad8f-aa21718107c2_1187x757.png)](https://substackcdn.com/image/fetch/$s_!J5LD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37749b50-48db-4849-ad8f-aa21718107c2_1187x757.png)
+![](/assets/images/from-files-to-flow-looping-into-the-future/37749b50-48db-4849-ad8f-aa21718107c2_1187x757.png)
 
 the same Planner plan in Teams
 
@@ -97,11 +96,11 @@ the same Planner plan in Teams
 
 Planner tasks can be synced with Microsoft To Do, allowing individuals to manage their assigned tasks in a personalized way. This ensures that everyone stays on top of their responsibilities and contributes effectively to the overall project.
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/a1c9ef4e-afa4-449e-ac5c-a907fffc66a4_1386x827.png)](https://substackcdn.com/image/fetch/$s_!2vs-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1c9ef4e-afa4-449e-ac5c-a907fffc66a4_1386x827.png)
+![](/assets/images/from-files-to-flow-looping-into-the-future/a1c9ef4e-afa4-449e-ac5c-a907fffc66a4_1386x827.png)
 
 Assigned Tasks in Planner
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/92f34216-2bd5-4e6b-918c-2ebe87aa426c_1386x827.png)](https://substackcdn.com/image/fetch/$s_!-CBU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92f34216-2bd5-4e6b-918c-2ebe87aa426c_1386x827.png)
+![](/assets/images/from-files-to-flow-looping-into-the-future/92f34216-2bd5-4e6b-918c-2ebe87aa426c_1386x827.png)
 
 Assigned Tasks in To Do
 
@@ -111,25 +110,25 @@ Loop can also be a great tool for managing meetings. You can create a Loop works
 
 When creating a New Meeting in the Teams calendar, at the bottom you'll spy *Add an agenda.* Click that.
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/10483703-6d86-442c-ad0f-014e39053989_899x504.png)](https://substackcdn.com/image/fetch/$s_!al8C!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10483703-6d86-442c-ad0f-014e39053989_899x504.png)
+![](/assets/images/from-files-to-flow-looping-into-the-future/10483703-6d86-442c-ad0f-014e39053989_899x504.png)
 
 ## **Loop Version History: Never Lose Your Work**
 
 Loop automatically tracks version history, so you can always revert to a previous version of your content if needed. This provides peace of mind and ensures that no work is ever lost.
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/bc8d4c8c-aa70-4f06-b502-c224f58ba771_960x611.webp)](https://substackcdn.com/image/fetch/$s_!J-cx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc8d4c8c-aa70-4f06-b502-c224f58ba771_960x611.webp)
+![](/assets/images/from-files-to-flow-looping-into-the-future/bc8d4c8c-aa70-4f06-b502-c224f58ba771_960x611.webp)
 
 ## **Data Security: Keeping Your Information Safe**
 
 We know that data security is paramount, especially when dealing with sensitive student information. Most Canadian institutions have worked closely with Microsoft to ensure that all data is stored in Canadian data centers, complying with relevant legislation and regulations. This commitment to data sovereignty, combined with Microsoft 365's robust security framework, provides a secure environment for your collaborative work. Rest assured, your data is protected.
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/0b84de29-fe66-4397-b38a-0674cb5977fc_1024x1024.webp)](https://substackcdn.com/image/fetch/$s_!8Qlx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b84de29-fe66-4397-b38a-0674cb5977fc_1024x1024.webp)
+![](/assets/images/from-files-to-flow-looping-into-the-future/0b84de29-fe66-4397-b38a-0674cb5977fc_1024x1024.webp)
 
 ## **Benefits for Learners: What's in it for You?**
 
 Learners, we haven't forgotten about you! Loop and Planner can be game-changers for group projects, making collaboration easier and more effective. Imagine our IT Business Analysis students working on a client project. They can use Loop to collaboratively develop their project proposal, incorporating feedback from their instructor and even the client directly within the workspace. They can use Planner to manage the project, assigning tasks to team members and tracking their progress. No more emailing drafts back and forth! Plus, both Loop and Planner offer mobile apps, so you can collaborate on the go, from any device – your laptop, tablet, or even your phone. Tutorials and support resources are available to help you get started.
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/e601ca97-8f04-464f-a2a0-469d39c2a162_1057x706.png)](https://substackcdn.com/image/fetch/$s_!-Gqu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe601ca97-8f04-464f-a2a0-469d39c2a162_1057x706.png)
+![](/assets/images/from-files-to-flow-looping-into-the-future/e601ca97-8f04-464f-a2a0-469d39c2a162_1057x706.png)
 
 ## **Making the Leap: It's Not Just About the Tech**
 
@@ -141,7 +140,7 @@ As a rule, IT departments are here to support folks on this journey. We're not j
 
 The future of knowledgework in higher education isn't about managing files—it's about managing knowledge. By embracing the content-centric approach, we can empower our communities to work more effectively, innovate more rapidly, and ultimately, better serve our students. This is all part of a broader emerging digital strategy to empower learning and enhance the learner experience. So, let's ditch the document drama and get looping!
 
-[![](/assets/images/from-files-to-flow-looping-into-the-future/96ab5a6b-e6f0-40aa-b7ba-48eb6d6d5d5d_2048x2048.jpeg)](https://substackcdn.com/image/fetch/$s_!_Xtw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96ab5a6b-e6f0-40aa-b7ba-48eb6d6d5d5d_2048x2048.jpeg)
+![](/assets/images/from-files-to-flow-looping-into-the-future/96ab5a6b-e6f0-40aa-b7ba-48eb6d6d5d5d_2048x2048.jpeg)
 
 In summary, Loop and Planner offer a powerful new way to work, moving beyond the limitations of traditional file-based collaboration. They enable real-time co-creation, streamlined project management, and a more dynamic and engaging learning environment. These tools are available *now* – start exploring!
 

@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/plain-text-rebellion/10fe202e-feb9-4b88-8df8-9e12ca146f23_1024x686.png
 categories:
 - null
-substack_post_id: 141217718.plain-text-rebellion
 tags:
 - personal
 - prescriptive
@@ -30,7 +29,7 @@ It could be worse: I could have regaled you with the brief fascination with dais
 
 *Why are you staring at me? I did it again. Damn.*
 
-[![content](/assets/images/plain-text-rebellion/eff0b020-028b-4e97-8d77-11f88e7a46d3_960x540.jpeg "content")](https://substackcdn.com/image/fetch/$s_!QgAe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feff0b020-028b-4e97-8d77-11f88e7a46d3_960x540.jpeg)
+![content](/assets/images/plain-text-rebellion/eff0b020-028b-4e97-8d77-11f88e7a46d3_960x540.jpeg "content")
 
 **Anyhoooo.**
 
@@ -68,7 +67,7 @@ You can cheat a little. You can format a widdle bit using plain text using a lit
 
 It’s called Markdown, [codified by John Gruber](https://daringfireball.net/projects/markdown/) and an option in nearly every web editor and blogging engine on the planet worth its keystrokes. The full documentation is online, but the easiest way is to dive in. If you want to noodle around a bit, try a web app like [Dillinger](https://dillinger.io/).
 
-[![content](/assets/images/plain-text-rebellion/d8f40b4f-fce7-4f13-badb-d174a8e77029_960x602.png "content")](https://substackcdn.com/image/fetch/$s_!rMbS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8f40b4f-fce7-4f13-badb-d174a8e77029_960x602.png)
+![content](/assets/images/plain-text-rebellion/d8f40b4f-fce7-4f13-badb-d174a8e77029_960x602.png "content")
 
 The whole point though is that you can just use Notepad.
 

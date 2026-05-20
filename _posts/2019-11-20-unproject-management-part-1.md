@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/unproject-management-part-1/2e0f9b72-1015-436c-a671-1d331b01264a_1600x1200.png
 categories:
 - null
-substack_post_id: 141217736.unproject-management-part-1
 tags:
 - institutional
 - foundational
@@ -27,7 +26,7 @@ All that said, I do project management every darn day. And I love it.
 
 Yes, I am rife with contradiction, but I’m a pretty nice guy if you get to know me. Most of the time.
 
-[![d570cd13-eff6-4a5e-959b-68ec28a1b95a](/assets/images/unproject-management-part-1/4a11a598-df48-4fdb-b2c0-3055dcd86b3b_960x374.png "d570cd13-eff6-4a5e-959b-68ec28a1b95a")](https://substackcdn.com/image/fetch/$s_!WtdF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a11a598-df48-4fdb-b2c0-3055dcd86b3b_960x374.png)
+![d570cd13-eff6-4a5e-959b-68ec28a1b95a](/assets/images/unproject-management-part-1/4a11a598-df48-4fdb-b2c0-3055dcd86b3b_960x374.png "d570cd13-eff6-4a5e-959b-68ec28a1b95a")
 
 **Here’s how project management sits with me:**
 
@@ -43,7 +42,7 @@ There are better definitions, but let’s go with this one.
 
 There are all kinds of important things to consider when working on projects. The big one for me and where I see projects tank is a failure to gain consensus on a definition of done.This starts with good requirements gathering, continues with iterative review and refinement, and ends with an outcome everyone can live with.
 
-[![f9316f92-cb5c-4e0d-a603-80baa5b019fd](/assets/images/unproject-management-part-1/2f495454-28d1-4b17-a101-fcda2c3630e9_960x377.png "f9316f92-cb5c-4e0d-a603-80baa5b019fd")](https://substackcdn.com/image/fetch/$s_!lKOd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f495454-28d1-4b17-a101-fcda2c3630e9_960x377.png)
+![f9316f92-cb5c-4e0d-a603-80baa5b019fd](/assets/images/unproject-management-part-1/2f495454-28d1-4b17-a101-fcda2c3630e9_960x377.png "f9316f92-cb5c-4e0d-a603-80baa5b019fd")
 
 The next big thing for project success is defining exactly who ‘everyone’ is. Who are the pigs and who are the chickens? Get that RACI diagram doped out ASAP.
 
@@ -59,7 +58,7 @@ For stuff that’s bigger than a service request and smaller than a bona fide pr
 >
 > Sorry. Blame it on the coffee.
 
-[![33ecf303-2239-43a6-84b9-22a25b9b1b6e](/assets/images/unproject-management-part-1/fbc6c1cd-3e64-4ff1-aeae-f8fb3c385912_800x600.jpeg "33ecf303-2239-43a6-84b9-22a25b9b1b6e")](https://substackcdn.com/image/fetch/$s_!Nj7u!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbc6c1cd-3e64-4ff1-aeae-f8fb3c385912_800x600.jpeg)
+![33ecf303-2239-43a6-84b9-22a25b9b1b6e](/assets/images/unproject-management-part-1/fbc6c1cd-3e64-4ff1-aeae-f8fb3c385912_800x600.jpeg "33ecf303-2239-43a6-84b9-22a25b9b1b6e")
 
 **Anyhoo…** This is where the agile project methodologies come in.
 
@@ -79,7 +78,7 @@ Once you’ve detected that you have an ‘operationally-resourced project’, y
 
 Take the time with your proto-project team to do this before you do any actual work. This is basic **Idea Assessment** work and you’d have to do it before pushing this forward to the Project Management Office. But it’s good practice anyway.
 
-[![3a6b610b-d13e-4dba-ba41-01ec93f9a2e1](/assets/images/unproject-management-part-1/423bcc07-cb91-4e35-b6ca-34615c7a766d_640x287.gif "3a6b610b-d13e-4dba-ba41-01ec93f9a2e1")](https://substackcdn.com/image/fetch/$s_!tsG_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F423bcc07-cb91-4e35-b6ca-34615c7a766d_640x287.gif)
+![3a6b610b-d13e-4dba-ba41-01ec93f9a2e1](/assets/images/unproject-management-part-1/423bcc07-cb91-4e35-b6ca-34615c7a766d_640x287.gif "3a6b610b-d13e-4dba-ba41-01ec93f9a2e1")
 
 **Do you still have a ‘little-p’ project?**
 

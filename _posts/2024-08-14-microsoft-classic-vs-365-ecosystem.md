@@ -7,7 +7,6 @@ header:
   teaser: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
   overlay_image: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
 categories: []
-substack_post_id: 147751375.microsoft-classic-vs-365-ecosystem
 tags:
 - institutional
 - diagnostic
@@ -25,7 +24,7 @@ Change is hard. For everyone.
 
 Microsoft has a hard time changing too, largely because they often have to maintain the old legacy way of doing things while striving to innovate and push the tools to more modern techniques.
 
-[![](/assets/images/microsoft-classic-vs-365-ecosystem/edf653e0-0f1a-415d-9419-33fee24c39a8_300x266.webp)](https://substackcdn.com/image/fetch/$s_!R9wv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fedf653e0-0f1a-415d-9419-33fee24c39a8_300x266.webp)
+![](/assets/images/microsoft-classic-vs-365-ecosystem/edf653e0-0f1a-415d-9419-33fee24c39a8_300x266.webp)
 
 That’s why they can often be late to market, only to eventually dominate a particular vertical.
 
@@ -37,7 +36,7 @@ Don’t feel sorry for them tho. ‘Dem bricks are gold.
 
 One example where this painfully shows up is Outlook. The underpinnings of Outlook are in the Windows Messaging System and MAPI protocol from all the way back to Windows 95. That’s 30 years of spaghetti code, bugfixes, security patches, and a whole host of 3rd party plugins. Outlook felt bloated and bound tight by its backward compatibility legacy.
 
-[![](/assets/images/microsoft-classic-vs-365-ecosystem/4a62fac8-112a-4b39-80d9-b6d427758c8b_300x278.webp)](https://substackcdn.com/image/fetch/$s_!kMW3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a62fac8-112a-4b39-80d9-b6d427758c8b_300x278.webp)
+![](/assets/images/microsoft-classic-vs-365-ecosystem/4a62fac8-112a-4b39-80d9-b6d427758c8b_300x278.webp)
 
 It got to the point where Microsoft couldn’t really innovate and leverage the Microsoft 365 environment. They needed to break compatibility and start fresh.
 
@@ -60,7 +59,7 @@ I’m not going to spend a bunch of time on Email and Calendaring, but I’d lik
 
 **So…. follow me down the rabbit-hole.**
 
-[![](/assets/images/microsoft-classic-vs-365-ecosystem/0281a556-d5cc-4bed-8c45-7faa15733235_300x188.png)](https://substackcdn.com/image/fetch/$s_!ZkBf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0281a556-d5cc-4bed-8c45-7faa15733235_300x188.png)
+![](/assets/images/microsoft-classic-vs-365-ecosystem/0281a556-d5cc-4bed-8c45-7faa15733235_300x188.png)
 
 ---
 
@@ -68,7 +67,7 @@ Let’s start with Notes. It’s easier to follow the bouncing ball. Notes is a 
 
 1. In Outlook Classic under the Notes tab, which is often hidden in the navigation pane, but easily brought into view.
 
-   [![](/assets/images/microsoft-classic-vs-365-ecosystem/e653733b-2ad1-43da-bf21-51b092881d97_212x300.webp)](https://substackcdn.com/image/fetch/$s_!PIZT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe653733b-2ad1-43da-bf21-51b092881d97_212x300.webp)
+   ![](/assets/images/microsoft-classic-vs-365-ecosystem/e653733b-2ad1-43da-bf21-51b092881d97_212x300.webp)
 2. In the Windows Sticky Note app if you login to it with your M365 credentials. This was a Windows 10 thing where Microsoft was pushing its gawd-awful Store for everything, but it’s there in Win 11 too.
 3. On the web at <https://outlook.office.com/mail/notes> and [www.onenote.com/stickynotes](https://www.onenote.com/stickynotes)
 4. In OneNote under the Sticky Notes icon (mobile and desktop apps)
@@ -89,7 +88,7 @@ However…
 
 Microsoft purchased a company called Wunderlist a number of years ago and repurposed it into Microsoft To Do. This is the preferred way to access Tasks in the Exchange Message Store. There’s also additional functionality such as subtasks that aren’t exposed in the Outlook Classic interface.
 
-[![](/assets/images/microsoft-classic-vs-365-ecosystem/eaf535a9-302c-403f-829d-9aaede4e9fa4_300x204.webp)](https://substackcdn.com/image/fetch/$s_!4zHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feaf535a9-302c-403f-829d-9aaede4e9fa4_300x204.webp)
+![](/assets/images/microsoft-classic-vs-365-ecosystem/eaf535a9-302c-403f-829d-9aaede4e9fa4_300x204.webp)
 
 Microsoft To Do is integrated into the Outlook New experience.
 
@@ -105,7 +104,7 @@ You can also find To Do here: <https://to-do.office.com/>
 
 There’s another player on the field with respect to Tasks. It’s called Microsoft Planner. It’s needlessly confusing, but also very simple.
 
-[![](/assets/images/microsoft-classic-vs-365-ecosystem/5dea14b3-e96f-4e75-89c2-75390e269f2c_300x300.webp)](https://substackcdn.com/image/fetch/$s_!3i7z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dea14b3-e96f-4e75-89c2-75390e269f2c_300x300.webp)
+![](/assets/images/microsoft-classic-vs-365-ecosystem/5dea14b3-e96f-4e75-89c2-75390e269f2c_300x300.webp)
 
 Planner Plans are specific kinds of project tasks lists in SharePoint. They’re basically Kanban boards that can also be viewed as lists, Gantts and calendars. Every plan is associated with a SharePoint collaborative site but a SharePoint site can contain multiple plans.
 
@@ -127,7 +126,7 @@ Whatever. Makes sense. I guess.
 
 Like I said, change is hard for Microsoft.
 
-[![](/assets/images/microsoft-classic-vs-365-ecosystem/efa63e9b-bfed-481e-be80-554429b7f6ab_500x239.gif)](https://substackcdn.com/image/fetch/$s_!QjBe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefa63e9b-bfed-481e-be80-554429b7f6ab_500x239.gif)
+![](/assets/images/microsoft-classic-vs-365-ecosystem/efa63e9b-bfed-481e-be80-554429b7f6ab_500x239.gif)
 
 ---
 
@@ -147,7 +146,7 @@ One of the reasons folks are holding on to Outlook Classic is because of its tig
 - You want Send to OneNote to work reliably? Gotta have Outlook Classic.
 - You want Outlook Tasks to work in OneNote? Outlook Classic AND OneNote for Windows Desktop. That’s a kicker.
 
-[![](/assets/images/microsoft-classic-vs-365-ecosystem/e56a6ec7-0ade-474a-b04e-104cadb7e588_293x300.webp)](https://substackcdn.com/image/fetch/$s_!-znV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe56a6ec7-0ade-474a-b04e-104cadb7e588_293x300.webp)
+![](/assets/images/microsoft-classic-vs-365-ecosystem/e56a6ec7-0ade-474a-b04e-104cadb7e588_293x300.webp)
 
 Will this always be the case? Probably not, but it is today.
 
@@ -155,7 +154,7 @@ Will this always be the case? Probably not, but it is today.
 
 Now, Microsoft Loop is a whole other blog post, but in the context of what we’re talking about here, the skinny is pretty straight forward.
 
-[![](/assets/images/microsoft-classic-vs-365-ecosystem/85489412-1984-4c37-8c5e-5f46201af326_300x300.webp)](https://substackcdn.com/image/fetch/$s_!MXHn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85489412-1984-4c37-8c5e-5f46201af326_300x300.webp)
+![](/assets/images/microsoft-classic-vs-365-ecosystem/85489412-1984-4c37-8c5e-5f46201af326_300x300.webp)
 
 There is a Loop component called a Task List. It’s really a Planner Plan and thusly is surfaced in Microsoft To Do and Teams Planner.
 

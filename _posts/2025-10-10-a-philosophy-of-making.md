@@ -6,7 +6,6 @@ header:
   teaser: /assets/images/a-philosophy-of-making/e15c0292-a0a2-480e-876a-0941691e81c3_1536x1024.png
   overlay_image: /assets/images/a-philosophy-of-making/e15c0292-a0a2-480e-876a-0941691e81c3_1536x1024.png
 categories: []
-substack_post_id: 175735650.a-philosophy-of-making
 tags:
 - personal
 - foundational

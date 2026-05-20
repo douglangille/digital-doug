@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/is-the-stylus-mightier-than-the-keyboard/dfff8d4a-ed69-419b-8914-e8e98c2db7ca_1200x745.jpeg
 categories:
 - null
-substack_post_id: 141217717.is-the-stylus-mightier-than-the-keyboard
 tags:
 - personal
 - foundational
@@ -26,7 +25,7 @@ Only one, you say? Sure. Just one.
 
 I’ve been using laptops on the daily since 1993 or so when I was selling them for a clone dealer. Eurocom or something like that. When I moved in to the systems and professional services discipline of IT, a laptop was part of the running kit. So was a cellphone, a PalmPilot and a pager. With my mp3 player to round out the utility belt, I was Batman.
 
-[![21882-giphy](/assets/images/is-the-stylus-mightier-than-the-keyboard/59026035-101f-4236-9a07-1fe514465a56_444x250.gif "21882-giphy")](https://substackcdn.com/image/fetch/$s_!WftC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59026035-101f-4236-9a07-1fe514465a56_444x250.gif)
+![21882-giphy](/assets/images/is-the-stylus-mightier-than-the-keyboard/59026035-101f-4236-9a07-1fe514465a56_444x250.gif "21882-giphy")
 
 And over my shoulder was the 75 pound laptop. It was probably only 7, but still…
 
@@ -36,7 +35,7 @@ It always felt like there had to be a better way. And thus was born my fascinati
 
 **The Tablet PC**
 
-[![59730-giphy--1-](/assets/images/is-the-stylus-mightier-than-the-keyboard/49811bfc-b6d1-49af-a97d-56d89aee0fcb_369x480.gif "59730-giphy--1-")](https://substackcdn.com/image/fetch/$s_!0snf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49811bfc-b6d1-49af-a97d-56d89aee0fcb_369x480.gif)
+![59730-giphy--1-](/assets/images/is-the-stylus-mightier-than-the-keyboard/49811bfc-b6d1-49af-a97d-56d89aee0fcb_369x480.gif "59730-giphy--1-")
 
 My first foray into this realm was a laptop with a hinge that would allow it to fold into a slate. The Dells and Lenovos did the full 360 degree fold-over and the HPs rotated on a single hinge and folded on to the keyboard. Pros and cons to both approaches and both are still in use today.
 
@@ -49,7 +48,7 @@ The cons were obvious:
 
 **“Oh, and one more thing.”**
 
-[![91600-giphy--2-](/assets/images/is-the-stylus-mightier-than-the-keyboard/2f4c3db9-4631-43ea-9a0b-fc2e784ef6b0_351x478.gif "91600-giphy--2-")](https://substackcdn.com/image/fetch/$s_!ul81!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f4c3db9-4631-43ea-9a0b-fc2e784ef6b0_351x478.gif)
+![91600-giphy--2-](/assets/images/is-the-stylus-mightier-than-the-keyboard/2f4c3db9-4631-43ea-9a0b-fc2e784ef6b0_351x478.gif "91600-giphy--2-")
 
 Thankfully, the iPad came along and distracted me. I moved back to a Lenovo laptop for real work and tried to find a way to make an iPad be a productivity tool. The best you could get at the time was a keyboard (and that was fine). Just one more bluetooth thing to charge and some extra bulk that drained all the sexiness out of the device. The early iPads were exceptional media consumption devices. The effort to turn them into work devices didn’t pay off. It was one more device to cart around. Like an even nerdier Batman.
 
@@ -62,7 +61,7 @@ To be honest, I feel the same way about Linux. I’m a rabid operating system ne
 
 **What does RT stand for anyway?**
 
-[![61830-giphy--3-](/assets/images/is-the-stylus-mightier-than-the-keyboard/d389f572-a981-469c-afb0-0d9611090686_420x315.gif "61830-giphy--3-")](https://substackcdn.com/image/fetch/$s_!SqQX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd389f572-a981-469c-afb0-0d9611090686_420x315.gif)
+![61830-giphy--3-](/assets/images/is-the-stylus-mightier-than-the-keyboard/d389f572-a981-469c-afb0-0d9611090686_420x315.gif "61830-giphy--3-")
 
 So you can imagine when Windows 8 came out, I was giddy with anticipation and **BAM**, I had myself a Microsoft Surface RT. It was Windows… It was fast… It had great battery-life… It had no storage… It had no apps…
 
@@ -75,7 +74,7 @@ The best device experience I had with Windows 8 was on a Dell Venue Pro 8. It wa
 
 **Why was 6 afraid of 7? ​​​Because 7, 8, 9.**
 
-[![16829-giphy--4-](/assets/images/is-the-stylus-mightier-than-the-keyboard/6fff8087-e7bc-45a3-b866-587c8e8a2b39_500x275.gif "16829-giphy--4-")](https://substackcdn.com/image/fetch/$s_!hrHY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6fff8087-e7bc-45a3-b866-587c8e8a2b39_500x275.gif)
+![16829-giphy--4-](/assets/images/is-the-stylus-mightier-than-the-keyboard/6fff8087-e7bc-45a3-b866-587c8e8a2b39_500x275.gif "16829-giphy--4-")
 
 And here we are with Windows 10. It’s a Microsoft OS that finally understands where touch and pen belong.
 
@@ -88,7 +87,7 @@ I finally had what I wanted– a real Windows computer that could act like a lap
 
 **PLOT TWIST!**
 
-[![43795-giphy--5-](/assets/images/is-the-stylus-mightier-than-the-keyboard/3e4c9365-e0b8-43f5-a66c-a1c24d495bf4_500x250.gif "43795-giphy--5-")](https://substackcdn.com/image/fetch/$s_!pl76!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e4c9365-e0b8-43f5-a66c-a1c24d495bf4_500x250.gif)
+![43795-giphy--5-](/assets/images/is-the-stylus-mightier-than-the-keyboard/3e4c9365-e0b8-43f5-a66c-a1c24d495bf4_500x250.gif "43795-giphy--5-")
 
 Yet, I still wanted a laptop because text is still a thing. The detachable laptop form-factor is great at everything except for being used on a lap. The thin keyboard didn’t have enough weight, rigidity and balance to be used on anything but a hard surface. And it turns out, I type a lot. While touch and stylus have significantly reduced my mouse and touchpad usage, my primary input stream is through the keyboard.
 

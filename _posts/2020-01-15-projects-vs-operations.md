@@ -8,7 +8,6 @@ header:
 categories:
 - null
 excerpt: Knock knock, Neo
-substack_post_id: 141217727.projects-vs-operations
 tags:
 - institutional
 - foundational
@@ -31,7 +30,7 @@ So would you.
 >
 > ~ Abraham Lincoln
 
-[![1989-giphy--9-](/assets/images/projects-vs-operations/1291c194-fde7-49eb-8d6f-ab90ecdc298c_326x480.gif "1989-giphy--9-")](https://substackcdn.com/image/fetch/$s_!FWf2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1291c194-fde7-49eb-8d6f-ab90ecdc298c_326x480.gif)
+![1989-giphy--9-](/assets/images/projects-vs-operations/1291c194-fde7-49eb-8d6f-ab90ecdc298c_326x480.gif "1989-giphy--9-")
 
 If there’s a personal reason behind workplace productivity, it’s that. Make the most of the time you’re allotted on this mortal coil. And that means making the time you spend at work worth it.
 
@@ -72,7 +71,7 @@ If you think about it, Risk Management Analysis looks the same if you equate Pro
 
 **It’s all the same grid.**
 
-[![17491-giphy--11-](/assets/images/projects-vs-operations/2701aad2-9815-40cc-8a78-ff0432ad2f91_500x266.gif "17491-giphy--11-")](https://substackcdn.com/image/fetch/$s_!db06!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2701aad2-9815-40cc-8a78-ff0432ad2f91_500x266.gif)
+![17491-giphy--11-](/assets/images/projects-vs-operations/2701aad2-9815-40cc-8a78-ff0432ad2f91_500x266.gif "17491-giphy--11-")
 
 You can even use this approach to evaluate how you communicate, consume media and spend your time. What quadrant do Facebook and Netflix live in? Do you spend a lot of time in your life doing quadrant 4 stuff?
 

@@ -9,7 +9,6 @@ header:
   overlay_image: /assets/images/some-goblins-are-kinda-cute/4fdbe2a1-d88e-4a56-8c98-f625a982f514_1792x1024.png
 categories:
 - null
-substack_post_id: 147751379.some-goblins-are-kinda-cute
 tags:
 - personal
 - prescriptive
@@ -30,7 +29,7 @@ What makes Goblin Tools so special, you ask? In short, it’s bringing the power
 
 The team behind Goblin Tools has done an amazing job of creating a suite of tiny applications that are not only incredibly useful, but also genuinely fun to use. Take their Magic ToDo tool, for example. I’ve tried just about every to-do list app under the sun. But Magic ToDo is something kinda special. When I’m overwhelmed and have to brain-dump my tasks to get them out of my head so I can think, this fits the bill.
 
-[![](/assets/images/some-goblins-are-kinda-cute/34f2811c-ecdb-45b7-a971-12e376fb41fa_1024x994.png)](https://substackcdn.com/image/fetch/$s_!1frl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34f2811c-ecdb-45b7-a971-12e376fb41fa_1024x994.png)
+![](/assets/images/some-goblins-are-kinda-cute/34f2811c-ecdb-45b7-a971-12e376fb41fa_1024x994.png)
 
 Rather than forcing me to meticulously organize my tasks, the AI-powered assistant actually helps me to articulate my thoughts and priorities. Crank them in using natural language and drill down as often as needed. The end result? I’m able to get a clear picture of what I need to accomplish, without the frustration of trying to fit my brain into a rigid system.
 
