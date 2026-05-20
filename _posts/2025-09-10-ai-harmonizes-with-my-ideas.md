@@ -25,7 +25,7 @@ Best practices in synchronized crime.
 
 ## **What Stuck, What Fell Away**
 
-As I extolled in [my spring post](/this-is-how-im-using-generative-ai/), I was using everything I could get my hands on. That was fun, but unsustainable.
+As I extolled in [my spring post](https://digital.douglangille.ca/this-is-how-im-using-generative-ai/), I was using everything I could get my hands on. That was fun, but unsustainable.
 
 **What stuck:** ChatGPT Plus is my daily driver. Yeah, I upgraded. The subscription killed throttling, gave me persistent memory between chats, and expanded the context window. At work, Microsoft Copilot keeps Personally Identifiable Information (PII) and Intellectual Property (IP) safe, and has GPT-5, memory and custom instructions. I just like to keep work and personal separate. I have access to the Copilot for M365 as a pilot. It is genuinely useful, even if we’ll never afford it at scale.
 
@@ -241,7 +241,7 @@ Steps:
 
 ### **Flash Fiction Reborn**
 
-I wrote a piece of flash fiction a decade ago called [Mitzy and the Butterfly](/mitzy-and-the-butterfly/). I've always wanted to expand upon it but had no idea where to go. I did some assessment and rubric-generated brainstorming with it and found something that kinda-sorta worked. Then ran a prompt to brainstorm [Save the Cat beatsheets](https://en.wikipedia.org/wiki/Save_the_Cat%21). I totally hated it. Too Hollywood. This isn't the MCU. So I asked for alternatives. The model surfaced storytelling frameworks I’d never considered, and suddenly the draft came alive again. I'm really excited to revisit this piece. I now have a plan.
+I wrote a piece of flash fiction a decade ago called [Mitzy and the Butterfly](https://douglangille.ca/mitzy-and-the-butterfly/). I've always wanted to expand upon it but had no idea where to go. I did some assessment and rubric-generated brainstorming with it and found something that kinda-sorta worked. Then ran a prompt to brainstorm [Save the Cat beatsheets](https://en.wikipedia.org/wiki/Save_the_Cat%21). I totally hated it. Too Hollywood. This isn't the MCU. So I asked for alternatives. The model surfaced storytelling frameworks I’d never considered, and suddenly the draft came alive again. I'm really excited to revisit this piece. I now have a plan.
 
 ![](/assets/images/ai-harmonizes-with-my-ideas/9c05b2ee-3ebb-45f9-9e44-fd836cb8b43b_1536x1024.png)
 

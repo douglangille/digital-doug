@@ -36,7 +36,7 @@ But that’s not how this works. Not in emerging tech. Not in anything, for that
 
 I’ve done both. Neither feels good.
 
-Humans are great at being confidently wrong. Back in the day I even had a t‑shirt that said, *“If you can’t dazzle them with brilliance, baffle ‘em with bullshit.”* [We even taught the AI models that trick](/confidently-wrong/).
+Humans are great at being confidently wrong. Back in the day I even had a t‑shirt that said, *“If you can’t dazzle them with brilliance, baffle ‘em with bullshit.”* [We even taught the AI models that trick](https://digital.douglangille.ca/confidently-wrong/).
 
 ---
 

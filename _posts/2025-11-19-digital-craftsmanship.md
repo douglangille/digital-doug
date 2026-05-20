@@ -24,8 +24,8 @@ It always starts the same way: I’m fixing something, the screwdriver slips, an
 
 > If you’re joining late, here’s the quick map:
 >
-> Part I: [The Liminal Workplace](/the-liminal-workplace/) explored reclaiming agency in a world of constant choices.  
-> Part II: [Thinking Like an Ecosystem](/thinking-like-an-ecosystem/) examined how communities circulate ideas and energy.
+> Part I: [The Liminal Workplace](https://digital.douglangille.ca/the-liminal-workplace/) explored reclaiming agency in a world of constant choices.  
+> Part II: [Thinking Like an Ecosystem](https://digital.douglangille.ca/thinking-like-an-ecosystem/) examined how communities circulate ideas and energy.
 >
 > Now, in Part III of this *Navigating the In-Between* series, we turn to craft: how humans, AI, and collaboration converge to make work that feels unmistakably alive.
 
