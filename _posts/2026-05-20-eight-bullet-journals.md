@@ -72,7 +72,7 @@ This is a case study of one. My brain, my work, my constraints. Treat it as a le
 
 **Tagging.** A folder can hold one thing. A tag touches everything. Invoice for a hard drive: hard drives folder? Invoices folder? 2005 folder? The invoice can only live in one place -- you have to remember which category you were in when you filed it, not what the thing was. Search does the linking. You don't need to draw the map -- describe the territory consistently, and the map makes itself.
 
-Mine are scope, stance, domain. Simple enough I don't notice them.
+My tagging system reflects scope, stance, and domain. Simple enough I don't notice them.
 
 What didn't make the cut: Obsidian graph views. PARA hierarchies. LLM wikis. Digital gardens. All required ongoing maintenance that was never going to happen, or produced outputs that served the system rather than the work. *The things you own end up owning you.*
 
