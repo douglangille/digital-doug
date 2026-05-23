@@ -1,11 +1,11 @@
 ---
 title: Eight Bullet Journals
-excerpt: If you can't name your last ten shipped things, your system is the problem. Not your discipline.
+excerpt: Some notes about note-taking.
 tags:
-- personal
-- diagnostic
-- productivity-systems
-- ai-collaboration
+  - personal
+  - diagnostic
+  - productivity-systems
+  - ai-collaboration
 date: 2026-05-20 08:00:00 -0400
 header:
   teaser: /assets/images/eight-bullet-journals/generated-image-1.png
