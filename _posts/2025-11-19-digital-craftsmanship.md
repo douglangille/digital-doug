@@ -22,7 +22,7 @@ feature: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cd
 
 It always starts the same way: I’m fixing something, the screwdriver slips, and I slice a finger just deep enough to question my life choices. There’s that moment of sucking the blood off, muttering something unprintable, and realizing, yep, this is what people mean by “blood, sweat, and tears.” It’s less poetic when you’re the one bleeding, but it’s honest. Craft usually is.
 
-> If you’re joining late, here’s the quick map:
+> If you’re joining late, here’s the quick map:cv                     3p;[                        ]
 >
 > Part I: [The Liminal Workplace](https://digital.douglangille.ca/the-liminal-workplace/) explored reclaiming agency in a world of constant choices.  
 > Part II: [Thinking Like an Ecosystem](https://digital.douglangille.ca/thinking-like-an-ecosystem/) examined how communities circulate ideas and energy.
