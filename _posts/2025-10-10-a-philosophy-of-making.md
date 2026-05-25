@@ -17,7 +17,6 @@ meta: The essay argues that embracing plain-text simplicity and disciplined
 feature: /assets/images/a-philosophy-of-making/e15c0292-a0a2-480e-876a-0941691e81c3_1536x1024.png
 ---
 
-
 # A Philosophy of Making
 
 *We live in a strange creative century. The tools got louder while the work stayed the same. AI, automation, content everywhere, but making still comes down to curiosity, clarity, and showing up. This isn't a guide or a sermon. It's a field note from the middle of the mess, a philosophy of making for people who think better when they build things.*
@@ -66,7 +65,6 @@ Here’s a messy pile of notes and links on [topic]. Don’t summarize. Group re
 
 Paste into your AI chat. Replace [topic]. Paste or insert your notes.
 
-
 Then comes **analyze.** I stare at the pile until patterns start whispering. Sometimes the AI helps by asking smarter questions than I would. Sometimes it just mirrors my confusion until something clicks. Either way, this phase is about seeing what’s really there, not what I wish was.
 
 Prompt: 
@@ -80,6 +78,7 @@ Paste into your AI chat. Replace [topic] or just reference your notes.
 Next is **structure.** This is where it starts to feel like making. Ideas stop floating and start snapping into place. Outlines form, diagrams appear, logic takes shape. I love this part. It’s where curiosity meets coherence. It’s also where most people bail because the high of discovery fades and the grind of organization begins. I get that. The Mid-world fog of war is seductive and exhausting in equal measure. *Thankee sai*.
 
 Prompt: 
+
 ```
 Build a rough outline based on what we’ve explored. Shape it like a story: setup, tension, resolution. Then ask what I’m really trying to say and what emotion I want to leave behind.
 ```

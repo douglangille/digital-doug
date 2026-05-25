@@ -17,13 +17,11 @@ meta: The essay warns that AI‑generated ‘workslop’ masquerades as polished
 feature: /assets/images/confidently-wrong/cd8c89d7-cee6-4601-8ea0-a996df1f383a_1536x1024.png
 ---
 
-
 # Confidently Wrong
 
 ### When Workslop Comes for You
 
 Back in Grade 12, I was late handing in a book report. My grand strategy? Write the longest damn report anyone had ever seen. Forty-five pages of filler. I figured if I buried the teacher in words, maybe the lateness would sting less. I got a decent grade, minus the penalty. But across the cover page, in red ink, was this gem: *“Your act of atonement should not be in forcing me to read a 45-page book report.”*
-
 
 **“That’s workslop. Looks polished. Says nothing. Wastes everyone’s time.”**
 
