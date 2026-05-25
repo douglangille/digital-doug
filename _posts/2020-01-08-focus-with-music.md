@@ -95,4 +95,4 @@ Google or search YouTube for “120 BPM” and you’ll get some jams. Some of m
 
 **Takeaway?**
 
-Listen to some playlists to melt away time and amp up the productivity. If you have any other cool playlists, shout out in the comments.
+Listen to some playlists to melt away time and amp up the productivity. If you have any other cool playlists, let me know.
