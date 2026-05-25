@@ -3,19 +3,16 @@ title: You Don't Need Another Wellness System
 date: 2026-01-28 08:00:00 -0400
 header:
   teaser: /assets/images/you-dont-need-another-wellness-system/IMG_0627.jpeg
-  overlay_image: /assets/images/you-dont-need-another-wellness-system/IMG_0627.jpeg
-    - wellness - digital-life - habits - productivity - self-improvement
+  overlay_image: /assets/images/you-dont-need-another-wellness-system/IMG_0627.jpeg - wellness - digital-life - habits - productivity - self-improvement
 excerpt: Being Okay Ain't Religion
 tags:
-- personal
-- prescriptive
-- productivity-systems
-meta: The essay argues that amid crisis and overload, wellness programs feel
-  misguided, urging individuals to accept messy productivity rather than adopt another
-  system.
+  - personal
+  - prescriptive
+  - productivity-systems
+meta: The essay argues that amid crisis and overload, wellness programs feel misguided, urging individuals to accept messy productivity rather than adopt another system.
 feature: /assets/images/you-dont-need-another-wellness-system/IMG_0627.jpeg
+feature_y: 50.0%
 ---
-
 
 # You Don't Need Another Wellness System
 

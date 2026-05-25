@@ -24,7 +24,7 @@ The second brain keeps growing. The work doesn't.
 
 Nobody admits to building Rube Goldberg machines and finishing nothing.
 
-## The backup nobody thinks about
+## The Backup Nobody Thinks about
 
 I've been building these contraptions since high school. Binders. File folders. Color-coded tabs. The David Allen era. The Hamster Revolution. All of them promising that if I just got the system right, everything else would follow.
 
@@ -38,7 +38,7 @@ If I didn't look at a stack within a month, it was garbage. I'd throw it out wit
 
 That's the system working. Most of it was garbage. The sticky-note approach didn't just manage the mess -- it revealed which pile was worth keeping and which was worth a trip to the blue bin. The insight was right there in the gesture. I just didn't name it for another fifteen years.
 
-## The link nobody maintains
+## The Link Nobody Maintains
 
 I have eight bullet journals on my shelf. Different schemas, different spreads, different promises I made to myself about how this one would be the one. None of them made it past a month. Every new one felt like waking up to *I've Got You Babe* on the radio.
 
@@ -56,7 +56,7 @@ Which is hollow. A link I didn't make, for me, doesn't mean anything.
 
 I just ignore the whole linking-your-thinking bullshit now.
 
-## What earns its keep
+## What Earns Its Keep
 
 This is a case study of one. My brain, my work, my constraints. Treat it as a lens, not a prescription.
 
@@ -83,7 +83,7 @@ A few rules I keep coming back to:
 - If it's not feeding an artifact, it's procrastination.
 - Your system should be boring.
 
-## Who this is wrong for
+## Who This is Wrong for
 
 Makers need less memory infrastructure -- but I mean *archival* memory -- the permanent notes, the evergreen links, the second brain. Not operational memory. Calendar, Reminders, daily note -- those are all memory. Just a different kind. The kind that earns its keep by forcing decisions, not accumulating material.
 
@@ -97,7 +97,7 @@ If you've abandoned a PKM system, it wasn't a discipline problem. You were using
 
 Accumulated notes do not equal published work. That's the only metric worth checking.
 
-## The rivers
+## The Rivers
 
 Email is a river. Teams is the same river, faster.
 

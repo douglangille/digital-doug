@@ -95,7 +95,7 @@ If *[The Liminal Workplace](https://digital.douglangille.ca/the-liminal-workplac
 
 But for now, the invitation is simple.
 
-### **Call to Action – The Conversation Map**
+### **Call To Action – The Conversation Map**
 
 Draw your ecosystem.
 

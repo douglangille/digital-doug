@@ -1,5 +1,5 @@
 ---
-title: The Storyteller's Dilemma
+title: "The Storyteller's Dilemma"
 excerpt: The AI question isn't about kudos and disclosure.
 tags:
   - personal
