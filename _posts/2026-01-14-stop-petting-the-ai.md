@@ -16,7 +16,6 @@ meta: The essay advises individuals to stop treating ChatGPT as a companion
 feature: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.png
 ---
 
-
 # Stop Petting the AI!
 
 It’s 3 AM. I’m in bed. I’ve gone from reading political news to spinning scenarios with ChatGPT about a “mad scientist vs. mad engineer” epic battle tournament.
@@ -87,18 +86,23 @@ Want to build your own version? Here’s what actually works.
 1. **Turn on auto-delete (if available)**
 
    Gemini has a 3-month auto-delete setting. ChatGPT doesn’t yet, but delete regularly anyway.
+
 2. **Remove chatbot apps from your phone, keep browser bookmarks only**
 
    Makes access intentional instead of reflexive.
+
 3. **Create a takeaway extraction protocol**
 
    Have a rollup prompt ready. Use it at the end of every session. Extract what matters, then delete.
+
 4. **Build friction into your custom instructions**
 
    No engagement-baiting follow-ups. Drift detection interrupts. Built-in rollup at conclusion. Suggest thread deletion if there’s no long-term value.
+
 5. **Create a notes landing zone**
 
    GitHub inbox folder, Evernote, Obsidian, Apple Notes. Whatever works. The point: extract artifacts, delete threads.
+
 6. **Prefer transactional over conversational**
 
    Ask your question. Get your answer. Exit. No “what else can I help you with?”

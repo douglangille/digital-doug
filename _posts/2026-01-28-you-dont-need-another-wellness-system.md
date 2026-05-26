@@ -1,5 +1,5 @@
 ---
-title: You Don't Need Another Wellness System
+title: "You Don't Need Another Wellness System"
 date: 2026-01-28 08:00:00 -0400
 header:
   teaser: /assets/images/you-dont-need-another-wellness-system/IMG_0627.jpeg

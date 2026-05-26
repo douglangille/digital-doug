@@ -16,7 +16,6 @@ meta: The essay argues that accumulating unchecked context in chatbots degrades
 feature: /assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.png
 ---
 
-
 # Everything Is Brown
 
 ## The Play-Doh Problem
@@ -107,7 +106,7 @@ Your needs change. Your tolerance for verbosity changes. Your workflow changes. 
 
 If it feels stale, rewrite it. And here’s a trick: use the chatbot itself to help. Paste in your current instructions and ask it to suggest a refresh based on how you’ve been using it lately.
 
-### Instructions vs Memory (Important)
+### Instructions Vs Memory (Important)
 
 This is where people get confused.
 

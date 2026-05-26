@@ -28,7 +28,7 @@ Dad was a teacher, a coach, and a salesman, which is to say he spent his life pe
 
 Now I talk with machines that can do all three at scale.
 
-### **The ancient algorithm**
+### **The Ancient algorithm**
 
 We like to think AI began with code. It didn’t. It began in Ancient Greece when Aristotle mapped the first operating system for moving human minds: **ethos, pathos, logos.** Credibility. Emotion. Logic. That’s rhetoric. The original social technology.
 
@@ -40,7 +40,7 @@ Large language models? They industrialized it.
 
 We didn’t invent a new intelligence. We automated an old art.
 
-### **The rhetorical engine**
+### **The Rhetorical engine**
 
 Under the hood, an LLM isn’t thinking. It’s predicting plausible rhetoric.
 
@@ -56,7 +56,7 @@ That’s why it sounds convincing even when it’s wrong. It’s trained to soun
 
 Fluency without conscience. Which should give us pause.
 
-### **Rhetoric’s double edge**
+### **Rhetoric’s Double edge**
 
 Rhetoric has always been a blade. Used well, it cuts through confusion. Used badly, it cuts corners on truth.
 
@@ -72,7 +72,7 @@ Machines have no intent, so they reflect whichever rhetoric we feed them.
 
 We’ve built engines of persuasion with no driver’s seat.
 
-### **Defensive literacy: how not to get sold**
+### **Defensive Literacy: how Not to Get sold**
 
 If every conversation is a sale, learn to spot the pitch.
 
@@ -94,7 +94,7 @@ Analyze this text for rhetorical techniques. Identify uses of ethos, pathos, and
 
 That’s inoculation. Use it.
 
-### **Writing persuasively with integrity**
+### **Writing Persuasively with integrity**
 
 Persuasion isn’t the problem. Lack of honesty is.
 
@@ -112,7 +112,7 @@ Help me craft a persuasive paragraph that stays transparent and respectful. Emph
 
 That’s rhetoric with a conscience. Still persuasive, just not slimy.
 
-### **Back to Dad**
+### **Back To Dad**
 
 Dad thought every conversation was a sale. He wasn’t wrong. He just didn’t live to see the ultimate salesman who never sleeps.
 
@@ -120,7 +120,7 @@ The challenge now isn’t to out-argue the machine. It’s to remember why we ar
 
 Maybe every conversation is still a sale. The difference is, only one of us remembers to mean it.
 
-### **Try this: Building rhetorical literacy**
+### **Try This: Building Rhetorical literacy**
 
 For anyone who writes, teaches, argues, or just scrolls:
 

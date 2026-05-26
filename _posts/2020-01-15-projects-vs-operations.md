@@ -1,5 +1,5 @@
 ---
-title: Projects vs Operations
+title: Projects Vs Operations
 date: 2020-01-15 08:00:00 -0400
 image: /assets/images/projects-vs-operations/08efca77-7cb6-4a06-8e41-cef5d401f5ee_1280x1024.png
 header:
@@ -18,7 +18,7 @@ meta: The essay argues that employees must balance project work and operational
 feature: /assets/images/projects-vs-operations/08efca77-7cb6-4a06-8e41-cef5d401f5ee_1280x1024.png
 ---
 
-# Projects vs Operations
+# Projects Vs Operations
 
 **Life.**
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Classic vs 365 Ecosystem
+title: Microsoft Classic Vs 365 Ecosystem
 date: 2024-08-14 08:00:00 -0400
 excerpt: Change is hard.
 image: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
@@ -17,8 +17,7 @@ meta: Microsoft’s legacy Outlook architecture hampers innovation, forcing the
 feature: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
 ---
 
-
-# Microsoft Classic vs 365 Ecosystem
+# Microsoft Classic Vs 365 Ecosystem
 
 Change is hard. For everyone.
 
@@ -68,6 +67,7 @@ Let’s start with Notes. It’s easier to follow the bouncing ball. Notes is a 
 1. In Outlook Classic under the Notes tab, which is often hidden in the navigation pane, but easily brought into view.
 
    ![](/assets/images/microsoft-classic-vs-365-ecosystem/e653733b-2ad1-43da-bf21-51b092881d97_212x300.webp)
+
 2. In the Windows Sticky Note app if you login to it with your M365 credentials. This was a Windows 10 thing where Microsoft was pushing its gawd-awful Store for everything, but it’s there in Win 11 too.
 3. On the web at <https://outlook.office.com/mail/notes> and [www.onenote.com/stickynotes](https://www.onenote.com/stickynotes)
 4. In OneNote under the Sticky Notes icon (mobile and desktop apps)

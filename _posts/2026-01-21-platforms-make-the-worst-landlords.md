@@ -16,7 +16,6 @@ meta: The essay argues that platform-controlled publishing services, like Substa
 feature: /assets/images/platforms-make-the-worst-landlords/feature.png
 ---
 
-
 # Platforms Make the Worst Landlords
 
 I spent a year and a half convincing myself Substack was different. It wasn't.
@@ -64,6 +63,7 @@ Experiment concluded. Results: still prefer text files.
 Back to Jekyll, back to GitHub Pages, back to what works. Digital Doug is home.
 
 Here's the stack:
+
 - **Domain**: digital.douglangille.ca (I own it, I point it wherever)
 - **Content**: Text files in markdown (readable by humans, portable, future-proof)
 - **Storage**: GitHub (free, reliable, version controlled)
@@ -81,15 +81,19 @@ Is this overcomplicated? Maybe. Do I enjoy text files more than I should? Absolu
 Owned platform doesn't mean only one place. It means you control the source.
 
 **The Source** (new home):
+
 [digital.douglangille.ca](https://digital.douglangille.ca) is home now. All content lives here first. RSS feed available (subscribe once, and you get posts without an algorithm in the middle). There's also an email subscription option (opt-in, opt out, I'm not building a list). You decide. Revolutionary concept.
 
 **Internal NSCC** (continuing):
+
 The SharePoint Digital Doug site is still the primary channel for NSCC folks. 
 
 **Distribution** (continuing):
+
 LinkedIn: megaphone only. And some great conversation. 
 
 **Substack** (deprecated):
+
 This post is my last Substack post. I'll be removing the archive after a warranty period. 
 
 **The key point**: everything lives in my GitHub repository as text files I control. I publish to SharePoint, LinkedIn, wherever. But the source is mine.
@@ -115,12 +119,14 @@ I'm not your dad. Use whatever platform you want. Just keep a copy you control. 
 You don't need to do what I did. You need to own what you publish. These are not the same thing.
 
 **Start simple**:
+
 - Own a domain ($15/year, pick any registrar)
 - Point it at something (WordPress, GitHub, Notion, whatever)
 - Write in portable formats (markdown, plain text, anything that isn't locked)
 - Keep copies you control
 
 **Paths that work**:
+
 - WordPress.com + custom domain (low barrier, high control)
 - Write.as or similar (minimal, markdown, owned domain)
 - GitHub Pages (if technical or learning inclined)

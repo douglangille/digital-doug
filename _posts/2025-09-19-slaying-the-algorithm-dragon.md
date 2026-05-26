@@ -94,7 +94,7 @@ Ideas don’t live in silos—they stick, cross, and sparkle in the web.
 
 ---
 
-## Signal vs Noise
+## Signal Vs Noise
 
 These rules aren’t aesthetic; they protect the reading habit I rebuilt:
 

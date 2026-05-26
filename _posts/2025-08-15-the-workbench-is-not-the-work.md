@@ -17,7 +17,6 @@ meta: The essay argues that personal knowledge‑management systems should remai
 feature: /assets/images/the-workbench-is-not-the-work/e686722a-0364-4c63-9210-3adfe82a47fc_1536x1024.png
 ---
 
-
 # The Workbench Is Not the Work
 
 We love to polish our systems. Tag, colour-code, and tweak them until they gleam. But somewhere along the way, the shine starts to feel like progress. The container steals the spotlight from the content.
@@ -30,7 +29,7 @@ The truth is simple: your system should be a workbench, not a museum. A place to
 
 ---
 
-## **Zora and ZORA**
+## **Zora And ZORA**
 
 For me, that workbench is something I call **ZORA**: my single Obsidian vault for all my creative and strategic work. Inside ZORA lives **Zora**, the persona I use when working with ChatGPT or Copilot as a thinking partner.
 

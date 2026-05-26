@@ -62,6 +62,7 @@ You show up and do your reps.
 GitHub Education gives you Copilot Pro the moment you verify you're a student.
 
 **Copilot Pro** is the headline:
+
 - Unlimited code completions and chat
 - Access to multiple models: Claude Sonnet, GPT-4, Gemini, and others
 - Works everywhere: VS Code, GitHub.com, your browser, any IDE
@@ -69,9 +70,11 @@ GitHub Education gives you Copilot Pro the moment you verify you're a student.
 - And yes, even vibe coding when you just need a thing to exist
 
 **GitHub Pages** (also included):
+
 - Free website hosting
 
 **Private Repositories** (unlimited):
+
 - Work-in-progress stays hidden until you're ready to publish
 
 **How to Claim It**:
@@ -86,6 +89,7 @@ GitHub Education gives you Copilot Pro the moment you verify you're a student.
 GitHub verifies your status in 1-3 days and emails confirmation. Go back to settings, activate Copilot Pro. First use: click Copilot in the top nav, ask it something about a project you're already working on. That's the whole setup.
 
 **What Can Go Wrong** (and how to fix it):
+
 - "School email not recognized" → Upload a document instead. If you're at a college without a recognized education email domain, budget a few days and some patience.
 - "I verified but don't see benefits" → 24-hour lag sometimes. Wait, check again. Contact support if stuck.
 - "I'm not a traditional student" → Upload documentation. GitHub's flexible on what counts.
@@ -113,6 +117,7 @@ That's it. Recruiters see: person who shipped something. That's the bar. It's lo
 Copilot handles the code. You handle the copy and the data. One command to push (`git push`), GitHub does the hosting. Twenty minutes start to deployed.
 
 **What you actually need**:
+
 - GitHub account (free, 2 minutes)
 - VS Code or just the browser -- pick one and start
 - The discipline to check the work instead of blindly trust

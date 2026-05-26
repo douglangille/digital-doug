@@ -1,5 +1,5 @@
 ---
-title: 'From Files to Flow: Looping into the Future'
+title: "From Files to Flow: Looping into the Future"
 date: 2025-03-04 08:00:00 -0400
 image: /assets/images/from-files-to-flow-looping-into-the-future/4476010b-3b9c-4042-bd43-aa2a3d4df9e0_1019x631.png
 header:
@@ -42,7 +42,7 @@ This is where Microsoft Loop and Planner come in. Think of them as the dynamic d
 
 **Planner** is your project management sidekick, bringing structure and organization to the collaborative chaos. You can assign tasks, set deadlines, track progress, and keep everyone on the same page (literally and figuratively). Imagine those faculty and instructors updating their curriculum. With Loop, they can co-create learning modules, incorporating feedback from colleagues as they go. And with Planner, they can manage the project, ensuring that everything stays on track and deadlines are met. It's like having a project manager and a creative director all rolled into one.
 
-#### **Let's illustrate with a concrete example.**
+#### **Let's Illustrate with a Concrete example.**
 
 Imagine the Business program instructors, as a Faculty Curriculum Working Group, updating their "Introduction to Marketing" course. They can use Loop to collaboratively develop new learning modules, embedding videos, interactive quizzes, and links to relevant industry articles. As they work, they can get real-time feedback from each other directly within the Loop workspace. Meanwhile, they can use Planner to break down the curriculum update project into smaller tasks, assigning responsibilities and setting deadlines. This integrated approach streamlines the entire process, ensuring that the course is updated efficiently and effectively. Once the modules are finalized in Loop, they can then be easily added to the Brightspace course shell for student access by linking to the Loop content.
 
@@ -52,7 +52,7 @@ Why should you care about all this? Well, for starters, it'll make your life a w
 
 In higher education, this means more effective collaboration among faculty and staff, leading to improved curriculum development, better-planned projects, and ultimately, a higher quality learning experience for our students. It means we can work smarter, not harder, and respond more effectively to the needs of our community. Plus, Loop and Planner integrate seamlessly with other M365 tools like SharePoint and OneDrive, providing a unified and powerful collaborative environment.
 
-## **Visualizing the Ecosystem: Loop, Teams, Planner, and To Do**
+## **Visualizing The Ecosystem: Loop, Teams, Planner, and To Do**
 
 ![](/assets/images/from-files-to-flow-looping-into-the-future/fa7463f9-40d9-4d26-b5af-f9cb3bc5e640_1060x780.png)
 
@@ -82,7 +82,7 @@ Got it? Good.
 
 ![](/assets/images/from-files-to-flow-looping-into-the-future/019b6f18-6970-434c-9359-2b97b4c6d8bb_1167x1228.png)
 
-## **Planner in Action: A Visual Example**
+## **Planner In Action: A Visual Example**
 
 ![](/assets/images/from-files-to-flow-looping-into-the-future/06a44172-ab11-4330-b287-b7f4e4c78c27_1187x757.png)
 
@@ -92,7 +92,7 @@ a Planner plan in Planner
 
 the same Planner plan in Teams
 
-## **Planner and To Do: Better Together**
+## **Planner And To Do: Better Together**
 
 Planner tasks can be synced with Microsoft To Do, allowing individuals to manage their assigned tasks in a personalized way. This ensures that everyone stays on top of their responsibilities and contributes effectively to the overall project.
 
@@ -104,7 +104,7 @@ Assigned Tasks in Planner
 
 Assigned Tasks in To Do
 
-## **Loop for Meetings: Streamlining Your Discussions**
+## **Loop For Meetings: Streamlining Your Discussions**
 
 Loop can also be a great tool for managing meetings. You can create a Loop workspace for a specific meeting, share the agenda beforehand, capture meeting minutes in real time, and assign action items directly within the workspace. This keeps all meeting-related information in one central location, making it easy to follow up and track progress.
 
@@ -124,13 +124,13 @@ We know that data security is paramount, especially when dealing with sensitive 
 
 ![](/assets/images/from-files-to-flow-looping-into-the-future/0b84de29-fe66-4397-b38a-0674cb5977fc_1024x1024.webp)
 
-## **Benefits for Learners: What's in it for You?**
+## **Benefits For Learners: What's in it for You?**
 
 Learners, we haven't forgotten about you! Loop and Planner can be game-changers for group projects, making collaboration easier and more effective. Imagine our IT Business Analysis students working on a client project. They can use Loop to collaboratively develop their project proposal, incorporating feedback from their instructor and even the client directly within the workspace. They can use Planner to manage the project, assigning tasks to team members and tracking their progress. No more emailing drafts back and forth! Plus, both Loop and Planner offer mobile apps, so you can collaborate on the go, from any device – your laptop, tablet, or even your phone. Tutorials and support resources are available to help you get started.
 
 ![](/assets/images/from-files-to-flow-looping-into-the-future/e601ca97-8f04-464f-a2a0-469d39c2a162_1057x706.png)
 
-## **Making the Leap: It's Not Just About the Tech**
+## **Making The Leap: It's Not Just About the Tech**
 
 Of course, adopting new tools is only part of the equation. The real challenge is changing our mindset. It's about letting go of our attachment to static documents and embracing a more fluid and collaborative way of working. It’s about building a culture where sharing knowledge is the norm, not the exception.
 

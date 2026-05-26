@@ -1,5 +1,5 @@
 ---
-title: This Is How I'm Using Generative AI
+title: "This Is How I'm Using Generative AI"
 date: 2025-04-07 08:00:00 -0400
 image: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86-a53c8c5d5063_1024x1024.png
 header:
@@ -16,7 +16,6 @@ meta: The author argues that generative AI transforms personal information
 feature: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86-a53c8c5d5063_1024x1024.png
 ---
 
-
 # This Is How I'm Using Generative AI
 
 I used to open my web browser and go down rabbit holes searching Google or Wikipedia. I'd travel from link to link to link to link. I used these tools like some folks use TikTok and short-form video today. I’d lose time in the pursuit of ingesting more and more information. Much like these video clip sessions, the quality of the experience is, um, subjective. More often than not, I’d start on a valid Wikipedia search and end up deep-diving into the history of toilet paper. Or the philosophical problems of evil. I wish I was kidding. This kind of info collecting is still a thing for me.
@@ -27,7 +26,7 @@ What’s changed over the last year is that now I do this with LLMs. I’ll spen
 
 These are more than learning tools and an upgraded search experience. These are cognitive companions. They don’t think *for* me, but I do my best thinking *with* them.
 
-## **Tools for General Thinking and Working**
+## **Tools For General Thinking and Working**
 
 The habit that is forming for me is in using these tools as a first option instead of a search engine. I've reached the tipping point. The whole Google vs Bing thing is kinda moot for me.
 

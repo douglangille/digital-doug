@@ -16,7 +16,6 @@ meta: The essay argues that effective AI use requires aligning prompts with
 feature: /assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png
 ---
 
-
 # Intent Engineering
 
 Bob had been optimizing prompts for six months. Three thousand words of custom instructions. The AI kept missing anyway.

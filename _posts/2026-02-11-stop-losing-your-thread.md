@@ -34,6 +34,7 @@ But even with ever-expanding context windows, the AI still doesn't know what mat
 Think of the context window as the AI's working memory - it has limited space.
 
 Different models in 2026:
+
 - GPT 5.2: ~200,000 tokens
 - Claude 4.6: ~200,000 tokens  
 - Gemini 3: ~1,000,000 tokens
@@ -67,6 +68,7 @@ This is the gateway drug. Start here. Use it at the beginning of any work sessio
 ### The Problem with Conversational Output
 
 Typical AI responses look like this:
+
 - "Here's what I think you should consider..."
 - "Based on our discussion, I'd suggest..."
 - "Let me help you with that. First, let's..."
@@ -84,6 +86,7 @@ Instead of scrolling through paragraphs of prose trying to figure out what just 
 Specify output format upfront for different use cases:
 
 **1. For creative writing:**
+
 ```
 "Write the complete 500-word story. Format it with a title at 
 the top, then the story. No introduction, no explanation, no 
@@ -92,6 +95,7 @@ into a document. Story only."
 ```
 
 **2. For emails/documents:**
+
 ```
 "Write this as a finished email I can send directly. 
 Subject line, greeting, body, sign-off. No explanations 
@@ -99,6 +103,7 @@ before or after. Just the email."
 ```
 
 **3. For planning:**
+
 ```
 "Output format: numbered task list with owner and deadline. 
 Like this:
@@ -108,12 +113,14 @@ No intro, no conclusion, just the list."
 ```
 
 **4. For data/analysis:**
+
 ```
 "Present this as a markdown table with these columns: [specify]. 
 Include only the table, no preamble."
 ```
 
 **5. For code/scripts:**
+
 ```
 "Give me the complete working code with inline comments. 
 No explanations outside the code block. I should be able to 
@@ -121,6 +128,7 @@ copy-paste and run it."
 ```
 
 **6. For meeting notes:**
+
 ```
 "Format as:
 ## Decisions
@@ -136,6 +144,7 @@ Nothing else."
 ```
 
 **Key constraint phrases:**
+
 - "No preamble" / "No introduction"
 - "No explanations before or after"
 - "Copy-paste ready"
@@ -226,6 +235,7 @@ This is a rescue maneuver, not daily practice. When context is already slipping,
 Use the right scratchpad for your situation:
 
 **1. Decision/Constraint Scratchpad** - When drift is happening
+
 ```
 "Create a scratchpad of the 5 most important decisions and 
 constraints from this conversation. Format it as a bulleted 
@@ -233,6 +243,7 @@ list I can copy-paste."
 ```
 
 **2. Continuity Scratchpad** - End of session prep
+
 ```
 "If I needed to start a fresh conversation about this topic 
 tomorrow, what context should I provide? Give me a 3-4 sentence 
@@ -240,12 +251,14 @@ summary."
 ```
 
 **3. Load-Bearing Context** - Distinguish signal from noise
+
 ```
 "What's load-bearing context in this conversation vs. 
 scaffolding we can discard? List the must-keep elements."
 ```
 
 **4. Working Summary** - Mid-session checkpoint
+
 ```
 "Summarize where we are: what we've decided, what's still open, 
 and what I should focus on next. Make it copy-paste ready."
@@ -294,6 +307,7 @@ Start simple: save your rolling summaries or handoff documents as text files. Up
 Platform features like ChatGPT and Claude Projects take it further with context that persists automatically across chats within a project.
 
 You can also bake context management into your custom instructions so the AI handles it automatically. Example from my setup:
+
 ```
 If the topic shifts, interrupt with: 'We are drifting from [Original Topic]. 
 Stay here or move to a new thread?' At conclusion, provide a concise summary 
@@ -311,6 +325,7 @@ Stop treating AI like Google.
 Don't over-value the conversation. Save the outputs and delete the chat.
 
 Remember the whiteboard:
+
 - Manage the space actively
 - Keep what matters visible
 - Erase strategically
