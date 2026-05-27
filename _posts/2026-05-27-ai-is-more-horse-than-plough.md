@@ -60,7 +60,7 @@ This doesn't mean policy is useless. You still need a corral. But the corral is 
 
 The governance conversation has been backwards. We've been designing the corral. We should have been training the drivers.
 
-Driver training looks like what we were doing that Thursday afternoon.
+Driver training looks like what we were doing that afternoon.
 
 You're the driver.
 
