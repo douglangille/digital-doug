@@ -69,3 +69,5 @@ It doesn't do whatever you push it to do. It moves on its own, with its own mome
 Drive it or get dragged. Your call.
 
 Steven would say the model's wrong, because all models are. But this one's useful.
+
+Horses are willful beasts.
