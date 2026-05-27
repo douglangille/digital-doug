@@ -44,7 +44,7 @@ Here's what changes when you start thinking about AI as a horse instead of a plo
 
 Roughly 3% of Microsoft 365 commercial seats globally are Copilot-licensed. Not active usage -- just seats that have the license. Microsoft's own numbers put it around 15-16 million Copilot seats against 415-450 million M365 subscribers. That's a procurement signal, not an adoption one. And among the people who do have access, only about a third use it regularly.
 
-Nobody in that Thursday meeting was surprised. Copilot -- in its current form, for the range of needs people actually have -- often doesn't work well enough to bother.
+Nobody in that Friday meeting was surprised. Copilot -- in its current form, for the range of needs people actually have -- often doesn't work well enough to bother.
 
 A horse that won't go is just a very expensive plough.
 
