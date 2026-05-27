@@ -16,7 +16,7 @@ feature: /assets/images/ai-is-more-horse-than-plough/generated-image-1.png
 
 # AI Is More Horse Than Plough
 
-It was a Thursday afternoon in May, and [Derek McCurdy](https://www.linkedin.com/in/derek-mccurdy-538b3860/), [Ute Fiedler](https://www.linkedin.com/in/utefiedler/), [Steven Gordon](https://www.linkedin.com/in/steven-gordon-94071b84/), and I were supposed to talk about AI governance.
+It was a Friday afternoon in May, and [Derek McCurdy](https://www.linkedin.com/in/derek-mccurdy-538b3860/), [Ute Fiedler](https://www.linkedin.com/in/utefiedler/), [Steven Gordon](https://www.linkedin.com/in/steven-gordon-94071b84/), and I were supposed to talk about AI governance.
 
 We didn't stick to the agenda. We never do. That's kind of the point.
 
