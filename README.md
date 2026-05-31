@@ -23,7 +23,7 @@ This Jekyll site uses the [Minimal Mistakes](https://mmistakes.github.io/minimal
 
 ### Prerequisites
 
-- Ruby 3.1 or higher
+- Ruby 3.3 or higher
 - Bundler
 
 ### Setup
