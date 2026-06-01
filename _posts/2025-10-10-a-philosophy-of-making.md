@@ -11,6 +11,7 @@ tags:
 - foundational
 - craft-authenticity
 - technical-infrastructure
+entities: []
 meta: The essay argues that embracing plain-text simplicity and disciplined
   structure is essential for authentic making and personal productivity in a noisy
   technological age.

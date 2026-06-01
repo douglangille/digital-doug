@@ -11,6 +11,7 @@ tags:
   - interpersonal
   - prescriptive
   - governance-structure
+entities: []
 meta: The essay argues that online interactions require conscious empathy and respectful language to counter anonymity-driven hostility and preserve civil discourse.
 feature: /assets/images/how-not-to-be-a-jerk-online/2fe635c8-8f8f-4e9f-932f-ab4fe92b6eff_1024x768.jpeg
 feature_y: 50.0%

@@ -12,6 +12,7 @@ tags:
 - personal
 - prescriptive
 - productivity-systems
+entities: ["Cal Newport", "Ali Abdaal"]
 meta: The essay argues that individuals should deliberately balance technology
   use to boost productivity and joy, turning digital overload into mindful, playful
   work.

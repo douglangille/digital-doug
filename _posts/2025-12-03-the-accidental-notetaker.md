@@ -12,6 +12,7 @@ tags:
 - prescriptive
 - ai-collaboration
 - productivity-systems
+entities: []
 meta: The essay argues that personal note‑taking improves when you shift from
   forcing elaborate systems to a timed, reflective perspective on captured ideas.
 feature: /assets/images/the-accidental-notetaker/f9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.png

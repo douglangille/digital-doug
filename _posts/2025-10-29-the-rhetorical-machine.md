@@ -12,6 +12,7 @@ tags:
 - diagnostic
 - knowledge-epistemology
 - ai-collaboration
+entities: []
 meta: The essay argues that AI extends ancient rhetorical techniques, turning
   personal persuasion into scalable, automated communication that reshapes how we
   understand knowledge.

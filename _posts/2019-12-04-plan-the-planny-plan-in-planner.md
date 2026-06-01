@@ -12,6 +12,7 @@ tags:
 - prescriptive
 - governance-structure
 - technical-infrastructure
+entities: []
 meta: The essay argues that Microsoft Project is overly complex for most users,
   requiring extensive knowledge, while simpler tools like To‑Do better fit everyday
   task management.

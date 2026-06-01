@@ -10,6 +10,7 @@ tags:
 - foundational
 - knowledge-epistemology
 - ai-collaboration
+entities: ["Dave Snowden"]
 meta: The essay argues that authentic creativity requires human-centered curation,
   using personal mix‑tapes as a model for AI‑augmented artistic connection.
 feature: /assets/images/the-mix-tape/feature.png

@@ -11,6 +11,7 @@ tags:
 - personal
 - prescriptive
 - productivity-systems
+entities: []
 meta: The author advises personal screen users to adopt regular breaks, blinking,
   hydration, and lens cleaning to reduce eye strain and improve well‑being.
 feature: /assets/images/psa-take-care-of-your-eyes/46fa4a12-43a8-4642-bccf-065c2b5afa7d_768x509.png

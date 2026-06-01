@@ -11,6 +11,7 @@ tags:
 - personal
 - prescriptive
 - productivity-systems
+entities: ["Cal Newport", "David Allen"]
 meta: The essay argues that individuals should adopt JOMO by limiting email
   engagement to reduce cognitive overload and improve December productivity.
 feature: /assets/images/the-joy-of-missing-out-an-email-manifesto-for-december/7a216b0b-8702-404a-a671-f4b7b954e9d2_1536x1024.png

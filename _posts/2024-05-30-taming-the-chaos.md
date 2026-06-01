@@ -10,6 +10,7 @@ tags:
 - personal
 - prescriptive
 - productivity-systems
+entities: []
 meta: The essay argues that adopting a strategic digital calendar and task
   manager like Outlook and To Do dramatically improves personal productivity and reduces
   overwhelm.

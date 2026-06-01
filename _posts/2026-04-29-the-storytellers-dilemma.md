@@ -6,6 +6,7 @@ tags:
   - foundational
   - craft-authenticity
   - ai-collaboration
+entities: ["James Patterson"]
 date: 2026-04-29 08:00:00 -0400
 header:
   teaser: /assets/images/the-storytellers-dilemma/feature.png

@@ -9,6 +9,7 @@ tags:
 - institutional
 - diagnostic
 - governance-structure
+entities: []
 meta: The essay argues that modern institutional incentives erase the cognitive
   space for rough drafts, suppressing uncertain, half‑formed ideas.
 feature: /assets/images/we-killed-the-places-where-ideas-could-be-dumb/generated-image-5.png

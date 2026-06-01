@@ -10,6 +10,7 @@ tags:
 - prescriptive
 - ai-collaboration
 - craft-authenticity
+entities: []
 meta: The essay argues that AI, when transparently integrated into personal
   writing workflows, functions merely as a collaborative tool rather than an ethical
   dilemma.

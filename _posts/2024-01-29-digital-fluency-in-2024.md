@@ -12,6 +12,7 @@ tags:
 - institutional
 - foundational
 - knowledge-epistemology
+entities: ["Marc Prensky"]
 meta: The essay argues that digital fluency requires integrating literacy,
   functional tool mastery, and wellbeing to effectively create, communicate, and sustain
   digital work.

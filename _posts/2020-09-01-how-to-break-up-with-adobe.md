@@ -12,6 +12,7 @@ tags:
 - diagnostic
 - governance-structure
 - technical-infrastructure
+entities: []
 meta: Institutions should abandon Adobe’s monopolistic licensing by choosing
   alternative tools, reducing revenue reliance and protecting students from predatory
   practices.

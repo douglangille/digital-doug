@@ -11,6 +11,7 @@ tags:
 - prescriptive
 - ai-collaboration
 - productivity-systems
+entities: []
 meta: The essay argues that using AI tools like Copilot, ChatGPT, and Claude
   as structured brainstorming aids can overcome procrastination and improve presentation
   quality.

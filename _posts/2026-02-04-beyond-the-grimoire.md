@@ -10,6 +10,7 @@ tags:
 - foundational
 - knowledge-epistemology
 - ai-collaboration
+entities: []
 meta: The essay argues that obsessively collecting AI prompts hinders genuine
   mastery, urging individuals to focus on thoughtful, purpose‑driven AI collaboration.
 feature: /assets/images/beyond-the-grimoire/feature.png

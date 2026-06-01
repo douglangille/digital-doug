@@ -14,6 +14,7 @@ tags:
 - prescriptive
 - productivity-systems
 - ai-collaboration
+entities: []
 meta: The essay argues that Goblin Tools' AI-powered applications uniquely
   boost neurodivergent knowledge workers' productivity and focus, urging adoption.
 feature: /assets/images/some-goblins-are-kinda-cute/4fdbe2a1-d88e-4a56-8c98-f625a982f514_1792x1024.png

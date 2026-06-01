@@ -11,6 +11,7 @@ tags:
 - personal
 - prescriptive
 - productivity-systems
+entities: ["David Allen"]
 meta: The essay argues that external disruptions, not lack of will, derail
   personal productivity, highlighting the need for resilient task‑management systems.
 feature: /assets/images/tasks-and-lists/8ef5ddb4-21bf-40a6-861a-d552199057bc_1200x734.jpeg

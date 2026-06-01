@@ -12,6 +12,7 @@ tags:
 - prescriptive
 - technical-infrastructure
 - governance-structure
+entities: []
 meta: The essay argues that organizations should replace fragmented file‑based
   sharing with integrated, flow‑oriented collaboration platforms to eliminate version
   chaos.

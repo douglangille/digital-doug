@@ -12,6 +12,7 @@ tags:
 - personal
 - prescriptive
 - productivity-systems
+entities: ["David Allen", "Cal Newport"]
 meta: The author critiques their fragmented planning setup, arguing that combining
   context‑based reminders across analog and digital tools improves personal productivity.
 feature: /assets/images/how-i-plan-my-week/8ce6b7d8-3010-48f5-8fa2-e872e24f9e77_1280x853.jpeg

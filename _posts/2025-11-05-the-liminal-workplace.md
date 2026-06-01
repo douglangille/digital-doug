@@ -12,6 +12,7 @@ tags:
 - institutional
 - diagnostic
 - governance-structure
+entities: []
 meta: The essay argues that higher‑education workplaces linger in a liminal
   pause, where outdated practices persist while new learning and governance pathways
   remain undefined.

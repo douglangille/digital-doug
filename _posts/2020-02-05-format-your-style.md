@@ -12,6 +12,7 @@ tags:
 - personal
 - prescriptive
 - technical-infrastructure
+entities: []
 meta: The essay argues that adopting plain‑text and markdown, then converting
   with Pandoc, is a sustainable, efficient workflow for document creation.
 feature: /assets/images/format-your-style/e35be88a-afa4-4328-ba73-afb8a6cf6e9a_580x386.jpeg

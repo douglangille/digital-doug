@@ -12,6 +12,7 @@ tags:
 - diagnostic
 - knowledge-epistemology
 - governance-structure
+entities: []
 meta: Nova Scotia must treat AI as public infrastructure, ensuring affordable
   universal access to prevent widening digital inequity.
 feature: /assets/images/ai-is-the-new-literacy/ca90c7c8-a9a1-4012-a671-137311065956_1536x1024.png

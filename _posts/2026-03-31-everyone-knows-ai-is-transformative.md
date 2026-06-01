@@ -9,6 +9,7 @@ tags:
 - institutional
 - diagnostic
 - governance-structure
+entities: []
 meta: The essay diagnoses institutional AI chaos, urging coordinated governance
   structures and collaborative frameworks to transform fragmented initiatives into
   effective action.

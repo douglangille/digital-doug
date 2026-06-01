@@ -6,6 +6,7 @@ tags:
   - diagnostic
   - productivity-systems
   - ai-collaboration
+entities: ["David Allen", "Cal Newport"]
 date: 2026-05-20 08:00:00 -0400
 header:
   teaser: /assets/images/eight-bullet-journals/generated-image-1.png

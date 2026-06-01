@@ -11,6 +11,7 @@ tags:
 - diagnostic
 - technical-infrastructure
 - governance-structure
+entities: []
 meta: The essay argues that platform-controlled publishing services, like Substack,
   act as restrictive landlords, urging creators to adopt independent technical infrastructure.
 feature: /assets/images/platforms-make-the-worst-landlords/feature.png
