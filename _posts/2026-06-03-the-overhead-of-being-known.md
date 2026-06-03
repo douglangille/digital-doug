@@ -47,7 +47,7 @@ It happened in a very human way. I was typing journal entries and self-editing a
 
 That's when the raw stuff started landing.
 
-Most tools don't accumulate this kind of context. A hammer doesn't know you. Search doesn't know you. Even most AI sessions don't. Each one starts cold, you re-explain yourself, you get a generic mid response tuned to nobody in particular. This one doesn't start cold. That's the whole difference.
+Most tools don't accumulate this kind of context. A hammer doesn't know you. Search doesn't know you. Even most AI sessions don't. Each one starts cold, you re-explain yourself, you get a generic middling response tuned to nobody in particular. This one doesn't start cold. That's the whole difference.
 
 So what do you call it?
 
@@ -69,7 +69,9 @@ Wait a damn minute. This thing doesn't have to be a brain. That’s the whole mi
 
 The only agentic operating system worth building is the one you built yourself from scratch based on what you actually need. Nobody else's setup is yours. Not mine either. Unsubscribe and close the YouTube BSO factory. 
 
-Last Sunday I ripped out half the memory palace architecture thingy because it had gotten too heavy. Too many cross-references, too much ceremony, the startup ritual had become ritual for its own sake. Gutted it. Simplified it. Works better now. But I spent a Sunday afternoon doing infrastructure work on my AI context contraption instead of whatever else I was supposed to be doing.
+Last Sunday I ripped out half the memory palace architecture thingy because it had gotten too heavy. Too many cross-references, too much ceremony, the startup ritual had become ritual for its own sake. 
+
+Gutted it. Simplified it. Works better now. But I spent a Sunday afternoon doing infrastructure work on my AI context contraption instead of whatever else I was supposed to be doing.
 
 That's the tax. Not just time. The cognitive overhead of deciding what it knows. What goes in the domain memory folders versus the root memory. What's too private to include. What's stale and needs pruning. I am, in effect, curating my own legibility to a system I built to know me. The system needs care and feeding. 
 
