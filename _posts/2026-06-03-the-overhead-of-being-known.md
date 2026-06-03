@@ -64,7 +64,7 @@ I watched approximately seventeen thousand YouTube videos by seventeen thousand 
 
 Fiddling is more than a hobby. It's a lifestyle choice.
 
-Wait a damn minute. This thing doesn't have to be a brain. That’s the whole mistake. It needs to be memory and a process manager. Hold the thread, not own the thinking. Move to lean domain files that mattered to me. Current state only, no history, no ceremony. Less to maintain. Actually readable.
+Wait a damn minute. This thing doesn't have to be a brain. That’s the whole mistake. It needs to be memory and a process manager. Hold the thread, not own the thinking. Move to lean domain files that matter to me. Current state only, no history, no ceremony. Less to maintain. Actually readable.
 
 The only agentic operating system worth building is the one you built yourself from scratch based on what you actually need. Nobody else's setup is yours. Not mine either. Unsubscribe and close the YouTube BSO factory. 
 
