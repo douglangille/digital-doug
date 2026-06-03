@@ -53,44 +53,40 @@ So what do you call it?
 
 Not a tool. Tools don't have job descriptions you wrote. Not a collaborator. It has no stake in the outcome, no opinion it's protecting. Not a service. Services don't have memory.
 
-The closest I've got: a working relationship with a specific contract. The role is defined: thinking partner, not decision-maker. The domain map is enforced: what happens at work stays at work, the fiction voices don't bleed into the essays. There are explicit instructions about when to push back and when to just do the damn work.
+The closest I've got: a working relationship with a specific contract. The role is defined: thinking partner, not decision-maker. The domain map is enforced: what happens at work stays at work, the fiction voices don't bleed into the essays. There are explicit instructions about when to push back and when to just do the bloody work.
 
-I manage it the way you manage a relationship, because that's what it responds to. I update the context when things change. I drop a save-point -- my name for the shutdown routine, *Let’s-a-go Mario*, at the end of sessions or when the context gets full, so the state stays current. I've made deliberate decisions about what it knows and doesn't know.
+I manage it the way you manage a relationship, because that's what it responds to. I update the context when things change. I drop a save-point -- my name for the shutdown routine -- *Let’s-a-go, Mario* -- at the end of sessions or when the context gets full, so the state stays current. I've made deliberate decisions about what it knows and doesn't know.
 
 That's maintenance. That's overhead. That's also, weirdly, care.
 
-How I got here: my brain likes all the Bright Shiny Objects. It goes down rabbit hole side quests until the inevitable conclusion that it was all a waste of time, at which point it has already gotten bored and moved on. That's how I learn. Maybe you do too.
+I chase all the BSOs -- Bright Shiny Objects. Go down rabbit hole side quests until the inevitable conclusion that it was all a waste of time, at which point I’m suitably bored and move on. That's how I learn. Maybe you do too.
 
-I watched approximately seventeen thousand YouTube videos by seventeen thousand AI YouTube Bros about their eccentric AI OS setups. Followed all of it. Built session-state memory that logged every moment of every interaction. Filled up with entries neither I nor the agent would ever read again. Built Karpathy's LLM Wiki that failed, then figured out what I actually needed to do to make Doug's LLM Wiki work. Mistook the Obsidian graph view for a useful thing rather than a beautiful distraction.
+I watched approximately seventeen thousand YouTube videos by seventeen thousand AI Infuencer Bros about their eccentric AI OS setups. Followed a bunch of it. Built session-state memory that logged every moment of every interaction. Filled up with entries neither I nor the agent would ever read again. Built Karpathy's LLM Wiki that failed, then figured out what I actually needed to do to make Doug's LLM Wiki work. Mistook the Obsidian graph view for a useful thing rather than a beautiful distraction.
 
-Chased all the sparkly things. Paid for it in Sundays. Fiddling is more than a hobby. It's a lifestyle choice.
+Fiddling is more than a hobby. It's a lifestyle choice.
 
-Wait a damn minute. This thing doesn't need to be a brain. That was the whole mistake. It needs to be memory and a process manager. Hold the thread, not own the thinking. Moved to lean domain files -- current state only, no history, no ceremony. Less to maintain. Actually readable.
+Wait a damn minute. This thing doesn't have to be a brain. That’s the whole mistake. It needs to be memory and a process manager. Hold the thread, not own the thinking. Move to lean domain files that mattered to me. Current state only, no history, no ceremony. Less to maintain. Actually readable.
 
-The only agentic operating system worth building is the one you built yourself from scratch based on what you actually need. Nobody else's setup is yours. Not mine either.
+The only agentic operating system worth building is the one you built yourself from scratch based on what you actually need. Nobody else's setup is yours. Not mine either. Unsubscribe and close the YouTube BSO factory. 
 
-Nobody tells you about building a system that knows you: it needs feeding.
+Last Sunday I ripped out half the memory palace architecture thingy because it had gotten too heavy. Too many cross-references, too much ceremony, the startup ritual had become ritual for its own sake. Gutted it. Simplified it. Works better now. But I spent a Sunday afternoon doing infrastructure work on my AI context contraption instead of whatever else I was supposed to be doing.
 
-Last Sunday I ripped out half the memory architecture because it had gotten too heavy. Too many cross-references, too much ceremony, the startup ritual had become ritual for its own sake. Simplified it. Works better now. But I spent a Sunday afternoon doing infrastructure work on my AI context instead of whatever else I was supposed to be doing.
-
-That's the tax. Not just time. The cognitive overhead of deciding what it knows. What goes in the work memory versus the root memory. What's too private to include. What's stale and needs pruning. I am, in effect, curating my own legibility to a system I built to know me.
+That's the tax. Not just time. The cognitive overhead of deciding what it knows. What goes in the domain memory folders versus the root memory. What's too private to include. What's stale and needs pruning. I am, in effect, curating my own legibility to a system I built to know me. The system needs care and feeding. 
 
 The irony isn't subtle: I built this to reduce friction. Now I manage the friction of maintaining it.
 
 This post was written inside the system it's describing.
 
-The corpus of my blog archive fed the angle selection -- what I'd already covered, what was sitting in the composting queue, what nobody was writing yet. The journal fed the pre-drafting interview. My essay workflow kept me on track. The wiki held the research. Everything in the vault is what built this post.
+The corpus of my blog archive fed the angle selection -- what I'd already covered, what was sitting in the composting heap, what nobody was writing yet. The journal fed the pre-drafting interview. My essay workflow kept me on track. The wiki held the research. Everything in the vault is what built this post.
 
-The aunt is in there too, by the way. That detail didn't ask permission either.
+My aunt is in there too, by the way. That detail didn't ask permission either.
 
-It's midnight. The spaghetti sauce is cool and ready to bag up. This post goes up at 8am. I started writing at ten o'clock.
+I started writing at ten o’clock. It's now midnight. The spaghetti sauce is cool and ready to bag up. This post goes up at 8am after I read it over to edit out the dumb and tired bits. 
 
-That's what it does. It holds the context so I don't have to. It keeps the thread when my brain wants to wander to something ever shinier. It lets me finish the thought.
+Anyway. That's what my system does. It holds the context so I don't have to. It keeps the thread when my brain wants to wander to something ever shinier. It lets me finish the thought.
 
 It's an accountability tool for my own thinking. Because I needed something that would catch me when I started fiddling instead of finishing, and this is what I built.
 
 Because. That's why.
-
-I've stopped trying to name it. The name doesn't matter. What matters is that it holds the thread when I can't, and lets me finish the thought.
 
 That's enough.
