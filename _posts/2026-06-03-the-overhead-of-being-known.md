@@ -1,6 +1,6 @@
 ---
 title: The Overhead of Being Known
-date: 2026-06-03 08:00:00 -0400
+date: 2026-06-03 08:00:00 -0300
 layout: post
 tags:
   - personal
