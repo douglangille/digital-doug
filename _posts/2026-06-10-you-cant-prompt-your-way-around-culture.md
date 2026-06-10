@@ -96,8 +96,8 @@ The technique is a few minutes with a prompt. Clean chat, private mode so it doe
 
 Then and only then should you give it your plan for adversarial review. 
 
-The real world discipline is building a culture where dissent is actually safe to voice. Where a faculty member can say "this treats our governance as friction" and not risk a performance review. Where a director can challenge the VP's direction without signaling disloyalty. Where the room can hold the hard question without folks clen. "What if our core assumption is wrong?” without everyone's jaw tightening.
+The real world discipline is building a culture where dissent is actually safe to voice. Where a faculty member can say "this treats our governance as friction" and not risk a performance review. Where a director can challenge the VP's direction without signaling disloyalty. Where people can hold the hard question without grinding their teeth or clenching their ass-cheeks: "what if our core assumption is wrong?” 
 
-Until you have the discipline, the technique is theater. The model learns what the institution already knows: disagreement is expensive. And it gives that back to you in confident, fluent prose.
+Until you have the discipline, any AI red teaming technique is theater. The model reflects what the institution already knows: disagreement is expensive. And it lies to you in confident, fluent prose.
 
 Notes it. Files it.
