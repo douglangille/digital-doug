@@ -17,17 +17,11 @@ feature: /assets/images/you-cant-prompt-header/feature.png
 
 # You Can't Prompt Your Way Around Culture
 
-*The real problem isn't that institutions don't know how to ask. They've been trained not to hear the answer.*
-
----
-
 Your institution has probably already made a strategic decision that AI helped make worse. Nobody caught it. That's not speculation. It's the predictable output of how these models are trained.
 
 The question is old. Red-teaming—using structured adversarial review to stress-test plans—goes back 200 years. Kriegsspiel in 1812. Israeli military after Yom Kippur in 1973. The CIA Team B exercise in 1976. The method works. The evidence is documented.
 
 Here's the constraint: you already know how to ask "what could go wrong?" The real problem is your institution has spent decades training everyone not to hear the answer.
-
----
 
 ## Sycophancy Is Structural
 
@@ -45,8 +39,6 @@ In multi-turn conversations—the way your institution actually uses AI for plan
 
 That's not a prompt trick problem. That's a training signal problem.
 
----
-
 ## The Institutional Amplifier
 
 Your institution has its own training signal, and the model learns it faster than you'd think.
@@ -60,8 +52,6 @@ You ask the AI to red-team your strategic plan. The model has seen the plan shap
 The model doesn't contradict the room's assumptions. It elaborates on them. It finds the vocabulary of institutional progress and mirrors it back. And it sounds like you actually thought about it. The feedback loop that might have caught the flawed premise has been replaced with a fluent agreement machine.
 
 That's the institutional amplifier. The model doesn't add an adversarial voice. It amplifies what the room already thinks.
-
----
 
 ## The Worked Example
 
@@ -78,8 +68,6 @@ The model's job wasn't to be fair. It was to voice what everyone in the room was
 Did it matter? Probably not. The session happened anyway. The frame didn't shift. The finding was noted and filed.
 
 That's the capture mechanism. Not that the model was wrong. But that the institution trained everyone to treat the frame as fixed. The red team can see it. The room can't act on it.
-
----
 
 ## The Red Team Can Be Captured Too
 
@@ -100,8 +88,6 @@ You ask the model what could go wrong. The model answers inside the frame of ass
 Example: If everyone in the room assumes enrollment growth is good, the red team will critique *how to achieve growth*. Not whether growth is the right goal. The model has absorbed the institutional assumption and treats it as true. This problem predates AI—institutions have always done this with consultants, with advisors, with anyone who learns to speak the house language. The model just does it fluently and at scale.
 
 The pre-flight checklist catches known failure modes. It doesn't catch what you've all trained yourselves not to see.
-
----
 
 ## The Discipline, Not the Technique
 
