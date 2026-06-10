@@ -99,6 +99,7 @@ Then and only then should you give it your plan for adversarial review.
 The real world discipline is building a culture where dissent is actually safe to voice. Where a faculty member can say "this treats our governance as friction" and not risk a performance review. Where a director can challenge the VP's direction without signaling disloyalty. Where people can hold the hard question without grinding their teeth or clenching their ass-cheeks: "what if our core assumption is wrong?” 
 
 Until you have the discipline, any AI red teaming technique is theater. The model reflects what the institution already knows. It will continue to treat dissent as expensive, and reward the people who keep moving forward.
+
 And lie to you in confident, fluent prose.
 
 Note it. File it.
