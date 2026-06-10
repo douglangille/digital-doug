@@ -7,12 +7,13 @@ tags:
   - diagnostic
   - governance-structure
   - ai-collaboration
-meta: "Red-teaming works as a technique, but institutions trained to suppress dissent capture the critique before anyone can act on it. You can't prompt your way around culture."
-excerpt: "Institutions don't know how to listen. They've been trained not to."
+meta: Red-teaming works as a technique, but institutions trained to suppress dissent capture the critique before anyone can act on it. You can't prompt your way around culture.
+excerpt: Institutions don't know how to listen. They've been trained not to.
 header:
   teaser: /assets/images/you-cant-prompt-header/feature.png
   overlay_image: /assets/images/you-cant-prompt-header/feature.png
 feature: /assets/images/you-cant-prompt-header/feature.png
+feature_y: 50.0%
 ---
 
 # You Can't Prompt Your Way Around Culture
