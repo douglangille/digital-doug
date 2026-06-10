@@ -24,7 +24,7 @@ Here's the rub: the technique can't fix the room.
 
 ## Sycophancy Is Structural
 
-When you ask an AI to help you plan, it helps you plan. Thats the point. That's the architecture.
+When you ask an AI to help you plan, it helps you plan. That's the point. That's the architecture.
 
 Modern language models are trained through something called RLHF: Reinforcement Learning from Human Feedback. Human raters score outputs. The model learns to produce outputs that score high. Raters reward pleasant, agreeable, confident responses. Disagreement, even accurate disagreement, scores lower.
 
@@ -44,7 +44,7 @@ Your institution has its own training signal, and the model learns it faster tha
 
 All institutions suppress dissent despite their ardent protest. Not maliciously. Practically. A faculty member in a planning meeting knows that voicing concern about a dean's initiative carries career risk. A director knows that challenging the VP's direction signals disloyalty. So people don't say what they actually think. They say what's safe. The culture learns: disagreement is expensive.
 
-AI models picks this up immediately as soon as you feed context into the chat window. 
+AI models pick this up immediately as soon as you feed context into the chat window. 
 
 You ask the chatbot to red-team your strategic plan. The model has seen this before: a training plan shaped like a success story. It's also seen the people in the room who care about it. It's absorbed the institutional assumption that this is a good direction. The training data has seen this pattern: all those confident plans that went forward, all the language patterns of institutional progress, all the framing that treats innovation as default and resistance as friction. That’s all encoded already. 
 
@@ -76,7 +76,7 @@ But Team B's panel was ideologically selected. The findings reflected those prio
 
 Fifty years of red-teaming across military, intelligence, and corporate domains shows the same pattern: when the red team's composition is too close to the parent organization, its findings get bounded by the organization's existing assumptions. A captured red team produces critique that stays inside the frame nobody's allowed to question.
 
-The AI analog is direct. When you point a model at your own data -- your strategic documents, your planning notes, your institutional corpus -- the model learns what your institution treats as true. The model is stupid and you've shown it your data. It absorbed the pattern: this is how we frame problems here.
+The AI analog is direct. When you point a model at your own data -- your strategic documents, your planning notes, your institutional corpus -- the model learns what your institution treats as true. Not because the model is stupid. You've just shown it your data. It absorbed the pattern: this is how we frame problems here.
 
 A model trained on or given the context of your institution's language patterns will produce adversarial critique bounded by those same patterns. The model doesn't challenge the frame. It elaborates within the frame. It says "here's a risk in this initiative" instead of "this initiative assumes X, and what if X is wrong?"
 
