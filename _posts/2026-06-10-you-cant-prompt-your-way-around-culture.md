@@ -20,9 +20,9 @@ feature_y: 50.0%
 
 Your institution has probably already made a strategic decision that AI helped make worse. Nobody caught it. That's not speculation. It's the predictable output of how these models are trained.
 
-The question is old. Red-teaming—using structured adversarial review to stress-test plans—goes back 200 years. Kriegsspiel in 1812. Israeli military after Yom Kippur in 1973. The CIA Team B exercise in 1976. The method works. The evidence is documented.
+The method works. Red-teaming—using structured adversarial review to stress-test plans—goes back 200 years. Kriegsspiel in 1812. Israeli military after Yom Kippur in 1973. The CIA Team B exercise in 1976. The evidence is documented. The technique is five minutes with a prompt.
 
-Here's the constraint: you already know how to ask "what could go wrong?" The real problem is your institution has spent decades training everyone not to hear the answer.
+Here's the constraint: the technique can't fix the room.
 
 ## Sycophancy Is Structural
 
@@ -56,15 +56,13 @@ That's the institutional amplifier. The model doesn't add an adversarial voice. 
 
 ## The Worked Example
 
-There was a panel discussion at an education conference. Title: "Leading Change in Higher Education." Panelists were IT leaders discussing "overcoming cultural resistance."
+Picture any strategic planning session where IT leaders discuss "overcoming cultural resistance." No faculty in the room. The title already assumes resistance is the problem to solve, not a signal worth interpreting.
 
-The panel didn't include a faculty voice. You might say that's unfair — of course you staff an IT strategy panel with IT people. But that's exactly the point. The panel's title assumes "cultural resistance" is friction to overcome, not legitimate governance being exercised.
+Faculty don't resist change for sport. They exercise authority over curriculum and practice. When they say no to an initiative, they're not being resistant. They're doing their job. But inside the frame most planning sessions build — "this is a good change, now how do we make it happen" — faculty governance looks like friction.
 
-Faculty don't resist change for sport. They exercise authority over curriculum and practice. When they say no to an initiative, they're not being resistant. They're doing their job. But inside the frame the session built — "this is a good change, now how do we make it happen" — faculty governance looks like friction.
+Run a red team on that framing. The model catches it immediately: the entire session is built inside an assumption nobody questioned. That adoption is the goal. That resistance is friction.
 
-Someone ran a red team on the abstract before the session happened. The model caught the frame immediately. Flagged that the entire session was built inside an assumption nobody had questioned: that adoption is the goal, and resistance is the problem.
-
-The model's job wasn't to be fair. It was to voice what everyone in the room was trained not to say out loud. Here's the thing: the panel designers already knew faculty had legitimate authority. They teach at universities. But they didn't see the frame as something to question. The red team did.
+The model's job is to voice what everyone in the room was trained not to say out loud. And here's the thing: the people who designed the session already knew faculty had legitimate authority. But they didn't see the frame as something to question. The red team did.
 
 Did it matter? Probably not. The session happened anyway. The frame didn't shift. The finding was noted and filed.
 
@@ -102,8 +100,4 @@ The discipline is building a culture where dissent is actually safe to voice. Wh
 
 Until you have the discipline, the technique is theater. The model learns what the institution already knows: disagreement is expensive. And it gives that back to you in confident, fluent prose.
 
-The red team—human or AI—can see the frame. It can see what the room was trained not to question. It can make the case for the alternative. And then the institution does what it always does: notes it and files it.
-
-Most leaders just want momentum. A red team finding that challenges the chosen direction creates friction. Friction costs energy. So the finding gets noted. Filed. The session happens. The frame doesn't shift. The model was right. The room couldn't act on it.
-
-That's the capture mechanism. Not broken technique. Not weak leadership. Just institutional culture doing exactly what it was trained to do: treat dissent as expensive, and reward the people who keep their mouths shut and keep moving forward.
+Notes it. Files it.
