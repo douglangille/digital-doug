@@ -12,6 +12,7 @@ header:
   teaser: /assets/images/you-cant-prompt-header/feature.png
   overlay_image: /assets/images/you-cant-prompt-header/feature.png
 feature: /assets/images/you-cant-prompt-header/feature.png
+feature_y: 50.0%
 ---
 
 # You Can't Prompt Your Way Around Culture
