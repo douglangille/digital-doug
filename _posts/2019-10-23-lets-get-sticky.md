@@ -17,6 +17,7 @@ meta: The essay argues that using a sideways peel prevents sticky notes from
 feature: /assets/images/lets-get-sticky/22c585b5-f5d2-410c-bffb-0ce8047bc577_447x393.jpeg
 ---
 
+
 # Let’s Get Sticky!
 
 **I love sticky notes.**
@@ -39,7 +40,7 @@ And it doesn’t show up in Outlook on the web. Also fine.
 
 - Windows Sticky Notes app in Windows 10
 - The Sticky Notes tab in OneNote for iOS and iPadOS
-- On the web at <https://www.onenote.com/stickynotes>
+- On the web at [https://www.onenote.com/stickynotes](https://www.onenote.com/stickynotes)
 
 If I were a betting-man, I’d wager that there will eventually be a Sticky Notes tab in OneNote and Outlook on the web. It makes sense. But “making sense” hasn’t always been in Microsoft’s wheelhouse.
 
