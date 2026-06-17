@@ -1,5 +1,5 @@
 ---
-title: "Make It So. Make It Stop."
+title: Make It So. Make It Stop.
 date: 2026-06-17 08:00:00 -0300
 excerpt: "On flow, AI, and who's holding the wheel."
 tags:
