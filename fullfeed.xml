@@ -19,10 +19,6 @@ permalink: /fullfeed.xml
       <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 
-      {% if post.excerpt %}
-      <summary>{{ post.excerpt | strip_html | normalize_whitespace | xml_escape }}</summary>
-      {% endif %}
-
       {% assign feature_img = post.header.teaser | default: post.header.overlay_image | default: post.feature %}
       {% if feature_img %}
         {% assign feature_url = feature_img | absolute_url %}
@@ -34,8 +30,7 @@ permalink: /fullfeed.xml
       {% endif %}
 
       <description><![CDATA[
-      {% if feature_url %}<figure><img src="{{ feature_url }}" alt="{{ post.title }}" style="max-width:100%; margin-bottom:1em;"></figure>{% endif %}
-      {% if post.excerpt %}<div style="font-size: 1.1em; font-style: italic; margin: 1.5em 0; padding: 1em 0; border-top: 1px solid #e5e5e5; border-bottom: 1px solid #e5e5e5;">{{ post.excerpt | strip_html | normalize_whitespace }}</div>{% endif %}
+      {% if feature_url %}<img src="{{ feature_url }}" alt="{{ post.title }}" style="max-width:100%; margin-bottom:1em;">{% endif %}
       {{ body_html }}
       ]]></description>
 
