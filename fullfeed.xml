@@ -12,7 +12,7 @@ permalink: /fullfeed.xml
     <language>{{ site.lang | default: "en-US" }}</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 
-    {% for post in site.posts limit:18 %}
+    {% for post in site.posts limit:38 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ post.url | absolute_url }}</link>
