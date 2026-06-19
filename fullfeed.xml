@@ -34,8 +34,8 @@ permalink: /fullfeed.xml
       {% endif %}
 
       <description><![CDATA[
-      {% if feature_url %}<img src="{{ feature_url }}" alt="{{ post.title }}" style="max-width:100%; margin-bottom:1em;">{% endif %}
-      {% if post.excerpt %}<p><em>{{ post.excerpt | strip_html | normalize_whitespace }}</em></p>{% endif %}
+      {% if feature_url %}<figure><img src="{{ feature_url }}" alt="{{ post.title }}" style="max-width:100%; margin-bottom:1em;"></figure>{% endif %}
+      {% if post.excerpt %}<div style="font-size: 1.1em; font-style: italic; margin: 1.5em 0; padding: 1em 0; border-top: 1px solid #e5e5e5; border-bottom: 1px solid #e5e5e5;">{{ post.excerpt | strip_html | normalize_whitespace }}</div>{% endif %}
       {{ body_html }}
       ]]></description>
 
