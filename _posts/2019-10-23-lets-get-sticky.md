@@ -17,7 +17,6 @@ meta: The essay argues that using a sideways peel prevents sticky notes from
 feature: /assets/images/lets-get-sticky/22c585b5-f5d2-410c-bffb-0ce8047bc577_447x393.jpeg
 ---
 
-
 # Let’s Get Sticky!
 
 **I love sticky notes.**
