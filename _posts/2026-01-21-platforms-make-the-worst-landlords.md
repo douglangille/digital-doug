@@ -19,6 +19,12 @@ feature: /assets/images/platforms-make-the-worst-landlords/feature.png
 
 # Platforms Make the Worst Landlords
 
+_June 2026: This post originally ran in January when I rage-quit Substack for owned infrastructure. I still believe every word of it. Platforms make bad landlords, algorithms make worse editors, and your content belongs somewhere you control._
+
+_What changed: I remembered that a perfectly architected workbench no one visits is just a very principled shed. Substack is back as a secondary amplifier — the source of truth stays at digital.douglangille.ca. Same content. More doors._
+
+---
+
 I spent a year and a half convincing myself Substack was different. It wasn't.
 
 Digital Doug is moving. 
