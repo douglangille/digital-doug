@@ -16,8 +16,6 @@ feature: /assets/images/fashionably-late/feature.png
 
 # Fashionably Late
 
-## Shadow AI Meets Governance
-
 I was at a Gartner local event Tuesday morning at the Brightwood in Dartmouth. It was pissing buckets and still there was some dude out there on the greens. I admire the dedication, yet fail to understand the compulsion. 
 
 The topic of the sessions was AI, as it always is these days. Gartner always brings their game. In one session, the presenter made the case for defined pilots and strong governance first. Good slide. Reasonable pitch.
