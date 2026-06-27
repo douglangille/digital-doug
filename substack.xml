@@ -11,7 +11,7 @@ permalink: /substack.xml
 <atom:link href="{{ "/substack.xml" | absolute_url }}" rel="self" type="application/rss+xml"/>
 <language>{{ site.lang | default: "en-US" }}</language>
 <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    {% for post in site.posts limit:39 %}
+    {% for post in site.posts limit:5 %}
     {% assign post_url = post.url | absolute_url %}
     {% assign feature_img = post.header.teaser | default: post.header.overlay_image | default: post.feature %}
     {% if feature_img %}
