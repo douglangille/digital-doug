@@ -26,7 +26,7 @@ Technology is an integral part of our lives. How we use and learn from it varies
 Digital fluency has three main components: digital literacy, digital currency and digital wellbeing.
 
 - **Digital literacy** is about foundational skills. It is how we use technology to create, discover and communicate.
-- **Digital currency**is the knobs and dials. It is how to use specific features of software and platforms.
+- **Digital currency** is the knobs and dials. It is how to use specific features of software and platforms.
 - **Digital wellbeing** is awareness and practice. It is how we use technology in a healthy and sustainable way. This includes:
 
   - **digital hygiene**: protecting privacy, data and devices from cyber threats.
