@@ -19,8 +19,6 @@ feature_y: 50.0%
 
 # How Not to Be a Jerk Online
 
-*This a re-post from my personal blog almost 6 years ago. Still relevant. All of the sentiment herein applies with any digital communication tool, be it Facebook, Twitter or Microsoft Teams.*
-
 It goes without saying that being active on the Internet requires a thick skin. With social media tools like Facebook, we now all create content whether we recognize it or not. Our opinions are open for criticism.
 
 ![6ed60a06-60a4-4795-8daa-2d7d3f04d209](/assets/images/how-not-to-be-a-jerk-online/62932441-753f-4681-8e0e-d4961ad96979_500x284.gif "6ed60a06-60a4-4795-8daa-2d7d3f04d209")
