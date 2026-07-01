@@ -27,7 +27,7 @@ So there I was, having just spent a day teaching people to think critically abou
 
 Happy Canada Day.
 
-## "Elbows up" has two meanings
+## "Elbows uP" hAs tWo mEanings
 
 The slogan's right. The thinking behind it is mushy.
 
@@ -39,7 +39,7 @@ Eight days later, Fable went dark. The strategy had no answer for that, because 
 
 That's not me dunking on the intent. The intent is correct. But a sovereignty plan that doesn't survive contact with the thing it's supposed to protect you from is a press release with better production values.
 
-## The PATRIOT Act problem nobody wants to talk about
+## The PATRIOT Act Problem Nobody Wants to Talk about
 
 This should bother you more than it does. "Canadian servers" is a marketing phrase. Corporate structure is the law.
 
@@ -55,7 +55,7 @@ Gartner made the same point at a session in Dartmouth last week, and they put a 
 
 And while we're being honest: Canada is no choirboy here. We're negotiating our own CLOUD Act agreement with the Americans to grease cross-border data requests. David Fraser, the Halifax privacy lawyer who's forgotten more about this than most of us will ever learn, has been sounding alarms about Bill C-22, our homegrown lawful-access bill that would force Canadian providers to build government interception right into their plumbing. So "sovereignty from whom, exactly" is a fair shot. But it's an argument for doing this properly, not for throwing up your hands. We can hold both: be patriotic, and admit we leave the back door unlocked too.
 
-## The Cohere question
+## The Cohere Question
 
 Cohere is the Canadian AI story Ottawa wants on the front page. Founded in Toronto, globally respected, enterprise-grade. The new Bell deal is the showpiece: 220 million dollars, 2,304 Nvidia Grace Blackwell GPUs humming away in Merritt, BC, the flagship of something called the Canadian Sovereign AI Alliance.
 
@@ -67,7 +67,7 @@ The servers are in Merritt. The money is in Santa Clara.
 
 Minority investors with no operational control aren't the same as a US parent company. But it absolutely complicates the sovereign story, and "complicated" is not the word being printed on the banner. Canadian-founded still counts for something. It just isn't a synonym for sovereign, and nobody pitching this deal is offering you the narrower definition where the claim actually holds up. They're letting you fill in the flattering blanks yourself.
 
-## What actually exists
+## What Actually Exists
 
 Two options worth your attention. Neither is a clean win, and I'd rather tell you that than sell you a flag.
 
@@ -79,7 +79,7 @@ Then there's Mistral, which isn't Canadian at all. It's French. EU AI Act, GDPR,
 
 Yes, I hear it: France has spies too. The EU has its own data-access laws. Fair. But the EU AI Act has actual enforcement behind it, GDPR demands judicial oversight that American national security letters simply don't, and, bluntly, France isn't threatening to annex anybody this month. The risk from US jurisdiction isn't a thought experiment, it's the news. That's not me hating America. I'm just reading the room.
 
-## The category error
+## The Category Error
 
 This is the part I keep chewing on. A lot of Canadian AI anxiety is two completely different fears wearing the same Canadian tuxedo.
 
@@ -97,7 +97,7 @@ The strategy at least names this, which is more than the last one managed. Wheth
 
 Elbows up has to be an equity play, not just a sovereignty play. We try. We are not there. Both of those things are true and a real socialist gets to say so on Canada Day without spilling his wobbly pop.
 
-## So what does sovereignty actually mean
+## So what Does Sovereignty Actually Mean
 
 I'm proudly Canadian and genuinely into this stuff. I use Claude every day. And Gemini. And Perplexity. And Mistral. I'm trialing Augure. None of that is clean. But it's honest, and honest is where the argument has to live.
 
