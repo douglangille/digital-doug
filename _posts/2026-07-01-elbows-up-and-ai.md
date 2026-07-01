@@ -27,7 +27,7 @@ So there I was, having just spent a day teaching people to think critically abou
 
 Happy Canada Day.
 
-## "Elbows uP" hAs tWo mEanings
+## "Elbows Up" Has Two Meanings
 
 The slogan's right. The thinking behind it is mushy.
 
@@ -39,7 +39,7 @@ Eight days later, Fable went dark. The strategy had no answer for that, because 
 
 That's not me dunking on the intent. The intent is correct. But a sovereignty plan that doesn't survive contact with the thing it's supposed to protect you from is a press release with better production values.
 
-## The PATRIOT Act Problem Nobody Wants to Talk about
+## The PATRIOT Act Problem Nobody Wants To Talk About
 
 This should bother you more than it does. "Canadian servers" is a marketing phrase. Corporate structure is the law.
 
@@ -97,7 +97,7 @@ The strategy at least names this, which is more than the last one managed. Wheth
 
 Elbows up has to be an equity play, not just a sovereignty play. We try. We are not there. Both of those things are true and a real socialist gets to say so on Canada Day without spilling his wobbly pop.
 
-## So what Does Sovereignty Actually Mean
+## So What Does Sovereignty Actually Mean?
 
 I'm proudly Canadian and genuinely into this stuff. I use Claude every day. And Gemini. And Perplexity. And Mistral. I'm trialing Augure. None of that is clean. But it's honest, and honest is where the argument has to live.
 
