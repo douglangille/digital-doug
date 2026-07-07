@@ -5,10 +5,7 @@ date: 2026-04-15 08:00:00 -0400
 header:
   teaser: /assets/images/we-killed-the-places-where-ideas-could-be-dumb/generated-image-5.png
   overlay_image: /assets/images/we-killed-the-places-where-ideas-could-be-dumb/generated-image-5.png
-tags:
-- institutional
-- diagnostic
-- governance-structure
+tags: [institutional, diagnostic, governance-structure]
 entities: []
 meta: The essay argues that modern institutional incentives erase the cognitive
   space for rough drafts, suppressing uncertain, half‑formed ideas.
