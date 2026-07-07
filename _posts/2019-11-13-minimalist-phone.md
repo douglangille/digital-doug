@@ -8,10 +8,7 @@ header:
 categories:
 - null
 excerpt: Rage against the Machine
-tags:
-- personal
-- prescriptive
-- productivity-systems
+tags: [personal, prescriptive, productivity-systems]
 entities: ["Cal Newport"]
 meta: The essay argues that adopting a minimalist phone habit, limiting app
   distractions, restores authentic focus and personal productivity.
