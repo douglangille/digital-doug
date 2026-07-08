@@ -7,10 +7,7 @@ header:
   overlay_image: /assets/images/lets-get-sticky/22c585b5-f5d2-410c-bffb-0ce8047bc577_447x393.jpeg
 categories:
 - null
-tags:
-- personal
-- prescriptive
-- productivity-systems
+tags: [personal, prescriptive, productivity-systems]
 entities: []
 meta: The essay argues that using a sideways peel prevents sticky notes from
   curling and outlines where Microsoft’s Sticky Notes are accessible across platforms.
