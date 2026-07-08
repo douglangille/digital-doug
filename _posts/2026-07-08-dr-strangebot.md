@@ -1,6 +1,6 @@
 ---
 title: Dr. Strangebot
-excerpt: "How I Learned to Stop Worrying and Love Markdown"
+excerpt: "Or How I Learned to Stop Worrying and Love Markdown"
 header:
   teaser: /assets/images/dr-strangebot/feature.png
   overlay_image: /assets/images/dr-strangebot/feature.png
@@ -11,7 +11,6 @@ feature: /assets/images/dr-strangebot/feature.png
 ---
 
 # Dr. Strangebot
-## Or How I Learned to Stop Worrying and Love Markdown
 
 ## Chapter 1: The Wall
 
