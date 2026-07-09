@@ -6,11 +6,7 @@ header:
   teaser: /assets/images/a-philosophy-of-making/e15c0292-a0a2-480e-876a-0941691e81c3_1536x1024.png
   overlay_image: /assets/images/a-philosophy-of-making/e15c0292-a0a2-480e-876a-0941691e81c3_1536x1024.png
 categories: []
-tags:
-- personal
-- foundational
-- craft-authenticity
-- technical-infrastructure
+tags: [personal, foundational, craft-authenticity, technical-infrastructure]
 entities: []
 meta: The essay argues that embracing plain-text simplicity and disciplined
   structure is essential for authentic making and personal productivity in a noisy
