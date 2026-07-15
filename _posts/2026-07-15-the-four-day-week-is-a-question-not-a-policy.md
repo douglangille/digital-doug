@@ -5,11 +5,7 @@ header:
   teaser: /assets/images/the-four-day-week-is-a-question-not-a-policy/feature-1536x864.png
   overlay_image: /assets/images/the-four-day-week-is-a-question-not-a-policy/feature-1536x864.png
 excerpt: "Which day would you drop?"
-tags:
-- personal
-- foundational
-- productivity-systems
-- governance-structure
+tags: [personal, foundational, productivity-systems, governance-structure]
 entities: ["CGP Grey"]
 meta: Reads the 2025 four-day-week study as a focus story, not just a wellness one, and asks which day you'd actually drop.
 feature: /assets/images/the-four-day-week-is-a-question-not-a-policy/feature-1536x864.png
@@ -87,8 +83,8 @@ You don't need to wait. Ask yourself now, with all five days still in front of y
 
 The answer will tell you more about your productivity than any system.
 
-*Source: Fan, W., Schor, J.B., Kelly, O., & Gu, G. (2025). Work time reduction via a 4-day workweek finds improvements in workers' well-being. Nature Human Behaviour, 9(10), 2153–2168. https://doi.org/10.1038/s41562-025-02259-6*
+*Source: Fan, W., Schor, J.B., Kelly, O., & Gu, G. (2025). Work time reduction via a 4-day workweek finds improvements in workers' well-being. Nature Human Behaviour, 9(10), 2153–2168. [https://doi.org/10.1038/s41562-025-02259-6](https://doi.org/10.1038/s41562-025-02259-6)*
 
-*UK pilot follow-up data: Autonomy / 4 Day Week Global, 61 companies, 2022–2024. https://autonomy.work/portfolio/uk4dwpilotresults/*
+*UK pilot follow-up data: Autonomy / 4 Day Week Global, 61 companies, 2022–2024. [https://autonomy.work/portfolio/uk4dwpilotresults/](https://autonomy.work/portfolio/uk4dwpilotresults/)*
 
-*The re-sequenced week: CGP Grey, "Weekend Wednesday." https://www.youtube.com/watch?v=ALaTm6VzTBw*
+*The re-sequenced week: CGP Grey, "Weekend Wednesday." [https://www.youtube.com/watch?v=ALaTm6VzTBw](https://www.youtube.com/watch?v=ALaTm6VzTBw)*
