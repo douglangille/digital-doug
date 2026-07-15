@@ -1,11 +1,9 @@
 ---
 title: The Four-Day Week Is a Question, Not a Policy
-date: 2026-07-15 08:00:00 -0400
 image: /assets/images/the-four-day-week-is-a-question-not-a-policy/feature-1536x864.png
 header:
   teaser: /assets/images/the-four-day-week-is-a-question-not-a-policy/feature-1536x864.png
   overlay_image: /assets/images/the-four-day-week-is-a-question-not-a-policy/feature-1536x864.png
-categories: []
 excerpt: "Which day would you drop?"
 tags:
 - personal
