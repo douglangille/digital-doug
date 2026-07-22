@@ -1,5 +1,5 @@
 ---
-title: "Human at the Helm"
+title: Human at the Helm
 image: /assets/images/human-at-the-helm/feature.png
 header:
   teaser: /assets/images/human-at-the-helm/feature.png
