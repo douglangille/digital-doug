@@ -1,10 +1,10 @@
 ---
-title: Human at the Helm
+title: "Human at the Helm"
 image: /assets/images/human-at-the-helm/feature.png
 header:
   teaser: /assets/images/human-at-the-helm/feature.png
   overlay_image: /assets/images/human-at-the-helm/feature.png
-excerpt: "Certainly, here's a revised version of your speech."
+excerpt: "What a legislature and my own writing workflow have in common this week."
 tags: [personal, prescriptive, governance-structure, ai-collaboration]
 entities: ["Bill Oliver"]
 meta: "A legislator reads a raw ChatGPT preamble into the record; a private HITL failure teaches the same lesson about staying at the helm."
