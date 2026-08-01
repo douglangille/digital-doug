@@ -16,7 +16,7 @@ feature: /assets/images/equity-through-uniformity/feature.png
 
 The memo arrived on a Tuesday, which is when bad news always arrives at Halifax Institute of Magical Arts and Technology. Not because of any institutional policy. Just cultural gravity. Bad news had learned, over decades, that Tuesday was the path of least resistance: after the weekend's residual goodwill had evaporated, before the week had built up enough momentum to absorb a blow.
 
-Brad Publicover, Manager of Information Sorcery Services, read it at 8:47 in the morning, at a desk with a coffee ring worn permanently into the wood in the shape of every mug he'd ever set there. His coffee was the temperature of mild regret. The server room down the hall smelled of ozone, which it had smelled of for six weeks, which Brad suspected had something to do with the ghost of a 1970s systems administrator who had taken up residence in the enchanted network infrastructure and was processing TCP/IP packets in ways they were not designed to be processed. He had filed three tickets about the smell. Facilities had filed one back asking him to clarify whether the smell was magical in origin or mundane in origin, which was the kind of question that revealed exactly how well Facilities understood the server room, which was to say: not at all.
+Brad Publicover, Manager of Information Sorcery Services, read it at 8:47 in the morning, at a desk with a coffee ring worn permanently into the wood in the shape of every mug he'd ever set there. His coffee was the temperature of mild regret. The server room down the hall smelled of ozone. Six weeks now. Brad suspected it had something to do with the ghost of a 1970s systems administrator who had taken up residence in the enchanted network infrastructure and was processing TCP/IP packets in ways they were not designed to be processed. He had filed three tickets about the smell. Facilities had filed one back asking him to clarify whether the smell was magical in origin or mundane in origin, which was the kind of question that revealed exactly how well Facilities understood the server room, which was to say: not at all.
 
 The memo was from the Office of the Deputy Provost for Strategic Resource Optimization.
 
@@ -28,11 +28,11 @@ A flat seven-percent budget reduction. All departments. No exceptions. Effective
 
 Nigel had used the phrase *equity through uniformity* twice.
 
-Brad put down his coffee and opened his budget spreadsheet. It had seventeen tabs. Three of them were colour-coded in a red that Brad had chosen during a particularly difficult Q3 three years ago and which had since become structural. The spreadsheet knew things. It knew the enchanted network infrastructure had a capital refresh cycle of four years and was in year three. It knew the Ledger's SaaS licensing agreement had not been renegotiated since the departure of the previous CIO, Dr. Evangeline Moody, whose departure had been described in the all-staff email as a *mutual decision to pursue new opportunities* and which Brad understood, from context and from the fact that she had cleared her desk on a Thursday, to have been somewhat less mutual than described.
+Coffee down. Budget spreadsheet open. It had seventeen tabs. Three of them were colour-coded in a red that Brad had chosen during a particularly difficult Q3 three years ago. It was structural now. The spreadsheet knew things. It knew the enchanted network infrastructure had a capital refresh cycle of four years and was in year three. It knew the Ledger's SaaS licensing agreement had not been renegotiated since the departure of the previous CIO, Dr. Evangeline Moody, whose departure had been described in the all-staff email as a *mutual decision to pursue new opportunities* — Brad understood, from context and from the fact that she had cleared her desk on a Thursday, that it had been somewhat less mutual than described.
 
 The spreadsheet knew about the Owlery Bandwidth Expansion Project, approved in principle two fiscal cycles ago, deferred once, and now living in a state of institutional limbo that Brad had started thinking of less as a project and more as a haunting.
 
-Brad did the arithmetic.
+The arithmetic came first.
 
 Seven percent.
 
@@ -40,7 +40,7 @@ He did it again.
 
 Same answer.
 
-Here was the thing about a flat percentage: it did not care what it landed on. It came off the top and kept coming until the number was satisfied. And the number was not satisfied by the hardware refresh allocation, which it ate whole. It was not satisfied by the help desk, which it reduced to a single part-time position occupied by Chelsea Boutilier, a second-year student who was better at the job than the job deserved and who also had exams in April and a broomball semifinal in March that she had mentioned twice in passing in the way people mention things they are pretending not to be anxious about. After the hardware refresh and the help desk, the only line left large enough to finish the arithmetic was a person.
+Here was the thing about a flat percentage: it did not care what it landed on. It came off the top and kept coming until the number was satisfied. And the number was not satisfied by the hardware refresh allocation. It ate the whole thing. It was not satisfied by the help desk either — reduced now to a single part-time position occupied by Chelsea Boutilier, a second-year student who was better at the job than the job deserved and who also had exams in April and a broomball semifinal in March that she had mentioned twice in passing in the way people mention things they are pretending not to be anxious about. After the hardware refresh and the help desk, the only line left large enough to finish the arithmetic was a person.
 
 Brad's neck had gone tight somewhere in the second pass and had not let go.
 
@@ -60,13 +60,13 @@ He did not receive a response.
 
 Nigel's office had a window. This is worth stating plainly. Not symbolic, just factual: Nigel's office had a window with a view of the west courtyard, where in the mornings students moved across the grass with their robes open and their bags too heavy and their faces still soft with whatever they'd been dreaming. The plant from the memo morning was still there, doing very well, and now trailing a thin ribbon of grey mist from one leaf that neither of them acknowledged. Nigel's office also had a standing desk converter he had not yet used, and, apart from the plant, no discernible smell of anything.
 
-Brad had been called in to *discuss the operational implications* of the reduction.
+The summons said *discuss the operational implications* of the reduction.
 
 "The thing I want to make sure I understand," Nigel said, with the expression of a man who was definitely making sure he understood, "is whether these constraints are genuinely fixed or whether there's room for creative prioritization."
 
 "They're fixed in the sense that they're attached to functions," Brad said. "The hardware refresh is tied to the capital cycle. The licensing costs are contractual. Albert is — "
 
-Nigel's desk mirror, enchanted, standard issue for senior administration, which showed your schedule and three motivational phrases on rotation, chimed softly and displayed the words: *YOU HAVE A 10AM.​*
+Nigel's desk mirror, enchanted, standard issue for senior administration, showing your schedule and three motivational phrases on rotation, chimed softly and displayed the words: *YOU HAVE A 10AM.​*
 
 "Albert is what I'd describe as a single point of failure," Brad said. "He's the only person who can operate the student records system without triggering a cascade event."
 
@@ -92,7 +92,7 @@ At that exact moment, with the specificity of a universe making a point, Brad's 
 
 *student records is down. Albert at dentist. I don't know what Kroath is but it's back.*
 
-Brad stood up. "I need to go."
+"I need to go." He was already standing.
 
 "We hadn't finished — "
 
@@ -100,17 +100,17 @@ Brad stood up. "I need to go."
 
 ---
 
-The LMS implementation review happened the following Thursday in the Ptolemy Room, which had the uncomfortable chairs and the portrait of a seventeenth-century alchemist who had discovered cost-benefit analysis and considered it his greatest achievement and who watched every meeting with an expression of proprietary satisfaction.
+The LMS implementation review happened the following Thursday in the Ptolemy Room, with its uncomfortable chairs and the portrait of a seventeenth-century alchemist who had discovered cost-benefit analysis and considered it his greatest achievement and who watched every meeting with an expression of proprietary satisfaction.
 
 Wilhelmina Zwicker-Macmillan, Academic Vice-Provost, ran the meeting with the brisk warmth of someone who had once been excellent at something completely different and had since become excellent at this instead. She had the forearms of a former competitive rower and the laser pointer clenched in one fist like a baton. She had approved the LMS implementation fourteen months ago on the basis of a license cost and a Gantt chart. The cost had been real. The Gantt chart had been aspirational.
 
-The slide on the screen showed the license renewal cost for year two. It was a reasonable number. It was also, Brad had established through patient archaeology of his own spreadsheet, approximately one-fifth of the actual cost of the implementation so far, the other four-fifths being distributed across: the identity provider reconfiguration that had taken six weeks longer than projected because the person who had originally configured the identity provider had left HIMAT in 2021 and had, it emerged, done some of the configuration verbally, in conversation with the server, which Brad had not previously understood was something the server would accept and which had required a specialist to undo; the Microsoft 365 integration that had opinions and had shared them at length; the content migration from seventeen faculty members, four of whom had refused, two of whom had agreed and then un-refused, and one of whom had submitted a formal written objection to the Provost's Office characterizing the migration as *an act of epistemic violence against twelve years of carefully structured pedagogy*, which Brad privately found disproportionate but had not said so in writing.
+The slide on the screen showed the license renewal cost for year two. It was a reasonable number. It was also, Brad had established through patient archaeology of his own spreadsheet, approximately one-fifth of the actual cost of the implementation so far, the other four-fifths being distributed across: the identity provider reconfiguration that had taken six weeks longer than projected because the person who had originally configured the identity provider had left HIMAT in 2021 and had, it emerged, done some of the configuration verbally, in conversation with the server — not something Brad had previously understood the server would accept, and it had required a specialist to undo; the Microsoft 365 integration that had opinions and had shared them at length; the content migration from seventeen faculty members, four of whom had refused, two of whom had agreed and then un-refused, and one of whom had submitted a formal written objection to the Provost's Office characterizing the migration as *an act of epistemic violence against twelve years of carefully structured pedagogy*, which Brad privately found disproportionate but had not said so in writing.
 
 And the training. Always the training. Not the training to use the new thing. The training to stop using the old thing. These were different skills. The second was harder. Nobody had budgeted for the second because nobody had thought of the second as a skill, and it was a skill, and it would take another fourteen months, on Brad's honest estimate, before the faculty who were still using the old interface because they had never been given a sufficiently compelling reason to stop would stop.
 
 Through the open door, Brad could see the portrait of Reginald Himmelman hanging in the corridor, where it had hung for thirty years. Former Director of Computational Sorcery, 1987–1994. From there Reginald couldn't see the slide. He didn't need to. He looked at Brad's face instead, read whatever was on it, and shook his head, once.
 
-Brad wrote the real number on the back of his agenda paper. He did not show it to anyone. He folded it into thirds and put it in his jacket pocket, where the fold pressed a thin ridge against his chest for the rest of the meeting.
+The real number went on the back of his agenda paper. He did not show it to anyone. He folded it into thirds and put it in his jacket pocket, where the fold pressed a thin ridge against his chest for the rest of the meeting.
 
 "Synergies," Wilhelmina said, and clicked to the next slide.
 
@@ -120,15 +120,15 @@ The portrait of the cost-benefit alchemist nodded slowly in deep satisfaction.
 
 Priya Shafiq presented the Applied Divination partnership to the Strategic Development Committee on a Wednesday morning that smelled of recent rain and the optimism recent rain produces in people who do not work in server rooms.
 
-She was excellent at it. This was the thing about Priya: she was genuinely excellent at her job, in a way that made you pay attention not because you were supposed to but because you found yourself wanting to know what happened next. She talked with her hands when she believed something, which was always, and this morning she believed in the consortium the way other people believed weather forecasts: total confidence, zero control over the outcome. The certification pathway. The revenue model. Four hundred and sixty thousand dollars across eighteen months, conservative projection, realistic uptake. She had done the work. The numbers were real.
+She was excellent at it. This was the thing about Priya: she was genuinely excellent at her job, in a way that made you pay attention not because you were supposed to but because you found yourself wanting to know what happened next. She talked with her hands when she believed something, always, and this morning she believed in the consortium the way other people believed weather forecasts: total confidence, zero control over the outcome. The certification pathway. The revenue model. Four hundred and sixty thousand dollars across eighteen months, conservative projection, realistic uptake. She had done the work. The numbers were real.
 
 Brad sat in the back where he could watch her hands and not have to explain to anyone, including himself, why his chest had gone tight. He was there because he had been asked to *provide technical context if required.* He had not been required. He had instead constructed, on a paper napkin, the actual IT cost of the partnership: forty-seven new external user accounts in the identity management system; a licensing tier adjustment in the LMS to accommodate external users at the required scale; projected help desk load of 2.3 tickets per user before stable access was achieved, based on comparable cohorts, which came to approximately one hundred and eight tickets, which at current staff capacity came to a number he wrote down and circled.
 
 He could have raised his hand. He had raised his hand in rooms like this before, and would again, two weeks later, in front of Finance. But not here. Not to her, not like that. Whatever the number was, it was going to be hers to carry into the next room, on her own terms, not his to detonate in this one.
 
-Priya finished. The committee asked three questions, all of which were about the revenue. None were about the cost. The proposal passed with genuine enthusiasm. Someone said the word *transformative*. Someone else wrote it down.
+Priya finished. The committee asked three questions. All of them were about the revenue. None were about the cost. The proposal passed with genuine enthusiasm. Someone said the word *transformative*. Someone else wrote it down.
 
-Brad waited until people were gathering their things. He walked to the front. He placed the napkin on the table in front of Priya.
+He waited until people were gathering their things, then walked to the front and placed the napkin on the table in front of Priya.
 
 She looked at it. A line appeared briefly between her eyebrows. She looked at him.
 
@@ -168,7 +168,7 @@ The leasing proposal arrived two weeks later, from Finance, formatted beautifull
 
 The proposal was for three-year device leasing contracts across all departments. The numbers in years one, two, and three were clean and manageable. Year four was not a slide. Year four did not exist in the proposal in any form, which was not dishonesty. Finance believed the numbers. That was worse. It was a kind of institutional innocence that would eventually cost someone a very difficult Tuesday.
 
-Brad raised his hand during the Q&A.
+His hand went up during the Q&A.
 
 "What happens in year four?" he said.
 
@@ -198,7 +198,7 @@ They did not take it offline. The proposal passed. Brad walked back to his offic
 
 Unit 7 had been scheduled for decommission on the last Friday of the month.
 
-Unit 7 was a printer. Specifically a Hewlett-Packard LaserJet 4050N installed in 2003, which had developed, through twenty-three years of proximity to Reginald Himmelman's portrait and a poorly documented but clearly significant exposure to residual enchantment from the 1997 Great Photocopier Incident, something that the vendor's diagnostics software would have described as a firmware anomaly and which Brad understood to be, functionally, a personality.
+Unit 7 was a printer. Specifically a Hewlett-Packard LaserJet 4050N installed in 2003, which had developed, through twenty-three years of proximity to Reginald Himmelman's portrait and a poorly documented but clearly significant exposure to residual enchantment from the 1997 Great Photocopier Incident, something that the vendor's diagnostics software would have described as a firmware anomaly. Brad understood it to be, functionally, a personality.
 
 Unit 7 had opinions about its continued operation. It had expressed these opinions, two weeks prior, by printing four hundred and twelve copies of HIMAT Policy 7.3.1 (Responsible Use of Institutional Technology Resources) and submitting a formal support ticket, Ticket 6001, contesting its own decommission order on the grounds that it remained within manufacturer tolerance on eight of its twelve assessed metrics and that the decision to decommission appeared to have been made without reference to its maintenance history, which it had attached in a forty-page appendix.
 
@@ -262,7 +262,7 @@ She packed her bag. At the mouth of the alcove she stopped. "There's a macro," s
 
 ---
 
-Albert Balcom came in at 5:58am on the Tuesday after the budget revision memo arrived. The revision, in which Nigel had achieved, through unspecified *additional efficiencies identified elsewhere,* a reduction of five percent instead of seven, which he had characterised in a follow-up all-staff as *a significant demonstration of leadership's commitment to protecting frontline services.*
+Albert Balcom came in at 5:58am on the Tuesday after the budget revision memo arrived. In the revision, Nigel had achieved, through unspecified *additional efficiencies identified elsewhere,* a reduction of five percent instead of seven. He characterised it in a follow-up all-staff as *a significant demonstration of leadership's commitment to protecting frontline services.*
 
 Five percent still eliminated the hardware refresh. Still left Chelsea alone on the help desk. Still cancelled the OCM budget for the LMS implementation. Still left the Owlery Bandwidth Expansion Project in its haunting.
 
