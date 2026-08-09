@@ -4,12 +4,12 @@ excerpt: What the Fable 5 shutdown actually taught me about digital sovereignty,
 header:
   teaser: /assets/images/elbows-up-and-ai/feature.png
   overlay_image: /assets/images/elbows-up-and-ai/feature.png
-tags: [institutional, diagnostic, governance-structure, technical-infrastructure, ai-collaboration]
+tags: [institutional, diagnostic]
+
 entities: []
 meta: The essay argues that Canadian AI-sovereignty anxiety conflates fear of the technology with fear of American jurisdiction, and that corporate structure, not server location, is what actually determines sovereignty.
 feature: /assets/images/elbows-up-and-ai/feature.png
 ---
-
 # Elbows Up and AI
 
 Early June, I was at AUCTC running two AI sessions. One on red-teaming, one on AI literacy. During the red-teaming demo I pulled up Fable 5 for the first time, mostly to show people how a frontier model handles an adversarial prompt. It was good. Better than I expected. I made a mental note to go play with it properly when I got home.

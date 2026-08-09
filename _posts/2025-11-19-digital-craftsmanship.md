@@ -9,16 +9,13 @@ categories:
 - null
 excerpt: The Map is Not the Terrain
 tags:
-- personal
-- foundational
-- craft-authenticity
-- ai-collaboration
+  - personal
+  - foundational
 entities: []
 meta: The essay argues that authentic digital craftsmanship emerges when individuals
   deliberately integrate AI collaboration into personal work practices.
 feature: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png
 ---
-
 # Digital Craftsmanship
 
 It always starts the same way: I’m fixing something, the screwdriver slips, and I slice a finger just deep enough to question my life choices. There’s that moment of sucking the blood off, muttering something unprintable, and realizing, yep, this is what people mean by “blood, sweat, and tears.” It’s less poetic when you’re the one bleeding, but it’s honest. Craft usually is.

@@ -7,16 +7,13 @@ header:
   overlay_image: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86-a53c8c5d5063_1024x1024.png
 categories: null
 tags:
-- personal
-- prescriptive
-- ai-collaboration
-- productivity-systems
+  - personal
+  - prescriptive
 entities: ["Cal Newport", "Blake Snyder", "Joseph Campbell", "Kurt Vonnegut"]
 meta: The author argues that generative AI transforms personal information
   gathering into an interactive, productive partnership, replacing unfocused web browsing.
 feature: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86-a53c8c5d5063_1024x1024.png
 ---
-
 # This Is How I'm Using Generative AI
 
 I used to open my web browser and go down rabbit holes searching Google or Wikipedia. I'd travel from link to link to link to link. I used these tools like some folks use TikTok and short-form video today. I’d lose time in the pursuit of ingesting more and more information. Much like these video clip sessions, the quality of the experience is, um, subjective. More often than not, I’d start on a valid Wikipedia search and end up deep-diving into the history of toilet paper. Or the philosophical problems of evil. I wish I was kidding. This kind of info collecting is still a thing for me.

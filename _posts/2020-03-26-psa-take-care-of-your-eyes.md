@@ -8,15 +8,13 @@ header:
 categories:
 - null
 tags:
-- personal
-- prescriptive
-- productivity-systems
+  - personal
+  - prescriptive
 entities: []
 meta: The author advises personal screen users to adopt regular breaks, blinking,
   hydration, and lens cleaning to reduce eye strain and improve well‑being.
 feature: /assets/images/psa-take-care-of-your-eyes/46fa4a12-43a8-4642-bccf-065c2b5afa7d_768x509.png
 ---
-
 # PSA: Take Care of Your Eyes
 
 We are all spending a bunch of time in front of our computers. I don’t know about you, but it’s pretty easy to lose time.

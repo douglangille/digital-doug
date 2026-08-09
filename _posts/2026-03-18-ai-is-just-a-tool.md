@@ -6,17 +6,14 @@ header:
   teaser: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
   overlay_image: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
 tags:
-- personal
-- prescriptive
-- ai-collaboration
-- craft-authenticity
+  - personal
+  - prescriptive
 entities: []
 meta: The essay argues that AI, when transparently integrated into personal
   writing workflows, functions merely as a collaborative tool rather than an ethical
   dilemma.
 feature: /assets/images/ai-is-just-a-tool/lucid-origin_Photorealistic_hyperrealistic._Empty_modern_conference_room_overhead_fluorescent-0.jpg
 ---
-
 # AI Is Just A Tool
 
 Last week someone asked if I used AI on a post. The panic on their face said everything. I felt the shame spiral anyway.

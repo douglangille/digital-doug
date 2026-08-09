@@ -7,13 +7,13 @@ header:
   overlay_image: /assets/images/unproject-management-part-1/2e0f9b72-1015-436c-a671-1d331b01264a_1600x1200.png
 categories:
 - null
-tags: [institutional, foundational, governance-structure]
+tags: [institutional, foundational]
+
 entities: []
 meta: The author criticizes formal project management structures while affirming
   daily personal project work as authentic, productive practice.
 feature: /assets/images/unproject-management-part-1/2e0f9b72-1015-436c-a671-1d331b01264a_1600x1200.png
 ---
-
 # Unproject Management – Part 1
 
 I certified as a project manager several years ago. At the time, I figured it to be the best way to further my career. Turns out, I actually don’t do formal project management on the regular. So going through the rigmarole of keeping the certification up to date seemed like a futile and rather expensive endeavor.

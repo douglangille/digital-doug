@@ -8,16 +8,13 @@ header:
 categories:
 - null
 tags:
-- institutional
-- prescriptive
-- governance-structure
-- knowledge-epistemology
+  - institutional
+  - prescriptive
 entities: []
 meta: The essay argues that labeling team members as SMEs imposes unrealistic
   authority, undermining honest expertise and collaborative decision‑making.
 feature: /assets/images/five-minutes-ahead/293f0030-c6fc-486e-a839-aede49153471_1536x1024.png
 ---
-
 # Five Minutes Ahead
 
 We were in a meeting with one of the higher-ups from a peer department. My team was in the room, and things were rolling along. At one point the phrase popped out: *“the subject matter experts.”* It’s a line I’ve used myself too many times to count. Fast. Handy. Everyone knows what you mean.

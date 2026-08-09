@@ -8,15 +8,13 @@ header:
 categories:
 - null
 tags:
-- personal
-- prescriptive
-- productivity-systems
+  - personal
+  - prescriptive
 entities: ["Cal Newport", "David Allen"]
 meta: The essay argues that individuals should adopt JOMO by limiting email
   engagement to reduce cognitive overload and improve December productivity.
 feature: /assets/images/the-joy-of-missing-out-an-email-manifesto-for-december/7a216b0b-8702-404a-a671-f4b7b954e9d2_1536x1024.png
 ---
-
 # The Joy of Missing Out: An Email Manifesto for December
 
 December is a weird month for productivity. You’ve got end-of-year reflections happening alongside holiday vacations, quarterly reviews colliding with cookie exchanges, and a pervasive sense that everyone’s just trying to clear their desk before the break. It’s also the perfect time to rethink how email shapes your attention.

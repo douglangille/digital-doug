@@ -7,16 +7,13 @@ header:
   overlay_image: /assets/images/a-tale-of-two-chatbots/80421e81-eeb7-4e7e-9656-0d7aa9eae465.png
   overlay_filter: 0.4
 tags:
-- personal
-- prescriptive
-- ai-collaboration
-- governance-structure
+  - personal
+  - prescriptive
 entities: []
 meta: Using separate chatbot configurations prevents context contamination,
   enhancing productivity and collaboration across personal and institutional tasks.
 feature: /assets/images/a-tale-of-two-chatbots/80421e81-eeb7-4e7e-9656-0d7aa9eae465.png
 ---
-
 # A Tale of Two Chatbots
 
 I run two completely different chatbot setups. M365 Copilot for NSCC work, Perplexity for personal projects. Same principle, opposite strategies. This works for me because I have separable contexts. Your situation might be different. Here's what I've learned and what my configs look like. Or don't. The counter-argument is worth hearing first.

@@ -6,16 +6,13 @@ header:
   teaser: /assets/images/stop-losing-your-thread/feature.png
   overlay_image: /assets/images/stop-losing-your-thread/feature.png
 tags:
-- personal
-- prescriptive
-- ai-collaboration
-- technical-infrastructure
+  - personal
+  - prescriptive
 entities: []
 meta: The essay argues that users must actively manage AI conversation context
   using specific techniques to prevent drift and maintain relevance.
 feature: /assets/images/stop-losing-your-thread/feature.png
 ---
-
 # Stop Losing Your Thread
 
 You're 30 messages into a conversation with an AI. It was perfect at message 5. By message 20, it's contradicting earlier decisions. By message 30, it's forgotten half of everything and you're rage-typing corrections. You're being gaslit by the robots. It's context drift, and it happens to everyone.

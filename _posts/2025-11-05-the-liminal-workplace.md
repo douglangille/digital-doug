@@ -9,16 +9,14 @@ categories:
 - null
 excerpt: Change is hard. Bring snacks.
 tags:
-- institutional
-- diagnostic
-- governance-structure
+  - institutional
+  - diagnostic
 entities: []
 meta: The essay argues that higher‑education workplaces linger in a liminal
   pause, where outdated practices persist while new learning and governance pathways
   remain undefined.
 feature: /assets/images/the-liminal-workplace/fe43f465-2e4e-43d0-b2d0-49bf21d8708c_1536x1024.png
 ---
-
 # The Liminal Workplace
 
 **The Sound of Waiting**  

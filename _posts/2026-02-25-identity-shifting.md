@@ -6,15 +6,13 @@ header:
   teaser: /assets/images/identity-shifting/Designer-2.png
   overlay_image: /assets/images/identity-shifting/Designer-2.png
 tags:
-- personal
-- prescriptive
-- knowledge-epistemology
+  - personal
+  - prescriptive
 entities: []
 meta: The essay urges individuals to abandon waiting for external validation
   and adopt an authentic, work‑centered identity over rigid goal‑setting.
 feature: /assets/images/identity-shifting/Designer-2.png
 ---
-
 # Identity Shifting > Goal Setting
 
 My grandfather died on Labour Day, just a couple months shy of his 95th birthday. The family joke is that it just killed him to not have to work. Gallows humor. My family lives in that space.

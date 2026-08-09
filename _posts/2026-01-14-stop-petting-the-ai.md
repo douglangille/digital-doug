@@ -7,16 +7,13 @@ header:
     - genai - digital-life - wellness
 excerpt: How to Use ChatGPT Without Becoming Its Emotional Support Human
 tags:
-- personal
-- prescriptive
-- ai-collaboration
-- knowledge-epistemology
+  - personal
+  - prescriptive
 entities: []
 meta: The essay advises individuals to stop treating ChatGPT as a companion
   and use it strictly as a productivity tool to avoid emotional dependence.
 feature: /assets/images/stop-petting-the-ai/8520ad9b-e626-4a56-bb11-3b25317ef88d_1536x1024.png
 ---
-
 # Stop Petting the AI!
 
 It’s 3 AM. I’m in bed. I’ve gone from reading political news to spinning scenarios with ChatGPT about a “mad scientist vs. mad engineer” epic battle tournament.

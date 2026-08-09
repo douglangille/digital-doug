@@ -5,13 +5,13 @@ date: 2026-04-15 08:00:00 -0400
 header:
   teaser: /assets/images/we-killed-the-places-where-ideas-could-be-dumb/generated-image-5.png
   overlay_image: /assets/images/we-killed-the-places-where-ideas-could-be-dumb/generated-image-5.png
-tags: [institutional, diagnostic, governance-structure]
+tags: [institutional, diagnostic]
+
 entities: []
 meta: The essay argues that modern institutional incentives erase the cognitive
   space for rough drafts, suppressing uncertain, half‑formed ideas.
 feature: /assets/images/we-killed-the-places-where-ideas-could-be-dumb/generated-image-5.png
 ---
-
 # We Killed the Places Where Ideas Could Be Dumb
 
 I deleted a note last week because it was too dumb to keep. Not wrong. Just dumb. Half a sentence about something I'd half-noticed, the kind of thing you'd scribble on a sticky note, slap it on our monitor and promptly forget until it became obvious. Instead, I typed it, read it back, cringed on behalf of my future self, and deleted it. I've been thinking about that fleeting decision ever since.

@@ -7,13 +7,13 @@ header:
   overlay_image: /assets/images/dont-change-that-channel/6e6737b2-d946-4860-b282-7945fbec5f27_1920x1271.jpeg
 categories:
 - null
-tags: [institutional, prescriptive, governance-structure, technical-infrastructure]
+tags: [institutional, prescriptive]
+
 entities: []
 meta: The essay argues that Microsoft Teams, while not revolutionary, is a
   reliable, slick solution for group communication and collaboration across devices.
 feature: /assets/images/dont-change-that-channel/6e6737b2-d946-4860-b282-7945fbec5f27_1920x1271.jpeg
 ---
-
 # Don’t Change That Channel
 
 **So, yeah, I love Microsoft Teams.**

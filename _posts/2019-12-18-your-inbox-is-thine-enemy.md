@@ -8,15 +8,13 @@ header:
 categories:
 - null
 tags:
-- personal
-- diagnostic
-- productivity-systems
+  - personal
+  - diagnostic
 entities: []
 meta: Email has become a toxic institutional habit that erodes productivity
   and requires reshaping how organizations govern digital communication practices.
 feature: /assets/images/your-inbox-is-thine-enemy/f3a807cf-26c3-41e4-bb26-84752601d003_960x540.jpeg
 ---
-
 # Your Inbox Is Thine Enemy
 
 Last week, I made the case that email was the dominant communication tool in business and would remain so.

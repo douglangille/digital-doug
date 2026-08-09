@@ -9,15 +9,13 @@ categories:
 - null
 excerpt: Long live Comic Papyrus
 tags:
-- personal
-- prescriptive
-- technical-infrastructure
+  - personal
+  - prescriptive
 entities: []
 meta: The essay argues that adopting plain‑text and markdown, then converting
   with Pandoc, is a sustainable, efficient workflow for document creation.
 feature: /assets/images/format-your-style/e35be88a-afa4-4328-ba73-afb8a6cf6e9a_580x386.jpeg
 ---
-
 # Format Your Style
 
 Okay. So the last two weeks, we’ve been on a plain text kick and then did the markdown thing. This week, I’m going to wrap this topic up.

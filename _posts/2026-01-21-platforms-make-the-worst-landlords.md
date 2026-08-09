@@ -7,16 +7,13 @@ header:
   teaser: /assets/images/platforms-make-the-worst-landlords/feature.png
   overlay_image: /assets/images/platforms-make-the-worst-landlords/feature.png
 tags:
-- personal
-- diagnostic
-- technical-infrastructure
-- governance-structure
+  - personal
+  - diagnostic
 entities: []
 meta: The essay argues that platform-controlled publishing services, like Substack,
   act as restrictive landlords, urging creators to adopt independent technical infrastructure.
 feature: /assets/images/platforms-make-the-worst-landlords/feature.png
 ---
-
 # Platforms Make the Worst Landlords
 
 _June 2026: This post originally ran in January when I rage-quit Substack for owned infrastructure. I still believe every word of it. Platforms make bad landlords, algorithms make worse editors, and your content belongs somewhere you control._

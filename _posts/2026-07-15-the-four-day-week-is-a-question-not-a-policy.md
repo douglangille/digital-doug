@@ -5,12 +5,12 @@ header:
   teaser: /assets/images/the-four-day-week-is-a-question-not-a-policy/feature-1536x864.png
   overlay_image: /assets/images/the-four-day-week-is-a-question-not-a-policy/feature-1536x864.png
 excerpt: "Which day would you drop?"
-tags: [personal, foundational, productivity-systems, governance-structure]
+tags: [personal, foundational]
+
 entities: ["CGP Grey"]
 meta: Reads the 2025 four-day-week study as a focus story, not just a wellness one, and asks which day you'd actually drop.
 feature: /assets/images/the-four-day-week-is-a-question-not-a-policy/feature-1536x864.png
 ---
-
 # The Four-Day Week Is a Question, Not a Policy
 
 I do the same thing every Monday morning.

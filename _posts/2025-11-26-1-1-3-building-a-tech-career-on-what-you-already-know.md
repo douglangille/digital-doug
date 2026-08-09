@@ -9,16 +9,13 @@ categories:
 - null
 excerpt: For anyone who keeps thinking “maybe it’s time to pivot.”
 tags:
-- institutional
-- prescriptive
-- governance-structure
-- knowledge-epistemology
+  - institutional
+  - prescriptive
 entities: []
 meta: The essay argues that building on existing experience by incrementally
   adding tech skills creates a career greater than the sum of its parts.
 feature: /assets/images/1-1-3-building-a-tech-career-on-what-you-already-know/05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.png
 ---
-
 # 1 + 1 = 3: Building a Tech Career on What You Already Know
 
 Your first career wasn’t a mistake. It might be the thing that makes the next one work.

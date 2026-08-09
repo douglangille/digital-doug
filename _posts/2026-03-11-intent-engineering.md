@@ -7,16 +7,13 @@ header:
   teaser: /assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png
   overlay_image: /assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png
 tags:
-- personal
-- prescriptive
-- ai-collaboration
-- productivity-systems
+  - personal
+  - prescriptive
 entities: []
 meta: The essay argues that effective AI use requires aligning prompts with
   underlying intent rather than over‑optimizing superficial prompt variables.
 feature: /assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png
 ---
-
 # Intent Engineering
 
 Bob had been optimizing prompts for six months. Three thousand words of custom instructions. The AI kept missing anyway.

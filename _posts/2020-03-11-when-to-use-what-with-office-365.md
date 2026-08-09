@@ -8,16 +8,13 @@ header:
 categories:
 - null
 tags:
-- institutional
-- prescriptive
-- governance-structure
-- technical-infrastructure
+  - institutional
+  - prescriptive
 entities: []
 meta: The author advises personally using Office 365 PowerPoint to create infographics,
   emphasizing practicality over printing to preserve resources.
 feature: /assets/images/when-to-use-what-with-office-365/0cdb123a-0adb-4612-a450-d79da12a2f72_1024x675.jpeg
 ---
-
 # When to Use What with Office 365
 
 As I mentioned two weeks ago, I was challenged with creating an infographic.

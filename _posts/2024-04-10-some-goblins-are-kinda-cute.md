@@ -10,16 +10,13 @@ header:
 categories:
 - null
 tags:
-- personal
-- prescriptive
-- productivity-systems
-- ai-collaboration
+  - personal
+  - prescriptive
 entities: []
 meta: The essay argues that Goblin Tools' AI-powered applications uniquely
   boost neurodivergent knowledge workers' productivity and focus, urging adoption.
 feature: /assets/images/some-goblins-are-kinda-cute/4fdbe2a1-d88e-4a56-8c98-f625a982f514_1792x1024.png
 ---
-
 # Some Goblins Are Kinda Cute.
 
 I’m always on the lookout for tools and technologies that can help our teams be more productive, focused, and effective in our work. A couple weeks ago, my amazing wife found this on the interwebs and excitedly had to share it with me. Because she’s the most inspiring person I know, I gave it a spin. It’s an incredible suite of AI-powered applications called Goblin Tools, and I just had to share my thoughts with y’all.

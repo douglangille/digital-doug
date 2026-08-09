@@ -9,16 +9,14 @@ header:
 categories:
 - null
 tags:
-- institutional
-- foundational
-- knowledge-epistemology
+  - institutional
+  - foundational
 entities: ["Marc Prensky"]
 meta: The essay argues that digital fluency requires integrating literacy,
   functional tool mastery, and wellbeing to effectively create, communicate, and sustain
   digital work.
 feature: /assets/images/digital-fluency-in-2024/419caae1-ca6b-440b-8135-9477375cbf3c_1024x1024.jpeg
 ---
-
 # Digital Fluency in 2024
 
 Technology is an integral part of our lives. How we use and learn from it varies depending on our level of digital fluency. Digital fluency is choosing and using the best digital tools to get the job done. It goes beyond the bells, whistles, knobs and dials of software. What matters is communicating, creating, learning and working in a digital environment.

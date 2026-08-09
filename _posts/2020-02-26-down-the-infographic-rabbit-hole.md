@@ -8,15 +8,13 @@ header:
 categories:
 - null
 tags:
-- institutional
-- prescriptive
-- technical-infrastructure
+  - institutional
+  - prescriptive
 entities: []
 meta: The essay argues that deploying Microsoft Teams transforms institutional
   productivity but creates chaos unless clear guidance on tool selection is established.
 feature: /assets/images/down-the-infographic-rabbit-hole/f75491cc-08d5-488a-84de-fcd2bcf1a029_1920x1271.jpeg
 ---
-
 # Down the Infographic Rabbit Hole
 
 I’m the Office 365 guy. I don’t twist all the knobs, turn the dials and pull the levers. But I’m the in-house strategist and evangelist. I love this stuff.

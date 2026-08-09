@@ -8,13 +8,10 @@ header:
 tags:
   - institutional
   - diagnostic
-  - ai-collaboration
-  - governance-structure
 entities: []
 meta: Treating AI like a passive tool fails; the horse metaphor reframes what adoption, governance, and practitioner skill actually require.
 feature: /assets/images/ai-is-more-horse-than-plough/generated-image-1.png
 ---
-
 # AI Is More Horse Than Plough
 
 It was a Friday afternoon in May, and [Derek McCurdy](https://www.linkedin.com/in/derek-mccurdy-538b3860/), [Ute Fiedler](https://www.linkedin.com/in/utefiedler/), [Steven Gordon](https://www.linkedin.com/in/steven-gordon-94071b84/), and I were supposed to talk about AI governance.

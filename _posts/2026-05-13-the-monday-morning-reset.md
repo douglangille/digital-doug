@@ -2,10 +2,8 @@
 title: The Monday Morning Reset
 excerpt: Survival mode is a choice. Skip this and find out.
 tags:
-- personal
-- prescriptive
-- productivity-systems
-- ai-collaboration
+  - personal
+  - prescriptive
 entities: []
 date: 2026-05-13 08:00:00 -0400
 header:
@@ -15,7 +13,6 @@ meta: Skipping a Monday review leads to chaotic inbox overload, while a consiste
   review restores focus and prevents burnout.
 feature: /assets/images/the-monday-morning-reset/generated-image-7.png
 ---
-
 # The Monday Morning Reset
 
 Look, I'm gonna tell you what happens when I skip my Monday morning review.

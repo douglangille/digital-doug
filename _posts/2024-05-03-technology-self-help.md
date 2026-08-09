@@ -9,15 +9,13 @@ header:
 categories:
 - null
 tags:
-- personal
-- prescriptive
-- knowledge-epistemology
+  - personal
+  - prescriptive
 entities: []
 meta: The essay argues that most workers lack formal tech training, causing
   reliance on trial‑and‑error, and urges structured learning to improve competence.
 feature: /assets/images/technology-self-help/1f383809-2ea0-4953-87dc-c9924e4f007a_640x400.jpeg
 ---
-
 # Technology Self-Help
 
 It’s a strange time we live in.

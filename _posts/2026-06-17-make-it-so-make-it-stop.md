@@ -5,9 +5,6 @@ excerpt: "On flow, AI, and who's holding the wheel."
 tags:
   - personal
   - diagnostic
-  - ai-collaboration
-  - productivity-systems
-  - behavioral-psychology
 entities: []
 meta: "Evaluation cost — not decision authority — determines flow compatibility with AI; hand off friction work, protect judgment work, or the stamp end claims you."
 categories:
@@ -17,7 +14,6 @@ header:
   overlay_image: /assets/images/make-it-so-make-it-stop/feature.png
 feature: /assets/images/make-it-so-make-it-stop/feature.png
 ---
-
 # Make It So. Make It Stop.
 
 I've done this thing where I reached for Claude to handle something tedious: a block of boilerplate, a paragraph rewrite, some config file I didn't want to manually edit. I told myself it'll be fast. Thirty seconds of processing, paste it back in, keep moving.

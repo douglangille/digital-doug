@@ -7,13 +7,10 @@ header:
 tags:
   - institutional
   - diagnostic
-  - governance-structure
-  - ai-collaboration
 entities: []
 meta: Governance-first AI policy is the official answer. Shadow AI proves it's not the real answer. The timing sequence is the whole argument — governance arriving before value looks like obstruction; arriving after looks like infrastructure.
 feature: /assets/images/fashionably-late/feature.png
 ---
-
 # Fashionably Late
 
 I was at a Gartner local event Tuesday morning at the Brightwood in Dartmouth. It was pissing buckets and still there was some dude out there on the greens. I admire the dedication, yet fail to understand the compulsion. 

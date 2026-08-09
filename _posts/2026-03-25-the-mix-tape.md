@@ -6,16 +6,13 @@ header:
   teaser: /assets/images/the-mix-tape/feature.png
   overlay_image: /assets/images/the-mix-tape/feature.png
 tags:
-- personal
-- foundational
-- knowledge-epistemology
-- ai-collaboration
+  - personal
+  - foundational
 entities: ["Dave Snowden"]
 meta: The essay argues that authentic creativity requires human-centered curation,
   using personal mix‑tapes as a model for AI‑augmented artistic connection.
 feature: /assets/images/the-mix-tape/feature.png
 ---
-
 # The Mix Tape
 
 I was listening to Kate Compton on the [Approximately Correct podcast from AMII](https://www.amii.ca/updates-insights/-keep-ai-weird-kate-compton-on-creativity-in-computing-approximately-correct-podcast). She's a generative artist, researcher, and self-described weird futurist, probably best known for creating Tracery and generating the planets in *Spore*. And she said something that cracked something open for me.

@@ -7,16 +7,14 @@ header:
   teaser: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
   overlay_image: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
 tags:
-- personal
-- prescriptive
-- productivity-systems
+  - personal
+  - prescriptive
 entities: []
 meta: The essay argues that adopting a strategic digital calendar and task
   manager like Outlook and To Do dramatically improves personal productivity and reduces
   overwhelm.
 feature: /assets/images/taming-the-chaos/8424213b-47b0-4fda-973b-079f92eb91e7_800x450.jpeg
 ---
-
 # Taming the Chaos
 
 Let’s face it, the digital age has brought a double-edged sword. Information at our fingertips? Amazing! But the constant influx of emails, notifications, and to-dos can leave us feeling overwhelmed and scattered.

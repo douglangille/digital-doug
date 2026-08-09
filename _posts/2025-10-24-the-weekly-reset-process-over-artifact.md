@@ -8,15 +8,13 @@ header:
 categories:
 - null
 tags:
-- personal
-- prescriptive
-- productivity-systems
+  - personal
+  - prescriptive
 entities: []
 meta: The essay argues that leveraging AI‑assisted note‑taking and calendar
   review as a repeatable weekly reset maximizes personal productivity after time off.
 feature: /assets/images/the-weekly-reset-process-over-artifact/a94eb8b8-2c35-4848-a216-449ad84bb18a_1536x1024.png
 ---
-
 # The Weekly Reset: Process Over Artifact
 
 I was on vacation last week and mostly disconnected from Teh Internets. There was plenty of farm-ish work to handle as part of the seasonal shutdown. All in all, it was great. So when I logged into a computer on Monday, what happened? What disasters awaited me?

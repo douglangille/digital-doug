@@ -6,16 +6,14 @@ header:
   teaser: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
   overlay_image: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
 tags:
-- institutional
-- diagnostic
-- governance-structure
+  - institutional
+  - diagnostic
 entities: []
 meta: The essay diagnoses institutional AI chaos, urging coordinated governance
   structures and collaborative frameworks to transform fragmented initiatives into
   effective action.
 feature: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
 ---
-
 # Everyone Knows AI Is Transformative
 
 Right now, most institutions are still thrashing. Multiple initiatives, no coherent strategy, departments rolling out AI independently. The messaging is scattered. Some leaders are excited. Some are defensive. Some haven't said anything yet. It's chaos, but it's honest chaos. Nobody's pretending to know what they're doing.

@@ -1,7 +1,8 @@
 ---
 title: The Overhead of Being Known
 date: 2026-06-03 08:00:00 -0300
-tags: [personal, diagnostic, ai-collaboration, productivity-systems]
+tags: [personal, diagnostic]
+
 meta: "Building a persistent AI context creates unexpected intimacy and real maintenance overhead; the system earns its keep by holding the thread you can't."
 excerpt: "What do you call it when your AI knows about your aunt?"
 header:
@@ -9,7 +10,6 @@ header:
   overlay_image: /assets/images/the-overhead-of-being-known/generated-image-1.png
 feature: /assets/images/the-overhead-of-being-known/generated-image-1.png
 ---
-
 # The Overhead of Being Known
 
 *What do you call it when your AI knows about your aunt?*

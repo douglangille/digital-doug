@@ -6,12 +6,12 @@ header:
   teaser: /assets/images/equity-through-uniformity/feature.png
   overlay_image: /assets/images/equity-through-uniformity/feature.png
 excerpt: "The tab nobody reads."
-tags: [institutional, diagnostic, technical-infrastructure, governance-structure]
+tags: [institutional, diagnostic]
+
 entities: []
 meta: "A flat percentage cut lands on a fictional college IT department and reveals exactly which costs never make it onto a budget slide."
 feature: /assets/images/equity-through-uniformity/feature.png
 ---
-
 # Equity Through Uniformity
 
 The memo arrived on a Tuesday, which is when bad news always arrives at Halifax Institute of Magical Arts and Technology. Not because of any institutional policy. Just cultural gravity. Bad news had learned, over decades, that Tuesday was the path of least resistance: after the weekend's residual goodwill had evaporated, before the week had built up enough momentum to absorb a blow.

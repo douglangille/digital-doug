@@ -8,16 +8,13 @@ header:
 categories: []
 excerpt: Workslop looks good, says nothing, and wastes your time.
 tags:
-- institutional
-- diagnostic
-- ai-collaboration
-- knowledge-epistemology
+  - institutional
+  - diagnostic
 entities: []
 meta: The essay warns that AI‑generated ‘workslop’ masquerades as polished
   output, eroding authentic effort and wasting time in organizational settings.
 feature: /assets/images/confidently-wrong/cd8c89d7-cee6-4601-8ea0-a996df1f383a_1536x1024.png
 ---
-
 # Confidently Wrong
 
 ### When Workslop Comes for You

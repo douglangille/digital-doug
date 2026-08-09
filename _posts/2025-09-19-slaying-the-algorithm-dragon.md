@@ -9,16 +9,13 @@ header:
 categories:
 - null
 tags:
-- personal
-- prescriptive
-- productivity-systems
-- knowledge-epistemology
+  - personal
+  - prescriptive
 entities: []
 meta: The essay argues that algorithm-driven short-form content erodes deep
   reading, urging personal disengagement to restore authentic literary practice.
 feature: /assets/images/slaying-the-algorithm-dragon/aea9b245-a285-4add-892f-900d9d1b793e_1536x1024.png
 ---
-
 # Slaying the Algorithm Dragon
 
 "I cannot brain today. I have the dumb."

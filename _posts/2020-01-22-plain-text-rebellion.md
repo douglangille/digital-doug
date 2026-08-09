@@ -8,16 +8,13 @@ header:
 categories:
 - null
 tags:
-- personal
-- prescriptive
-- craft-authenticity
-- technical-infrastructure
+  - personal
+  - prescriptive
 entities: ["John Gruber"]
 meta: The essay laments how modern word processors erode authentic, disciplined
   writing practices, diagnosing technology’s ease as a threat to craft.
 feature: /assets/images/plain-text-rebellion/10fe202e-feb9-4b88-8df8-9e12ca146f23_1024x686.png
 ---
-
 # Plain Text Rebellion
 
 Let me tell you a story.

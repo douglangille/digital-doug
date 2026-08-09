@@ -8,16 +8,13 @@ header:
 categories: []
 excerpt: Why Nova Scotia needs to treat AI like public infrastructure.
 tags:
-- institutional
-- diagnostic
-- knowledge-epistemology
-- governance-structure
+  - institutional
+  - diagnostic
 entities: []
 meta: Nova Scotia must treat AI as public infrastructure, ensuring affordable
   universal access to prevent widening digital inequity.
 feature: /assets/images/ai-is-the-new-literacy/ca90c7c8-a9a1-4012-a671-137311065956_1536x1024.png
 ---
-
 # AI Is the New Literacy.
 
 AI is moving from “interesting toy” to “everyday tool” faster than we’ve seen with anything since smartphones. In Nova Scotia, the people who could benefit the most are still on the outside looking in. If we repeat our broadband screw‑ups and slow rollouts, reactive policy, and shiny announcements with no depth, we’re going to bake inequity into our future.

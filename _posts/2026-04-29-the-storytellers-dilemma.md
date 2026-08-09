@@ -4,8 +4,6 @@ excerpt: The AI question isn't about kudos and disclosure.
 tags:
   - personal
   - foundational
-  - craft-authenticity
-  - ai-collaboration
 entities: ["James Patterson"]
 date: 2026-04-29 08:00:00 -0400
 header:
@@ -14,7 +12,6 @@ header:
 meta: The essay argues that using AI blurs the line between writer, editor, and author, challenging personal ownership of authentic storytelling.
 feature: /assets/images/the-storytellers-dilemma/feature.png
 ---
-
 # The Storyteller's Dilemma
 
 "Is this damn thing mine?"

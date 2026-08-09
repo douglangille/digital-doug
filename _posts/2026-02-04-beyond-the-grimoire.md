@@ -5,13 +5,13 @@ excerpt: Why AI Mastery Is Wisdom, Not (Just) Spell Collection
 header:
   teaser: /assets/images/beyond-the-grimoire/feature.png
   overlay_image: /assets/images/beyond-the-grimoire/feature.png
-tags: [institutional, foundational, knowledge-epistemology, ai-collaboration]
+tags: [institutional, foundational]
+
 entities: []
 meta: The essay argues that obsessively collecting AI prompts hinders genuine
   mastery, urging individuals to focus on thoughtful, purpose‑driven AI collaboration.
 feature: /assets/images/beyond-the-grimoire/feature.png
 ---
-
 # Beyond the Grimoire
 
 You're forty-five minutes into a chat with your AI. You started with something simple: draft an email, outline a lesson plan, whatever. Now you're on iteration twenty-three, and each version is slightly different but not actually better. You keep thinking "just one more tweak." You're polishing a turd, hoping it'll transform into a rainbow unicorn horn.

@@ -7,16 +7,13 @@ header:
   overlay_image: /assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.png
 categories: []
 tags:
-- personal
-- prescriptive
-- ai-collaboration
-- productivity-systems
+  - personal
+  - prescriptive
 entities: []
 meta: The essay argues that accumulating unchecked context in chatbots degrades
   their performance, warning users that more data can cause drift.
 feature: /assets/images/everything-is-brown/d4feb718-4149-4102-8649-91c099f7ec7f_1536x1024.png
 ---
-
 # Everything Is Brown
 
 ## The Play-Doh Problem

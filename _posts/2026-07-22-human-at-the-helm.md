@@ -5,12 +5,12 @@ header:
   teaser: /assets/images/human-at-the-helm/feature.png
   overlay_image: /assets/images/human-at-the-helm/feature.png
 excerpt: "What a legislature and my own writing workflow have in common this week."
-tags: [personal, prescriptive, governance-structure, ai-collaboration]
+tags: [personal, prescriptive]
+
 entities: ["Bill Oliver"]
 meta: "A legislator reads a raw ChatGPT preamble into the record; a private HITL failure teaches the same lesson about staying at the helm."
 feature: /assets/images/human-at-the-helm/feature.png
 ---
-
 # Human at the Helm
 
 Bill Oliver stood up in the New Brunswick legislature and read a chatbot preamble into the permanent record like it was his own idea. "Here's a more natural flowing version of that section that reads like legislative speech rather than a series of short points". Out loud. To the House. Somebody clipped it, it's on Reddit now, and half the province has watched a sitting MLA narrate his own clumsy prompt engineering before getting to the actual point. I'm just waiting for it to show up on the official Hansard. 

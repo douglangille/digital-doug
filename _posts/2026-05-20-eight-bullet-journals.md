@@ -4,8 +4,6 @@ excerpt: Some notes about note-taking.
 tags:
   - personal
   - diagnostic
-  - productivity-systems
-  - ai-collaboration
 entities: ["David Allen", "Cal Newport"]
 date: 2026-05-20 08:00:00 -0400
 header:
@@ -14,7 +12,6 @@ header:
 meta: Note-taking systems fail when maintenance overhead exceeds output value; the only metric worth checking is shipped work, not accumulated notes.
 feature: /assets/images/eight-bullet-journals/generated-image-1.png
 ---
-
 # Eight Bullet Journals
 
 Every eighteen months, someone ships a new system.

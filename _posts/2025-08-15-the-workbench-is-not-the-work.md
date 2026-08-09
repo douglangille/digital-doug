@@ -8,16 +8,13 @@ header:
 categories: []
 excerpt: Clearing space for what matters.
 tags:
-- personal
-- prescriptive
-- productivity-systems
-- craft-authenticity
+  - personal
+  - prescriptive
 entities: ["Cal Newport"]
 meta: The essay argues that personal knowledge‑management systems should remain
   functional workbenches, not become the end goal of perfect, decorative organization.
 feature: /assets/images/the-workbench-is-not-the-work/e686722a-0364-4c63-9210-3adfe82a47fc_1536x1024.png
 ---
-
 # The Workbench Is Not the Work
 
 We love to polish our systems. Tag, colour-code, and tweak them until they gleam. But somewhere along the way, the shine starts to feel like progress. The container steals the spotlight from the content.
