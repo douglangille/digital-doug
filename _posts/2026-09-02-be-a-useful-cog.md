@@ -5,7 +5,7 @@ image: /assets/images/be-a-useful-cog/feature.png
 header:
   teaser: /assets/images/be-a-useful-cog/feature.png
   overlay_image: /assets/images/be-a-useful-cog/feature.png
-excerpt: "On loss, layoffs, and doing good work while the gears keep turning anyway"
+excerpt: "On loss, change, and doing good work while the gears keep turning anyway"
 tags: [personal, foundational]
 entities: []
 meta: "Doug argues that amid organizational upheaval and personal loss, the only real practice is doing good work, staying kind, and letting the gears keep turning."
