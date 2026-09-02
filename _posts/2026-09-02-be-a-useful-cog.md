@@ -30,7 +30,7 @@ We lost a colleague recently. Someone I knew and worked with. Since COVID happen
 
 Part of being a person in my mid-fifties is watching people disappear, either they move on to other careers, other jobs, or they pass on to the other realm. The reduction in force back in the spring came with its own grieving process too. Because we did lose people. The stuff they did remained. Their role as a cog still has to happen. The gears still have to turn. The machinery still has to work. Sometimes you route around it, sometimes you shoulder in and get it done. Do good work. Be kind. What else is there?
 
-I keep coming back to the Dread Pirate Roberts, telling Westley every night for years: good work, sleep well, I'll most likely kill you in the morning. Funny line. Less funny some weeks, when it's basically the org chart. Sometimes I'm Westley. Sometimes I'm Roberts.
+I keep coming back to the Dread Pirate Roberts, telling Westley every night for years: good work, sleep well, I'll most likely kill you in the morning. Sometimes I'm Westley. Sometimes I'm Roberts.
 
 Fence still needs fixing. I'll get to it this weekend. Maybe. It's supposed to rain.
 
