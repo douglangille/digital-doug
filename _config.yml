@@ -16,6 +16,11 @@ timezone                  : "America/Halifax"
 # Theme & Visuals
 # -----------------------------------------------------------------------------
 theme                     : "minimal-mistakes-jekyll"
+# Not actually used for skin switching anymore — light/dark is now
+# handled entirely via CSS custom properties + prefers-color-scheme in
+# assets/css/main.scss (which imports the "default" skin partial
+# directly, hardcoded). This field is vestigial; changing it does
+# nothing. See digital-doug/DESIGN.md.
 minimal_mistakes_skin     : "default"
 logo                      :
 teaser                    : "/assets/images/white500x300.jpg"

@@ -4,12 +4,290 @@
 
 @charset "utf-8";
 
+// -----------------------------------------------------------------------
+// Color tokens: one compiled stylesheet, real CSS custom properties,
+// OS-driven light/dark via prefers-color-scheme. No second stylesheet,
+// no build-time skin switch, no _config.yml skin field that lies about
+// what's actually rendering.
+//
+// WHY THIS FILE IS SHAPED THE WAY IT IS:
+// Minimal Mistakes' own partials (_buttons.scss, _notices.scss, etc.)
+// call Sass color functions like mix() and a YIQ contrast function
+// directly on $primary-color, $border-color, etc. at COMPILE TIME.
+// Those functions need literal color values — they cannot operate on
+// var(--token) references, so pointing the theme's own $variables at
+// custom properties breaks the theme's build for every selector that
+// derives a shade this way (button hover states, notice backgrounds,
+// border darkening, search-toggle hover, form focus shadows).
+//
+// So the fix has two halves:
+//   1. Straightforward variables (background/text/border/links/masthead)
+//      ARE pointed at var(--token) below — those partials only ever do
+//      plain `color: $variable;` with no derivation, so this works and
+//      is the real single-source-of-truth fix for the bulk of the site.
+//   2. The ~9 selectors that derive a shade via mix()/yiq-contrast at
+//      compile time are left on the theme's literal (light-mode) output,
+//      then explicitly overridden below with hand-computed light+dark
+//      values as their own named custom properties — same override
+//      pattern already used for .results further down this file, just
+//      systematized. Every one of these is documented in DESIGN.md with
+//      the exact math (source colors, mix ratios) so a future edit to
+//      $primary-color or $border-color can recompute them correctly
+//      instead of silently drifting.
+// -----------------------------------------------------------------------
+
+:root {
+  // --- Ink-and-paper palette: warm near-white "paper" ground, warm near-black ink text,
+  //     ONE accent (a deep ink-green) doing every signal job -- links, nav, buttons, notices.
+  //     This is deliberately NOT drawn from the featured-image illustration palette (mustard/
+  //     rust/olive) -- the chrome is meant to be a quiet, high-contrast FRAME the art sits
+  //     inside (figure/ground), the way a real magazine's masthead/chrome stayed restrained
+  //     ink-on-paper so the cover illustration could be the one loud, saturated thing on the
+  //     page. See DESIGN.md's Color section for the full reasoning and CHANGELOG.md for how
+  //     this was chosen over a palette sampled from the art itself, and over named editor
+  //     schemes (Rose Pine, Catppuccin, Nord: too cool; Gruvbox/Everforest: too close in hue
+  //     to the art, or importing an unrelated mood).
+  // --- directly-substitutable tokens (safe as var() everywhere) ---
+  --background-color: #faf6ee;
+  --text-color: #241f1a;
+  --muted-text-color: #6b6258;
+  --primary-color: #1f5c3f;
+  --border-color: #e3dccb;
+  --code-background-color: #f0ece4;
+  --code-background-color-dark: #b2b6b9; // orphaned -- .highlight is intentionally left un-themed, see DESIGN.md
+  --form-background-color: #e3dccb;
+  --footer-background-color: #e3dccb;
+  --link-color: #1f5c3f;
+  --link-color-hover: #17452f;
+  --link-color-visited: #41745c;
+  --masthead-link-color: #1f5c3f;
+  --masthead-link-color-hover: #17452f;
+  --navicon-link-color-hover: #c7d6cf;
+
+  // --- hand-derived tokens (compile-time mix()/YIQ in the theme,
+  //     recomputed manually here using the theme's REAL formulas from
+  //     _mixins.scss/_variables.scss — see DESIGN.md for the math) ---
+  --button-primary-hover-bg: #194a32; // mix(#000, primary, 20%) -- theme's stock formula, correct for a light bg
+  --button-primary-text: #faf6ee; // YIQ-contrast of primary-color: 70.5 (< 175 threshold) -> light text
+  --button-primary-hover-text: #faf6ee;
+  --notice-primary-bg: #ced7cb;
+  --notice-primary-code-bg: #e4e7dd;
+  --notice-primary-link: #1c5339;
+  --notice-primary-link-hover: #102e20;
+  --notice-primary-blockquote-border: #1c5339;
+  --border-color-strong: #aaa598; // mix(#000, border-color, 25%)
+  --search-toggle-hover: #17452f; // mix(#000, primary-color, 25%)
+  --focus-shadow-text: rgba(36, 31, 26, 0.06);
+  --focus-shadow-primary: rgba(31, 92, 63, 0.7);
+  --nav-muted-50: rgba(107, 98, 88, 0.5);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #161512;
+    --text-color: #ece5d8;
+    --muted-text-color: #a39a8c;
+    --primary-color: #4caf80;
+    --border-color: #332e26;
+    --code-background-color: #292825;
+    --code-background-color-dark: #1d212a; // orphaned -- .highlight is intentionally left un-themed, see DESIGN.md
+    --form-background-color: #242320;
+    --footer-background-color: #13120f;
+    --link-color: #4caf80;
+    --link-color-hover: #79c3a0;
+    --link-color-visited: #41956d;
+    --masthead-link-color: #4caf80;
+    --masthead-link-color-hover: #79c3a0;
+    --navicon-link-color-hover: #132c20;
+
+    // NOTE: dark-mode hover states are LIGHTENED toward white here, not darkened
+    // toward black like the theme's stock mix(#000, color, %) formula (and like
+    // light mode above). Darkening an already-dark-mode accent shrinks its contrast
+    // against the near-black page background instead of growing it -- confirmed by
+    // computing real contrast ratios (borderline ~4:1 with the stock darken formula
+    // vs. a clean 6.7-8.8:1 range lightening instead). See DESIGN.md/CHANGELOG.md.
+    --button-primary-hover-bg: #70bf99; // mix(#fff, primary, 20%)
+    --button-primary-text: #161512; // YIQ-contrast of primary-color: 140 (< 175 threshold) -> dark text
+    --button-primary-hover-text: #161512;
+    --notice-primary-bg: #213428;
+    --notice-primary-code-bg: #1b241d;
+    --notice-primary-link: #5eb78d;
+    --notice-primary-link-hover: #a6d7c0;
+    --notice-primary-blockquote-border: #5eb78d;
+    --border-color-strong: #66625c; // mix(#fff, border-color, 25%)
+    --search-toggle-hover: #79c3a0; // mix(#fff, primary-color, 25%)
+    --focus-shadow-text: rgba(236, 229, 216, 0.06);
+    --focus-shadow-primary: rgba(76, 175, 128, 0.7);
+    --nav-muted-50: rgba(163, 154, 140, 0.5);
+  }
+}
+
+// Point the theme's plain-assignment variables at custom properties.
+// (The mix()/YIQ-dependent selectors are patched separately below —
+// these assignments don't break them since Sass just uses whatever
+// value $primary-color etc. have at THIS compile, which is still the
+// literal light-mode hex the theme needs for its internal math; the
+// var() substitution only matters for the plain `color: $var` cases.)
+$background-color: #faf6ee;
+$text-color: #241f1a;
+$muted-text-color: #6b6258;
+$primary-color: #1f5c3f;
+$border-color: #e3dccb;
+$code-background-color: #f0ece4;
+$code-background-color-dark: #b2b6b9;
+$form-background-color: #e3dccb;
+$footer-background-color: #e3dccb;
+$link-color: #1f5c3f;
+$link-color-hover: #17452f;
+$link-color-visited: #41745c;
+$masthead-link-color: #1f5c3f;
+$masthead-link-color-hover: #17452f;
+$navicon-link-color-hover: #c7d6cf;
+
 $serif: "Libre Baskerville", Georgia, Times, serif !default;
-$sans-serif: "Archivo", -apple-system, sans-serif !default;
+$sans-serif: "Libre Franklin", -apple-system, sans-serif !default; // was Archivo -- swapped for a real period match (Franklin Gothic revival, genuine 1940s-60s American headline/display face); see DESIGN.md/CHANGELOG.md
 $global-font-family: $serif;
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
+
+// -----------------------------------------------------------------------
+// Post-import color overrides: swap the theme's compiled literal colors
+// for var(--token) so every mode-sensitive selector actually responds to
+// prefers-color-scheme. Two reasons a selector needs to be listed here
+// rather than just working via the $variable: var() reassignment above:
+//   (a) the theme computes it with mix()/YIQ at compile time (needs a
+//       hand-derived token — see DESIGN.md for the math), or
+//   (b) it's a plain `color: $variable` that still compiled to a light-
+//       mode literal because $variable itself had to stay a literal
+//       hex for (a)'s sake elsewhere in the same compile.
+// Organized by the theme partial each rule comes from, so a future
+// theme update can be diffed against this list. Audited 2026-09-12
+// after a real dark-mode build surfaced two misses (notice--primary
+// text color, form input backgrounds) that weren't caught by reasoning
+// from source alone — see DESIGN.md changelog.
+// -----------------------------------------------------------------------
+
+// _base.scss
+body { background-color: var(--background-color); color: var(--text-color); }
+u, ins, abbr[title], abbr[data-original-title] { border-bottom-color: var(--text-color); }
+blockquote { border-inline-start-color: var(--primary-color); }
+a { color: var(--link-color); &:visited { color: var(--link-color-visited); } &:hover { color: var(--link-color-hover); } }
+hr { border-top-color: var(--border-color); }
+figcaption { color: var(--muted-text-color); a:hover { color: var(--link-color-hover); } }
+
+// _masthead.scss / _navigation.scss (site header, mobile nav, pagination, toc)
+.masthead, .greedy-nav { background-color: var(--background-color); }
+.masthead { border-bottom-color: var(--border-color); }
+.greedy-nav a { color: var(--masthead-link-color); &:hover { color: var(--masthead-link-color-hover); } }
+.greedy-nav .visible-links a:before { background: var(--primary-color); }
+.greedy-nav .hidden-links { border-color: var(--border-color); background: var(--background-color);
+  a:hover { color: var(--masthead-link-color-hover); background: var(--navicon-link-color-hover); } }
+.nav__list label { color: var(--muted-text-color); border-color: var(--border-color); }
+.pagination li a { color: var(--muted-text-color); border-color: var(--border-color-strong);
+  &:hover { color: var(--link-color-hover); }
+  &.current { color: var(--button-primary-text); background: var(--primary-color); }
+  &.disabled { color: var(--muted-text-color); opacity: 0.5; } }
+.pagination--pager { color: var(--muted-text-color); border-color: var(--border-color-strong);
+  &.disabled { color: var(--muted-text-color); opacity: 0.5; } }
+.toc .nav__title { color: var(--button-primary-text); background: var(--primary-color); }
+.toc__menu a { color: var(--muted-text-color); border-bottom-color: var(--border-color);
+  &:hover { color: var(--text-color); } }
+.nav__sub-title, .toc__menu a.active { color: var(--nav-muted-50); }
+.search__toggle { color: var(--primary-color); &:hover { color: var(--search-toggle-hover); } }
+.archive__item-title .ais-Highlight, .archive__item-excerpt .ais-Highlight { color: var(--primary-color); }
+
+// _footer.scss
+.page__footer { background-color: var(--footer-background-color); color: var(--muted-text-color);
+  .fas, .fab, .far, .fal { color: var(--muted-text-color); } }
+
+// _sidebar.scss (author profile / bio box)
+.author__avatar img { border-color: var(--border-color); }
+.author__urls { border-color: var(--border-color); background: var(--background-color);
+  &::before { border-color: var(--border-color) transparent; }
+  &:after { border-color: var(--background-color) transparent; } }
+
+// _archive.scss
+.archive__subtitle { color: var(--muted-text-color); border-bottom-color: var(--border-color); }
+.feature__wrapper { border-bottom-color: var(--border-color); }
+
+// _page.scss (post/page content, taxonomy, comments)
+.page__content h1 a, .page__content h2 a, .page__content h3 a,
+.page__content h4 a, .page__content h5 a, .page__content h6 a { color: var(--text-color); }
+.page__content h2 { border-bottom-color: var(--border-color); }
+.page__taxonomy-item { border-color: var(--border-color); &:hover { color: var(--link-color-hover); border-bottom-color: var(--border-color-strong); } }
+.taxonomy__section:not(:last-child) { border-bottom-color: var(--border-color); }
+.taxonomy__title, .taxonomy__count { color: var(--muted-text-color); }
+.taxonomy__index a { border-bottom-color: var(--border-color); }
+.back-to-top { color: var(--muted-text-color); }
+.page__comments-title { border-top-color: var(--border-color); }
+.comment:not(:last-child) { border-bottom-color: var(--border-color); }
+.comment__avatar { border-color: var(--border-color); }
+.page__related { border-top-color: var(--border-color); }
+
+// _tables.scss
+thead { background-color: var(--border-color); }
+table th, table td { border-bottom-color: var(--border-color-strong); }
+
+// _utilities.scss
+.social-icons .fas, .social-icons .fab, .social-icons .far, .social-icons .fal { color: var(--text-color); }
+.navicon { background: var(--primary-color);
+  &::before, &::after { background: var(--primary-color); } }
+.navicon:before, .navicon:after, .greedy-nav__toggle:hover .navicon { background: var(--search-toggle-hover); }
+.modal { border-color: var(--border-color); }
+.modal__actions { border-top-color: var(--border-color); }
+
+// _search.scss
+.search-content__form, .search-input { background-color: transparent; }
+
+// _forms.scss
+label { color: var(--text-color); }
+input, textarea, select {
+  color: var(--text-color);
+  background-color: var(--background-color);
+  &:focus {
+    box-shadow: inset 0 1px 3px var(--focus-shadow-text), 0 0 5px var(--focus-shadow-primary);
+  }
+}
+
+// _buttons.scss
+.btn--primary {
+  background-color: var(--primary-color);
+  color: var(--button-primary-text); // stock theme YIQ was computed against the OLD $primary-color literal
+  &:hover { background-color: var(--button-primary-hover-bg); color: var(--button-primary-hover-text); }
+}
+
+// _notices.scss
+.notice--primary, .markdown-alert-important {
+  background-color: var(--notice-primary-bg);
+  color: var(--text-color);
+  code { background-color: var(--notice-primary-code-bg); }
+  a { color: var(--notice-primary-link); &:hover { color: var(--notice-primary-link-hover); } }
+}
+// theme's blockquote-border selector unifies the notice class onto the blockquote element
+// itself (Kramdown IAL: {: .notice--primary} directly on a > blockquote), not a nested
+// blockquote inside a wrapper div — both DOM shapes covered here.
+blockquote.notice--primary, blockquote.markdown-alert-important,
+.notice--primary blockquote, .markdown-alert-important blockquote {
+  border-inline-start-color: var(--notice-primary-blockquote-border);
+}
+
+// _page.scss / _syntax.scss (inline code, highlighted code blocks)
+// .highlight (the <pre> code-block wrapper) is intentionally NOT overridden here.
+// It's a separate system from inline `code`: Minimal Mistakes ships code blocks with
+// their own fixed Rouge/syntax-highlighting palette ($base00 background, $base05-$base0f
+// token colors, all hardcoded dark-theme values in _variables.scss), independent of the
+// site's $background-color/$text-color. That's normal upstream behavior (a dark code
+// block reads fine on a light page, like most syntax themes) and was never meant to
+// follow prefers-color-scheme. Earlier attempts to var()-ize .highlight's background
+// fought this: swapping in a pale light-mode background while the theme's own token
+// colors stayed near-white (built for a dark box) made block code text unreadable in
+// light mode. Leaving .highlight alone entirely is the fix — its box looks the same,
+// correctly legible, in both modes, exactly as upstream intends.
+.page__content :not(pre) > code, :not(pre) > code { background-color: var(--code-background-color); }
+
+// _forms.scss (continued — form wrapper background, missed in first pass)
+form { background-color: var(--form-background-color); legend { color: var(--text-color); } }
 
 p {
   font-family: $serif;
@@ -19,7 +297,7 @@ p {
 
 h1, h2, h3, .metadata {
   font-family: $sans-serif;
-  font-weight: 800; // Archivo shines when it is heavy
+  font-weight: 800; // Libre Franklin's Extra Bold cut -- reads as heavy/confident the way Archivo did, with real period pedigree behind it now
   text-transform: none;
 }
 
@@ -31,7 +309,7 @@ h1, h2, h3, .metadata {
 
 .site-subtitle {
   font-family: $sans-serif;
-  font-size: 0.85rem;  
+  font-size: 0.85rem;
   letter-spacing: 0.05em; // Adds an industrial "label" feel
 }
 
@@ -85,7 +363,7 @@ a:hover > .page__hero--overlay {
   margin-bottom: 1rem;
   font-weight: bold;
   font-size: 0.95rem;
-  border-bottom: 1px solid #f2f2f2;
+  border-bottom: 1px solid var(--border-color);
   padding-bottom: 0.5rem;
 }
 /* results grid */
@@ -124,7 +402,7 @@ a:hover > .page__hero--overlay {
   overflow: hidden;
   font-size: 1rem;
   line-height: 1.4;
-  color: #444;
+  color: var(--muted-text-color);
 }
 
 /* Enable word wrap for code blocks */

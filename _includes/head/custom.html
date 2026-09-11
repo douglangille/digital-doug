@@ -1,10 +1,11 @@
 <!-- start custom head snippets -->
 
-<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville|Archivo|Sixtyfour" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&family=Libre+Franklin:wght@400;800&family=Sixtyfour&display=swap" rel="stylesheet" type="text/css">
+<!-- Libre Franklin (Franklin Gothic revival) replaces Archivo for headings -- see DESIGN.md/CHANGELOG.md for the period-typography reasoning. Explicit weights requested (400/800) via the css2 API, replacing the old default-weight-only css?family= endpoint. -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
-<link rel="stylesheet" href="{{ "/assets/css/main-dark.css" | relative_url }}" media="(prefers-color-scheme: dark)">
+<!-- dark mode is now handled inside main.css via CSS custom properties + prefers-color-scheme; see digital-doug/DESIGN.md -->
 
 <link rel="alternate" type="application/atom+xml" href="{{ "/feed.xml" | absolute_url }}">
 
