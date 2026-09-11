@@ -234,6 +234,10 @@ table th, table td { border-bottom-color: var(--border-color-strong); }
 .navicon { background: var(--primary-color);
   &::before, &::after { background: var(--primary-color); } }
 .navicon:before, .navicon:after, .greedy-nav__toggle:hover .navicon { background: var(--search-toggle-hover); }
+// Mobile-menu scrim: the theme's own rule (.greedy-nav__toggle:before) hardcodes
+// $background-color at Sass compile time, so it never picks up the dark-mode
+// custom property and stays light-mode cream/white behind the open flyout menu.
+.greedy-nav__toggle:before { background-color: var(--background-color); }
 .modal { border-color: var(--border-color); }
 .modal__actions { border-top-color: var(--border-color); }
 
