@@ -53,7 +53,7 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
-      
+
 {% capture email_subject_raw %}Thoughts: {{ page.title }}{% endcapture %}
 {% capture email_body_raw %}One-line reaction:
 (Write here)
@@ -71,21 +71,21 @@ Link: {{ page.url | absolute_url }}{% endcapture %}
 
 <div style="clear:both; margin: 0 0 2rem; padding-top: 1rem;">
   <div class="text-center">
-    
+
     <span style="display:flex; gap:0.75rem; justify-content:left; flex-wrap:wrap;">
 
-      <a class="btn btn--success"
+      <a class="btn btn--primary"
          href="/rss"
          target="_blank" rel="noopener">
         Subscribe via RSS.
       </a>
-      
-      <a class="btn btn--success"
+
+      <a class="btn btn--primary"
          href="https://feedrabbit.com/?url={{ site.url }}/rss"
          target="_blank" rel="noopener">
         Subscribe via Email.
       </a>
-      
+
       <a class="btn btn--primary"
          href="mailto:{{ site.email }}?subject={{ email_subject }}&amp;body={{ email_body }}">
         Thoughts or ideas? Tell me.
@@ -95,11 +95,11 @@ Link: {{ page.url | absolute_url }}{% endcapture %}
          href="mailto:?subject={{ share_subject }}&amp;body={{ share_body }}">
         Share with a friend.
       </a>
-      
+
     </span>
   </div>
 </div>
-      
+
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
