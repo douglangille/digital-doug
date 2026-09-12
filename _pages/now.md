@@ -3,39 +3,29 @@ permalink: /now/
 title: "Now"
 ---
 
-*What I'm actively working on as of February 2026.*
+*What I'm actively working on as of September 2026.*
 
 ## Current Projects
 
-**AI Implementation at NSCC**
-- Leading Microsoft 365 Copilot adoption across the college
-- Testing enterprise AI in all its bureaucratic glory
-- Building practical frameworks for faculty adoption
+**Running the college's LMS**
+- Leading the renewal of our learning management system, a multi-year, six-figure relationship
+- The unglamorous part of "AI leader": most of the job is still core systems, procurement, and keeping the lights on
 
-**Personal AI Stack**
-- Running workflows across Perplexity, GitHub Copilot, and Claude 
-- Documenting what actually works vs. what's marketing hype
-- Building reusable patterns for knowledge work
+**AI policy and governance at NSCC**
+- Drafting the college's next-generation AI policy
+- Still testing enterprise AI in all its bureaucratic glory
 
-**Knowledge Systems**
-- Refining plaintext-first workflows (markdown + GitHub + VSCode)
-- Building personal knowledge management without vendor lock-in
-- Publishing experiments and failures on [Digital Doug](https://digital.douglangille.ca) weekly
+**Building real tools, not just talking about them**
+- Shipped an interim attendance-tracking build on Power Apps/SharePoint this fall — real production software, not a pilot
+- Running my own PKM/writing setup as an actual AI-augmented vault, not just a plaintext folder — eating my own cooking
 
 ## Active Learning
 
-- Enterprise AI policy and governance frameworks
-- Knowledge graph systems and semantic search
-- Institutional change management strategies
-
-## Currently Reading
-
-- *AI policy and ethics frameworks for higher education*
-- *Technical documentation on knowledge graphs and RAG systems*
-- Way too many AI newsletters (seriously, it's a problem)
+- Institutional AI governance and change management
+- What actually breaks when AI tooling meets real bureaucratic process, versus what the vendor deck promised
 
 ---
 
-*Updated: February 2026*
+*Updated: September 2026*
 
 For bio and site overview, see [About](/about/).

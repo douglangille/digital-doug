@@ -1,12 +1,12 @@
 main: 
   - title: "Articles"
     url: /articles/
-  - title: "AI"
-    url: /ai/
   - title: "About"
     url: /about/
   - title: "Now"
     url: /now/
+  - title: "AI"
+    url: /ai/
 #  - title: "Search"
 #    url: /search/
 #  - title: ""
