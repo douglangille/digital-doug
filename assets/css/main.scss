@@ -409,6 +409,24 @@ a:hover > .page__hero--overlay {
   color: var(--muted-text-color);
 }
 
+// ============================================================================
+// Page Title Color — same bug found and fixed on Darkling Whim: single.html
+// wraps the H1 in a self-referencing <a> (so the title survives as a link
+// target), and once a page has been visited, `a:visited { color:
+// var(--link-color-visited) }` above ties in specificity with the theme's own
+// `.page__title a { color: $text-color }` and — being declared later — wins,
+// painting visited article titles the accent color instead of the intended
+// text color. Force both link states back to the inherited page color.
+// ============================================================================
+
+.page__title a {
+  color: inherit;
+
+  &:visited {
+    color: inherit;
+  }
+}
+
 /* Enable word wrap for code blocks */
 .highlighter-rouge,
 .highlight,
