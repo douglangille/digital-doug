@@ -51,7 +51,7 @@ Then go to the [OpenCode website and download the app](https://opencode.ai/downl
 
 When you fire it up, point OpenCode only at the folder where you have your Obsidian notes. If you're feeling extra cautious, make an AI-only folder inside Obsidian and point the OpenCode agent at it. It's best practice even once you get more miles under your belt and know what you're doing.
 
-It will ask you if it needs to traverse outside of that folder before it does anything else. If you say yes, it can definitely run low-level commands for you without asking again (that's the point). And all of those shell commands can do pretty dangerous things. There's caps on the scissors most of the time, but you can take them off and then go running gleefully and delete all your precious notes. So maybe make a backup once in a while. You do do backups right? 
+It will ask you if it needs to traverse outside of that folder before it does anything else. If you say yes, it can definitely run low-level commands for you without asking again (that's the point). And all of those shell commands can do pretty dangerous things. There's caps on the scissors most of the time, but you can take them off and then go running gleefully and delete all your precious notes. So maybe make a backup once in a while. You do backups right? 
 
 Once you have an agent chat session open pointed at that directory, you're actually good to start. The default model is the free OpenCode Zen model: Big Pickle. If you're in a rush go ahead and configure a provider and pick a model with the opencode `/connect` and `/models` commands.
 
@@ -65,7 +65,7 @@ You're in an Obsidian Vault. read the about-me file to get started. Your goal is
 
 The agent will ask you some questions about who you are and how you'd like to work if you haven't answered them already. And then it will propose the structure. And you can tweak it. And you can go edit the files yourself, because they're just your text files. You can see everything.
 
-There are a gazillion frameworks for this, and you can watch 17,000 YouTube videos about how to set up a Second Brain in Obsidian. Don't fall for the trap. None of it really matters. None of the systems on YouTube are your system. The takeaway idea is: don't try and build this yourself. This is good work for a robot to do.
+There are a gazillion frameworks for this, and you can watch 17,000 YouTube videos about how to set up a Second Brain in Obsidian. Don't fall for the trap. None of it really matters. None of the systems on YouTube are *your* system. The takeaway idea is: don't try and build this yourself. This is good work for a robot to do.
 
 Now, about models.
 
@@ -75,11 +75,11 @@ One way to think about it is the model is an engine of a car and the harness is 
 * Claude Code is the harness. Sonnet 5.5 is the model. 
 * OpenCode is the harness. Big Pickle is the default model.
 
-Despite the name "code" peppered on all these products, I actually do precious little coding. Most of my AI time is working with documents, data and content. And it's become very clear that over the last year especially the model choice has very little to do with the quality of the output.
+Despite the name "code" peppered on all these products, I actually do precious little coding. Most of my AI time is working with documents, data and content. And it's become very clear that, over the last year especially, the model choice has very little to do with the quality of the output.
 
 "New & Improved" doesn't mean the previous model is "Old & Inadequate".
 
-It's not the models that do the fancy stuff anyway, it's the harness itself that takes action. You'd be surprised how far you can get if you slow down and stop treating these things like magic black boxes where you say: "Create this awesome thing. Make no mistakes."
+It's not the models that do the fancy stuff anyway, it's the harness itself that takes action. Your skill in using them matters. You'd be surprised how far you can get if you slow down and stop treating these things like magic black boxes where you say: "Create this awesome thing. Make no mistakes."
 
 What makes a harness better? If it has a model that does reasoning, can search the web, and a way to manage the context window.
 
