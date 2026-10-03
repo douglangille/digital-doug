@@ -19,7 +19,7 @@ My algorithm feeds are chock full of AI junk that falls in two camps:
 1. The Anti-AI Army who hate this stuff and grasp on to any and every reason to reject the technology, even if that means siding with conspiracy theorists and fallacious argument. There's truth in a lot of it, but there's also a lot of crackpot BS.
 2. The AI-pilled who seem to want to foist this tech on everyone else, citing its inevitability as the reason to be first. The premise is somewhere between suspect and false and it's sending folks down garden paths and dangerous places.
 
-And then there are the pragmatists. They see the potential value of the tools, hate the industry and its [weird-ass philosophies](https://en.wikipedia.org/wiki/Effective_altruism), but... Don't want to be left behind in an economy that's shifting.
+And then there are the pragmatists. They see the potential value of the tools, hate the industry and its [weird-ass philosophies](https://en.wikipedia.org/wiki/Effective_altruism), but... don't want to be left behind in an economy that's shifting.
 
 Somewhere in there is a group of people who want to do the whole Tiago Forte "second brain" thing with [Obsidian](https://obsidian.md), but do not want to commit to a subscription tool like Claude Code or OpenAI Codex or anything like that. They want something a little more free-ish. The good news is I think these folks could get away with using OpenCode and its free model toolkit pointed at Obsidian. You can get most of the way there without spending a dime.
 
@@ -45,7 +45,9 @@ The real risk is when you give these things unrestricted access to your computer
 
 That and your work data. And personally identifiable information. Follow your employer's AI usage and data handling policies. 
 
-You finish getting your Obsidian vault set up, and you make that first file: your `about-me` file: how you think, what you do, what is important to you and what isn't, how you work, what good looks like. Don't get fancy. Bullets are fine. Dictating a ramble into the file is also fine.
+Where were we? Right. Point the robots at your notes.
+
+So, you finish getting your Obsidian vault set up, and you make that first file: your `about-me` file: how you think, what you do, what is important to you and what isn't, how you work, what good looks like. Don't get fancy. Bullets are fine. Dictating a ramble into the file is also fine.
 
 Then go to the [OpenCode website and download the app](https://opencode.ai/download). There's instructions for Windows or Mac or Linux or whatever you happen to be using. I like the Terminal app, but the Desktop app is great too. Six of one, half dozen the other.
 
