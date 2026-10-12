@@ -39,7 +39,8 @@ layout: default
 
       {% assign hero_image = page.image | default: page.header.teaser %}
       {% assign lead = page.excerpt | strip_html | strip %}
-      {% assign body_text = body | strip_html | strip %}
+      {% comment %}An auto excerpt is the document's first block (the H1), so compare against the full content, not the stripped body.{% endcomment %}
+      {% assign body_text = content | strip_html | strip %}
       {% assign lead_len = lead | size %}
       {% assign body_start = body_text | slice: 0, lead_len %}
       {% if lead_len == 0 or body_start == lead %}{% assign lead = "" %}{% endif %}
@@ -54,7 +55,7 @@ layout: default
 
       {% if hero_image %}
       <figure class="page__figure">
-        <img src="{{ hero_image | relative_url }}" alt="{{ page.image_alt | default: page.title | escape }}" fetchpriority="high">
+        <img src="{{ hero_image | relative_url }}" alt="{{ page.image_alt | escape }}" fetchpriority="high">
       </figure>
       {% endif %}
 
