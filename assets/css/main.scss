@@ -328,10 +328,7 @@ h1, h2, h3, .metadata {
   color: var(--text-color);
   opacity: 0.8;
 }
-.page__byline { margin: 0; font-family: $sans-serif; font-size: 0.85rem; }
-.page__byline .page__meta { display: inline; margin: 0; }
-.page__byline-author { font-weight: 800; margin-right: 0.75em; }
-.page__figure { margin: 0 0 1.75rem; }
+.page__figure { display: block; width: 100%; margin: 0 0 1.75rem; }
 .page__figure img { display: block; width: 100%; height: auto; border-radius: 4px; }
 
 /* teaser images in archive grid */
@@ -438,6 +435,3 @@ code {
 .feature-more { font-size: 1.1rem; margin: 0 0 1rem; }
 @media (max-width: 700px) { .feature-card { grid-template-columns: 1fr; gap: 1rem; } }
 
-/* Single reading column: no author sidebar, so centre the article instead of leaving a gutter. */
-body.post #main .page { float: none; width: 100%; max-width: 46rem; margin: 0 auto; padding: 0 1rem; }
-body.post #main .page__related { float: none; width: 100%; max-width: 60rem; margin: 2rem auto 0; }

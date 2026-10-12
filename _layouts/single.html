@@ -49,12 +49,7 @@ layout: default
         <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
         {% endif %}
         {% if lead != "" %}<p class="page__lead">{{ lead }}</p>{% endif %}
-        {% if page.date %}
-        <div class="page__byline">
-          <span class="page__byline-author">{{ page.author | default: site.author.name }}</span>
-          {% include page__meta.html %}
-        </div>
-        {% endif %}
+        {% include page__meta.html %}
       </header>
 
       {% if hero_image %}

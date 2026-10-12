@@ -181,9 +181,8 @@ defaults:
       type                : "posts"
     values:
       comments            : true
-      classes             : "wide post"
       layout              : "single"
-      author_profile      : false
+      author_profile      : true
       read_time           : true
       share               : false
       show_date           : true
