@@ -9,7 +9,7 @@ permalink: /substack.xml
 <description>{{ site.description | xml_escape }}</description>
 <link>{{ "/" | absolute_url }}</link>
 <atom:link href="{{ "/substack.xml" | absolute_url }}" rel="self" type="application/rss+xml"/>
-<language>{{ site.lang | default: "en-US" }}</language>
+<language>{{ site.locale | default: "en-CA" }}</language>
 <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     {% for post in site.posts limit:5 %}
     {% assign post_url = post.url | absolute_url %}
@@ -19,7 +19,12 @@ permalink: /substack.xml
     {% else %}
       {% assign feature_url = nil %}
     {% endif %}
-    {% assign body_html = post.content | replace: post.title, '' | replace: '<h1>', '' | replace: '</h1>', '' %}
+    {% assign body_html = post.content | strip %}
+    {% if body_html contains '</h1>' %}
+      {% assign first_h1 = body_html | split: '</h1>' | first %}
+      {% assign first_h1_open = first_h1 | slice: 0, 3 %}
+      {% if first_h1_open == '<h1' %}{% assign body_html = body_html | remove_first: first_h1 | remove_first: '</h1>' %}{% endif %}
+    {% endif %}
     {% assign parts = body_html | split: '</p>' %}
     {% assign canonical_html = '<blockquote><em>Originally published at <a href="' | append: post_url | append: '">Digital Doug</a>.</em></blockquote>' %}
 <item>
@@ -33,7 +38,8 @@ permalink: /substack.xml
       {% endfor %}
       {% if feature_url %}
 <media:content url="{{ feature_url }}" medium="image"/>
-<enclosure url="{{ feature_url }}" type="image/jpeg" length="0"/>
+{% assign feature_ext = feature_url | split: '.' | last | downcase %}
+<enclosure url="{{ feature_url }}" type="{% if feature_ext == 'png' %}image/png{% elsif feature_ext == 'webp' %}image/webp{% elsif feature_ext == 'gif' %}image/gif{% else %}image/jpeg{% endif %}" length="0"/>
       {% endif %}
 </item>
     {% endfor %}
