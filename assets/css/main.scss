@@ -442,3 +442,10 @@ code {
 
 /* Author sidebar: stock theme fades it to 75% until hover; keep it at full strength. */
 .sidebar { opacity: 1; }
+
+/* Homepage CTA: clear the floated grid above it, then centre. */
+.feature-cta { clear: both; text-align: center; margin: 2rem 0; }
+
+/* Meta sits right under the subtitle; the stock top margin left a blank line. */
+.post-header .page__meta { margin: 0; }
+.post-header .page__lead { margin-bottom: 0.4em; }
