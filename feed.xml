@@ -11,7 +11,7 @@ permalink: /feed.xml
     <atom:link href="{{ "/feed.xml" | absolute_url }}" rel="self" type="application/rss+xml"/>
     <language>{{ site.locale | default: "en-CA" }}</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    {% for post in site.posts limit:20 %}
+    {% for post in site.posts limit:30 %}
     {%- assign img = post.image | default: post.header.teaser -%}
     {%- assign body = post.content | strip -%}
     {%- if body contains '</h1>' -%}
