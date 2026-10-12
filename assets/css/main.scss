@@ -439,3 +439,6 @@ code {
 /* Meta text used the compile-time light muted value in dark mode (~3:1 on the dark page); point it at the token. */
 .page__meta, .page__meta-readtime, .page__meta-date, .page__date, .page__taxonomy .sep,
 .page__taxonomy-item, .archive__item .page__meta, .feature-card .page__meta { color: var(--muted-text-color); }
+
+/* Author sidebar: stock theme fades it to 75% until hover; keep it at full strength. */
+.sidebar { opacity: 1; }
