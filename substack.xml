@@ -25,6 +25,11 @@ permalink: /substack.xml
       {% assign first_h1_open = first_h1 | slice: 0, 3 %}
       {% if first_h1_open == '<h1' %}{% assign body_html = body_html | remove_first: first_h1 | remove_first: '</h1>' %}{% endif %}
     {% endif %}
+    {% comment %}Importers (Substack) fetch images and follow links from the feed alone, so make in-post src/href absolute.{% endcomment %}
+    {% assign abs_root = "/" | absolute_url %}
+    {% assign src_abs = 'src="' | append: abs_root %}
+    {% assign href_abs = 'href="' | append: abs_root %}
+    {% assign body_html = body_html | replace: 'src="/', src_abs | replace: 'href="/', href_abs %}
     {% assign parts = body_html | split: '</p>' %}
     {% assign canonical_html = '<blockquote><em>Originally published at <a href="' | append: post_url | append: '">Digital Doug</a>.</em></blockquote>' %}
 <item>

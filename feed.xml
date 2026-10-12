@@ -18,7 +18,11 @@ permalink: /feed.xml
       {%- assign first_h1 = body | split: '</h1>' | first -%}
       {%- assign first_h1_open = first_h1 | slice: 0, 3 -%}
       {%- if first_h1_open == '<h1' -%}{%- assign body = body | remove_first: first_h1 | remove_first: '</h1>' -%}{%- endif -%}
-    {%- endif %}
+    {%- endif -%}
+    {%- assign abs_root = "/" | absolute_url -%}
+    {%- assign src_abs = 'src="' | append: abs_root -%}
+    {%- assign href_abs = 'href="' | append: abs_root -%}
+    {%- assign body = body | replace: 'src="/', src_abs | replace: 'href="/', href_abs %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ post.url | absolute_url }}</link>
