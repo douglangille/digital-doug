@@ -160,6 +160,14 @@ related_layout            : grid
 # -----------------------------------------------------------------------------
 defaults:
   - scope:
+      path                : "assets"
+    values:
+      sitemap             : false
+  - scope:
+      path                : "articles/page"
+    values:
+      sitemap             : false
+  - scope:
       path                : ""
     values:
       layout              : "single"
@@ -173,9 +181,10 @@ defaults:
       type                : "posts"
     values:
       comments            : true
+      classes             : "wide post"
       layout              : "single"
-      author_profile      : true
+      author_profile      : false
       read_time           : true
       share               : false
-      show_date           : trur
+      show_date           : true
       related             : true

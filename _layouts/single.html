@@ -2,12 +2,6 @@
 layout: default
 ---
 
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
-{% elsif page.header.video.id and page.header.video.provider %}
-  {% include page__hero_video.html %}
-{% endif %}
-
 {% assign breadcrumbs_enabled = site.breadcrumbs %}
 {% if page.breadcrumbs != null %}
   {% assign breadcrumbs_enabled = page.breadcrumbs %}
@@ -28,18 +22,46 @@ layout: default
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
 
     <div class="page__inner-wrap">
-      {% unless page.header.overlay_color or page.header.overlay_image %}
-        <header>
-          {% unless content contains '<h1' %}
-            {% if page.title -%}
-            <h1 id="page-title" class="page__title" itemprop="headline">
-              <a href="{{ page.url | absolute_url }}" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
-            </h1>
-            {%- endif %}
-          {% endunless %}
+      {% comment %}
+        One H1, from the layout. A leading "# Title" in the body (kept for Obsidian)
+        is dropped here at build time, not hidden with CSS.
+      {% endcomment %}
+      {% assign body = content %}
+      {% assign body_trim = content | strip %}
+      {% if body_trim contains '<h1' and body_trim contains '</h1>' %}
+        {% assign first_h1 = body_trim | split: '</h1>' | first %}
+        {% assign first_h1_open = first_h1 | slice: 0, 3 %}
+        {% if first_h1_open == '<h1' %}
+          {% assign h1_whole = first_h1 | append: '</h1>' %}
+          {% assign body = body_trim | remove_first: h1_whole %}
+        {% endif %}
+      {% endif %}
+
+      {% assign hero_image = page.image | default: page.header.teaser %}
+      {% assign lead = page.excerpt | strip_html | strip %}
+      {% assign body_text = body | strip_html | strip %}
+      {% assign lead_len = lead | size %}
+      {% assign body_start = body_text | slice: 0, lead_len %}
+      {% if lead_len == 0 or body_start == lead %}{% assign lead = "" %}{% endif %}
+
+      <header class="post-header">
+        {% if page.title %}
+        <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+        {% endif %}
+        {% if lead != "" %}<p class="page__lead">{{ lead }}</p>{% endif %}
+        {% if page.date %}
+        <div class="page__byline">
+          <span class="page__byline-author">{{ page.author | default: site.author.name }}</span>
           {% include page__meta.html %}
-        </header>
-      {% endunless %}
+        </div>
+        {% endif %}
+      </header>
+
+      {% if hero_image %}
+      <figure class="page__figure">
+        <img src="{{ hero_image | relative_url }}" alt="{{ page.image_alt | default: page.title | escape }}" fetchpriority="high">
+      </figure>
+      {% endif %}
 
       <section class="page__content" itemprop="text">
         {% if page.toc %}
@@ -50,7 +72,7 @@ layout: default
             </nav>
           </aside>
         {% endif %}
-        {{ content }}
+        {{ body }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
@@ -75,13 +97,13 @@ Link: {{ page.url | absolute_url }}{% endcapture %}
     <span style="display:flex; gap:0.75rem; justify-content:left; flex-wrap:wrap;">
 
       <a class="btn btn--primary"
-         href="/rss"
+         href="/feed.xml"
          target="_blank" rel="noopener">
         Subscribe via RSS.
       </a>
 
       <a class="btn btn--primary"
-         href="https://feedrabbit.com/?url={{ site.url }}/rss"
+         href="https://feedrabbit.com/?url={{ site.url }}/feed.xml"
          target="_blank" rel="noopener">
         Subscribe via Email.
       </a>

@@ -1,6 +1,7 @@
 ---
 title: Subscribe via RSS
 search: false
+sitemap: false
 permalink: /rss
 ---
 

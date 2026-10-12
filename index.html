@@ -6,96 +6,28 @@ title: ""
 entries_layout: grid
 ---
 
-{% assign featured = site.posts | sort: 'date' | reverse | first %}
+{% assign latest = site.posts | first %}
+{% assign latest_image = latest.image | default: latest.header.teaser %}
 
-{% capture overlay_img_path %}{{ featured.header.overlay_image | relative_url }}{% endcapture %}
-
-{% if featured.header.overlay_filter contains "gradient" %}
-  {% capture overlay_filter %}{{ featured.header.overlay_filter }}{% endcapture %}
-{% elsif featured.header.overlay_filter contains "rgba" %}
-  {% capture overlay_filter %}{{ featured.header.overlay_filter }}{% endcapture %}
-  {% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}){% endcapture %}
-{% elsif featured.header.overlay_filter %}
-  {% capture overlay_filter %}rgba(0, 0, 0, {{ featured.header.overlay_filter }}){% endcapture %}
-  {% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}){% endcapture %}
-{% endif %}
-
-{% if featured.header.image_description %}
-  {% assign image_description = featured.header.image_description %}
-{% else %}
-  {% assign image_description = featured.title %}
-{% endif %}
-
-{% assign image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
-
-<br/>
-<a href="{{ featured.url | relative_url }}" style="text-decoration: none; color: inherit; display: block;">
-  <div class="page__hero{% if featured.header.overlay_color or featured.header.overlay_image %}--overlay{% endif %}"
-    style="{% if featured.header.overlay_color %}background-color: {{ featured.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}"
-  >
-    {% if featured.header.overlay_color or featured.header.overlay_image %}
-      <div class="wrapper">
-        <h1 class="page__title" itemprop="headline">
-          {{ featured.title | markdownify | remove: "<p>" | remove: "</p>" }}
-        </h1>
-        <p class="page__lead">
-          {{ featured.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
-        </p>
-
-{% assign document = featured | default: page %}
-{% if document.read_time or document.show_date %}
-  <p class="page__meta">
-    {% if document.show_date and document.date %}
-      {% assign date = document.date %}
-      <span class="page__meta-date">
-        <i class="far {% if include.type == 'grid' and document.read_time and document.show_date %}fa-fw {% endif %}fa-calendar-alt" aria-hidden="true"></i>
-        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        <time datetime="{{ date | date_to_xmlschema }}">{{ date | date: date_format }}</time>
-      </span>
-    {% endif %}
-
-    {% if document.read_time and document.show_date %}<span class="page__meta-sep"></span>{% endif %}
-
-    {% if document.read_time %}
-      {% assign words_per_minute = document.words_per_minute | default: site.words_per_minute | default: 200 %}
-      {% assign words = document.content | strip_html | number_of_words %}
-
-      <span class="page__meta-readtime">
-        <i class="far {% if include.type == 'grid' and document.read_time and document.show_date %}fa-fw {% endif %}fa-clock" aria-hidden="true"></i>
-        {% if words < words_per_minute %}
-          {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
-        {% elsif words == words_per_minute %}
-          1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
-        {% else %}
-          {{ words | divided_by: words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
-        {% endif %}
-      </span>
-    {% endif %}
-  </p>
-{% endif %}
-
-        <p>
-          <span class="btn btn--primary">Read Now</span>
-        </p>
-      </div>
-    {% else %}
-      <img src="{{ featured.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
-    {% endif %}
-    {% if featured.header.caption %}
-      <span class="page__hero-caption">{{ featured.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-    {% endif %}
+<article class="feature-card">
+  <a class="feature-card__image" href="{{ latest.url | relative_url }}" tabindex="-1" aria-hidden="true">
+    <img src="{{ latest_image | relative_url }}" alt="" fetchpriority="high">
+  </a>
+  <div class="feature-card__text">
+    <p class="feature-card__label">Latest</p>
+    <h1 class="feature-card__title"><a href="{{ latest.url | relative_url }}">{{ latest.title | markdownify | remove: "<p>" | remove: "</p>" }}</a></h1>
+    <p class="feature-card__excerpt">{{ latest.excerpt | strip_html | strip }}</p>
+    {% assign post = latest %}
+    {% include page__meta.html %}
+    <a class="btn btn--primary" href="{{ latest.url | relative_url }}">Read now</a>
   </div>
-</a>
+</article>
 
-<div class="entries-{{ page.entries_layout }}">
-  {% for post in site.posts limit:4 offset:1 %}
-    {% include archive-single.html type=page.entries_layout %}
+<h2 class="feature-more">More recent</h2>
+<div class="entries-grid">
+  {% for post in site.posts offset: 1 limit: 4 %}
+    {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
 
-<br clear="all" />
-
-<p class="text-center">
-<a href="/articles" class="btn btn--primary btn--large">
-  Browse all articles</a>
-</p>
+<p class="text-center"><a class="btn btn--primary btn--large" href="/articles/">Browse all articles</a></p>
