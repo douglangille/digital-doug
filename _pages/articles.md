@@ -8,10 +8,9 @@ permalink: /articles/
     <h1>Articles</h1>
     <p id="count" role="status">{{ site.posts.size }} posts, newest first.</p>
     <input class="search-box" id="search" type="search" placeholder="Search titles, excerpts and tags" autocomplete="off" aria-label="Search articles">
-    <div class="filters">
+    <div class="filters" role="group" aria-label="Filter by tag">
       {% for g in site.tag_groups %}
       <div class="filter" data-group="{{ g.label }}">
-        <span class="filter__label">{{ g.label }}</span>
         <ul class="chips">
           {% for t in g.tags %}{% assign n = site.tags[t].size %}{% if n > 0 %}<li><a class="chip" href="{{ t | slugify | prepend: '/tag/' | append: '/' | relative_url }}" data-tag="{{ t }}">{{ t }} <small>{{ n }}</small></a></li>{% endif %}{% endfor %}
         </ul>
