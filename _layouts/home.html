@@ -5,7 +5,7 @@ layout: default
 {% include excerpt.html post=latest %}
 <div class="wrap home">
   <article class="feature">
-    <a class="feature__img" href="{{ latest.url | relative_url }}" tabindex="-1" aria-hidden="true">{% if thumb %}<img src="{{ thumb | relative_url }}" alt="" fetchpriority="high">{% endif %}</a>
+    <a class="feature__img" href="{{ latest.url | relative_url }}" tabindex="-1" aria-hidden="true">{% if thumb %}{% include img.html src=thumb alt="" eager=true sizes="(min-width: 48rem) 58vw, 100vw" %}{% endif %}</a>
     <div class="feature__text">
       <p class="feature__label">Latest</p>
       <h1 class="feature__title"><a href="{{ latest.url | relative_url }}">{{ latest.title | markdownify | remove: "<p>" | remove: "</p>" | strip }}</a></h1>
@@ -19,5 +19,15 @@ layout: default
   <ul class="cards cards--home">
     {% for post in site.posts offset: 1 limit: 8 %}<li>{% include card.html post=post %}</li>{% endfor %}
   </ul>
+  <section class="band" aria-labelledby="sub">
+    <div>
+      <h2 id="sub">A new essay most weeks</h2>
+      <p>Except when I don't. No algorithm, no feed to doomscroll, just the post.</p>
+    </div>
+    <div class="actions">
+      <a class="btn" href="{{ '/feed.xml' | relative_url }}">Subscribe via RSS</a>
+      <a class="btn btn--ghost" href="https://feedrabbit.com/?url={{ site.url }}/feed.xml" rel="noopener">Subscribe via email</a>
+    </div>
+  </section>
   <p class="home__more"><a class="btn btn--ghost" href="{{ '/articles/' | relative_url }}">Browse all articles</a></p>
 </div>

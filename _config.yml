@@ -30,6 +30,13 @@ footer:
     - { label: "LinkedIn", url: "https://www.linkedin.com/in/douglangille/" }
     - { label: "RSS", url: "/feed.xml" }
 
+# Tags are two axes, shown as two filter groups on /articles/.
+tag_groups:
+  - label: Scope
+    tags: [foundational, personal, institutional, interpersonal]
+  - label: Stance
+    tags: [diagnostic, prescriptive]
+
 markdown                  : kramdown
 highlighter               : rouge
 permalink                 : /:title/

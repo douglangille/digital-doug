@@ -3,7 +3,7 @@
 <meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#faf4ed" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#232136" media="(prefers-color-scheme: dark)">
-<script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+<script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}</script>
 <link rel="preload" href="{{ '/assets/fonts/Libron-Regular.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="{{ '/assets/fonts/Inter.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
