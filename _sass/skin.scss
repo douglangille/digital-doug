@@ -15,7 +15,7 @@
   --accent-ink: #faf4ed;
   --visited: #6c5a8c;     // dawn iris, darkened
   --mark: rgba(234, 157, 52, .28); // dawn gold
-  --syn-kw: #6c5a8c; --syn-str: #8a5a00; --syn-fn: #a85d5a; --syn-num: #286983; --syn-cm: #625e7c; --syn-name: #1d5169;
+  --syn-kw: #6c5a8c; --syn-str: #8a5a00; --syn-fn: #9a4f4c; --syn-num: #286983; --syn-cm: #625e7c; --syn-name: #1d5169;
 }
 
 @mixin tokens-dark {
@@ -32,7 +32,7 @@
   --accent-ink: #232136;
   --visited: #c4a7e7;     // iris
   --mark: rgba(246, 193, 119, .28); // gold
-  --syn-kw: #c4a7e7; --syn-str: #f6c177; --syn-fn: #ea9a97; --syn-num: #9ccfd8; --syn-cm: #908caa; --syn-name: #3e8fb0;
+  --syn-kw: #c4a7e7; --syn-str: #f6c177; --syn-fn: #ea9a97; --syn-num: #9ccfd8; --syn-cm: #a9a6c0; --syn-name: #79b4d0;
 }
 
 :root {
