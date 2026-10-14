@@ -74,6 +74,9 @@ a:hover { color: var(--accent-hover); }
 .chip:hover, .chip[aria-current] { background: var(--accent-fill); color: var(--accent-ink); }
 .chip small { color: var(--muted); font-size: .85em; }
 .chip:hover small, .chip[aria-current] small { color: inherit; }
+.section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-block: 3rem 1.25rem; border-bottom: 1px solid var(--line); }
+.section-head .section-title { margin: 0; border: 0; padding-bottom: .6rem; }
+.more-link { font-family: var(--font-mono); font-size: var(--step--1); white-space: nowrap; }
 .section-title { font-family: var(--font-head); font-weight: 700; font-size: var(--step-1); letter-spacing: var(--head-tracking); line-height: 1.2; margin-block: 3rem 1.25rem; padding-bottom: .6rem; border-bottom: 1px solid var(--line); }
 
 // ---------- cards ----------
@@ -110,7 +113,6 @@ a:hover { color: var(--accent-hover); }
 .band { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1.25rem 2rem; background: var(--overlay); border-radius: var(--radius); padding: clamp(1.25rem, 3vw, 2rem); margin-top: 3rem; }
 .band h2 { font-family: var(--font-head); font-weight: 700; font-size: var(--step-1); letter-spacing: var(--head-tracking); line-height: 1.2; }
 .band p { color: var(--muted); margin-top: .25rem; }
-.home__more { text-align: center; margin-block: 3rem 2rem; }
 
 // ---------- list (archive, tag, search) ----------
 .page-head { padding-block: clamp(1.5rem, 4vw, 3rem) 1rem; }

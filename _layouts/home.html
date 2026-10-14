@@ -15,7 +15,7 @@ layout: default
     </div>
   </article>
 
-  <h2 class="section-title">More recent</h2>
+  <div class="section-head"><h2 class="section-title">More recent</h2><a class="more-link" href="{{ '/articles/' | relative_url }}">All {{ site.posts.size }} articles &rarr;</a></div>
   <ul class="cards cards--home">
     {% for post in site.posts offset: 1 limit: 8 %}<li>{% include card.html post=post %}</li>{% endfor %}
   </ul>
@@ -29,5 +29,4 @@ layout: default
       <a class="btn btn--ghost" href="https://feedrabbit.com/?url={{ site.url }}/feed.xml" rel="noopener">Subscribe via email</a>
     </div>
   </section>
-  <p class="home__more"><a class="btn btn--ghost" href="{{ '/articles/' | relative_url }}">Browse all articles</a></p>
 </div>
