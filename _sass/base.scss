@@ -46,11 +46,17 @@ a:hover { color: var(--accent-hover); }
 
 // ---------- masthead ----------
 .masthead { border-bottom: 1px solid var(--line); }
-.masthead__in { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .5rem 1.5rem; padding-block: 1rem; }
-.brand { display: flex; flex-direction: column; gap: .15rem; text-decoration: none; }
-.brand:hover .wordmark { color: var(--accent-hover); }
-.tagline { font-family: var(--font-mono); font-size: var(--step--1); color: var(--muted); }
-.nav { display: flex; align-items: center; gap: .25rem 1.25rem; flex-wrap: wrap; font-family: var(--font-ui); font-size: .95rem; font-weight: 500; }
+// Wordmark and nav share the first row; the tagline sits under the wordmark (a second row on phones,
+// beside the two-row nav from 40rem up).
+.masthead__in { display: grid; grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "mark nav" "tag tag"; align-items: center; gap: .15rem 1rem; padding-block: .85rem; }
+.wordmark { grid-area: mark; justify-self: start; text-decoration: none; white-space: nowrap; }
+.wordmark:hover { color: var(--accent-hover); }
+.tagline { grid-area: tag; font-family: var(--font-mono); font-size: var(--step--1); color: var(--muted); }
+.nav { grid-area: nav; display: flex; align-items: center; gap: .25rem 1.1rem; font-family: var(--font-ui); font-size: .85rem; font-weight: 500; white-space: nowrap; }
+@media (min-width: 40rem) {
+  .masthead__in { grid-template-areas: "mark nav" "tag nav"; padding-block: 1rem; }
+  .nav { font-size: .95rem; gap: .25rem 1.25rem; }
+}
 .nav a { color: var(--text); text-decoration: none; padding-block: .35rem; border-bottom: 2px solid transparent; }
 .nav a:hover, .nav a[aria-current] { color: var(--accent); border-bottom-color: var(--accent); }
 // ---------- shared bits ----------
@@ -103,6 +109,22 @@ a:hover { color: var(--accent-hover); }
 @container (min-width: 34rem) { .cards--home { grid-template-columns: repeat(2, 1fr); } }
 @container (min-width: 56rem) { .cards--home { grid-template-columns: repeat(3, 1fr); } .cards--home li:nth-child(n+7) { display: none; } }
 @container (min-width: 76rem) { .cards--home { grid-template-columns: repeat(4, 1fr); } .cards--home li:nth-child(n+7) { display: list-item; } }
+@container (max-width: 33.99rem) {
+  .cards--home { gap: 1.1rem; }
+  .cards--home .card { display: grid; grid-template-columns: 6.5rem minmax(0, 1fr); gap: .1rem .9rem; align-items: start; }
+  .cards--home .card__img { grid-row: 1 / span 3; }
+  .cards--home .card__title { font-size: 1.05rem; }
+  .cards--home .card__ex { font-size: .9rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .feature__text .btn { width: 100%; text-align: center; }
+  .band .actions { width: 100%; }
+  .band .actions .btn { flex: 1 1 100%; text-align: center; }
+}
+@media (max-width: 33.99rem) {
+  .cards--related .card { display: grid; grid-template-columns: 6.5rem minmax(0, 1fr); gap: .1rem .9rem; align-items: start; }
+  .cards--related .card__img { grid-row: 1 / span 3; }
+  .cards--related .card__title { font-size: 1.05rem; }
+  .cards--related .card__ex { font-size: .9rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+}
 .band { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1.25rem 2rem; background: var(--overlay); border-radius: var(--radius); padding: clamp(1.25rem, 3vw, 2rem); margin-top: 3rem; }
 .band h2 { font-family: var(--font-head); font-weight: 700; font-size: var(--step-1); letter-spacing: var(--head-tracking); line-height: 1.2; }
 .band p { color: var(--muted); margin-top: .25rem; }

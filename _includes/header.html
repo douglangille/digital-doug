@@ -1,9 +1,7 @@
 <header class="masthead">
   <div class="wrap masthead__in">
-    <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }}, home">
-      <span class="wordmark">{{ site.title }}</span>
-      <span class="tagline">{{ site.subtitle }}</span>
-    </a>
+    <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="{{ site.title }}, home">{{ site.title }}</a>
+    <span class="tagline">{{ site.subtitle }}</span>
     <nav class="nav" aria-label="Primary">
       {%- for item in site.data.navigation.main %}
       <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>

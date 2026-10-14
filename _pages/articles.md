@@ -9,6 +9,7 @@ permalink: /articles/
     <p id="count" role="status">{{ site.posts.size }} posts, newest first.</p>
     <input class="search-box" id="search" type="search" placeholder="Search titles, excerpts and tags" autocomplete="off" aria-label="Search articles">
     <div class="filters" role="group" aria-label="Filter by tag">
+      <div class="filter"><ul class="chips"><li><a class="chip" data-all aria-current="true" href="{{ page.url | relative_url }}">all <small>{{ site.posts.size }}</small></a></li></ul></div>
       {% for g in site.tag_groups %}
       <div class="filter" data-group="{{ g.label }}">
         <ul class="chips">
@@ -37,30 +38,26 @@ permalink: /articles/
 (function () {
   var q = document.getElementById("search"), count = document.getElementById("count"), none = document.getElementById("none");
   var items = [].slice.call(document.querySelectorAll("#list li[data-tags]")), groups = [].slice.call(document.querySelectorAll(".year-group"));
-  var chips = [].slice.call(document.querySelectorAll(".chip[data-tag]")), total = items.length;
-  var active = {}; // group -> [tags]
-  function groupOf(chip) { return chip.closest(".filter").dataset.group; }
+  var chips = [].slice.call(document.querySelectorAll(".chip[data-tag], .chip[data-all]")), total = items.length;
+  var current = null; // one tag at a time, like a tag browser
   function apply() {
     var terms = q.value.toLowerCase().split(/\s+/).filter(Boolean), shown = 0;
     items.forEach(function (li) {
-      var tags = li.dataset.tags.split(" ");
       var ok = terms.every(function (t) { return (li.dataset.hay + " " + li.dataset.tags).indexOf(t) > -1; }) &&
-        Object.keys(active).every(function (g) { return !active[g].length || active[g].some(function (t) { return tags.indexOf(t) > -1; }); });
+        (!current || li.dataset.tags.split(" ").indexOf(current) > -1);
       li.hidden = !ok; if (ok) shown++;
     });
     groups.forEach(function (g) { g.hidden = !g.querySelector("li:not([hidden])"); });
     none.hidden = shown > 0;
-    var filtered = terms.length || Object.keys(active).some(function (g) { return active[g].length; });
-    count.textContent = filtered ? shown + " of " + total + " posts" : total + " posts, newest first.";
+    count.textContent = (terms.length || current) ? shown + " of " + total + " posts" : total + " posts, newest first.";
+  }
+  function select(tag) {
+    current = (tag === current) ? null : tag;
+    chips.forEach(function (c) { if (c.dataset.tag === current || (!current && c.hasAttribute("data-all"))) c.setAttribute("aria-current", "true"); else c.removeAttribute("aria-current"); });
+    apply();
   }
   chips.forEach(function (c) {
-    c.addEventListener("click", function (e) {
-      e.preventDefault();
-      var g = groupOf(c), t = c.dataset.tag; active[g] = active[g] || [];
-      var i = active[g].indexOf(t); if (i > -1) active[g].splice(i, 1); else active[g].push(t);
-      c.setAttribute("aria-current", i > -1 ? "false" : "true"); if (i > -1) c.removeAttribute("aria-current");
-      apply();
-    });
+    c.addEventListener("click", function (e) { e.preventDefault(); select(c.hasAttribute("data-all") ? null : c.dataset.tag); });
   });
   q.addEventListener("input", apply);
   var m = location.search.match(/[?&]q=([^&]*)/); if (m) { q.value = decodeURIComponent(m[1].replace(/\+/g, " ")); apply(); }

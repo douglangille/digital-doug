@@ -51,4 +51,4 @@
 @font-face { font-family: "Sixtyfour"; src: url("/assets/fonts/Sixtyfour.woff2") format("woff2"); font-display: swap; }
 
 // The wordmark: Sixtyfour reads as a terminal prompt, sized to never wrap.
-.wordmark { font-family: var(--font-mark); font-size: clamp(1.15rem, .8rem + 1.6vw, 1.75rem); letter-spacing: 0; color: var(--accent); }
+.wordmark { font-family: var(--font-mark); font-size: clamp(1.05rem, .7rem + 1.7vw, 1.75rem); letter-spacing: 0; color: var(--accent); }
