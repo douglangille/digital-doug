@@ -63,12 +63,12 @@ layout: default
 
 {% assign shown = "" %}{% assign related = "" | split: "," %}
 {% for tag in page.tags %}{% for rp in site.tags[tag] %}
-  {% if rp.url != page.url and related.size < 3 %}{% unless shown contains rp.url %}{% assign related = related | push: rp %}{% assign shown = shown | append: rp.url %}{% endunless %}{% endif %}
+  {% if rp.url != page.url and related.size < 4 %}{% unless shown contains rp.url %}{% assign related = related | push: rp %}{% assign shown = shown | append: rp.url %}{% endunless %}{% endif %}
 {% endfor %}{% endfor %}
 {% if related.size > 0 %}
 <aside class="related" aria-labelledby="rel">
   <h2 class="section-title" id="rel">You may also enjoy</h2>
-  <ul class="cards">{% for rp in related %}<li>{% include card.html post=rp %}</li>{% endfor %}</ul>
+  <ul class="cards cards--related">{% for rp in related %}<li>{% include card.html post=rp %}</li>{% endfor %}</ul>
 </aside>
 {% endif %}
 </div>

@@ -100,6 +100,9 @@ a:hover { color: var(--accent-hover); }
 .feature__title a:hover { color: var(--accent); }
 .feature__ex { font-size: var(--step-1); line-height: 1.4; color: var(--muted); text-wrap: pretty; }
 @container (min-width: 48rem) { .feature { grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr); } }
+.cards--related { grid-template-columns: 1fr; }
+@media (min-width: 34rem) { .cards--related { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 60rem) { .cards--related { grid-template-columns: repeat(4, 1fr); } }
 .cards--home { grid-template-columns: 1fr; }
 @container (min-width: 34rem) { .cards--home { grid-template-columns: repeat(2, 1fr); } }
 @container (min-width: 56rem) { .cards--home { grid-template-columns: repeat(3, 1fr); } .cards--home li:nth-child(n+7) { display: none; } }
