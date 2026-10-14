@@ -110,7 +110,7 @@ light = tokens(re.search(r":root\{color-scheme:light;(.*?)\}", css, re.S).group(
 dark = tokens(re.search(r"prefers-color-scheme:\s*dark\)\{:root\{color-scheme:dark;(.*?)\}", css, re.S).group(1))
 PAIRS = [("text", "bg", 4.5), ("text", "surface", 4.5), ("muted", "bg", 4.5), ("muted", "overlay", 4.5),
          ("muted", "surface", 4.5), ("accent", "bg", 4.5), ("accent", "overlay", 4.5), ("accent-hover", "bg", 4.5),
-         ("accent-ink", "accent-fill", 4.5), ("accent-ink", "accent-hover", 4.5), ("visited", "bg", 4.5),
+         ("accent-ink", "accent-fill", 4.5), ("accent-ink", "accent-hover", 4.5), ("visited", "bg", 4.5), ("universe", "bg", 4.5), ("bg", "universe", 4.5),
          ("syn-kw", "overlay", 4.5), ("syn-str", "overlay", 4.5), ("syn-fn", "overlay", 4.5),
          ("syn-num", "overlay", 4.5), ("syn-cm", "overlay", 4.5), ("syn-name", "overlay", 4.5)]
 for name, t in (("light", light), ("dark", dark)):

@@ -69,6 +69,9 @@ a:hover { color: var(--accent-hover); }
 .chips { display: flex; flex-wrap: wrap; gap: .5rem; list-style: none; padding: 0; margin: 0; }
 .chip { display: inline-flex; gap: .5rem; align-items: baseline; font-family: var(--font-mono); font-size: var(--step--1); color: var(--text); background: var(--overlay); padding: .2rem .7rem; border-radius: 99px; text-decoration: none; }
 .chip:hover, .chip[aria-current] { background: var(--accent-fill); color: var(--accent-ink); }
+.chip--universe { box-shadow: inset 0 0 0 1px var(--universe); background: transparent; color: var(--universe); }
+.chip--universe:hover, .chip--universe[aria-current] { background: var(--universe); color: var(--bg); }
+.chip--universe small { color: inherit; opacity: .8; }
 .chip--page { box-shadow: inset 0 0 0 1px var(--accent); background: transparent; color: var(--accent); }
 .chip--page:hover { background: var(--accent-fill); color: var(--accent-ink); }
 .chip small { color: var(--muted); font-size: .85em; }
@@ -134,6 +137,7 @@ a:hover { color: var(--accent-hover); }
 .page-head h1 { font-family: var(--font-head); font-weight: var(--head-weight); font-size: var(--step-3); letter-spacing: var(--head-tracking); line-height: 1.05; }
 .page-head p { color: var(--muted); margin-top: .5rem; }
 .page-head .note { font-size: .95rem; margin-top: .25rem; }
+.page-head .filters + .note { margin-top: 1rem; }
 .page-head .chips { margin-top: 1.25rem; }
 .year { font-family: var(--font-mono); font-size: var(--step-1); font-weight: 400; color: var(--muted); margin-block: 2.5rem 1rem; }
 .rows { list-style: none; padding: 0; margin: 0; display: grid; gap: 1.25rem var(--gutter); grid-template-columns: repeat(auto-fill, minmax(min(100%, 26rem), 1fr)); }
