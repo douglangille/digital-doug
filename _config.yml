@@ -9,8 +9,8 @@ repository                : "douglangille/digital-doug"
 email                     : "me@douglangille.ca"
 locale                    : "en-CA"
 timezone                  : "America/Halifax"
-# Email list. Set to the Substack publication URL (e.g. https://NAME.substack.com/); until then the buttons fall back to FeedRabbit.
-newsletter_url            : ""
+# Email list (Substack). If left empty the buttons fall back to FeedRabbit.
+newsletter_url            : "https://digitaldoug.substack.com/"
 og_image                  : "/assets/images/og-digital-doug.png"
 words_per_minute          : 200
 

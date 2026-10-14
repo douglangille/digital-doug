@@ -169,6 +169,10 @@ a:hover { color: var(--accent-hover); }
 .pager a small { display: block; font-family: var(--font-mono); font-weight: 400; color: var(--muted); font-size: var(--step--1); margin-bottom: .2rem; }
 .pager a:hover { border-color: var(--accent); color: var(--accent); }
 .pager .next { text-align: right; }
+.page-layout .post__side { display: flex; flex-direction: column; gap: 1.25rem; }
+.page-layout .post__head { margin-bottom: 0; }
+.portrait img { width: min(100%, 15rem); aspect-ratio: 1; object-fit: cover; border-radius: var(--radius); }
+.elsewhere { display: flex; flex-wrap: wrap; gap: .3rem 1rem; font-family: var(--font-mono); font-size: var(--step--1); }
 .related { padding-block: 1rem 3rem; }
 
 // ---------- prose ----------
@@ -219,9 +223,6 @@ a:hover { color: var(--accent-hover); }
 .footer a:hover { color: var(--accent); }
 
 // ---------- 404 / simple pages ----------
-.page { padding-block: clamp(1.5rem, 4vw, 3rem) 2rem; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 66ch) minmax(0, 1fr); }
-.page > * { grid-column: 2; min-width: 0; }
-.page .page-head { padding-top: 0; }
 
 @media print {
   .masthead, .footer, .post__end .actions, .related, .theme-toggle { display: none; }

@@ -1,4 +1,7 @@
 ---
+section: profile
+order: 2
+nav_title: "Now"
 permalink: /now/
 title: "Now"
 ---

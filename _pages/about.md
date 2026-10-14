@@ -1,4 +1,8 @@
 ---
+section: profile
+order: 1
+nav_title: "About"
+portrait: true
 permalink: /about/
 title: "About"
 ---

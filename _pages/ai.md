@@ -1,4 +1,7 @@
 ---
+section: profile
+order: 3
+nav_title: "AI"
 permalink: /ai/
 title: "AI in My Workflow"
 ---

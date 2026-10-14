@@ -1,7 +1,27 @@
 ---
 layout: default
 ---
-<div class="wrap page">
-  <header class="page-head"><h1>{{ page.title }}</h1></header>
-  <div class="prose">{{ content }}</div>
+{% assign profile = site.pages | where: "section", "profile" | sort: "order" %}
+<div class="wrap post-wrap">
+<div class="post page-layout">
+  <div class="post__side">
+    {% if page.portrait %}
+    <figure class="portrait"><img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" width="640" height="640" fetchpriority="high"></figure>
+    {% endif %}
+    <header class="post__head">
+      <h1 class="post__title">{{ page.title }}</h1>
+      {% if page.lead %}<p class="post__lead">{{ page.lead }}</p>{% endif %}
+      {% if page.updated %}<p class="meta"><span>Updated <time datetime="{{ page.updated | date: '%Y-%m-%d' }}">{{ page.updated | date: "%B %-d, %Y" }}</time></span></p>{% endif %}
+    </header>
+    {% if page.section == "profile" %}
+    <nav aria-label="About this site"><ul class="chips">
+      {% for p in profile %}<li><a class="chip" href="{{ p.url | relative_url }}"{% if p.url == page.url %} aria-current="page"{% endif %}>{{ p.nav_title | default: p.title }}</a></li>{% endfor %}
+    </ul></nav>
+    {% endif %}
+    {% if page.portrait %}
+    <nav class="elsewhere" aria-label="Elsewhere">{% for l in site.author.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</nav>
+    {% endif %}
+  </div>
+  <div class="post__main"><div class="prose">{{ content }}</div></div>
+</div>
 </div>
