@@ -11,6 +11,12 @@ locale                    : "en-CA"
 timezone                  : "America/Halifax"
 # Email list (Substack). If left empty the buttons fall back to FeedRabbit.
 newsletter_url            : "https://digitaldoug.substack.com/"
+goatcounter               : "digitaldoug"
+colophon                  : "Set in Libron, Inter and JetBrains Mono."
+theme_colors              : { light: "#faf4ed", dark: "#232136" }
+preload_fonts             : ["Libron-Regular", "Inter"]
+band_title                : "A new essay most weeks"
+band_text                 : "Except when I don't. No algorithm, no feed to doomscroll, just the post."
 og_image                  : "/assets/images/og-digital-doug.png"
 words_per_minute          : 200
 
