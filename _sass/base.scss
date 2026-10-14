@@ -168,6 +168,7 @@ a:hover { color: var(--accent-hover); }
 .prose figure figcaption, .prose img + em { font-family: var(--font-mono); font-size: var(--step--1); color: var(--muted); font-style: normal; }
 .prose :not(pre) > code { font-family: var(--font-mono); font-size: .86em; background: var(--overlay); padding: .12em .4em; border-radius: .3em; }
 .prose pre, .prose .highlight { font-family: var(--font-mono); font-size: .86rem; line-height: 1.55; background: var(--overlay); border-radius: var(--radius); padding: 1rem 1.25rem; overflow-x: auto; }
+.prose pre { white-space: pre-wrap; overflow-wrap: anywhere; }
 .prose pre code { font: inherit; background: none; padding: 0; }
 .prose .highlight pre { padding: 0; background: none; margin: 0; }
 .prose table { width: 100%; border-collapse: collapse; font-size: .92em; display: block; overflow-x: auto; }
