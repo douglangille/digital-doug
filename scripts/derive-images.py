@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build responsive WebP derivatives (480/960/1600 wide) for every post image.
 
-Reads `image:` from each post's front matter, writes NAME-480w.webp etc. beside the
+Reads `image:` (or `header.teaser:`) from each post's front matter, writes NAME-480w.webp etc. beside the
 original. Idempotent (skips up-to-date files), never touches the originals, and the
 outputs are gitignored: CI regenerates them on every build. Needs `cwebp` (brew install
 webp / apt-get install webp).
@@ -31,7 +31,10 @@ def images():
     seen = set()
     for post in sorted(glob.glob("_posts/*.md")):
         text = open(post, encoding="utf-8").read().split("---", 2)
-        m = re.search(r"^image:\s*(\S+)\s*$", text[1], re.M) if len(text) > 2 else None
+        if len(text) < 3:
+            continue
+        # Same precedence as the templates: `image`, else `header.teaser`.
+        m = re.search(r"^image:\s*(\S+)\s*$", text[1], re.M) or re.search(r"^\s+teaser:\s*(\S+)\s*$", text[1], re.M)
         if m and m.group(1).startswith("/assets/") and m.group(1) not in seen:
             seen.add(m.group(1))
             yield m.group(1).lstrip("/")
