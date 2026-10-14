@@ -41,7 +41,7 @@ layout: default
     {% capture reply_body %}One-line reaction:%0D%0A(Write here)%0D%0A%0D%0ALink: {{ page.url | absolute_url }}{% endcapture %}
     <div class="actions">
       <a class="btn" href="{{ '/feed.xml' | relative_url }}">Follow via RSS</a>
-      <a class="btn btn--ghost" href="https://feedrabbit.com/?url={{ site.url }}/feed.xml" rel="noopener">Follow by email</a>
+      <a class="btn btn--ghost" href="{% if site.newsletter_url != '' %}{{ site.newsletter_url }}{% else %}https://feedrabbit.com/?url={{ site.url }}/feed.xml{% endif %}" rel="noopener">Follow by email</a>
       <a class="btn btn--ghost" href="mailto:{{ site.email }}?subject={{ 'Thoughts: ' | append: page.title | cgi_escape | replace: '+', '%20' }}&amp;body={{ reply_body }}">Reply</a>
       <a class="btn btn--ghost" href="mailto:?subject={{ 'Read: ' | append: page.title | cgi_escape | replace: '+', '%20' }}&amp;body={{ page.url | absolute_url | cgi_escape }}">Share</a>
     </div>
