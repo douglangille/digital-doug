@@ -1,0 +1,8 @@
+<footer class="footer">
+  <div class="wrap footer__in">
+    <p>&copy; {{ site.footer.since }}&ndash;{{ 'now' | date: '%Y' }} {{ site.author.name }}. Set in Libron, Inter and JetBrains Mono.</p>
+    <nav aria-label="Elsewhere">
+      {%- for l in site.footer.links %}<a href="{{ l.url | relative_url }}">{{ l.label }}</a>{% endfor %}
+    </nav>
+  </div>
+</footer>

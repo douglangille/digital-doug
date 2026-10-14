@@ -1,0 +1,54 @@
+// Digital Doug skin: Rosé Pine Moon (dark) / Dawn (light), foam + pine accent.
+// Tokens only. Components live in base.scss. Contrast checked, see DESIGN.md.
+
+@mixin tokens-light {
+  color-scheme: light;
+  --bg: #faf4ed;          // dawn base
+  --surface: #fffaf3;     // dawn surface
+  --overlay: #f2e9e1;     // dawn overlay
+  --line: #dfdad9;        // dawn highlight med
+  --text: #575279;        // dawn text
+  --muted: #625e7c;       // dawn subtle, darkened for 5.6:1
+  --accent: #286983;      // dawn pine
+  --accent-hover: #1d5169;
+  --accent-fill: #286983;
+  --accent-ink: #faf4ed;
+  --visited: #6c5a8c;     // dawn iris, darkened
+  --mark: rgba(234, 157, 52, .28); // dawn gold
+  --syn-kw: #6c5a8c; --syn-str: #8a5a00; --syn-fn: #a85d5a; --syn-num: #286983; --syn-cm: #625e7c; --syn-name: #1d5169;
+}
+
+@mixin tokens-dark {
+  color-scheme: dark;
+  --bg: #232136;          // moon base
+  --surface: #2a273f;     // moon surface
+  --overlay: #393552;     // moon overlay
+  --line: #44415a;        // moon highlight med
+  --text: #e0def4;
+  --muted: #a3a0ba;       // moon subtle, lifted for surfaces
+  --accent: #9ccfd8;      // foam
+  --accent-hover: #bde0e6;
+  --accent-fill: #9ccfd8;
+  --accent-ink: #232136;
+  --visited: #c4a7e7;     // iris
+  --mark: rgba(246, 193, 119, .28); // gold
+  --syn-kw: #c4a7e7; --syn-str: #f6c177; --syn-fn: #ea9a97; --syn-num: #9ccfd8; --syn-cm: #908caa; --syn-name: #3e8fb0;
+}
+
+:root {
+  @include tokens-light;
+  --font-body: "Libron", "Iowan Old Style", Georgia, serif;
+  --font-head: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --font-mark: "Sixtyfour", ui-monospace, monospace;
+  --head-weight: 800;
+  --head-tracking: -.025em;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { @include tokens-dark; } }
+:root[data-theme="dark"] { @include tokens-dark; }
+
+@font-face { font-family: "Inter"; src: url("/assets/fonts/Inter.woff2") format("woff2"); font-weight: 400 800; font-display: swap; }
+@font-face { font-family: "Sixtyfour"; src: url("/assets/fonts/Sixtyfour.woff2") format("woff2"); font-display: swap; }
+
+// The wordmark: Sixtyfour reads as a terminal prompt, sized to never wrap.
+.wordmark { font-family: var(--font-mark); font-size: clamp(1.15rem, .8rem + 1.6vw, 1.75rem); letter-spacing: 0; color: var(--accent); }

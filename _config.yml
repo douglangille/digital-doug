@@ -1,6 +1,4 @@
-# -----------------------------------------------------------------------------
-# Site Identity & Metadata
-# -----------------------------------------------------------------------------
+# Site identity. Theme: hand-written, no gem (see DESIGN.md).
 title                     : "Digital Doug"
 subtitle                  : "Where pixels meet purpose"
 name                      : "Doug Langille"
@@ -11,67 +9,27 @@ repository                : "douglangille/digital-doug"
 email                     : "me@douglangille.ca"
 locale                    : "en-CA"
 timezone                  : "America/Halifax"
-
-# -----------------------------------------------------------------------------
-# Theme & Visuals
-# -----------------------------------------------------------------------------
-theme                     : "minimal-mistakes-jekyll"
-# Not actually used for skin switching anymore — light/dark is now
-# handled entirely via CSS custom properties + prefers-color-scheme in
-# assets/css/main.scss (which imports the "default" skin partial
-# directly, hardcoded). This field is vestigial; changing it does
-# nothing. See digital-doug/DESIGN.md.
-minimal_mistakes_skin     : "default"
-logo                      :
-teaser                    : "/assets/images/white500x300.jpg"
 og_image                  : "/assets/images/og-digital-doug.png"
-title_separator           : "-"
 words_per_minute          : 200
-breadcrumbs               : false
-search                    : true
-search_full_content       : false
-search_provider           : lunr
 
-# -----------------------------------------------------------------------------
-# Author & Social
-# -----------------------------------------------------------------------------
 author:
   name: "Doug Langille"
   avatar: "/assets/images/bio-photo.png"
   bio: "IT manager, tech writer, and creative storyteller"
   links:
-    - label: "Nova Scotia"
-      icon: "fa-regular fa-compass"
-      url: "https://en.wikipedia.org/wiki/Nova_Scotia"
-    - label: "Darkling Whim"
-      icon: "fa-solid fa-feather"
-      url: "https://douglangille.ca"
-    - label: "LinkedIn"
-      icon: "fa-brands fa-square-linkedin"
-      url: "https://www.linkedin.com/in/douglangille/"
-    - label: "Email"
-      icon: "fa-regular fa-envelope"
-      url: "mailto:me@douglangille.ca"
+    - { label: "Nova Scotia", url: "https://en.wikipedia.org/wiki/Nova_Scotia" }
+    - { label: "Darkling Whim", url: "https://douglangille.ca" }
+    - { label: "LinkedIn", url: "https://www.linkedin.com/in/douglangille/" }
+    - { label: "Email", url: "mailto:me@douglangille.ca" }
 
 footer:
   since                   : "2019"
   links:
-    - label               : "Darkling Whim"
-      icon                : "fa-solid fa-feather"
-      url                 : "https://douglangille.ca"
-    - label               : "Digital Doug"
-      icon                : "fa-regular fa-newspaper"
-      url                 : "https://digital.douglangille.ca"
-    - label               : "Amazon"
-      icon                : "fa-brands fa-amazon"
-      url                 : "https://www.amazon.com/author/douglangille"
-    - label               : "LinkedIn"
-      icon                : "fa-brands fa-square-linkedin"
-      url                 : "https://www.linkedin.com/in/douglangille/"
+    - { label: "Darkling Whim", url: "https://douglangille.ca" }
+    - { label: "Amazon", url: "https://www.amazon.com/author/douglangille" }
+    - { label: "LinkedIn", url: "https://www.linkedin.com/in/douglangille/" }
+    - { label: "RSS", url: "/feed.xml" }
 
-# -----------------------------------------------------------------------------
-# Build & Formatting
-# -----------------------------------------------------------------------------
 markdown                  : kramdown
 highlighter               : rouge
 permalink                 : /:title/
@@ -109,81 +67,27 @@ exclude:
 # -----------------------------------------------------------------------------
 # Plugins & Pagination
 # -----------------------------------------------------------------------------
+
+sass:
+  style                   : compressed
+
 plugins:
-  - jekyll-paginate-v2
   - jekyll-archives
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-gist
-  - jekyll-include-cache
 
-category_archive:
-  type                    : jekyll-archives
-  path                    : /category/
-tag_archive:
-  type                    : jekyll-archives
-  path                    : /tag/
-pagination:
-  enabled                 : true
-  collection              : 'posts'
-  per_page                : 12
-  permalink               : '/page/:num/'
-  sort_field              : 'date'
-  sort_reverse            : true
-  trail:
-      before              : 2
-      after               : 2
+jekyll-archives:
+  enabled                 : [tags]
+  layouts:
+    tag                   : tag
+  permalinks:
+    tag                   : /tag/:name/
 
-autopages:
-  enabled                 : true
-  categories:
-    enabled               : false
-  collections:
-    enabled               : false
-  tags:
-    enabled               : true
-    layouts:
-      - 'archive-taxonomy.html'
-    permalink             : '/tag/:tag/'
-
-# -----------------------------------------------------------------------------
-# Related Posts (Theme Logic)
-# -----------------------------------------------------------------------------
-related_by                : tags or categories
-related_limit             : 4
-related_categories        : 1
-related_tags              : 1
-related_template          : archive-single.html
-related_layout            : grid
-
-# -----------------------------------------------------------------------------
-# Defaults (Front Matter)
-# -----------------------------------------------------------------------------
 defaults:
-  - scope:
-      path                : "assets"
-    values:
-      sitemap             : false
-  - scope:
-      path                : "articles/page"
-    values:
-      sitemap             : false
-  - scope:
-      path                : ""
-    values:
-      layout              : "single"
-      author_profile      : true
-      read_time           : true
-      share               : false
-      comments            : false
-      classes             : wide
-  - scope:
-      path                : "_posts"
-      type                : "posts"
-    values:
-      comments            : true
-      layout              : "single"
-      author_profile      : true
-      read_time           : true
-      share               : false
-      show_date           : true
-      related             : true
+  - scope: { path: "assets" }
+    values: { sitemap: false }
+  - scope: { path: "" }
+    values: { layout: "page" }
+  - scope: { path: "", type: "posts" }
+    values: { layout: "post" }

@@ -1,0 +1,12 @@
+{%- comment -%}
+  Sets `lead` (a front-matter excerpt, or empty) and `thumb` for include.post.
+  An auto excerpt is the document's first block (the leading H1), so it is dropped
+  when it matches the start of the body text.
+{%- endcomment -%}
+{%- assign ep = include.post -%}
+{%- assign thumb = ep.image | default: ep.header.teaser -%}
+{%- assign lead = ep.excerpt | strip_html | strip | normalize_whitespace -%}
+{%- assign body_text = ep.content | strip_html | strip | normalize_whitespace -%}
+{%- assign lead_len = lead | size -%}
+{%- assign body_start = body_text | slice: 0, lead_len -%}
+{%- if lead_len == 0 or body_start == lead -%}{%- assign lead = "" -%}{%- endif -%}

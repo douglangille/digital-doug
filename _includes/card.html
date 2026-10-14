@@ -1,0 +1,8 @@
+{%- include excerpt.html post=include.post -%}
+{%- assign cp = include.post -%}
+<article class="card{% if include.row %} row{% endif %}">
+  <a class="card__img" href="{{ cp.url | relative_url }}" tabindex="-1" aria-hidden="true">{% if thumb %}<img src="{{ thumb | relative_url }}" alt="" loading="lazy" decoding="async">{% endif %}</a>
+  <h3 class="card__title"><a href="{{ cp.url | relative_url }}">{{ cp.title | markdownify | remove: "<p>" | remove: "</p>" | strip }}</a></h3>
+  <p class="meta"><time datetime="{{ cp.date | date_to_xmlschema }}">{{ cp.date | date: "%b %-d, %Y" }}</time>{% assign cmins = cp.content | number_of_words | plus: 199 | divided_by: site.words_per_minute %}<span>{{ cmins }} min read</span></p>
+  {% if lead != "" %}<p class="card__ex">{{ lead }}</p>{% endif %}
+</article>

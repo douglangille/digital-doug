@@ -1,0 +1,23 @@
+---
+layout: default
+---
+{% assign latest = site.posts | first %}
+{% include excerpt.html post=latest %}
+<div class="wrap home">
+  <article class="feature">
+    <a class="feature__img" href="{{ latest.url | relative_url }}" tabindex="-1" aria-hidden="true">{% if thumb %}<img src="{{ thumb | relative_url }}" alt="" fetchpriority="high">{% endif %}</a>
+    <div class="feature__text">
+      <p class="feature__label">Latest</p>
+      <h1 class="feature__title"><a href="{{ latest.url | relative_url }}">{{ latest.title | markdownify | remove: "<p>" | remove: "</p>" | strip }}</a></h1>
+      {% if lead != "" %}<p class="feature__ex">{{ lead }}</p>{% endif %}
+      <p class="meta"><time datetime="{{ latest.date | date_to_xmlschema }}">{{ latest.date | date: "%B %-d, %Y" }}</time>{% assign mins = latest.content | number_of_words | plus: 199 | divided_by: site.words_per_minute %}<span>{{ mins }} min read</span></p>
+      <a class="btn" href="{{ latest.url | relative_url }}">Read now</a>
+    </div>
+  </article>
+
+  <h2 class="section-title">More recent</h2>
+  <ul class="cards cards--home">
+    {% for post in site.posts offset: 1 limit: 8 %}<li>{% include card.html post=post %}</li>{% endfor %}
+  </ul>
+  <p class="home__more"><a class="btn btn--ghost" href="{{ '/articles/' | relative_url }}">Browse all articles</a></p>
+</div>

@@ -1,0 +1,70 @@
+---
+layout: default
+---
+{% include excerpt.html post=page %}
+{% comment %}
+  One H1, from the layout. A leading "# Title" in the body (kept for Obsidian)
+  is dropped here at build time, not hidden with CSS.
+{% endcomment %}
+{% assign body = content %}
+{% assign body_trim = content | strip %}
+{% if body_trim contains '<h1' and body_trim contains '</h1>' %}
+  {% assign first_h1 = body_trim | split: '</h1>' | first %}
+  {% assign first_h1_open = first_h1 | slice: 0, 3 %}
+  {% if first_h1_open == '<h1' %}
+    {% assign h1_whole = first_h1 | append: '</h1>' %}
+    {% assign body = body_trim | remove_first: h1_whole %}
+  {% endif %}
+{% endif %}
+{% assign mins = content | number_of_words | plus: 199 | divided_by: site.words_per_minute %}
+<div class="wrap">
+<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+  <header class="post__head">
+    <h1 class="post__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" | strip }}</h1>
+    {% if lead != "" %}<p class="post__lead" itemprop="description">{{ lead }}</p>{% endif %}
+    <p class="meta"><time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.last_modified_at %}<span>Updated <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%B %-d, %Y" }}</time></span>{% endif %}<span>{{ mins }} min read</span></p>
+  </header>
+
+  {% if thumb %}
+  <figure class="post__hero"><img src="{{ thumb | relative_url }}" alt="{{ page.image_alt | escape }}" fetchpriority="high"></figure>
+  {% endif %}
+
+  <div class="prose" itemprop="articleBody">{{ body }}</div>
+
+  <footer class="post__end">
+    {% if page.tags.size > 0 %}
+    <ul class="chips" aria-label="Tags">{% for tag in page.tags %}<li><a class="chip" href="{{ tag | slugify | prepend: '/tag/' | append: '/' | relative_url }}">{{ tag }}</a></li>{% endfor %}</ul>
+    {% endif %}
+    {% capture reply_body %}One-line reaction:%0D%0A(Write here)%0D%0A%0D%0ALink: {{ page.url | absolute_url }}{% endcapture %}
+    <div class="actions">
+      <a class="btn" href="{{ '/feed.xml' | relative_url }}">Subscribe via RSS</a>
+      <a class="btn btn--ghost" href="https://feedrabbit.com/?url={{ site.url }}/feed.xml" rel="noopener">Subscribe via email</a>
+      <a class="btn btn--ghost" href="mailto:{{ site.email }}?subject={{ 'Thoughts: ' | append: page.title | cgi_escape | replace: '+', '%20' }}&amp;body={{ reply_body }}">Tell me what you think</a>
+      <a class="btn btn--ghost" href="mailto:?subject={{ 'Read: ' | append: page.title | cgi_escape | replace: '+', '%20' }}&amp;body={{ page.url | absolute_url | cgi_escape }}">Share with a friend</a>
+    </div>
+    <div class="author">
+      <img src="{{ site.author.avatar | relative_url }}" alt="" width="72" height="72" loading="lazy">
+      <div>
+        <strong>{{ site.author.name }}</strong>
+        <p>{{ site.author.bio }}</p>
+        <nav aria-label="Author links">{% for l in site.author.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</nav>
+      </div>
+    </div>
+    <nav class="pager" aria-label="More posts">
+      {% if page.previous %}<a class="prev" href="{{ page.previous.url | relative_url }}"><small>&larr; Older</small>{{ page.previous.title | markdownify | remove: "<p>" | remove: "</p>" | strip }}</a>{% endif %}
+      {% if page.next %}<a class="next" href="{{ page.next.url | relative_url }}"><small>Newer &rarr;</small>{{ page.next.title | markdownify | remove: "<p>" | remove: "</p>" | strip }}</a>{% endif %}
+    </nav>
+  </footer>
+</article>
+
+{% assign shown = "" %}{% assign related = "" | split: "," %}
+{% for tag in page.tags %}{% for rp in site.tags[tag] %}
+  {% if rp.url != page.url and related.size < 3 %}{% unless shown contains rp.url %}{% assign related = related | push: rp %}{% assign shown = shown | append: rp.url %}{% endunless %}{% endif %}
+{% endfor %}{% endfor %}
+{% if related.size > 0 %}
+<aside class="related" aria-labelledby="rel">
+  <h2 class="section-title" id="rel">You may also enjoy</h2>
+  <ul class="cards">{% for rp in related %}<li>{% include card.html post=rp %}</li>{% endfor %}</ul>
+</aside>
+{% endif %}
+</div>
