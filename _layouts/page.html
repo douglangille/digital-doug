@@ -18,7 +18,7 @@ layout: default
       {% for p in profile %}<li><a class="chip" href="{{ p.url | relative_url }}"{% if p.url == page.url %} aria-current="page"{% endif %}>{{ p.nav_title | default: p.title }}</a></li>{% endfor %}
     </ul></nav>
     {% endif %}
-    {% if page.portrait %}
+    {% if page.elsewhere %}
     <nav class="elsewhere" aria-label="Elsewhere">{% for l in site.author.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</nav>
     {% endif %}
   </div>

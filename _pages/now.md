@@ -1,6 +1,7 @@
 ---
 section: profile
-order: 2
+portrait: true
+order: 1
 nav_title: "Now"
 permalink: /now/
 title: "Now"

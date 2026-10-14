@@ -1,5 +1,6 @@
 ---
 section: profile
+portrait: true
 order: 3
 nav_title: "AI"
 permalink: /ai/
