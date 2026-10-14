@@ -118,6 +118,7 @@ a:hover { color: var(--accent-hover); }
 .page-head { padding-block: clamp(1.5rem, 4vw, 3rem) 1rem; }
 .page-head h1 { font-family: var(--font-head); font-weight: var(--head-weight); font-size: var(--step-3); letter-spacing: var(--head-tracking); line-height: 1.05; }
 .page-head p { color: var(--muted); margin-top: .5rem; }
+.page-head .note { font-size: .95rem; margin-top: .25rem; }
 .page-head .chips { margin-top: 1.25rem; }
 .year { font-family: var(--font-mono); font-size: var(--step-1); font-weight: 400; color: var(--muted); margin-block: 2.5rem 1rem; }
 .rows { list-style: none; padding: 0; margin: 0; display: grid; gap: 1.25rem var(--gutter); grid-template-columns: repeat(auto-fill, minmax(min(100%, 26rem), 1fr)); }
