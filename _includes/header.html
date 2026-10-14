@@ -4,7 +4,7 @@
     <span class="tagline">{{ site.subtitle }}</span>
     <nav class="nav" aria-label="Primary">
       {%- for item in site.data.navigation.main %}
-      <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% elsif item.section and page.section == item.section %} class="in-section"{% endif %}>{{ item.title }}</a>
       {%- endfor %}
     </nav>
   </div>

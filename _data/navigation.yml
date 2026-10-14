@@ -3,3 +3,4 @@ main:
     url: /articles/
   - title: "Now"
     url: /now/
+    section: profile
