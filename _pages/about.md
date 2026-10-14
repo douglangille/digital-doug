@@ -1,7 +1,7 @@
 ---
 section: profile
 portrait: true
-order: 2
+order: 1
 nav_title: "About"
 permalink: /about/
 title: "About"

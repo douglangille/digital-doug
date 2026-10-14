@@ -1,6 +1,6 @@
 main:
   - title: "Articles"
     url: /articles/
-  - title: "Now"
-    url: /now/
+  - title: "About"
+    url: /about/
     section: profile

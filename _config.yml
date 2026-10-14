@@ -33,7 +33,6 @@ author:
 footer:
   since                   : "2019"
   links:
-    - { label: "About", url: "/about/" }
     - { label: "Darkling Whim", url: "https://douglangille.ca" }
     - { label: "Amazon", url: "https://www.amazon.com/author/douglangille" }
     - { label: "LinkedIn", url: "https://www.linkedin.com/in/douglangille/" }
