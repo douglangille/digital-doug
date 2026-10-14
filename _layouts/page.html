@@ -19,7 +19,7 @@ layout: default
     </ul></nav>
     {% endif %}
     {% if page.section == "profile" %}
-    <nav class="elsewhere" aria-label="Elsewhere">{% for l in site.author.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</nav>
+    <nav class="elsewhere" aria-label="Author links">{% for l in site.author.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</nav>
     {% endif %}
   </div>
   <div class="post__main"><div class="prose">{{ content }}</div></div>
