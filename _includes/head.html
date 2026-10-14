@@ -3,7 +3,6 @@
 <meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="{{ site.theme_colors.light }}" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="{{ site.theme_colors.dark }}" media="(prefers-color-scheme: dark)">
-<script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}</script>
 {% for f in site.preload_fonts %}<link rel="preload" href="{{ '/assets/fonts/' | append: f | append: '.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
 {% endfor %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">

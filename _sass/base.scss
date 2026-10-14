@@ -53,15 +53,6 @@ a:hover { color: var(--accent-hover); }
 .nav { display: flex; align-items: center; gap: .25rem 1.25rem; flex-wrap: wrap; font-family: var(--font-ui); font-size: .95rem; font-weight: 500; }
 .nav a { color: var(--text); text-decoration: none; padding-block: .35rem; border-bottom: 2px solid transparent; }
 .nav a:hover, .nav a[aria-current] { color: var(--accent); border-bottom-color: var(--accent); }
-.nav__tools { display: flex; align-items: center; gap: .25rem; margin-left: .25rem; }
-.icon-btn { display: inline-grid; place-items: center; width: 2.4rem; height: 2.4rem; border: 0; background: transparent; color: var(--text); border-radius: 50%; cursor: pointer; }
-.icon-btn:hover { background: var(--overlay); color: var(--accent); }
-.icon-btn svg { width: 1.2rem; height: 1.2rem; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
-.theme-toggle .i-sun, .theme-toggle .i-moon { display: none; }
-:root[data-theme="light"] .theme-toggle .i-sys, :root[data-theme="dark"] .theme-toggle .i-sys { display: none; }
-:root[data-theme="light"] .theme-toggle .i-sun { display: block; }
-:root[data-theme="dark"] .theme-toggle .i-moon { display: block; }
-
 // ---------- shared bits ----------
 .meta { font-family: var(--font-mono); font-size: var(--step--1); color: var(--muted); display: flex; flex-wrap: wrap; gap: .1rem .6rem; align-items: center; }
 .meta > * + *::before { content: "\00b7"; margin-right: .6rem; }
@@ -228,7 +219,7 @@ a:hover { color: var(--accent-hover); }
 // ---------- 404 / simple pages ----------
 
 @media print {
-  .masthead, .footer, .post__end .actions, .related, .theme-toggle { display: none; }
+  .masthead, .footer, .post__end .actions, .related { display: none; }
   body { background: #fff; color: #000; font-size: 11pt; }
 }
 
