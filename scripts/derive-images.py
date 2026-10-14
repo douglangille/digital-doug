@@ -30,9 +30,10 @@ def dims(path):
 def images():
     seen = set()
     for post in sorted(glob.glob("_posts/*.md")):
-        text = open(post, encoding="utf-8").read().split("---", 2)
-        if len(text) < 3:
+        fm = re.match(r"---\n(.*?)\n---\n", open(post, encoding="utf-8").read(), re.S)
+        if not fm:
             continue
+        text = ["", fm.group(1)]
         # Same precedence as the templates: `image`, else `header.teaser`.
         m = re.search(r"^image:\s*(\S+)\s*$", text[1], re.M) or re.search(r"^\s+teaser:\s*(\S+)\s*$", text[1], re.M)
         if m and m.group(1).startswith("/assets/") and m.group(1) not in seen:

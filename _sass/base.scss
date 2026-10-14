@@ -228,3 +228,11 @@ a:hover { color: var(--accent-hover); }
   .masthead, .footer, .post__end .actions, .related, .theme-toggle { display: none; }
   body { background: #fff; color: #000; font-size: 11pt; }
 }
+
+.notice { margin-top: 1rem; padding: .75rem 1rem; background: var(--overlay); border-left: 3px solid var(--accent); border-radius: 0 var(--radius) var(--radius) 0; font-size: .95rem; color: var(--text); max-width: 46rem; }
+
+.prose .align-right, .prose .align-left { max-width: 50%; margin-block: .35em 1em; }
+.prose .align-right { float: right; margin-left: 1.5rem; }
+.prose .align-left { float: left; margin-right: 1.5rem; }
+.prose .align-center { margin-inline: auto; }
+@media (max-width: 34rem) { .prose .align-right, .prose .align-left { float: none; max-width: 100%; margin-inline: 0; } }
