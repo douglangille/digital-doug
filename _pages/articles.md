@@ -13,7 +13,7 @@ permalink: /articles/
       {% for g in site.tag_groups %}
       <div class="filter" data-group="{{ g.label }}">
         <ul class="chips">
-          {% for t in g.tags %}{% assign n = site.tags[t].size %}{% if n > 0 %}<li><a class="chip" href="{{ t | slugify | prepend: '/tag/' | append: '/' | relative_url }}" data-tag="{{ t }}">{{ t }} <small>{{ n }}</small></a></li>{% endif %}{% endfor %}
+          {% for t in g.tags %}{% assign n = site.tags[t].size %}{% if n > 0 %}<li><a class="chip" href="{{ page.url | append: '#' | append: t | relative_url }}" data-tag="{{ t }}">{{ t }} <small>{{ n }}</small></a></li>{% endif %}{% endfor %}
         </ul>
       </div>
       {% endfor %}
@@ -53,6 +53,7 @@ permalink: /articles/
   }
   function select(tag) {
     current = (tag === current) ? null : tag;
+    if (history.replaceState && location.hash !== "#search") history.replaceState(null, "", current ? "#" + current : location.pathname + location.search);
     chips.forEach(function (c) { if (c.dataset.tag === current || (!current && c.hasAttribute("data-all"))) c.setAttribute("aria-current", "true"); else c.removeAttribute("aria-current"); });
     apply();
   }
@@ -62,5 +63,9 @@ permalink: /articles/
   q.addEventListener("input", apply);
   var m = location.search.match(/[?&]q=([^&]*)/); if (m) { q.value = decodeURIComponent(m[1].replace(/\+/g, " ")); apply(); }
   if (location.hash === "#search") q.focus();
+  else if (location.hash.length > 1) {
+    var wanted = decodeURIComponent(location.hash.slice(1));
+    if (chips.some(function (c) { return c.dataset.tag === wanted; })) select(wanted);
+  }
 })();
 </script>

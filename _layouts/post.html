@@ -36,7 +36,7 @@ layout: default
 
   <footer class="post__end">
     {% if page.tags.size > 0 %}
-    <ul class="chips" aria-label="Tags">{% for tag in page.tags %}<li><a class="chip" href="{{ tag | slugify | prepend: '/tag/' | append: '/' | relative_url }}">{{ tag }}</a></li>{% endfor %}</ul>
+    <ul class="chips" aria-label="Tags">{% for tag in page.tags %}{% if site.tag_redirects[tag] %}{% assign tag_href = site.tag_redirects[tag] %}{% else %}{% assign tag_href = site.data.navigation.main[0].url | append: '#' | append: tag %}{% endif %}<li><a class="chip" href="{{ tag_href | relative_url }}">{{ tag }}</a></li>{% endfor %}</ul>
     {% endif %}
     {% capture reply_body %}One-line reaction:%0D%0A(Write here)%0D%0A%0D%0ALink: {{ page.url | absolute_url }}{% endcapture %}
     <div class="actions">

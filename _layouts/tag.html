@@ -1,7 +1,17 @@
----
-layout: default
----
-<div class="wrap">
-  <header class="page-head"><h1>#{{ page.title }}</h1><p>{{ page.posts.size }} post{% if page.posts.size != 1 %}s{% endif %}. <a href="{{ '/articles/' | relative_url }}">All articles</a></p></header>
-  <ul class="rows">{% for post in page.posts %}<li>{% include card.html post=post row=true %}</li>{% endfor %}</ul>
-</div>
+{%- comment -%}
+  Tags are browsed on the list page (one tag browser). The generated /tag/x/ URLs stay alive
+  as redirects so old links keep working; they are noindex and kept out of the sitemap.
+{%- endcomment -%}
+{%- assign tag = page.title -%}
+{%- if site.tag_redirects[tag] -%}{%- assign target = site.tag_redirects[tag] -%}{%- else -%}{%- assign target = site.data.navigation.main[0].url | append: '#' | append: tag -%}{%- endif -%}
+<!doctype html>
+<html lang="{{ site.locale | default: 'en' }}">
+<head>
+<meta charset="utf-8">
+<title>{{ tag }} | {{ site.title }}</title>
+<meta name="robots" content="noindex">
+<link rel="canonical" href="{{ target | absolute_url }}">
+<meta http-equiv="refresh" content="0; url={{ target | relative_url }}">
+</head>
+<body><p><a href="{{ target | relative_url }}">Browse {{ tag }}</a></p></body>
+</html>
