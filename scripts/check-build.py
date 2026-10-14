@@ -49,7 +49,7 @@ for page in pages:
                 warn(f"{rel}: link does not resolve {u}")
     if any(s in rel for s in STANDALONE) and "hub" in rel:
         continue
-    if rel.startswith(("rss", "search", "tag/")):
+    if rel.startswith(("rss", "search", "tag/", "recently-revised/")):
         continue
     if h.count("<h1") != 1 and rel != "404.html":
         warn(f"{rel}: {h.count('<h1')} <h1> elements")
