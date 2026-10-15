@@ -18,7 +18,6 @@ def err(m): errors.append(m)
 def warn(m): warnings.append(m)
 
 pages = sorted(glob.glob(f"{SITE}/**/*.html", recursive=True))
-STANDALONE = ("hub/", "404.html", "rss/", "search/")  # own markup or redirect stubs
 
 def resolve(url, page):
     u = urllib.parse.unquote(url.split("#")[0].split("?")[0])
@@ -33,8 +32,6 @@ def resolve(url, page):
 for page in pages:
     rel = page[len(SITE) + 1:]
     h = open(page, encoding="utf-8").read()
-    if rel.startswith("hub/"):
-        continue  # standalone page with its own markup
     if re.search(r"\{\{|\{%", re.sub(r"<(script|pre|code)\b.*?</\1>", "", h, flags=re.S)):
         err(f"{rel}: leftover Liquid")
     for m in re.finditer(r'(?:src|srcset|href)="([^"]+)"', h):
@@ -47,8 +44,6 @@ for page in pages:
                     err(f"{rel}: missing asset {u}")
             elif not resolve(u, page):
                 warn(f"{rel}: link does not resolve {u}")
-    if any(s in rel for s in STANDALONE) and "hub" in rel:
-        continue
     if rel.startswith(("rss", "search", "tag/", "recently-revised/")):
         continue
     if h.count("<h1") != 1 and rel != "404.html":
