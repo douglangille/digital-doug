@@ -13,7 +13,7 @@ permalink: /substack.xml
 <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     {% for post in site.posts limit:5 %}
     {% assign post_url = post.url | absolute_url %}
-    {% assign feature_img = post.header.teaser | default: post.header.overlay_image | default: post.feature %}
+    {% assign feature_img = post.image | default: post.header.teaser | default: post.header.overlay_image | default: post.feature %}
     {% if feature_img %}
       {% assign feature_url = feature_img | absolute_url %}
     {% else %}
