@@ -8,7 +8,6 @@ tags: [institutional, diagnostic]
 entities: []
 meta: "Doug questions the federal promise of trusted AI agents for every post-secondary student: who provides them, what they teach, and how fast they commoditize."
 ---
-
 # Is There Any There, There?
 
 I finally got around to reading the federal government's national AI strategy: [AI for All](https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all). They unleashed it in June 2026. There's a lot of buzzy announce-y things there, but buried in the fluff is a meaty promise:
@@ -69,7 +68,7 @@ What's the clock on it? I have no idea. Is it six months, one year, two years, f
 
 If the Feds came to us and said, hey, everybody is going to have to give all of the students across the country access to something on the Cohere framework, then I guess that's what we would do. But that doesn't change the fact that we, all of us higher education institutions, are either in bed with Microsoft or Google. And it's fine to give students access to stuff, but what are you going to do for your staff and faculty? Ideally you would give them access to the same tools that you're giving for students. But the "AI for All" strategy doesn't talk about staff and faculty. Not all of them. Not really.
 
-With respect to Copilot and our Microsoft 365 license: the max license that many institutions can afford is A5, which only provides access to the web-grounded chatbot-level tool. To actually use some of the agentic tools, it requires an expensive upgrade to the license. Microsoft has made that hard to even actually articulate, because they separate between this Copilot for Office product (somewhere north of $440 CDN per user annually). This would give you a co-work kind of environment. And then they have this Copilot Studio environment, which is the true agentic piece, that bills on a consumption basis. So none of it's one-for-one, or like for like. It's actually quite hard. 
+With respect to Copilot and our Microsoft 365 license: the max license that many institutions can afford is A5, which only provides access to the web-grounded chatbot-level tool. To actually use some of the agentic tools, it requires an expensive upgrade to the license. Microsoft has made that hard to even actually articulate, because they separate between this Microsoft 365 Copilot product (somewhere north of $440 CDN per user annually). This would give you a co-work kind of environment. And then they have this Copilot Studio environment, which is the true agentic piece, that bills on a consumption basis. So none of it's one-for-one, or like for like. It's actually quite hard. 
 
 One idea is, maybe we find a way to get a discount with the frontier models, with the Googles and the Microsofts and ChatGPTs. I know part of this push is to move to a more sovereign solution. But what if we don't have sovereign tools at scale? Even looking at Cohere, Cohere's funding partners aren't exactly pure Canadian either. There's a lot of American investment in those things. I don't think it's as clean as everybody wants it to be. Just because the data centres are physically hosted in Canada doesn't mean that it's actually a truly Canadian thing. And it could be just as likely that we buddy up with one of the EU's monstrosities, like Mistral.
 
