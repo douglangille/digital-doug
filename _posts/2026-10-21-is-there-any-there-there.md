@@ -2,6 +2,7 @@
 title: "Is There Any There, There?"
 date: 2026-10-21
 image: /assets/images/is-there-any-there-there/feature.png
+feature: /assets/images/is-there-any-there-there/feature.png
 image_alt: "A grinning chrome robot milkman in a white cap offers a crate of milk bottles, one gone sour, to a skeptical college staffer with crossed arms, beside a pile of obsolete gear."
 excerpt: "This stuff is going to age like milk."
 tags: [institutional, diagnostic]
