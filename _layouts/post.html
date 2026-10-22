@@ -23,7 +23,7 @@ layout: default
   <header class="post__head">
     <h1 class="post__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" | strip }}</h1>
     {% if lead != "" %}<p class="post__lead" itemprop="description">{{ lead }}</p>{% endif %}
-    <p class="meta"><time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.last_modified_at %} · <span>Updated <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%B %-d, %Y" }}</time></span>{% endif %} · <span>{{ mins }} min read</span></p>
+    <p class="meta"><time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.last_modified_at %}<span>Updated <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%B %-d, %Y" }}</time></span>{% endif %}<span>{{ mins }} min read</span></p>
   </header>
 
   {% if thumb %}
