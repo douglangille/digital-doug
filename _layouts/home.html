@@ -10,7 +10,7 @@ layout: default
       <p class="feature__label">Latest</p>
       <h1 class="feature__title"><a href="{{ latest.url | relative_url }}">{{ latest.title | markdownify | remove: "<p>" | remove: "</p>" | strip }}</a></h1>
       {% if lead != "" %}<p class="feature__ex">{{ lead }}</p>{% endif %}
-      <p class="meta"><time datetime="{{ latest.date | date_to_xmlschema }}">{{ latest.date | date: "%B %-d, %Y" }}</time>{% assign mins = latest.content | number_of_words | plus: 199 | divided_by: site.words_per_minute %} · <span>{{ mins }} min read</span></p>
+      <p class="meta"><time datetime="{{ latest.date | date_to_xmlschema }}">{{ latest.date | date: "%B %-d, %Y" }}</time>{% assign mins = latest.content | number_of_words | plus: 199 | divided_by: site.words_per_minute %}<span>{{ mins }} min read</span></p>
       <a class="btn" href="{{ latest.url | relative_url }}">Read now</a>
     </div>
   </article>
