@@ -3,6 +3,6 @@
 <article class="card{% if include.row %} row{% endif %}">
   <a class="card__img" href="{{ cp.url | relative_url }}" tabindex="-1" aria-hidden="true">{% if thumb %}{% include img.html src=thumb alt="" sizes="(min-width: 76rem) 22vw, (min-width: 34rem) 45vw, 100vw" %}{% endif %}</a>
   <h3 class="card__title"><a href="{{ cp.url | relative_url }}">{{ cp.title | markdownify | remove: "<p>" | remove: "</p>" | strip }}</a></h3>
-  <p class="meta"><time datetime="{{ cp.date | date_to_xmlschema }}">{{ cp.date | date: "%b %-d, %Y" }}</time>{% assign cmins = cp.content | number_of_words | plus: 199 | divided_by: site.words_per_minute %} · <span>{{ cmins }} min read</span></p>
+  <p class="meta"><time datetime="{{ cp.date | date_to_xmlschema }}">{{ cp.date | date: "%b %-d, %Y" }}</time>{% assign cmins = cp.content | number_of_words | plus: 199 | divided_by: site.words_per_minute %}<span>{{ cmins }} min read</span></p>
   {% if lead != "" %}<p class="card__ex">{{ lead }}</p>{% elsif cp.description %}<p class="card__ex">{{ cp.description }}</p>{% endif %}
 </article>
