@@ -11,7 +11,6 @@ entities: []
 meta: "Doug argues that amid organizational upheaval and personal loss, the only real practice is doing good work, staying kind, and letting the gears keep turning."
 feature: /assets/images/be-a-useful-cog/feature.png
 ---
-
 # Be a Useful Cog
 
 A couple days ago I noticed the fence I built for the goats bowing out near the house. Peanut, the boer goat, had been rubbing on that corner, the one closest to the humans. Went out today to patch it and she'd pretty much destroyed it. Welded wire snapped off in spaces. Now I'm ripping out a couple panels and rewiring them, and I think I'm putting a rail about sixteen inches off the ground the whole way around, maybe higher, so when she shoulders into it she can't rip it apart anymore.
