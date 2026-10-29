@@ -17,6 +17,10 @@ But regardless. It's getting darker. Holy smoke, it is dark by six o'clock prett
 
 This is usually the time of year I re-litigate the whole dark mode versus light mode thing. Not this time. I settled on dark mode a few months ago. I wasn't going to keep doing the light-mode-during-the-day, dark-mode-at-sunset, Night Shift, True Tone rigmarole. I just got tired of the shift, the jarring change between light and dark on something I look at a lot. And now that it's dark most of the time anyway, dark mode is just the natural state. Easier on my eyes. Not necessarily easier on anybody else's. That's all that counts, really. My own preference.
 
+Mostly I've configured things dark mode where I can. And to be honest, most of the time dark mode is perfectly fine, especially when I'm on a Mac and I have a camera in front of me. The darker background doesn't shine off on my glasses, and it's really practical.
+
+The whole business about whether or not it changes eye strain or reading comprehension, I think most of that is fractions of a percentage difference. There might technically be a difference. In practical terms, there isn't. There are other things that are impacting your ability to concentrate or cause eye strain. Blink, god damn it. Or maybe take a break. And don't do things tired. But whether or not it's dark or light mode is not going to be the productivity boon you think it is.
+
 This is also the time of year you start feeling the lack of vitamin D. Welcome to Canada. I like to find the joy anywhere I can, and one of the joys I find is making sure my computing experience is consistent and pleasing to be in, because I'm at a screen a good chunk of the day. One of three screens, really. You get up and stare at a six-inch screen, spend the working day on a fifteen-inch screen, spend the evening on a nine-inch screen or a fifty-five-inch screen depending on whether it's the iPad or the big TV. A lot of screens. In a way, to measure your life, too. Pretty sad.
 
 So that's the whole point: having an aesthetic experience when you're looking at screens a lot of the time, and it's dark most of the time, kind of matters to me.
@@ -32,10 +36,6 @@ I did lean on the warmer side of the palette, because the palette does have a Ro
 I think when you come across an interface element that doesn't match, it really takes you out of it, and it's jarring, and it does give you a moment to think about whether or not, well, you're not in the moment anymore. You're focusing on whatever interface element that comes up, and I think that's not good usability. I'm really irritated at Apple and Microsoft for not providing that level of customization with their tools.
 
 It feels like a swing and a miss, because it just hurts my brain and I can't really pinpoint why it does, but I just identify strongly with the continuity of experience. You know, it's like muscle memory in a way, right? You expect when you right-click something, you're going to get a menu. When you double-click on something, an action is going to happen. When you see a particular color on the screen, it indicates this, that, or the other. When you see a bold font, it means it's important. When you see that it's italic, it means that there's a different kind of emphasis on it. Underline probably means a link. You know what I mean. So I think color has an aesthetic piece, an expectation piece, and a muscle memory piece.
-
-Mostly I've configured things dark mode where I can. And to be honest, most of the time dark mode is perfectly fine, especially when I'm on a Mac and I have a camera in front of me. The darker background doesn't shine off on my glasses, and it's really practical.
-
-The whole business about whether or not it changes eye strain or reading comprehension, I think most of that is fractions of a percentage difference. There might technically be a difference. In practical terms, there isn't. There are other things that are impacting your ability to concentrate or cause eye strain. Blink, god damn it. Or maybe take a break. And don't do things tired. But whether or not it's dark or light mode is not going to be the productivity boon you think it is.
 
 I've tried other palettes in the past. One of my favorites that I've used was the Solarized light dark palette, and I still do enjoy that a lot, but it didn't really have a whole lot of character. I guess that's largely the point, that it's supposed to disappear into the background.
 
@@ -59,7 +59,7 @@ There is something to be said for picking a design language that you actually li
 
 One of the easiest ways to make an impact on your design is with a color palette, and you don't have to build it from scratch. You can research what's already out there. I landed on Rosé Pine because it was really attractive to me, and it was well-designed, well-thought-out, and I could have enough variation within it. That's me though.
 
-One of the values is craftsmanship, making beautiful things. That includes my own working environment.
+One of my values is craftsmanship, making beautiful things. That includes my own working environment.
 
 I made my own workbench during COVID with upcycled materials. Cleaned it up, took the care to make it look the way I wanted, hand-rubbed it with linseed oil so it'd be a beautiful place to work. Ironically, with a lot more yellow than I care for. In my computing environment, I want that digital workbench to be just as pleasing a place to work.
 
