@@ -1,14 +1,17 @@
 ---
-title: "Put Your Legos on the Table"
+title: Put Your Legos on the Table
 date: 2026-08-21
 image: /assets/images/put-your-legos-on-the-table/feature.png
 header:
   teaser: /assets/images/put-your-legos-on-the-table/feature.png
   overlay_image: /assets/images/put-your-legos-on-the-table/feature.png
-excerpt: "On Generalists, AI, and Abundance Thinking"
-tags: [personal, foundational]
-entities: ["Arved Sandstrom"]
-meta: "Doug builds an internal Power App prototype in a week using Claude as a collaborator, landing on generalist-career value and an abundance mindset toward AI."
+excerpt: On Generalists, AI, and Abundance Thinking
+tags:
+  - personal
+  - foundational
+entities:
+  - Arved Sandstrom
+meta: Doug builds an internal Power App prototype in a week using Claude as a collaborator, landing on generalist-career value and an abundance mindset toward AI.
 feature: /assets/images/put-your-legos-on-the-table/feature.png
 ---
 # Put Your Legos on the Table

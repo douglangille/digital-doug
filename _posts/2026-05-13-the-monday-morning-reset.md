@@ -9,8 +9,7 @@ date: 2026-05-13 08:00:00 -0400
 header:
   teaser: /assets/images/the-monday-morning-reset/generated-image-7.png
   overlay_image: /assets/images/the-monday-morning-reset/generated-image-7.png
-meta: Skipping a Monday review leads to chaotic inbox overload, while a consistent
-  review restores focus and prevents burnout.
+meta: Skipping a Monday review leads to chaotic inbox overload, while a consistent review restores focus and prevents burnout.
 feature: /assets/images/the-monday-morning-reset/generated-image-7.png
 ---
 # The Monday Morning Reset

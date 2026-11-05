@@ -4,11 +4,13 @@ image: /assets/images/human-at-the-helm/feature.png
 header:
   teaser: /assets/images/human-at-the-helm/feature.png
   overlay_image: /assets/images/human-at-the-helm/feature.png
-excerpt: "What a legislature and my own writing workflow have in common this week."
-tags: [personal, prescriptive]
-
-entities: ["Bill Oliver"]
-meta: "A legislator reads a raw ChatGPT preamble into the record; a private HITL failure teaches the same lesson about staying at the helm."
+excerpt: What a legislature and my own writing workflow have in common this week.
+tags:
+  - personal
+  - prescriptive
+entities:
+  - Bill Oliver
+meta: A legislator reads a raw ChatGPT preamble into the record; a private HITL failure teaches the same lesson about staying at the helm.
 feature: /assets/images/human-at-the-helm/feature.png
 ---
 # Human at the Helm

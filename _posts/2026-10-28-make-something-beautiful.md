@@ -1,13 +1,15 @@
 ---
-title: "Make Something Beautiful"
+title: Make Something Beautiful
 date: 2026-10-28
 image: /assets/images/rose-pine/feature.png
 feature: /assets/images/rose-pine/feature.png
-image_alt: "A man in a flannel shirt and work apron hand-rubs linseed oil into a wooden workbench at night, glowing warm against a shelf of retro electronics lit cool cyan, with bare winter trees and a crescent moon through the window behind him."
-excerpt: "Winter is coming. Make something beautiful anyway."
-tags: [personal, foundational]
+image_alt: A man in a flannel shirt and work apron hand-rubs linseed oil into a wooden workbench at night, glowing warm against a shelf of retro electronics lit cool cyan, with bare winter trees and a crescent moon through the window behind him.
+excerpt: Winter is coming. Make something beautiful anyway.
+tags:
+  - personal
+  - foundational
 entities: []
-meta: "Doug tints his entire digital life Rosé Pine and argues that choosing a palette on purpose, not a default, is its own kind of craftsmanship."
+meta: Doug tints his entire digital life Rosé Pine and argues that choosing a palette on purpose, not a default, is its own kind of craftsmanship.
 ---
 # Make Something Beautiful
 

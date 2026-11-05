@@ -11,8 +11,7 @@ tags:
   - personal
   - prescriptive
 entities: []
-meta: The essay diagnoses how personal AI tool choices affect workflow, favoring
-  integrated services like ChatGPT Plus and Copilot while discarding niche alternatives.
+meta: The essay diagnoses how personal AI tool choices affect workflow, favoring integrated services like ChatGPT Plus and Copilot while discarding niche alternatives.
 feature: /assets/images/ai-harmonizes-with-my-ideas/47981997-d20a-4864-9e64-02acba822434_1536x1024.png
 ---
 # AI Harmonizes with My Ideas

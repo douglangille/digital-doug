@@ -1,13 +1,14 @@
 ---
 title: Dr. Strangebot
-excerpt: "Or How I Learned to Stop Worrying and Love Markdown"
+excerpt: Or How I Learned to Stop Worrying and Love Markdown
 header:
   teaser: /assets/images/dr-strangebot/feature.png
   overlay_image: /assets/images/dr-strangebot/feature.png
-tags: [personal, prescriptive]
-
+tags:
+  - personal
+  - prescriptive
 entities: []
-meta: "Office formats aren't broken. You're drafting in the wrong layer. Here's what changes once you stop asking a printer to also be your desk."
+meta: Office formats aren't broken. You're drafting in the wrong layer. Here's what changes once you stop asking a printer to also be your desk.
 feature: /assets/images/dr-strangebot/feature.png
 ---
 # Dr. Strangebot

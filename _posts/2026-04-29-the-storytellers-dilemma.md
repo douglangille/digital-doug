@@ -1,10 +1,11 @@
 ---
-title: "The Storyteller's Dilemma"
+title: The Storyteller's Dilemma
 excerpt: The AI question isn't about kudos and disclosure.
 tags:
   - personal
   - foundational
-entities: ["James Patterson"]
+entities:
+  - James Patterson
 date: 2026-04-29 08:00:00 -0400
 header:
   teaser: /assets/images/the-storytellers-dilemma/feature.png

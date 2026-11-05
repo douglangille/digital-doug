@@ -1,14 +1,17 @@
 ---
-title: "Big Pickle Is Fine"
+title: Big Pickle Is Fine
 date: 2026-10-01
 image: /assets/images/free-agent-stack/feature.png
 header:
   teaser: /assets/images/free-agent-stack/feature.png
   overlay_image: /assets/images/free-agent-stack/feature.png
-excerpt: "You don't need a chainsaw to carve a roast."
-tags: [personal, prescriptive]
-entities: ["Tiago Forte"]
-meta: "Doug argues a free OpenCode model pointed at an Obsidian vault gets most second-brain users most of the way there, no subscription needed."
+excerpt: You don't need a chainsaw to carve a roast.
+tags:
+  - personal
+  - prescriptive
+entities:
+  - Tiago Forte
+meta: Doug argues a free OpenCode model pointed at an Obsidian vault gets most second-brain users most of the way there, no subscription needed.
 feature: /assets/images/free-agent-stack/feature.png
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "You Can't Prompt Your Way Around Culture"
+title: You Can't Prompt Your Way Around Culture
 date: 2026-06-10 08:00:00 -0300
 tags:
   - institutional

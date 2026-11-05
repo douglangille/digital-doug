@@ -5,11 +5,12 @@ image: /assets/images/articulate-bullshit-artists/feature.png
 header:
   teaser: /assets/images/articulate-bullshit-artists/feature.png
   overlay_image: /assets/images/articulate-bullshit-artists/feature.png
-excerpt: "NEW! Robot-Approved Fence Bracing!"
-tags: [personal, diagnostic]
-
+excerpt: NEW! Robot-Approved Fence Bracing!
+tags:
+  - personal
+  - diagnostic
 entities: []
-meta: "Three AI models gave confidently wrong instructions for bracing a goat fence; a stranger's old YouTube video got it right in one watch."
+meta: Three AI models gave confidently wrong instructions for bracing a goat fence; a stranger's old YouTube video got it right in one watch.
 feature: /assets/images/articulate-bullshit-artists/feature.png
 ---
 # Articulate Bullshit Artists

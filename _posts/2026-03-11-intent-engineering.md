@@ -1,8 +1,7 @@
 ---
 title: Intent Engineering
 date: 2026-03-11 08:00:00 -0400
-excerpt: Bob was reheating stale coffee on Monday. By Friday, he was drinking cafe
-  Americano.
+excerpt: Bob was reheating stale coffee on Monday. By Friday, he was drinking cafe Americano.
 header:
   teaser: /assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png
   overlay_image: /assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png
@@ -10,8 +9,7 @@ tags:
   - personal
   - prescriptive
 entities: []
-meta: The essay argues that effective AI use requires aligning prompts with
-  underlying intent rather than over‑optimizing superficial prompt variables.
+meta: The essay argues that effective AI use requires aligning prompts with underlying intent rather than over‑optimizing superficial prompt variables.
 feature: /assets/images/intent-engineering/overhead_shot_of_a_desk_at_d_1.png
 ---
 # Intent Engineering

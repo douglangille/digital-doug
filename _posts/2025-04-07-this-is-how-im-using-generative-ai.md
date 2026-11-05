@@ -1,18 +1,21 @@
 ---
-title: "This Is How I'm Using Generative AI"
+title: This Is How I'm Using Generative AI
 date: 2025-04-07 08:00:00 -0400
 image: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86-a53c8c5d5063_1024x1024.png
 header:
   teaser: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86-a53c8c5d5063_1024x1024.png
   overlay_image: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86-a53c8c5d5063_1024x1024.png
-categories: null
+categories:
 tags:
   - personal
   - prescriptive
-entities: ["Cal Newport", "Blake Snyder", "Joseph Campbell", "Kurt Vonnegut"]
-meta: The author argues that generative AI transforms personal information
-  gathering into an interactive, productive partnership, replacing unfocused web browsing.
-excerpt: ""  
+entities:
+  - Cal Newport
+  - Blake Snyder
+  - Joseph Campbell
+  - Kurt Vonnegut
+meta: The author argues that generative AI transforms personal information gathering into an interactive, productive partnership, replacing unfocused web browsing.
+excerpt: ""
 feature: /assets/images/this-is-how-im-using-generative-ai/26bcd0c3-9587-4c15-bb86-a53c8c5d5063_1024x1024.png
 ---
 # This Is How I'm Using Generative AI

@@ -6,13 +6,12 @@ header:
   teaser: /assets/images/the-accidental-notetaker/f9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.png
   overlay_image: /assets/images/the-accidental-notetaker/f9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.png
 categories:
-- null
+  - 
 tags:
   - personal
   - prescriptive
 entities: []
-meta: The essay argues that personal note‑taking improves when you shift from
-  forcing elaborate systems to a timed, reflective perspective on captured ideas.
+meta: The essay argues that personal note‑taking improves when you shift from forcing elaborate systems to a timed, reflective perspective on captured ideas.
 feature: /assets/images/the-accidental-notetaker/f9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.png
 ---
 # The Accidental Notetaker

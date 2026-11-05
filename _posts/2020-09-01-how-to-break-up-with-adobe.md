@@ -6,14 +6,12 @@ header:
   teaser: /assets/images/how-to-break-up-with-adobe/ad6ce082-092c-48c1-a501-d50f79abe3fe_2048x1365.jpeg
   overlay_image: /assets/images/how-to-break-up-with-adobe/ad6ce082-092c-48c1-a501-d50f79abe3fe_2048x1365.jpeg
 categories:
-- null
+  - 
 tags:
   - institutional
   - diagnostic
 entities: []
-meta: Institutions should abandon Adobe’s monopolistic licensing by choosing
-  alternative tools, reducing revenue reliance and protecting students from predatory
-  practices.
+meta: Institutions should abandon Adobe’s monopolistic licensing by choosing alternative tools, reducing revenue reliance and protecting students from predatory practices.
 feature: /assets/images/how-to-break-up-with-adobe/ad6ce082-092c-48c1-a501-d50f79abe3fe_2048x1365.jpeg
 ---
 # How to Break Up with Adobe

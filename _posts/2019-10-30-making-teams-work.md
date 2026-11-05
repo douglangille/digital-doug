@@ -6,14 +6,13 @@ header:
   teaser: /assets/images/making-teams-work/b97dab68-8070-469c-b255-08823eba97e2_1024x442.png
   overlay_image: /assets/images/making-teams-work/b97dab68-8070-469c-b255-08823eba97e2_1024x442.png
 categories:
-- null
+  - 
 excerpt: Hulk is too hulky.
 tags:
   - institutional
   - foundational
 entities: []
-meta: The essay argues that despite claims email is obsolete, institutions
-  must recognize its continued central role for reliable team communication.
+meta: The essay argues that despite claims email is obsolete, institutions must recognize its continued central role for reliable team communication.
 feature: /assets/images/making-teams-work/b97dab68-8070-469c-b255-08823eba97e2_1024x442.png
 ---
 # Making Teams Work

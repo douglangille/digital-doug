@@ -9,9 +9,7 @@ tags:
   - institutional
   - diagnostic
 entities: []
-meta: The essay diagnoses institutional AI chaos, urging coordinated governance
-  structures and collaborative frameworks to transform fragmented initiatives into
-  effective action.
+meta: The essay diagnoses institutional AI chaos, urging coordinated governance structures and collaborative frameworks to transform fragmented initiatives into effective action.
 feature: /assets/images/everyone-knows-ai-is-transformative/a_stark_minimalist_institut.png
 ---
 # Everyone Knows AI Is Transformative

@@ -6,13 +6,14 @@ header:
   teaser: /assets/images/minimalist-phone/c4066259-604d-493b-9129-49bb294aa7e4_6016x4000.jpeg
   overlay_image: /assets/images/minimalist-phone/c4066259-604d-493b-9129-49bb294aa7e4_6016x4000.jpeg
 categories:
-- null
+  - 
 excerpt: Rage against the Machine
-tags: [personal, prescriptive]
-
-entities: ["Cal Newport"]
-meta: The essay argues that adopting a minimalist phone habit, limiting app
-  distractions, restores authentic focus and personal productivity.
+tags:
+  - personal
+  - prescriptive
+entities:
+  - Cal Newport
+meta: The essay argues that adopting a minimalist phone habit, limiting app distractions, restores authentic focus and personal productivity.
 feature: /assets/images/minimalist-phone/c4066259-604d-493b-9129-49bb294aa7e4_6016x4000.jpeg
 ---
 # Minimalist Phone

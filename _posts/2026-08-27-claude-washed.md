@@ -1,14 +1,17 @@
 ---
-title: "Claude-Washed"
+title: Claude-Washed
 date: 2026-08-27
 image: /assets/images/claude-washed/feature.png
 header:
   teaser: /assets/images/claude-washed/feature.png
   overlay_image: /assets/images/claude-washed/feature.png
-excerpt: "On dictation, AI detectors, and why my own words beat Claude's"
-tags: [personal, diagnostic]
-entities: ["Julie Kaiser"]
-meta: "Doug traces how dictating instead of letting AI draft first changed his writing process, and what a false-positive AI detector run revealed about authorship."
+excerpt: On dictation, AI detectors, and why my own words beat Claude's
+tags:
+  - personal
+  - diagnostic
+entities:
+  - Julie Kaiser
+meta: Doug traces how dictating instead of letting AI draft first changed his writing process, and what a false-positive AI detector run revealed about authorship.
 feature: /assets/images/claude-washed/feature.png
 ---
 # Claude-Washed

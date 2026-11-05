@@ -1,14 +1,19 @@
 ---
-title: "The App Apocalypse Starter Kit"
+title: The App Apocalypse Starter Kit
 date: 2026-09-09
 image: /assets/images/app-apocalypse-starter-kit/feature.png
 header:
   teaser: /assets/images/app-apocalypse-starter-kit/feature.png
   overlay_image: /assets/images/app-apocalypse-starter-kit/feature.png
-excerpt: "Obsidian works everywhere. Install it. Right now."
-tags: [personal, prescriptive]
-entities: ["Nick Milo", "Steph Ango", "Liam Cain"]
-meta: "Doug argues plain text and markdown outlast every app built on them, and walks through setting up Obsidian to prove it."
+excerpt: Obsidian works everywhere. Install it. Right now.
+tags:
+  - personal
+  - prescriptive
+entities:
+  - Nick Milo
+  - Steph Ango
+  - Liam Cain
+meta: Doug argues plain text and markdown outlast every app built on them, and walks through setting up Obsidian to prove it.
 feature: /assets/images/app-apocalypse-starter-kit/feature.png
 ---
 

@@ -6,13 +6,12 @@ header:
   teaser: /assets/images/five-minutes-ahead/293f0030-c6fc-486e-a839-aede49153471_1536x1024.png
   overlay_image: /assets/images/five-minutes-ahead/293f0030-c6fc-486e-a839-aede49153471_1536x1024.png
 categories:
-- null
+  - 
 tags:
   - institutional
   - prescriptive
 entities: []
-meta: The essay argues that labeling team members as SMEs imposes unrealistic
-  authority, undermining honest expertise and collaborative decision‑making.
+meta: The essay argues that labeling team members as SMEs imposes unrealistic authority, undermining honest expertise and collaborative decision‑making.
 feature: /assets/images/five-minutes-ahead/293f0030-c6fc-486e-a839-aede49153471_1536x1024.png
 ---
 # Five Minutes Ahead

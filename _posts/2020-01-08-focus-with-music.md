@@ -6,14 +6,14 @@ header:
   teaser: /assets/images/focus-with-music/08913387-d82d-4225-add7-52f65f1c429c_960x427.jpeg
   overlay_image: /assets/images/focus-with-music/08913387-d82d-4225-add7-52f65f1c429c_960x427.jpeg
 categories:
-- null
+  - 
 excerpt: Can ya feel the beat?
 tags:
   - personal
   - prescriptive
-meta: The essay argues that eliminating digital distractions and focusing on
-  a single task dramatically improves productivity and mental clarity.
-entities: ["Mihaly Csikszentmihalyi"]
+meta: The essay argues that eliminating digital distractions and focusing on a single task dramatically improves productivity and mental clarity.
+entities:
+  - Mihaly Csikszentmihalyi
 feature: /assets/images/focus-with-music/08913387-d82d-4225-add7-52f65f1c429c_960x427.jpeg
 ---
 # Focus with Music

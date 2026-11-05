@@ -6,14 +6,12 @@ header:
   teaser: /assets/images/plan-the-planny-plan-in-planner/688c4853-b251-4496-8ddc-028d8bf71652_1200x803.jpeg
   overlay_image: /assets/images/plan-the-planny-plan-in-planner/688c4853-b251-4496-8ddc-028d8bf71652_1200x803.jpeg
 categories:
-- null
+  - 
 tags:
   - institutional
   - prescriptive
 entities: []
-meta: The essay argues that Microsoft Project is overly complex for most users,
-  requiring extensive knowledge, while simpler tools like To‑Do better fit everyday
-  task management.
+meta: The essay argues that Microsoft Project is overly complex for most users, requiring extensive knowledge, while simpler tools like To‑Do better fit everyday task management.
 feature: /assets/images/plan-the-planny-plan-in-planner/688c4853-b251-4496-8ddc-028d8bf71652_1200x803.jpeg
 ---
 # Plan the Planny Plan in Planner

@@ -1,14 +1,14 @@
 ---
 title: Make It So. Make It Stop.
 date: 2026-06-17 08:00:00 -0300
-excerpt: "On flow, AI, and who's holding the wheel."
+excerpt: On flow, AI, and who's holding the wheel.
 tags:
   - personal
   - diagnostic
 entities: []
-meta: "Evaluation cost — not decision authority — determines flow compatibility with AI; hand off friction work, protect judgment work, or the stamp end claims you."
+meta: Evaluation cost — not decision authority — determines flow compatibility with AI; hand off friction work, protect judgment work, or the stamp end claims you.
 categories:
-- null
+  - 
 header:
   teaser: /assets/images/make-it-so-make-it-stop/feature.png
   overlay_image: /assets/images/make-it-so-make-it-stop/feature.png

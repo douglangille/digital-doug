@@ -5,11 +5,11 @@ excerpt: Why AI Mastery Is Wisdom, Not (Just) Spell Collection
 header:
   teaser: /assets/images/beyond-the-grimoire/feature.png
   overlay_image: /assets/images/beyond-the-grimoire/feature.png
-tags: [institutional, foundational]
-
+tags:
+  - institutional
+  - foundational
 entities: []
-meta: The essay argues that obsessively collecting AI prompts hinders genuine
-  mastery, urging individuals to focus on thoughtful, purpose‑driven AI collaboration.
+meta: The essay argues that obsessively collecting AI prompts hinders genuine mastery, urging individuals to focus on thoughtful, purpose‑driven AI collaboration.
 feature: /assets/images/beyond-the-grimoire/feature.png
 ---
 # Beyond the Grimoire

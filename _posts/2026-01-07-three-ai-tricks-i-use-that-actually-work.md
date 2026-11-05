@@ -10,9 +10,7 @@ tags:
   - personal
   - prescriptive
 entities: []
-meta: The essay argues that using AI tools like Copilot, ChatGPT, and Claude
-  as structured brainstorming aids can overcome procrastination and improve presentation
-  quality.
+meta: The essay argues that using AI tools like Copilot, ChatGPT, and Claude as structured brainstorming aids can overcome procrastination and improve presentation quality.
 feature: /assets/images/three-ai-tricks-i-use-that-actually-work/5ec195b4-06b5-4157-b3c2-be7670718ed7_1536x1024.png
 ---
 # Three AI Tricks I Use (That Actually Work)

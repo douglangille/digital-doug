@@ -9,8 +9,7 @@ tags:
   - personal
   - prescriptive
 entities: []
-meta: The essay urges individuals to abandon waiting for external validation
-  and adopt an authentic, work‑centered identity over rigid goal‑setting.
+meta: The essay urges individuals to abandon waiting for external validation and adopt an authentic, work‑centered identity over rigid goal‑setting.
 feature: /assets/images/identity-shifting/Designer-2.png
 ---
 # Identity Shifting > Goal Setting

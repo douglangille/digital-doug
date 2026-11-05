@@ -9,8 +9,7 @@ tags:
   - personal
   - prescriptive
 entities: []
-meta: The essay argues that users must actively manage AI conversation context
-  using specific techniques to prevent drift and maintain relevance.
+meta: The essay argues that users must actively manage AI conversation context using specific techniques to prevent drift and maintain relevance.
 feature: /assets/images/stop-losing-your-thread/feature.png
 ---
 # Stop Losing Your Thread

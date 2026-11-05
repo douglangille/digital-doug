@@ -5,11 +5,12 @@ image: /assets/images/equity-through-uniformity/feature.png
 header:
   teaser: /assets/images/equity-through-uniformity/feature.png
   overlay_image: /assets/images/equity-through-uniformity/feature.png
-excerpt: "The tab nobody reads."
-tags: [institutional, diagnostic]
-
+excerpt: The tab nobody reads.
+tags:
+  - institutional
+  - diagnostic
 entities: []
-meta: "A flat percentage cut lands on a fictional college IT department and reveals exactly which costs never make it onto a budget slide."
+meta: A flat percentage cut lands on a fictional college IT department and reveals exactly which costs never make it onto a budget slide.
 feature: /assets/images/equity-through-uniformity/feature.png
 ---
 # Equity Through Uniformity

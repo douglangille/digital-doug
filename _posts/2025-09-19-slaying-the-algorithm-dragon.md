@@ -7,13 +7,12 @@ header:
   teaser: /assets/images/slaying-the-algorithm-dragon/aea9b245-a285-4add-892f-900d9d1b793e_1536x1024.png
   overlay_image: /assets/images/slaying-the-algorithm-dragon/aea9b245-a285-4add-892f-900d9d1b793e_1536x1024.png
 categories:
-- null
+  - 
 tags:
   - personal
   - prescriptive
 entities: []
-meta: The essay argues that algorithm-driven short-form content erodes deep
-  reading, urging personal disengagement to restore authentic literary practice.
+meta: The essay argues that algorithm-driven short-form content erodes deep reading, urging personal disengagement to restore authentic literary practice.
 feature: /assets/images/slaying-the-algorithm-dragon/aea9b245-a285-4add-892f-900d9d1b793e_1536x1024.png
 ---
 # Slaying the Algorithm Dragon

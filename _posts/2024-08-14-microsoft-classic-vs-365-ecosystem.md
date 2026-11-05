@@ -7,11 +7,11 @@ header:
   teaser: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
   overlay_image: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
 categories: []
-tags: [institutional, diagnostic]
-
+tags:
+  - institutional
+  - diagnostic
 entities: []
-meta: Microsoft’s legacy Outlook architecture hampers innovation, forcing the
-  company to balance backward compatibility with adopting modern Microsoft 365 capabilities.
+meta: Microsoft’s legacy Outlook architecture hampers innovation, forcing the company to balance backward compatibility with adopting modern Microsoft 365 capabilities.
 feature: /assets/images/microsoft-classic-vs-365-ecosystem/204cc981-6cd2-49c6-a0f6-0340381d4961_960x640.jpeg
 ---
 # Microsoft Classic Vs 365 Ecosystem

@@ -1,14 +1,17 @@
 ---
-title: "Outlook Rules"
+title: Outlook Rules
 date: 2026-10-07
-excerpt: "The TO field is for action, the CC field is not."
+excerpt: The TO field is for action, the CC field is not.
 image: /assets/images/outlook-rules/feature.png
 header:
   teaser: /assets/images/outlook-rules/feature.png
   overlay_image: /assets/images/outlook-rules/feature.png
-tags: [personal, prescriptive]
-entities: ["Scott Hanselman"]
-meta: "Doug sorts email with seven Outlook rules based on sender type, not content, so his inbox holds only people trying to reach him directly."
+tags:
+  - personal
+  - prescriptive
+entities:
+  - Scott Hanselman
+meta: Doug sorts email with seven Outlook rules based on sender type, not content, so his inbox holds only people trying to reach him directly.
 feature: /assets/images/outlook-rules/feature.png
 ---
 

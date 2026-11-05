@@ -1,14 +1,16 @@
 ---
-title: "How Can I Help?"
+title: How Can I Help?
 date: 2026-10-14
 image: /assets/images/how-can-i-help/feature.png
 header:
   teaser: /assets/images/how-can-i-help/feature.png
   overlay_image: /assets/images/how-can-i-help/feature.png
-excerpt: "You do have to take it seriously, but you don't have to take it personally."
-tags: [personal, foundational]
+excerpt: You do have to take it seriously, but you don't have to take it personally.
+tags:
+  - personal
+  - foundational
 entities: []
-meta: "Doug tells second-year IT students that careers run on service and craftsmanship, not just skills, and offers to help anyone who reaches out."
+meta: Doug tells second-year IT students that careers run on service and craftsmanship, not just skills, and offers to help anyone who reaches out.
 feature: /assets/images/how-can-i-help/feature.png
 ---
 

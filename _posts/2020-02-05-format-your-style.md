@@ -6,14 +6,13 @@ header:
   teaser: /assets/images/format-your-style/e35be88a-afa4-4328-ba73-afb8a6cf6e9a_580x386.jpeg
   overlay_image: /assets/images/format-your-style/e35be88a-afa4-4328-ba73-afb8a6cf6e9a_580x386.jpeg
 categories:
-- null
+  - 
 excerpt: Long live Comic Papyrus
 tags:
   - personal
   - prescriptive
 entities: []
-meta: The essay argues that adopting plain‑text and markdown, then converting
-  with Pandoc, is a sustainable, efficient workflow for document creation.
+meta: The essay argues that adopting plain‑text and markdown, then converting with Pandoc, is a sustainable, efficient workflow for document creation.
 feature: /assets/images/format-your-style/e35be88a-afa4-4328-ba73-afb8a6cf6e9a_580x386.jpeg
 ---
 # Format Your Style

@@ -6,14 +6,13 @@ header:
   teaser: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png
   overlay_image: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png
 categories:
-- null
+  - 
 excerpt: The Map is Not the Terrain
 tags:
   - personal
   - foundational
 entities: []
-meta: The essay argues that authentic digital craftsmanship emerges when individuals
-  deliberately integrate AI collaboration into personal work practices.
+meta: The essay argues that authentic digital craftsmanship emerges when individuals deliberately integrate AI collaboration into personal work practices.
 feature: /assets/images/digital-craftsmanship/dbbe7209-3169-4abc-b119-7b627223cde1_1536x1024.png
 ---
 # Digital Craftsmanship

@@ -1,14 +1,17 @@
 ---
-title: "AI Field Notes from September 2026"
+title: AI Field Notes from September 2026
 date: 2026-09-23
 image: /assets/images/ai-field-notes-from-september-2026/feature.png
 header:
   teaser: /assets/images/ai-field-notes-from-september-2026/feature.png
   overlay_image: /assets/images/ai-field-notes-from-september-2026/feature.png
-excerpt: "On Augure, Meta's Muse, and discovering it's Hermes all the way down."
-tags: [personal, diagnostic]
-entities: ["Cal Newport"]
-meta: "Testing a Canadian sovereign AI tool and Meta's new consumer agent, Doug finds the same open-source engine running underneath both, with very different dashboards."
+excerpt: On Augure, Meta's Muse, and discovering it's Hermes all the way down.
+tags:
+  - personal
+  - diagnostic
+entities:
+  - Cal Newport
+meta: Testing a Canadian sovereign AI tool and Meta's new consumer agent, Doug finds the same open-source engine running underneath both, with very different dashboards.
 feature: /assets/images/ai-field-notes-from-september-2026/feature.png
 ---
 

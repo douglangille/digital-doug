@@ -7,13 +7,12 @@ header:
   teaser: /assets/images/a-couple-llm-prompt-tips/488a81c4-d40b-4800-917b-ec77632ecf0f_1600x900.jpeg
   overlay_image: /assets/images/a-couple-llm-prompt-tips/488a81c4-d40b-4800-917b-ec77632ecf0f_1600x900.jpeg
 categories:
-- null
+  - 
 tags:
   - personal
   - prescriptive
 entities: []
-meta: Use Microsoft 365 Copilot Enterprise for secure, policy‑compliant AI
-  work while leveraging longer prompt windows in Copilot Notebook for efficient productivity.
+meta: Use Microsoft 365 Copilot Enterprise for secure, policy‑compliant AI work while leveraging longer prompt windows in Copilot Notebook for efficient productivity.
 feature: /assets/images/a-couple-llm-prompt-tips/488a81c4-d40b-4800-917b-ec77632ecf0f_1600x900.jpeg
 ---
 # A Couple LLM Prompt Tips…

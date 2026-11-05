@@ -6,13 +6,12 @@ header:
   teaser: /assets/images/i-markdown/3ee94c2a-a2eb-4c58-a2e2-f818dcf7f9a5_640x300.png
   overlay_image: /assets/images/i-markdown/3ee94c2a-a2eb-4c58-a2e2-f818dcf7f9a5_640x300.png
 categories:
-- null
+  - 
 tags:
   - personal
   - prescriptive
 entities: []
-meta: The essay reflects on how early low‑tech word processors shaped the writer’s
-  craft, emphasizing the value of physical‑digital separation.
+meta: The essay reflects on how early low‑tech word processors shaped the writer’s craft, emphasizing the value of physical‑digital separation.
 feature: /assets/images/i-markdown/3ee94c2a-a2eb-4c58-a2e2-f818dcf7f9a5_640x300.png
 ---
 # I ♥ Markdown

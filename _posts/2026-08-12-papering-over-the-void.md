@@ -1,14 +1,17 @@
 ---
-title: "Papering Over the Void"
+title: Papering Over the Void
 date: 2026-08-12
 image: /assets/images/papering-over-the-void/feature.png
 header:
   teaser: /assets/images/papering-over-the-void/feature.png
   overlay_image: /assets/images/papering-over-the-void/feature.png
-excerpt: "You Don't Have to Finish the Internet"
-tags: [personal, diagnostic]
-entities: ["Mark Manson"]
-meta: "Doug diagnoses his own compulsive phone-scrolling as a coping adaptation, not a discipline problem, using Mark Manson's traits/adaptations/behaviors framework."
+excerpt: You Don't Have to Finish the Internet
+tags:
+  - personal
+  - diagnostic
+entities:
+  - Mark Manson
+meta: Doug diagnoses his own compulsive phone-scrolling as a coping adaptation, not a discipline problem, using Mark Manson's traits/adaptations/behaviors framework.
 feature: /assets/images/papering-over-the-void/feature.png
 ---
 # Papering Over the Void

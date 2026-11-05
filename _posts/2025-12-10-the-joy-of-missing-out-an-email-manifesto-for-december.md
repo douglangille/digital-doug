@@ -6,13 +6,14 @@ header:
   teaser: /assets/images/the-joy-of-missing-out-an-email-manifesto-for-december/7a216b0b-8702-404a-a671-f4b7b954e9d2_1536x1024.png
   overlay_image: /assets/images/the-joy-of-missing-out-an-email-manifesto-for-december/7a216b0b-8702-404a-a671-f4b7b954e9d2_1536x1024.png
 categories:
-- null
+  - 
 tags:
   - personal
   - prescriptive
-entities: ["Cal Newport", "David Allen"]
-meta: The essay argues that individuals should adopt JOMO by limiting email
-  engagement to reduce cognitive overload and improve December productivity.
+entities:
+  - Cal Newport
+  - David Allen
+meta: The essay argues that individuals should adopt JOMO by limiting email engagement to reduce cognitive overload and improve December productivity.
 feature: /assets/images/the-joy-of-missing-out-an-email-manifesto-for-december/7a216b0b-8702-404a-a671-f4b7b954e9d2_1536x1024.png
 ---
 # The Joy of Missing Out: An Email Manifesto for December
