@@ -17,11 +17,11 @@ Everyone has the best intentions in that turkey coma period between Christmas an
 
 And then that time after Christmas happens with wrapping paper everywhere, you don't do it, and then all of a sudden it's the middle of January, and you're saying, holy crap-balls, I didn't do this planning. I guess that's the whole year thrown in the garbage then.
 
-The most important thing you can do to prepare for the year end is not wait until December to do it. The time to prepare for your reset and to do your reflection is in the month of November. December is too busy, you're getting ready for the holiday break and Christmas crazies and all that stuff. But November is clutch.
+The most important thing you can do to prepare for the year end is not to wait until December to do it. The time to prepare for your reset and to do your reflection is in the month of November. December is too busy, you're getting ready for the holiday break and Christmas crazies and all that stuff. But November is clutch.
 
 Yes, we're all still busy because there's never a good time for anything like this. You'll always find a reason not to do it.
 
-But November is enough runway that you have enough room to look back at the entirety of the calendar year to reflect back on what you have done and where you are in your plans and how you'd like to go forward.
+But November is enough runway to look back at the entirety of the calendar year to reflect back on what you have done and where you are in your plans and how you'd like to go forward.
 
 Pick a date. Sometime after Remembrance Day is as good as any to start your year-end review.
 
@@ -53,7 +53,7 @@ You're only doing a weekly review, 52 weeks, and that's really easy, and that's 
 
 If you're doing periodic reviews for the first time, and you don't have the best material, just give it whatever you have. Anything you have will be better than nothing. The agent will interview you to pull out the rest from your brain. Even if you just brain dump your vibes about the last year, and that's all you provide as starting material, that's fine too. The agent can pick up on that and pick your brain for the rest.
 
-Here are some prompts you can use to get you started. Feel free to customize them any way you like. The shape is the reverse interview. So you give the agent what it needs as context, which files it has to look at in order to build its question set, and then have it interview you. It can then write the synthesis at the end. If you want to take it to the pro-human level, you can dictate your responses and have the agent just clean up your own spoken dribblings and use your own words rather than paraphrase. Up to you. It's your review. No one sees it but you.
+Here are some prompts you can use to get you started. Feel free to customize them any way you like. The shape is the reverse interview. So you give the agent what it needs as context, which files it has to look at in order to build its question set, and then have it interview you. It can then write the synthesis at the end. If you want to take it to the pro-human level, you can dictate your responses and have the agent just clean up your own spoken dribbling and use your own words rather than paraphrase. Up to you. It's your review. No one sees it but you.
 
 **Weekly review**
 
