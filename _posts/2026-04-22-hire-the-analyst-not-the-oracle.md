@@ -30,7 +30,7 @@ Six months later you’ve got a digital dream board full of AI opportunities and
 
 Congratulations, you bought a very expensive roadmap from someone who won’t be around to execute it.
 
-Meanwhile there's a person down the hall who's spent years making complicated systems talk to each other. They've shepherded projects nobody wanted to own. They think in systems. They know where the bodies are buried in your org chart. They’ve spent their career translating between what a business unit actually needs and what IT can actually build, and they’ve gotten good at it because the consequences of getting it wrong were real and landed on their desk. 
+Meanwhile, there's a person down the hall who's spent years making complicated systems talk to each other. They've shepherded projects nobody wanted to own. They think in systems. They know where the bodies are buried in your org chart. They’ve spent their career translating between what a business unit actually needs and what IT can actually build, and they’ve gotten good at it because the consequences of getting it wrong were real and landed on their desk. 
 
 They’ve been quietly poking at AI for a year on their own time, figuring out where it actually helps versus where it’s a parlour trick dressed up in a demo. They’ve already killed two AI pilots quietly because the juice wasn’t worth the squeeze. They were right both times.
 

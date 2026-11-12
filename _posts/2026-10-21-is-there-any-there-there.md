@@ -33,7 +33,7 @@ I have this personal AI second brain called Forge that I've done my very best to
 
 But I did bake in some dependencies. 
 
-I can deal with that as a reasonably AI literate nerd. Everyone else tho...
+I can deal with that as a reasonably AI literate nerd. Everyone else though...
 
 It's a house of cards. And I think that I've probably built one better than most. But most people, especially normies who don't have an IT background, who have built these things, have built a more fragile system than they're even aware of.
 
@@ -55,7 +55,7 @@ Anyway, when you go and look at a resume, you're not looking for any niche tools
 
 ## Ages like milk
 
-This stuff is going to age like milk. The opportunity is right here and right now, and then it's going to be gone. There was a time when not every learner had access to the internet. Now the internet is assumed. The market commoditized internet access, and I think that's going to happen with AI tools. They are going to be commoditized too, and we won't be doing these kind of things.
+This stuff is going to age like milk. The opportunity is right here and right now, and then it's going to be gone. There was a time when not every learner had access to the internet. Now the internet is assumed. The market commoditized internet access, and I think that's going to happen with AI tools. They are going to be commoditized too, and we won't be doing these kinds of things.
 
 It's funny, this doesn't actually show up with students. Not at first, anyway. It shows up with staff. When I first started at the NSCC last century, having internet access wasn't really assumed. For some of our staff that actually required it, we stood up a dial-up RAS (remote access server) for people to be able to get online without a financial burden through our fractional T1. It was an equity of access to a trusted tool thing. Sound familiar? We ran that for a couple years. Then, as broadband internet became more affordable, people started switching to it, and all of a sudden we were down to like two or three users, and we quietly turned it off. It was like boiling a frog. There was no hard switch. The solution that we built was only good for a hot minute.
 
@@ -65,7 +65,7 @@ I could continue to flagellate a skeletonized equine specimen by reminding folks
 
 When you look at this emerging technology piece, you really have to think about when to get on and when to get off. If you invest heavy at the wrong time, you're stuck looking at a bunch of old gear kicking around. Commoditizing of technology can happen in an incredibly short window. 
 
-What's the clock on it? I have no idea. Is it six months, one year, two years, five years, ten years? Who the blazes knows? You can be sure of this one: somebody's going to make money off of it, and if somebody's going to make money off of it, it has to be turned into a product. So if we are too slow in building these kind of things, as a country and as a set of higher education institutions, if we don't get this right in time, we will find that the market will have eclipsed us, and we won't have an option of building a sovereign AI tool for every learner in the country, because the market will have said: everybody use Claude. The flip side is that we move too quick and the market moves anyway, and then we're stuck with a bunch of investment that we can't get any return on.
+What's the clock on it? I have no idea. Is it six months, one year, two years, five years, ten years? Who the blazes knows? You can be sure of this one: somebody's going to make money off of it, and if somebody's going to make money off of it, it has to be turned into a product. So if we are too slow in building these kinds of things, as a country and as a set of higher education institutions, if we don't get this right in time, we will find that the market will have eclipsed us, and we won't have an option of building a sovereign AI tool for every learner in the country, because the market will have said: everybody use Claude. The flip side is that we move too quick and the market moves anyway, and then we're stuck with a bunch of investment that we can't get any return on.
 
 ## The asterisks
 

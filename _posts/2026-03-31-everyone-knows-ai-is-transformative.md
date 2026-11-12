@@ -22,7 +22,7 @@ All tech change looks like this: An all-hands meeting. Someone from leadership s
 
 Everyone nods. Someone takes notes.
 
-But if you walk to the parking lot afterward, it quickly stops looking like consensus.
+But if you walk to the parking lot afterwards, it quickly stops looking like consensus.
 
 This is where institutions are heading. Every college. Every large org that's moved past the thrashing phase. The message gets smooth. The discourse goes underground.
 
@@ -70,7 +70,7 @@ Good looks like a meeting where 'we don't know yet' is a legitimate outcome. Not
 
 The only way this changes is if someone with power stops performing. If a leader boldly asks why the hell they're doing this. Out loud in a meeting and actually mean it.
 
-Not as strategy. Not theater. Real.
+Not as strategy. Not theatre. Real.
 
 Stop.
 
