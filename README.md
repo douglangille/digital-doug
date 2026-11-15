@@ -15,8 +15,11 @@ This Jekyll site uses the [Minimal Mistakes](https://mmistakes.github.io/minimal
 ## Site Structure
 
 - **Articles** (`_posts/`): Tech articles, essays, and commentary
-- **About** (`_pages/about.md`): Site overview and author bio
-- **Now** (`_pages/now.md`): Current projects and focus areas
+- **About** (`_pages/profile/about.md`): Site overview and author bio
+- **Now** (`_pages/profile/now.md`): Current projects and focus areas
+- **AI** (`_pages/profile/ai.md`): How AI is used in the writing process
+
+The About, Now and AI pages are maintained in the forge vault (`writing/digital-doug/pages/`) and overwritten by its deploy, which replaces `_pages/profile/` each time. Edit them there, not here.
 - **Assets** (`assets/`): Images, CSS customizations, and media files
 
 ## Local Development
@@ -70,7 +73,7 @@ Your content here.
 
 ### Pages
 
-Create or edit files in `_pages/` with front matter:
+Create or edit other files in `_pages/` with front matter (not `_pages/profile/`, which the forge deploy overwrites):
 
 ```markdown
 ---
