@@ -1,4 +1,1084 @@
 {
+ "2008-04-27-cats-rabbits-and-random-thoughts": [
+  "2026-09-16-check-your-pockets",
+  "2009-04-23-extreme-indifference-and-random-access-thoughts",
+  "2026-08-05-articulate-bullshit-artists",
+  "2015-02-19-snowflake-method",
+  "2014-04-21-writing-rituals",
+  "2013-08-30-its-groundhogs-all-the-way-down"
+ ],
+ "2008-12-14-i-dont-get-twitter": [
+  "2026-01-21-platforms-make-the-worst-landlords",
+  "2011-09-29-so-for-some-reason-i-thought-it-sensible-to-cull-my-windows-live-messenger-contacts",
+  "2014-06-16-a-quick-tour-of-social-media-for-writers",
+  "2022-12-26-wordpress-activitypub-mastadon",
+  "2026-01-14-stop-petting-the-ai",
+  "2025-09-19-slaying-the-algorithm-dragon"
+ ],
+ "2009-01-05-weightwatchers-measurement-and-motivation": [
+  "2012-12-02-gobsmacked",
+  "2012-10-30-burpees",
+  "2012-09-29-time-to-let-go-and-play",
+  "2012-07-21-crazy-milestone-achieved",
+  "2026-09-02-be-a-useful-cog",
+  "2013-01-31-january-31-days-of-snap-its-cold"
+ ],
+ "2009-02-07-teaching-human-ethics-and-simply-being-thankful": [
+  "2026-01-28-you-dont-need-another-wellness-system",
+  "2014-07-21-life-lessons",
+  "2009-04-23-extreme-indifference-and-random-access-thoughts",
+  "2009-04-10-down-the-rabbit-hole-at-easter",
+  "2013-11-21-christmas-eve",
+  "2026-09-02-be-a-useful-cog"
+ ],
+ "2009-02-24-random-thoughts-on-simplifying-productivity": [
+  "2024-06-11-how-i-plan-my-week",
+  "2019-10-09-tasks-and-lists",
+  "2025-12-03-the-accidental-notetaker",
+  "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
+  "2025-10-10-a-philosophy-of-making",
+  "2026-01-07-three-ai-tricks-i-use-that-actually-work"
+ ],
+ "2009-02-27-coffee-week-sunday": [
+  "2009-03-02-coffee-week-wednesday",
+  "2009-03-01-coffee-week-tuesday",
+  "2009-02-28-coffee-week-monday",
+  "2009-03-04-coffee-week-friday",
+  "2009-03-03-coffee-week-thursday",
+  "2009-03-05-coffee-week-saturday"
+ ],
+ "2009-02-28-coffee-week-monday": [
+  "2009-03-04-coffee-week-friday",
+  "2009-03-01-coffee-week-tuesday",
+  "2009-02-27-coffee-week-sunday",
+  "2009-03-02-coffee-week-wednesday",
+  "2009-03-03-coffee-week-thursday",
+  "2009-03-05-coffee-week-saturday"
+ ],
+ "2009-03-01-coffee-week-tuesday": [
+  "2009-03-02-coffee-week-wednesday",
+  "2009-02-27-coffee-week-sunday",
+  "2009-02-28-coffee-week-monday",
+  "2009-03-04-coffee-week-friday",
+  "2009-03-03-coffee-week-thursday",
+  "2009-03-05-coffee-week-saturday"
+ ],
+ "2009-03-02-coffee-week-wednesday": [
+  "2009-02-27-coffee-week-sunday",
+  "2009-03-01-coffee-week-tuesday",
+  "2009-03-04-coffee-week-friday",
+  "2009-02-28-coffee-week-monday",
+  "2009-03-03-coffee-week-thursday",
+  "2009-03-05-coffee-week-saturday"
+ ],
+ "2009-03-03-coffee-week-thursday": [
+  "2009-03-04-coffee-week-friday",
+  "2009-03-02-coffee-week-wednesday",
+  "2009-02-28-coffee-week-monday",
+  "2009-03-01-coffee-week-tuesday",
+  "2009-02-27-coffee-week-sunday",
+  "2009-03-05-coffee-week-saturday"
+ ],
+ "2009-03-04-coffee-week-friday": [
+  "2009-02-28-coffee-week-monday",
+  "2009-03-03-coffee-week-thursday",
+  "2009-03-02-coffee-week-wednesday",
+  "2009-03-01-coffee-week-tuesday",
+  "2009-02-27-coffee-week-sunday",
+  "2013-01-20-monday-hyper-super-mega-public-doug"
+ ],
+ "2009-03-05-coffee-week-saturday": [
+  "2009-03-02-coffee-week-wednesday",
+  "2009-03-01-coffee-week-tuesday",
+  "2009-03-04-coffee-week-friday",
+  "2009-02-27-coffee-week-sunday",
+  "2009-03-03-coffee-week-thursday",
+  "2009-02-28-coffee-week-monday"
+ ],
+ "2009-04-10-down-the-rabbit-hole-at-easter": [
+  "2010-04-18-i-have-a-theory",
+  "2008-04-27-cats-rabbits-and-random-thoughts",
+  "2009-02-07-teaching-human-ethics-and-simply-being-thankful",
+  "2013-11-21-christmas-eve",
+  "2009-07-28-tired-of-the-rain",
+  "2009-04-23-extreme-indifference-and-random-access-thoughts"
+ ],
+ "2009-04-18-schrodingers-duplex": [
+  "2026-10-21-is-there-any-there-there",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2009-04-23-extreme-indifference-and-random-access-thoughts",
+  "2026-10-01-big-pickle-is-fine",
+  "2020-02-12-bing",
+  "2025-12-17-everything-is-brown"
+ ],
+ "2009-04-23-extreme-indifference-and-random-access-thoughts": [
+  "2008-04-27-cats-rabbits-and-random-thoughts",
+  "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
+  "2016-11-09-all-im-going-to-say-about-the-election",
+  "2009-02-07-teaching-human-ethics-and-simply-being-thankful",
+  "2011-05-04-brain-dump-on-my-post-election-thoughts-so-i-can-move-on-with-life",
+  "2026-01-14-stop-petting-the-ai"
+ ],
+ "2009-04-25-misty-morning-at-first-lake": [
+  "2013-01-31-january-31-days-of-snap-its-cold",
+  "2022-12-30-our-funny-farm",
+  "2013-03-03-february-a-mixed-bag-of-booyah",
+  "2026-09-16-check-your-pockets",
+  "2013-01-21-tuesday-hyper-super-mega-public-doug",
+  "2009-10-17-all-the-leaves-are-brown-and-the-sky-is-gray"
+ ],
+ "2009-05-11-a-few-shots-of-seattle": [
+  "2015-04-30-sea-shanties-nautical-verse-and-maritime-ballads",
+  "2009-09-05-peggys-cove",
+  "2015-09-16-hopewell-rocks",
+  "2009-02-28-coffee-week-monday",
+  "2025-08-08-ai-is-the-new-literacy",
+  "2022-12-30-our-funny-farm"
+ ],
+ "2009-05-17-she-laughed-until-she-cried": [
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2026-09-16-check-your-pockets",
+  "2009-06-23-one-of-the-reasons-i-love-my-wife",
+  "2009-12-09-your-intestines-will-be-my-jump-rope-your-skull-my-urinal",
+  "2009-06-21-maternity",
+  "2022-12-30-our-funny-farm"
+ ],
+ "2009-05-25-missed-opportunity": [
+  "2012-12-31-the-clock-is-running",
+  "2026-05-13-the-monday-morning-reset",
+  "2013-03-03-february-a-mixed-bag-of-booyah",
+  "2025-12-10-the-joy-of-missing-out-an-email-manifesto-for-december",
+  "2014-08-31-fear-of-failure-or-rejection",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs"
+ ],
+ "2009-05-28-concert-at-the-halifax-forum": [
+  "2013-06-29-2013-mid-way-to-madness",
+  "2013-11-21-christmas-eve",
+  "2009-09-05-peggys-cove",
+  "2009-07-28-tired-of-the-rain",
+  "2026-03-25-the-mix-tape",
+  "2026-10-28-make-something-beautiful"
+ ],
+ "2009-05-28-this-came-up-in-workplace-conversation-today": [
+  "2026-09-02-be-a-useful-cog",
+  "2014-07-14-plot-premise-and-story",
+  "2014-10-07-writing-motivation",
+  "2014-02-13-doug-and-tim-on-slaying-the-writers-block-dragon",
+  "2026-09-16-check-your-pockets",
+  "2026-02-04-beyond-the-grimoire"
+ ],
+ "2009-06-21-maternity": [
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2009-06-23-one-of-the-reasons-i-love-my-wife",
+  "2008-04-27-cats-rabbits-and-random-thoughts",
+  "2009-05-17-she-laughed-until-she-cried",
+  "2026-10-28-make-something-beautiful",
+  "2026-09-16-check-your-pockets"
+ ],
+ "2009-06-23-one-of-the-reasons-i-love-my-wife": [
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2009-05-17-she-laughed-until-she-cried",
+  "2012-03-31-my-30-day-challenge",
+  "2009-12-09-your-intestines-will-be-my-jump-rope-your-skull-my-urinal",
+  "2026-09-16-check-your-pockets",
+  "2009-06-21-maternity"
+ ],
+ "2009-06-30-20-west-street-antigonish-ns": [
+  "2009-03-01-coffee-week-tuesday",
+  "2009-09-05-peggys-cove",
+  "2022-12-30-our-funny-farm",
+  "2014-02-28-the-men-that-dont-fit-in",
+  "2009-04-25-misty-morning-at-first-lake",
+  "2015-09-19-some-words-about-my-uncle-mort"
+ ],
+ "2009-07-28-tired-of-the-rain": [
+  "2010-04-18-i-have-a-theory",
+  "2009-04-25-misty-morning-at-first-lake",
+  "2013-11-21-christmas-eve",
+  "2009-04-10-down-the-rabbit-hole-at-easter",
+  "2026-08-05-articulate-bullshit-artists",
+  "2013-10-01-rocktober-show-me-your-horns"
+ ],
+ "2009-08-17-alone-in-a-car": [
+  "2013-10-01-rocktober-show-me-your-horns",
+  "2011-02-15-momentum",
+  "2017-09-05-focus-your-muse-with-music",
+  "2020-01-08-focus-with-music",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2014-04-21-writing-rituals"
+ ],
+ "2009-09-05-peggys-cove": [
+  "2015-09-16-hopewell-rocks",
+  "2015-04-30-sea-shanties-nautical-verse-and-maritime-ballads",
+  "2009-06-30-20-west-street-antigonish-ns",
+  "2009-04-25-misty-morning-at-first-lake",
+  "2022-12-30-our-funny-farm",
+  "2013-08-30-its-groundhogs-all-the-way-down"
+ ],
+ "2009-10-08-hey-you-get-off-of-my-cloud-or-why-sharepoint-and-not-x": [
+  "2020-09-01-how-to-break-up-with-adobe",
+  "2011-09-29-so-for-some-reason-i-thought-it-sensible-to-cull-my-windows-live-messenger-contacts",
+  "2026-10-14-how-can-i-help",
+  "2020-02-26-down-the-infographic-rabbit-hole",
+  "2019-11-06-dont-change-that-channel",
+  "2025-03-04-from-files-to-flow-looping-into-the-future"
+ ],
+ "2009-10-17-all-the-leaves-are-brown-and-the-sky-is-gray": [
+  "2009-04-25-misty-morning-at-first-lake",
+  "2009-07-28-tired-of-the-rain",
+  "2014-07-31-finding-inspiration-in-nature",
+  "2009-09-05-peggys-cove",
+  "2026-10-28-make-something-beautiful",
+  "2009-03-04-coffee-week-friday"
+ ],
+ "2009-11-01-i-love-homemade-pea-soup": [
+  "2013-01-22-wednesday-hyper-super-mega-public-doug",
+  "2013-01-21-tuesday-hyper-super-mega-public-doug",
+  "2012-08-07-cheerios-are-evil",
+  "2013-01-24-friday-hyper-super-mega-public-doug",
+  "2026-09-16-check-your-pockets",
+  "2022-12-30-our-funny-farm"
+ ],
+ "2009-11-05-gramps-would-have-been-99-today": [
+  "2014-02-28-the-men-that-dont-fit-in",
+  "2013-10-01-rocktober-show-me-your-horns",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2025-09-26-confidently-wrong",
+  "2009-11-11-the-woodbridge-dog-disaster",
+  "2015-01-13-a-return-to-longhand"
+ ],
+ "2009-11-11-the-woodbridge-dog-disaster": [
+  "2022-12-30-our-funny-farm",
+  "2026-09-16-check-your-pockets",
+  "2009-05-17-she-laughed-until-she-cried",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2009-11-05-gramps-would-have-been-99-today",
+  "2008-04-27-cats-rabbits-and-random-thoughts"
+ ],
+ "2009-12-09-your-intestines-will-be-my-jump-rope-your-skull-my-urinal": [
+  "2026-09-16-check-your-pockets",
+  "2013-05-30-shack-wacky-may",
+  "2013-01-23-thursday-hyper-super-mega-public-doug",
+  "2026-05-13-the-monday-morning-reset",
+  "2019-11-13-minimalist-phone",
+  "2013-08-30-its-groundhogs-all-the-way-down"
+ ],
+ "2010-04-18-i-have-a-theory": [
+  "2009-04-10-down-the-rabbit-hole-at-easter",
+  "2026-10-01-big-pickle-is-fine",
+  "2009-07-28-tired-of-the-rain",
+  "2026-08-05-articulate-bullshit-artists",
+  "2026-03-31-everyone-knows-ai-is-transformative",
+  "2026-07-22-human-at-the-helm"
+ ],
+ "2010-06-02-what-co2-no-co2-here": [
+  "2021-01-23-disrupting-disruption",
+  "2009-02-28-coffee-week-monday",
+  "2014-03-02-marching-on",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2011-05-04-brain-dump-on-my-post-election-thoughts-so-i-can-move-on-with-life",
+  "2011-10-10-this-video-is-even-more-funny-with-rims-major-outage"
+ ],
+ "2010-07-25-now-accepting-suggestions-on-how-i-should-decorate-my-boot": [
+  "2013-10-01-rocktober-show-me-your-horns",
+  "2026-10-28-make-something-beautiful",
+  "2009-12-09-your-intestines-will-be-my-jump-rope-your-skull-my-urinal",
+  "2014-03-02-marching-on",
+  "2012-08-30-a-personal-experiment-for-september",
+  "2013-08-30-its-groundhogs-all-the-way-down"
+ ],
+ "2010-09-12-my-ipad-experience": [
+  "2020-02-19-is-the-stylus-mightier-than-the-keyboard",
+  "2025-12-03-the-accidental-notetaker",
+  "2026-11-11-self-ware",
+  "2011-09-29-so-for-some-reason-i-thought-it-sensible-to-cull-my-windows-live-messenger-contacts",
+  "2026-07-01-elbows-up-and-ai",
+  "2026-08-21-put-your-legos-on-the-table"
+ ],
+ "2011-02-15-momentum": [
+  "2020-01-08-focus-with-music",
+  "2017-09-05-focus-your-muse-with-music",
+  "2012-09-29-time-to-let-go-and-play",
+  "2014-05-30-may-reflections-part-three",
+  "2012-12-31-the-clock-is-running",
+  "2014-05-10-may-reflections-part-two"
+ ],
+ "2011-05-04-brain-dump-on-my-post-election-thoughts-so-i-can-move-on-with-life": [
+  "2016-11-09-all-im-going-to-say-about-the-election",
+  "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
+  "2026-08-12-papering-over-the-void",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2026-05-13-the-monday-morning-reset",
+  "2026-07-01-elbows-up-and-ai"
+ ],
+ "2011-09-29-so-for-some-reason-i-thought-it-sensible-to-cull-my-windows-live-messenger-contacts": [
+  "2019-11-06-dont-change-that-channel",
+  "2019-12-11-why-email",
+  "2026-11-11-self-ware",
+  "2009-10-08-hey-you-get-off-of-my-cloud-or-why-sharepoint-and-not-x",
+  "2026-01-21-platforms-make-the-worst-landlords",
+  "2026-02-11-stop-losing-your-thread"
+ ],
+ "2011-10-10-this-video-is-even-more-funny-with-rims-major-outage": [
+  "2011-09-29-so-for-some-reason-i-thought-it-sensible-to-cull-my-windows-live-messenger-contacts",
+  "2026-07-01-elbows-up-and-ai",
+  "2009-12-09-your-intestines-will-be-my-jump-rope-your-skull-my-urinal",
+  "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
+  "2026-09-16-check-your-pockets",
+  "2019-12-18-your-inbox-is-thine-enemy"
+ ],
+ "2011-10-16-cloud-storage-choices-dropbox-sugarsync-box-net-icloud-skydrive-sharepoint": [
+  "2009-10-08-hey-you-get-off-of-my-cloud-or-why-sharepoint-and-not-x",
+  "2011-09-29-so-for-some-reason-i-thought-it-sensible-to-cull-my-windows-live-messenger-contacts",
+  "2026-11-11-self-ware",
+  "2025-03-04-from-files-to-flow-looping-into-the-future",
+  "2026-10-01-big-pickle-is-fine",
+  "2019-11-06-dont-change-that-channel"
+ ],
+ "2012-01-30-remembering-wilson-verge": [
+  "2019-10-30-making-teams-work",
+  "2026-09-02-be-a-useful-cog",
+  "2026-10-14-how-can-i-help",
+  "2026-05-20-eight-bullet-journals",
+  "2026-02-18-a-tale-of-two-chatbots",
+  "2020-01-29-i-markdown"
+ ],
+ "2012-03-31-my-30-day-challenge": [
+  "2012-04-28-30-day-challenge-aprils-done-mays-begun",
+  "2013-04-04-april-2013-one-year-later",
+  "2012-09-29-time-to-let-go-and-play",
+  "2012-06-03-30-days-of-may-scratch-june",
+  "2012-10-30-burpees",
+  "2012-07-21-crazy-milestone-achieved"
+ ],
+ "2012-04-28-30-day-challenge-aprils-done-mays-begun": [
+  "2012-03-31-my-30-day-challenge",
+  "2012-06-03-30-days-of-may-scratch-june",
+  "2013-04-04-april-2013-one-year-later",
+  "2012-08-30-a-personal-experiment-for-september",
+  "2012-09-29-time-to-let-go-and-play",
+  "2012-10-30-burpees"
+ ],
+ "2012-06-03-30-days-of-may-scratch-june": [
+  "2012-04-28-30-day-challenge-aprils-done-mays-begun",
+  "2012-03-31-my-30-day-challenge",
+  "2012-08-30-a-personal-experiment-for-september",
+  "2013-04-04-april-2013-one-year-later",
+  "2013-05-30-shack-wacky-may",
+  "2012-10-30-burpees"
+ ],
+ "2012-07-21-crazy-milestone-achieved": [
+  "2013-04-04-april-2013-one-year-later",
+  "2012-03-31-my-30-day-challenge",
+  "2012-04-28-30-day-challenge-aprils-done-mays-begun",
+  "2012-08-30-a-personal-experiment-for-september",
+  "2012-12-02-gobsmacked",
+  "2012-09-29-time-to-let-go-and-play"
+ ],
+ "2012-08-07-cheerios-are-evil": [
+  "2012-10-30-burpees",
+  "2013-01-26-sunday-hyper-super-mega-public-doug",
+  "2013-01-19-this-week-hyper-super-mega-public-doug",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2012-03-31-my-30-day-challenge",
+  "2012-08-30-a-personal-experiment-for-september"
+ ],
+ "2012-08-30-a-personal-experiment-for-september": [
+  "2012-09-29-time-to-let-go-and-play",
+  "2012-04-28-30-day-challenge-aprils-done-mays-begun",
+  "2012-03-31-my-30-day-challenge",
+  "2012-10-30-burpees",
+  "2012-07-21-crazy-milestone-achieved",
+  "2012-06-03-30-days-of-may-scratch-june"
+ ],
+ "2012-09-29-time-to-let-go-and-play": [
+  "2012-08-30-a-personal-experiment-for-september",
+  "2012-03-31-my-30-day-challenge",
+  "2012-04-28-30-day-challenge-aprils-done-mays-begun",
+  "2012-10-30-burpees",
+  "2013-04-04-april-2013-one-year-later",
+  "2012-07-21-crazy-milestone-achieved"
+ ],
+ "2012-10-30-burpees": [
+  "2012-09-29-time-to-let-go-and-play",
+  "2012-03-31-my-30-day-challenge",
+  "2012-04-28-30-day-challenge-aprils-done-mays-begun",
+  "2012-08-30-a-personal-experiment-for-september",
+  "2013-04-04-april-2013-one-year-later",
+  "2012-12-31-the-clock-is-running"
+ ],
+ "2012-11-13-cash-for-stache": [
+  "2014-01-03-talk-is-cheap-but-rum-costs-money",
+  "2013-10-01-rocktober-show-me-your-horns",
+  "2012-10-30-burpees",
+  "2009-06-23-one-of-the-reasons-i-love-my-wife",
+  "2026-01-21-platforms-make-the-worst-landlords",
+  "2009-12-09-your-intestines-will-be-my-jump-rope-your-skull-my-urinal"
+ ],
+ "2012-12-02-gobsmacked": [
+  "2012-07-21-crazy-milestone-achieved",
+  "2012-10-30-burpees",
+  "2009-01-05-weightwatchers-measurement-and-motivation",
+  "2012-09-29-time-to-let-go-and-play",
+  "2012-12-31-the-clock-is-running",
+  "2013-01-31-january-31-days-of-snap-its-cold"
+ ],
+ "2012-12-31-the-clock-is-running": [
+  "2013-01-31-january-31-days-of-snap-its-cold",
+  "2012-03-31-my-30-day-challenge",
+  "2012-10-30-burpees",
+  "2013-04-04-april-2013-one-year-later",
+  "2012-09-29-time-to-let-go-and-play",
+  "2013-01-20-monday-hyper-super-mega-public-doug"
+ ],
+ "2013-01-19-this-week-hyper-super-mega-public-doug": [
+  "2013-01-26-sunday-hyper-super-mega-public-doug",
+  "2013-01-21-tuesday-hyper-super-mega-public-doug",
+  "2013-01-24-friday-hyper-super-mega-public-doug",
+  "2013-01-20-monday-hyper-super-mega-public-doug",
+  "2013-01-22-wednesday-hyper-super-mega-public-doug",
+  "2013-01-25-saturday-hyper-super-mega-public-doug"
+ ],
+ "2013-01-20-monday-hyper-super-mega-public-doug": [
+  "2013-01-21-tuesday-hyper-super-mega-public-doug",
+  "2013-01-26-sunday-hyper-super-mega-public-doug",
+  "2013-01-23-thursday-hyper-super-mega-public-doug",
+  "2013-01-24-friday-hyper-super-mega-public-doug",
+  "2013-01-25-saturday-hyper-super-mega-public-doug",
+  "2013-01-19-this-week-hyper-super-mega-public-doug"
+ ],
+ "2013-01-21-tuesday-hyper-super-mega-public-doug": [
+  "2013-01-26-sunday-hyper-super-mega-public-doug",
+  "2013-01-20-monday-hyper-super-mega-public-doug",
+  "2013-01-24-friday-hyper-super-mega-public-doug",
+  "2013-01-23-thursday-hyper-super-mega-public-doug",
+  "2013-01-22-wednesday-hyper-super-mega-public-doug",
+  "2013-01-19-this-week-hyper-super-mega-public-doug"
+ ],
+ "2013-01-22-wednesday-hyper-super-mega-public-doug": [
+  "2013-01-21-tuesday-hyper-super-mega-public-doug",
+  "2013-01-26-sunday-hyper-super-mega-public-doug",
+  "2013-01-24-friday-hyper-super-mega-public-doug",
+  "2013-01-19-this-week-hyper-super-mega-public-doug",
+  "2013-01-20-monday-hyper-super-mega-public-doug",
+  "2013-01-25-saturday-hyper-super-mega-public-doug"
+ ],
+ "2013-01-23-thursday-hyper-super-mega-public-doug": [
+  "2013-01-21-tuesday-hyper-super-mega-public-doug",
+  "2013-01-20-monday-hyper-super-mega-public-doug",
+  "2013-01-26-sunday-hyper-super-mega-public-doug",
+  "2013-01-25-saturday-hyper-super-mega-public-doug",
+  "2013-01-19-this-week-hyper-super-mega-public-doug",
+  "2013-01-22-wednesday-hyper-super-mega-public-doug"
+ ],
+ "2013-01-24-friday-hyper-super-mega-public-doug": [
+  "2013-01-21-tuesday-hyper-super-mega-public-doug",
+  "2013-01-26-sunday-hyper-super-mega-public-doug",
+  "2013-01-20-monday-hyper-super-mega-public-doug",
+  "2013-01-22-wednesday-hyper-super-mega-public-doug",
+  "2013-01-25-saturday-hyper-super-mega-public-doug",
+  "2013-01-19-this-week-hyper-super-mega-public-doug"
+ ],
+ "2013-01-25-saturday-hyper-super-mega-public-doug": [
+  "2013-01-26-sunday-hyper-super-mega-public-doug",
+  "2013-01-21-tuesday-hyper-super-mega-public-doug",
+  "2013-01-20-monday-hyper-super-mega-public-doug",
+  "2013-01-23-thursday-hyper-super-mega-public-doug",
+  "2013-01-24-friday-hyper-super-mega-public-doug",
+  "2013-01-19-this-week-hyper-super-mega-public-doug"
+ ],
+ "2013-01-26-sunday-hyper-super-mega-public-doug": [
+  "2013-01-21-tuesday-hyper-super-mega-public-doug",
+  "2013-01-20-monday-hyper-super-mega-public-doug",
+  "2013-01-19-this-week-hyper-super-mega-public-doug",
+  "2013-01-24-friday-hyper-super-mega-public-doug",
+  "2013-01-22-wednesday-hyper-super-mega-public-doug",
+  "2013-01-25-saturday-hyper-super-mega-public-doug"
+ ],
+ "2013-01-31-january-31-days-of-snap-its-cold": [
+  "2012-12-31-the-clock-is-running",
+  "2013-03-03-february-a-mixed-bag-of-booyah",
+  "2012-03-31-my-30-day-challenge",
+  "2012-09-29-time-to-let-go-and-play",
+  "2013-04-04-april-2013-one-year-later",
+  "2012-04-28-30-day-challenge-aprils-done-mays-begun"
+ ],
+ "2013-03-03-february-a-mixed-bag-of-booyah": [
+  "2013-01-31-january-31-days-of-snap-its-cold",
+  "2014-01-03-talk-is-cheap-but-rum-costs-money",
+  "2013-04-04-april-2013-one-year-later",
+  "2012-12-31-the-clock-is-running",
+  "2012-12-02-gobsmacked",
+  "2012-10-30-burpees"
+ ],
+ "2013-04-04-april-2013-one-year-later": [
+  "2012-03-31-my-30-day-challenge",
+  "2012-04-28-30-day-challenge-aprils-done-mays-begun",
+  "2012-07-21-crazy-milestone-achieved",
+  "2012-09-29-time-to-let-go-and-play",
+  "2012-10-30-burpees",
+  "2012-06-03-30-days-of-may-scratch-june"
+ ],
+ "2013-05-30-shack-wacky-may": [
+  "2012-06-03-30-days-of-may-scratch-june",
+  "2012-08-30-a-personal-experiment-for-september",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2014-05-30-may-reflections-part-three",
+  "2012-04-28-30-day-challenge-aprils-done-mays-begun",
+  "2012-10-30-burpees"
+ ],
+ "2013-06-29-2013-mid-way-to-madness": [
+  "2014-03-02-marching-on",
+  "2013-12-01-meanwhile-at-the-hall-of-justice",
+  "2014-04-17-how-i-rebooted-my-love-of-writing",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2013-05-30-shack-wacky-may",
+  "2013-04-04-april-2013-one-year-later"
+ ],
+ "2013-07-31-on-taking-criticism": [
+  "2014-10-07-writing-motivation",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs",
+  "2026-04-29-the-storytellers-dilemma",
+  "2014-05-06-does-tv-rot-the-writers-brain",
+  "2014-08-31-fear-of-failure-or-rejection",
+  "2017-09-06-your-story-needs-an-audience"
+ ],
+ "2013-08-30-its-groundhogs-all-the-way-down": [
+  "2013-10-01-rocktober-show-me-your-horns",
+  "2012-08-30-a-personal-experiment-for-september",
+  "2012-10-30-burpees",
+  "2013-05-30-shack-wacky-may",
+  "2012-09-29-time-to-let-go-and-play",
+  "2012-12-31-the-clock-is-running"
+ ],
+ "2013-10-01-rocktober-show-me-your-horns": [
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2012-10-30-burpees",
+  "2013-05-30-shack-wacky-may",
+  "2013-03-03-february-a-mixed-bag-of-booyah",
+  "2014-03-02-marching-on",
+  "2014-10-07-writing-motivation"
+ ],
+ "2013-11-21-christmas-eve": [
+  "2014-12-09-christmas-then-and-now",
+  "2009-02-07-teaching-human-ethics-and-simply-being-thankful",
+  "2009-04-10-down-the-rabbit-hole-at-easter",
+  "2014-04-21-writing-rituals",
+  "2013-12-01-meanwhile-at-the-hall-of-justice",
+  "2009-07-28-tired-of-the-rain"
+ ],
+ "2013-12-01-meanwhile-at-the-hall-of-justice": [
+  "2014-03-02-marching-on",
+  "2013-06-29-2013-mid-way-to-madness",
+  "2014-08-26-a-very-brief-update",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2012-12-31-the-clock-is-running",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest"
+ ],
+ "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs": [
+  "2014-10-07-writing-motivation",
+  "2017-09-05-nanowrimo",
+  "2014-05-06-does-tv-rot-the-writers-brain",
+  "2015-02-19-snowflake-method",
+  "2018-01-31-writing-mental-wellness-part-1",
+  "2014-04-21-writing-rituals"
+ ],
+ "2013-12-31-essential-jack-whyte": [
+  "2014-02-13-doug-and-tim-on-slaying-the-writers-block-dragon",
+  "2014-09-30-lovecrafts-legacy",
+  "2014-04-30-for-love-of-the-short-story",
+  "2014-07-14-plot-premise-and-story",
+  "2015-04-30-sea-shanties-nautical-verse-and-maritime-ballads",
+  "2026-02-04-beyond-the-grimoire"
+ ],
+ "2013-12-31-genres-in-a-nutshell": [
+  "2015-03-12-genre-bending",
+  "2015-03-11-self-publishing-in-a-nutshell",
+  "2014-01-31-not-so-definitive-guide-to-romance-novels",
+  "2014-05-19-romance-versus-erotica",
+  "2014-03-17-how-important-is-plot-anyway",
+  "2026-04-29-the-storytellers-dilemma"
+ ],
+ "2014-01-03-talk-is-cheap-but-rum-costs-money": [
+  "2012-10-30-burpees",
+  "2012-09-29-time-to-let-go-and-play",
+  "2012-12-31-the-clock-is-running",
+  "2012-03-31-my-30-day-challenge",
+  "2012-08-30-a-personal-experiment-for-september",
+  "2013-03-03-february-a-mixed-bag-of-booyah"
+ ],
+ "2014-01-31-how-to-read-for-enjoyment": [
+  "2014-02-28-reading-at-the-speed-of-light",
+  "2014-10-07-writing-motivation",
+  "2014-04-21-writing-rituals",
+  "2020-03-26-psa-take-care-of-your-eyes",
+  "2020-01-08-focus-with-music",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest"
+ ],
+ "2014-01-31-not-so-definitive-guide-to-romance-novels": [
+  "2014-05-19-romance-versus-erotica",
+  "2015-03-12-genre-bending",
+  "2013-12-31-genres-in-a-nutshell",
+  "2014-03-17-how-important-is-plot-anyway",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest",
+  "2015-03-11-self-publishing-in-a-nutshell"
+ ],
+ "2014-02-13-doug-and-tim-on-slaying-the-writers-block-dragon": [
+  "2014-10-07-writing-motivation",
+  "2015-02-19-snowflake-method",
+  "2014-07-14-plot-premise-and-story",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs",
+  "2026-08-27-claude-washed"
+ ],
+ "2014-02-28-from-book-to-screen-bitten": [
+  "2015-02-05-learning-from-binge-watching-tv",
+  "2014-03-31-book-to-big-screen-divergent",
+  "2014-02-13-doug-and-tim-on-slaying-the-writers-block-dragon",
+  "2014-07-14-plot-premise-and-story",
+  "2015-03-12-genre-bending",
+  "2014-05-19-romance-versus-erotica"
+ ],
+ "2014-02-28-march-madness": [
+  "2013-01-21-tuesday-hyper-super-mega-public-doug",
+  "2009-03-04-coffee-week-friday",
+  "2013-01-20-monday-hyper-super-mega-public-doug",
+  "2013-01-25-saturday-hyper-super-mega-public-doug",
+  "2013-01-23-thursday-hyper-super-mega-public-doug",
+  "2013-08-30-its-groundhogs-all-the-way-down"
+ ],
+ "2014-02-28-reading-at-the-speed-of-light": [
+  "2014-01-31-how-to-read-for-enjoyment",
+  "2020-03-26-psa-take-care-of-your-eyes",
+  "2020-01-08-focus-with-music",
+  "2017-09-05-focus-your-muse-with-music",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest",
+  "2011-02-15-momentum"
+ ],
+ "2014-02-28-the-men-that-dont-fit-in": [
+  "2015-04-30-sea-shanties-nautical-verse-and-maritime-ballads",
+  "2015-09-19-some-words-about-my-uncle-mort",
+  "2009-11-05-gramps-would-have-been-99-today",
+  "2022-06-19-remembering-bruce-langille",
+  "2009-06-30-20-west-street-antigonish-ns",
+  "2015-01-13-a-return-to-longhand"
+ ],
+ "2014-03-02-marching-on": [
+  "2013-12-01-meanwhile-at-the-hall-of-justice",
+  "2014-01-03-talk-is-cheap-but-rum-costs-money",
+  "2013-06-29-2013-mid-way-to-madness",
+  "2012-12-31-the-clock-is-running",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2013-10-01-rocktober-show-me-your-horns"
+ ],
+ "2014-03-03-words-to-kill": [
+  "2014-12-02-how-do-you-respond-to-a-writing-challenge",
+  "2026-08-27-claude-washed",
+  "2017-09-05-nanowrimo",
+  "2014-10-07-writing-motivation",
+  "2014-06-30-10-ways-to-make-your-blog-posts-better",
+  "2013-07-31-on-taking-criticism"
+ ],
+ "2014-03-10-all-about-using-images": [
+  "2017-09-06-your-story-needs-an-audience",
+  "2014-10-07-writing-motivation",
+  "2014-06-16-a-quick-tour-of-social-media-for-writers",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs",
+  "2017-09-05-nanowrimo",
+  "2015-02-19-snowflake-method"
+ ],
+ "2014-03-17-how-important-is-plot-anyway": [
+  "2014-07-14-plot-premise-and-story",
+  "2026-04-29-the-storytellers-dilemma",
+  "2014-05-06-does-tv-rot-the-writers-brain",
+  "2017-09-06-your-story-needs-an-audience",
+  "2015-03-12-genre-bending",
+  "2013-12-31-genres-in-a-nutshell"
+ ],
+ "2014-03-25-how-do-you-choose-your-characters-names": [
+  "2014-12-30-how-do-you-create-your-characters",
+  "2014-07-14-plot-premise-and-story",
+  "2026-04-29-the-storytellers-dilemma",
+  "2014-03-10-all-about-using-images",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest",
+  "2017-09-06-your-story-needs-an-audience"
+ ],
+ "2014-03-31-book-to-big-screen-divergent": [
+  "2015-03-12-genre-bending",
+  "2015-02-05-learning-from-binge-watching-tv",
+  "2014-02-28-from-book-to-screen-bitten",
+  "2015-03-11-self-publishing-in-a-nutshell",
+  "2014-05-19-romance-versus-erotica",
+  "2014-07-14-plot-premise-and-story"
+ ],
+ "2014-04-06-writing-software-and-tools": [
+  "2020-01-29-i-markdown",
+  "2024-06-11-how-i-plan-my-week",
+  "2019-10-02-what-i-use-to-make-it-through-the-day",
+  "2025-12-03-the-accidental-notetaker",
+  "2019-10-23-lets-get-sticky",
+  "2025-03-04-from-files-to-flow-looping-into-the-future"
+ ],
+ "2014-04-17-how-i-rebooted-my-love-of-writing": [
+  "2014-10-07-writing-motivation",
+  "2014-04-21-writing-rituals",
+  "2017-09-05-nanowrimo",
+  "2015-01-13-a-return-to-longhand",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs",
+  "2026-08-27-claude-washed"
+ ],
+ "2014-04-21-writing-rituals": [
+  "2014-10-07-writing-motivation",
+  "2018-01-31-writing-mental-wellness-part-1",
+  "2014-05-06-does-tv-rot-the-writers-brain",
+  "2017-09-05-focus-your-muse-with-music",
+  "2017-09-05-nanowrimo",
+  "2018-01-31-writing-mental-wellness-part-2"
+ ],
+ "2014-04-30-for-love-of-the-short-story": [
+  "2017-09-06-your-story-needs-an-audience",
+  "2014-09-30-lovecrafts-legacy",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest",
+  "2015-03-12-genre-bending",
+  "2017-09-05-nanowrimo",
+  "2013-12-31-genres-in-a-nutshell"
+ ],
+ "2014-04-30-may-reflections-part-one": [
+  "2014-05-10-may-reflections-part-two",
+  "2014-05-30-may-reflections-part-three",
+  "2018-01-31-writing-mental-wellness-part-2",
+  "2013-05-30-shack-wacky-may",
+  "2011-02-15-momentum",
+  "2026-01-28-you-dont-need-another-wellness-system"
+ ],
+ "2014-05-06-does-tv-rot-the-writers-brain": [
+  "2014-04-21-writing-rituals",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs",
+  "2014-10-07-writing-motivation",
+  "2026-04-29-the-storytellers-dilemma",
+  "2018-01-31-writing-mental-wellness-part-1",
+  "2026-02-25-identity-shifting"
+ ],
+ "2014-05-10-may-reflections-part-two": [
+  "2014-05-30-may-reflections-part-three",
+  "2014-04-30-may-reflections-part-one",
+  "2018-01-31-writing-mental-wellness-part-2",
+  "2012-10-30-burpees",
+  "2013-04-04-april-2013-one-year-later",
+  "2026-03-11-intent-engineering"
+ ],
+ "2014-05-19-romance-versus-erotica": [
+  "2014-01-31-not-so-definitive-guide-to-romance-novels",
+  "2015-03-12-genre-bending",
+  "2026-04-29-the-storytellers-dilemma",
+  "2013-12-31-genres-in-a-nutshell",
+  "2014-05-06-does-tv-rot-the-writers-brain",
+  "2017-09-06-your-story-needs-an-audience"
+ ],
+ "2014-05-30-may-reflections-part-three": [
+  "2014-05-10-may-reflections-part-two",
+  "2014-04-30-may-reflections-part-one",
+  "2013-05-30-shack-wacky-may",
+  "2012-10-30-burpees",
+  "2018-01-31-writing-mental-wellness-part-2",
+  "2012-06-03-30-days-of-may-scratch-june"
+ ],
+ "2014-06-16-a-quick-tour-of-social-media-for-writers": [
+  "2017-09-20-social-media-overload",
+  "2014-06-30-10-ways-to-make-your-blog-posts-better",
+  "2015-03-11-self-publishing-in-a-nutshell",
+  "2017-09-05-nanowrimo",
+  "2014-05-06-does-tv-rot-the-writers-brain",
+  "2014-03-10-all-about-using-images"
+ ],
+ "2014-06-30-10-ways-to-make-your-blog-posts-better": [
+  "2014-10-07-writing-motivation",
+  "2014-06-16-a-quick-tour-of-social-media-for-writers",
+  "2017-09-05-nanowrimo",
+  "2015-02-19-snowflake-method",
+  "2014-05-06-does-tv-rot-the-writers-brain",
+  "2014-04-17-how-i-rebooted-my-love-of-writing"
+ ],
+ "2014-07-14-plot-premise-and-story": [
+  "2014-03-17-how-important-is-plot-anyway",
+  "2026-04-29-the-storytellers-dilemma",
+  "2014-02-13-doug-and-tim-on-slaying-the-writers-block-dragon",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest",
+  "2015-02-19-snowflake-method",
+  "2017-09-05-goal-setting"
+ ],
+ "2014-07-21-life-lessons": [
+  "2009-02-07-teaching-human-ethics-and-simply-being-thankful",
+  "2018-01-31-writing-mental-wellness-part-2",
+  "2024-05-03-technology-self-help",
+  "2020-01-15-projects-vs-operations",
+  "2026-09-02-be-a-useful-cog",
+  "2014-07-31-finding-inspiration-in-nature"
+ ],
+ "2014-07-31-finding-inspiration-in-nature": [
+  "2017-09-06-your-story-needs-an-audience",
+  "2014-10-07-writing-motivation",
+  "2017-09-05-focus-your-muse-with-music",
+  "2018-01-31-writing-mental-wellness-part-1",
+  "2014-04-21-writing-rituals",
+  "2014-05-10-may-reflections-part-two"
+ ],
+ "2014-07-31-on-heroes-and-villains": [
+  "2014-07-14-plot-premise-and-story",
+  "2014-02-13-doug-and-tim-on-slaying-the-writers-block-dragon",
+  "2014-12-30-how-do-you-create-your-characters",
+  "2026-04-29-the-storytellers-dilemma",
+  "2015-03-12-genre-bending",
+  "2015-02-19-snowflake-method"
+ ],
+ "2014-08-26-a-very-brief-update": [
+  "2013-12-01-meanwhile-at-the-hall-of-justice",
+  "2014-03-02-marching-on",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2013-06-29-2013-mid-way-to-madness",
+  "2026-07-01-elbows-up-and-ai"
+ ],
+ "2014-08-31-fear-of-failure-or-rejection": [
+  "2014-10-07-writing-motivation",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs",
+  "2014-12-02-how-do-you-respond-to-a-writing-challenge",
+  "2017-09-05-nanowrimo",
+  "2013-07-31-on-taking-criticism",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest"
+ ],
+ "2014-09-04-the-plain-text-rebellion": [
+  "2020-01-22-plain-text-rebellion",
+  "2020-01-29-i-markdown",
+  "2026-09-09-app-apocalypse-starter-kit",
+  "2015-02-19-snowflake-method",
+  "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
+  "2026-08-27-claude-washed"
+ ],
+ "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest": [
+  "2017-09-05-nanowrimo",
+  "2015-02-19-snowflake-method",
+  "2014-10-07-writing-motivation",
+  "2014-07-14-plot-premise-and-story",
+  "2017-09-05-goal-setting",
+  "2014-02-13-doug-and-tim-on-slaying-the-writers-block-dragon"
+ ],
+ "2014-09-30-lovecrafts-legacy": [
+  "2015-03-12-genre-bending",
+  "2014-04-30-for-love-of-the-short-story",
+  "2026-02-04-beyond-the-grimoire",
+  "2026-04-29-the-storytellers-dilemma",
+  "2018-01-31-writing-mental-wellness-part-1",
+  "2014-03-31-book-to-big-screen-divergent"
+ ],
+ "2014-10-07-writing-motivation": [
+  "2014-04-21-writing-rituals",
+  "2018-01-31-writing-mental-wellness-part-1",
+  "2017-09-05-nanowrimo",
+  "2018-01-31-writing-mental-wellness-part-2",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs",
+  "2014-05-06-does-tv-rot-the-writers-brain"
+ ],
+ "2014-11-28-karma-ran-over-my-dogma": [
+  "2013-12-01-meanwhile-at-the-hall-of-justice",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2011-05-04-brain-dump-on-my-post-election-thoughts-so-i-can-move-on-with-life",
+  "2013-01-24-friday-hyper-super-mega-public-doug",
+  "2013-01-20-monday-hyper-super-mega-public-doug",
+  "2014-05-10-may-reflections-part-two"
+ ],
+ "2014-11-30-foodbanks-in-a-nutshell": [
+  "2012-07-21-crazy-milestone-achieved",
+  "2022-12-30-our-funny-farm",
+  "2012-04-28-30-day-challenge-aprils-done-mays-begun",
+  "2025-08-08-ai-is-the-new-literacy",
+  "2012-09-29-time-to-let-go-and-play",
+  "2026-01-28-you-dont-need-another-wellness-system"
+ ],
+ "2014-12-02-how-do-you-respond-to-a-writing-challenge": [
+  "2014-10-07-writing-motivation",
+  "2017-09-05-nanowrimo",
+  "2014-08-31-fear-of-failure-or-rejection",
+  "2018-01-31-writing-mental-wellness-part-1",
+  "2015-02-19-snowflake-method",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs"
+ ],
+ "2014-12-09-christmas-then-and-now": [
+  "2013-11-21-christmas-eve",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2026-11-05-do-your-year-end-review-in-november",
+  "2014-01-03-talk-is-cheap-but-rum-costs-money",
+  "2014-04-21-writing-rituals",
+  "2008-04-27-cats-rabbits-and-random-thoughts"
+ ],
+ "2014-12-26-rons-gift": [
+  "2008-04-27-cats-rabbits-and-random-thoughts",
+  "2026-09-16-check-your-pockets",
+  "2013-01-22-wednesday-hyper-super-mega-public-doug",
+  "2026-08-05-articulate-bullshit-artists",
+  "2013-01-23-thursday-hyper-super-mega-public-doug",
+  "2009-12-09-your-intestines-will-be-my-jump-rope-your-skull-my-urinal"
+ ],
+ "2014-12-30-how-do-you-create-your-characters": [
+  "2014-03-25-how-do-you-choose-your-characters-names",
+  "2014-07-14-plot-premise-and-story",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest",
+  "2014-10-07-writing-motivation",
+  "2026-04-29-the-storytellers-dilemma",
+  "2014-02-13-doug-and-tim-on-slaying-the-writers-block-dragon"
+ ],
+ "2015-01-13-a-return-to-longhand": [
+  "2014-04-21-writing-rituals",
+  "2014-04-17-how-i-rebooted-my-love-of-writing",
+  "2014-05-06-does-tv-rot-the-writers-brain",
+  "2015-02-19-snowflake-method",
+  "2026-08-27-claude-washed",
+  "2025-12-03-the-accidental-notetaker"
+ ],
+ "2015-02-05-learning-from-binge-watching-tv": [
+  "2014-05-06-does-tv-rot-the-writers-brain",
+  "2014-02-28-from-book-to-screen-bitten",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest",
+  "2015-03-12-genre-bending",
+  "2014-03-31-book-to-big-screen-divergent",
+  "2015-02-19-snowflake-method"
+ ],
+ "2015-02-19-snowflake-method": [
+  "2017-09-05-nanowrimo",
+  "2014-10-07-writing-motivation",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest",
+  "2026-02-04-beyond-the-grimoire",
+  "2026-04-29-the-storytellers-dilemma"
+ ],
+ "2015-03-11-self-publishing-in-a-nutshell": [
+  "2014-06-16-a-quick-tour-of-social-media-for-writers",
+  "2026-04-29-the-storytellers-dilemma",
+  "2013-12-31-genres-in-a-nutshell",
+  "2015-02-19-snowflake-method",
+  "2017-09-05-nanowrimo",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs"
+ ],
+ "2015-03-12-genre-bending": [
+  "2013-12-31-genres-in-a-nutshell",
+  "2014-05-19-romance-versus-erotica",
+  "2014-05-06-does-tv-rot-the-writers-brain",
+  "2015-02-19-snowflake-method",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs",
+  "2014-01-31-not-so-definitive-guide-to-romance-novels"
+ ],
+ "2015-04-30-sea-shanties-nautical-verse-and-maritime-ballads": [
+  "2009-09-05-peggys-cove",
+  "2014-02-28-the-men-that-dont-fit-in",
+  "2015-09-16-hopewell-rocks",
+  "2015-01-13-a-return-to-longhand",
+  "2015-06-30-salem-history-and-hysteria",
+  "2015-03-12-genre-bending"
+ ],
+ "2015-06-30-salem-history-and-hysteria": [
+  "2015-02-05-learning-from-binge-watching-tv",
+  "2014-04-21-writing-rituals",
+  "2015-09-16-hopewell-rocks",
+  "2015-04-30-sea-shanties-nautical-verse-and-maritime-ballads",
+  "2009-03-03-coffee-week-thursday",
+  "2009-09-05-peggys-cove"
+ ],
+ "2015-09-16-hopewell-rocks": [
+  "2009-09-05-peggys-cove",
+  "2015-04-30-sea-shanties-nautical-verse-and-maritime-ballads",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2022-12-30-our-funny-farm",
+  "2009-04-25-misty-morning-at-first-lake",
+  "2015-06-30-salem-history-and-hysteria"
+ ],
+ "2015-09-19-some-words-about-my-uncle-mort": [
+  "2014-02-28-the-men-that-dont-fit-in",
+  "2022-06-19-remembering-bruce-langille",
+  "2009-06-30-20-west-street-antigonish-ns",
+  "2026-09-16-check-your-pockets",
+  "2011-05-04-brain-dump-on-my-post-election-thoughts-so-i-can-move-on-with-life",
+  "2022-12-30-our-funny-farm"
+ ],
+ "2015-09-30-little-green-men-a-tour-of-mars-in-fiction": [
+  "2010-04-18-i-have-a-theory",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2008-04-27-cats-rabbits-and-random-thoughts",
+  "2010-06-02-what-co2-no-co2-here",
+  "2014-02-28-reading-at-the-speed-of-light",
+  "2014-08-26-a-very-brief-update"
+ ],
+ "2016-11-09-all-im-going-to-say-about-the-election": [
+  "2011-05-04-brain-dump-on-my-post-election-thoughts-so-i-can-move-on-with-life",
+  "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
+  "2009-04-23-extreme-indifference-and-random-access-thoughts",
+  "2026-07-22-human-at-the-helm",
+  "2026-07-01-elbows-up-and-ai",
+  "2013-08-30-its-groundhogs-all-the-way-down"
+ ],
+ "2017-09-05-focus-your-muse-with-music": [
+  "2020-01-08-focus-with-music",
+  "2014-04-21-writing-rituals",
+  "2024-06-11-how-i-plan-my-week",
+  "2025-12-03-the-accidental-notetaker",
+  "2018-01-31-writing-mental-wellness-part-1",
+  "2014-10-07-writing-motivation"
+ ],
+ "2017-09-05-goal-setting": [
+  "2026-02-25-identity-shifting",
+  "2015-02-19-snowflake-method",
+  "2014-10-07-writing-motivation",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest",
+  "2017-09-05-nanowrimo",
+  "2026-04-29-the-storytellers-dilemma"
+ ],
+ "2017-09-05-nanowrimo": [
+  "2014-10-07-writing-motivation",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs",
+  "2015-02-19-snowflake-method",
+  "2018-01-31-writing-mental-wellness-part-1",
+  "2014-04-21-writing-rituals",
+  "2014-09-18-5-things-i-learned-during-the-3-day-novel-contest"
+ ],
+ "2017-09-06-your-story-needs-an-audience": [
+  "2014-03-10-all-about-using-images",
+  "2014-10-07-writing-motivation",
+  "2014-05-06-does-tv-rot-the-writers-brain",
+  "2026-04-29-the-storytellers-dilemma",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs",
+  "2018-01-31-writing-mental-wellness-part-1"
+ ],
+ "2017-09-07-15-thoughts-on-meeting-deadlines": [
+  "2024-06-11-how-i-plan-my-week",
+  "2025-10-24-the-weekly-reset-process-over-artifact",
+  "2019-10-09-tasks-and-lists",
+  "2026-07-15-the-four-day-week-is-a-question-not-a-policy",
+  "2026-01-07-three-ai-tricks-i-use-that-actually-work",
+  "2019-10-02-what-i-use-to-make-it-through-the-day"
+ ],
+ "2017-09-20-social-media-overload": [
+  "2014-06-16-a-quick-tour-of-social-media-for-writers",
+  "2019-12-18-your-inbox-is-thine-enemy",
+  "2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully",
+  "2026-08-12-papering-over-the-void",
+  "2024-05-30-taming-the-chaos",
+  "2026-01-14-stop-petting-the-ai"
+ ],
+ "2018-01-31-writing-mental-wellness-part-1": [
+  "2018-01-31-writing-mental-wellness-part-2",
+  "2014-10-07-writing-motivation",
+  "2014-04-21-writing-rituals",
+  "2017-09-05-nanowrimo",
+  "2013-12-19-write-it-down-or-annie-wilkes-will-break-your-legs",
+  "2014-05-06-does-tv-rot-the-writers-brain"
+ ],
+ "2018-01-31-writing-mental-wellness-part-2": [
+  "2018-01-31-writing-mental-wellness-part-1",
+  "2014-10-07-writing-motivation",
+  "2017-09-05-nanowrimo",
+  "2014-04-21-writing-rituals",
+  "2026-01-28-you-dont-need-another-wellness-system",
+  "2014-05-10-may-reflections-part-two"
+ ],
  "2019-10-02-what-i-use-to-make-it-through-the-day": [
   "2019-10-16-just-do-it",
   "2024-05-30-taming-the-chaos",
@@ -42,10 +1122,10 @@
  "2019-11-06-dont-change-that-channel": [
   "2020-02-26-down-the-infographic-rabbit-hole",
   "2019-10-30-making-teams-work",
+  "2011-09-29-so-for-some-reason-i-thought-it-sensible-to-cull-my-windows-live-messenger-contacts",
   "2019-12-04-plan-the-planny-plan-in-planner",
   "2019-10-02-what-i-use-to-make-it-through-the-day",
-  "2025-03-04-from-files-to-flow-looping-into-the-future",
-  "2019-10-16-just-do-it"
+  "2025-03-04-from-files-to-flow-looping-into-the-future"
  ],
  "2019-11-13-minimalist-phone": [
   "2024-06-11-how-i-plan-my-week",
@@ -53,23 +1133,23 @@
   "2026-08-12-papering-over-the-void",
   "2020-01-08-focus-with-music",
   "2025-10-24-the-weekly-reset-process-over-artifact",
-  "2019-10-16-just-do-it"
+  "2009-02-24-random-thoughts-on-simplifying-productivity"
  ],
  "2019-11-20-unproject-management-part-1": [
   "2019-11-27-unproject-management-part-2",
   "2020-01-15-projects-vs-operations",
   "2025-11-26-1-1-3-building-a-tech-career-on-what-you-already-know",
   "2025-08-15-the-workbench-is-not-the-work",
-  "2026-08-21-put-your-legos-on-the-table",
-  "2026-02-25-identity-shifting"
+  "2014-05-10-may-reflections-part-two",
+  "2026-08-21-put-your-legos-on-the-table"
  ],
  "2019-11-27-unproject-management-part-2": [
   "2019-12-04-plan-the-planny-plan-in-planner",
   "2019-11-20-unproject-management-part-1",
+  "2015-02-19-snowflake-method",
   "2024-06-11-how-i-plan-my-week",
   "2026-05-20-eight-bullet-journals",
-  "2020-02-26-down-the-infographic-rabbit-hole",
-  "2024-05-30-taming-the-chaos"
+  "2020-02-26-down-the-infographic-rabbit-hole"
  ],
  "2019-12-04-plan-the-planny-plan-in-planner": [
   "2019-11-27-unproject-management-part-2",
@@ -83,25 +1163,25 @@
   "2019-10-30-making-teams-work",
   "2019-12-18-your-inbox-is-thine-enemy",
   "2019-10-02-what-i-use-to-make-it-through-the-day",
+  "2011-09-29-so-for-some-reason-i-thought-it-sensible-to-cull-my-windows-live-messenger-contacts",
   "2025-12-10-the-joy-of-missing-out-an-email-manifesto-for-december",
-  "2024-05-30-taming-the-chaos",
-  "2026-10-07-outlook-rules"
+  "2024-05-30-taming-the-chaos"
  ],
  "2019-12-18-your-inbox-is-thine-enemy": [
   "2019-12-11-why-email",
   "2025-12-10-the-joy-of-missing-out-an-email-manifesto-for-december",
   "2019-10-30-making-teams-work",
   "2024-05-30-taming-the-chaos",
-  "2026-01-14-stop-petting-the-ai",
-  "2020-04-17-how-not-to-be-a-jerk-online"
+  "2017-09-20-social-media-overload",
+  "2026-01-14-stop-petting-the-ai"
  ],
  "2020-01-08-focus-with-music": [
+  "2017-09-05-focus-your-muse-with-music",
   "2024-06-11-how-i-plan-my-week",
   "2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully",
   "2025-12-03-the-accidental-notetaker",
-  "2024-05-30-taming-the-chaos",
-  "2019-10-09-tasks-and-lists",
-  "2020-03-26-psa-take-care-of-your-eyes"
+  "2014-04-21-writing-rituals",
+  "2024-05-30-taming-the-chaos"
  ],
  "2020-01-15-projects-vs-operations": [
   "2026-07-15-the-four-day-week-is-a-question-not-a-policy",
@@ -112,44 +1192,44 @@
   "2025-08-15-the-workbench-is-not-the-work"
  ],
  "2020-01-22-plain-text-rebellion": [
+  "2014-09-04-the-plain-text-rebellion",
   "2020-01-29-i-markdown",
   "2026-09-09-app-apocalypse-starter-kit",
   "2025-10-10-a-philosophy-of-making",
   "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
-  "2025-12-03-the-accidental-notetaker",
-  "2020-02-05-format-your-style"
+  "2025-12-03-the-accidental-notetaker"
  ],
  "2020-01-29-i-markdown": [
   "2020-01-22-plain-text-rebellion",
   "2026-09-09-app-apocalypse-starter-kit",
   "2020-02-05-format-your-style",
+  "2014-09-04-the-plain-text-rebellion",
   "2025-12-03-the-accidental-notetaker",
-  "2026-07-08-dr-strangebot",
-  "2026-08-27-claude-washed"
+  "2026-07-08-dr-strangebot"
  ],
  "2020-02-05-format-your-style": [
   "2026-09-09-app-apocalypse-starter-kit",
   "2020-01-29-i-markdown",
   "2020-01-22-plain-text-rebellion",
+  "2014-09-04-the-plain-text-rebellion",
   "2025-10-10-a-philosophy-of-making",
-  "2026-07-08-dr-strangebot",
-  "2025-03-04-from-files-to-flow-looping-into-the-future"
+  "2026-07-08-dr-strangebot"
  ],
  "2020-02-12-bing": [
   "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
   "2026-01-21-platforms-make-the-worst-landlords",
+  "2011-09-29-so-for-some-reason-i-thought-it-sensible-to-cull-my-windows-live-messenger-contacts",
   "2020-02-26-down-the-infographic-rabbit-hole",
   "2025-09-19-slaying-the-algorithm-dragon",
-  "2019-11-06-dont-change-that-channel",
-  "2025-04-07-this-is-how-im-using-generative-ai"
+  "2019-11-06-dont-change-that-channel"
  ],
  "2020-02-19-is-the-stylus-mightier-than-the-keyboard": [
+  "2010-09-12-my-ipad-experience",
   "2025-12-03-the-accidental-notetaker",
   "2020-01-29-i-markdown",
   "2019-10-23-lets-get-sticky",
   "2024-05-30-taming-the-chaos",
-  "2024-06-11-how-i-plan-my-week",
-  "2020-01-22-plain-text-rebellion"
+  "2024-06-11-how-i-plan-my-week"
  ],
  "2020-02-26-down-the-infographic-rabbit-hole": [
   "2024-05-30-taming-the-chaos",
@@ -171,9 +1251,9 @@
   "2026-10-28-make-something-beautiful",
   "2020-01-08-focus-with-music",
   "2026-05-13-the-monday-morning-reset",
+  "2014-02-28-reading-at-the-speed-of-light",
   "2026-07-15-the-four-day-week-is-a-question-not-a-policy",
-  "2025-12-03-the-accidental-notetaker",
-  "2024-06-11-how-i-plan-my-week"
+  "2017-09-05-focus-your-muse-with-music"
  ],
  "2020-04-08-dougs-rules-of-work-at-home": [
   "2026-09-02-be-a-useful-cog",
@@ -189,15 +1269,47 @@
   "2025-12-17-everything-is-brown",
   "2026-03-18-ai-is-just-a-tool",
   "2020-01-22-plain-text-rebellion",
-  "2025-09-19-slaying-the-algorithm-dragon"
+  "2014-06-16-a-quick-tour-of-social-media-for-writers"
  ],
  "2020-09-01-how-to-break-up-with-adobe": [
+  "2009-10-08-hey-you-get-off-of-my-cloud-or-why-sharepoint-and-not-x",
   "2026-03-04-the-it-student-ai-stack",
   "2026-11-11-self-ware",
   "2026-10-14-how-can-i-help",
   "2020-02-26-down-the-infographic-rabbit-hole",
-  "2026-07-08-dr-strangebot",
-  "2026-09-09-app-apocalypse-starter-kit"
+  "2026-07-08-dr-strangebot"
+ ],
+ "2021-01-23-disrupting-disruption": [
+  "2010-06-02-what-co2-no-co2-here",
+  "2016-11-09-all-im-going-to-say-about-the-election",
+  "2026-07-01-elbows-up-and-ai",
+  "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
+  "2011-05-04-brain-dump-on-my-post-election-thoughts-so-i-can-move-on-with-life",
+  "2025-11-12-thinking-like-an-ecosystem"
+ ],
+ "2022-06-19-remembering-bruce-langille": [
+  "2015-09-19-some-words-about-my-uncle-mort",
+  "2014-02-28-the-men-that-dont-fit-in",
+  "2012-01-30-remembering-wilson-verge",
+  "2014-04-30-may-reflections-part-one",
+  "2014-05-30-may-reflections-part-three",
+  "2013-06-29-2013-mid-way-to-madness"
+ ],
+ "2022-12-26-wordpress-activitypub-mastadon": [
+  "2026-01-14-stop-petting-the-ai",
+  "2008-12-14-i-dont-get-twitter",
+  "2026-01-21-platforms-make-the-worst-landlords",
+  "2025-09-10-ai-harmonizes-with-my-ideas",
+  "2025-04-07-this-is-how-im-using-generative-ai",
+  "2025-12-17-everything-is-brown"
+ ],
+ "2022-12-30-our-funny-farm": [
+  "2026-09-16-check-your-pockets",
+  "2013-01-24-friday-hyper-super-mega-public-doug",
+  "2009-04-25-misty-morning-at-first-lake",
+  "2013-08-30-its-groundhogs-all-the-way-down",
+  "2026-08-05-articulate-bullshit-artists",
+  "2008-04-27-cats-rabbits-and-random-thoughts"
  ],
  "2024-01-29-digital-fluency-in-2024": [
   "2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully",
@@ -261,7 +1373,7 @@
   "2019-10-02-what-i-use-to-make-it-through-the-day",
   "2024-05-30-taming-the-chaos",
   "2019-11-06-dont-change-that-channel",
-  "2026-10-07-outlook-rules"
+  "2011-09-29-so-for-some-reason-i-thought-it-sensible-to-cull-my-windows-live-messenger-contacts"
  ],
  "2025-03-04-from-files-to-flow-looping-into-the-future": [
   "2020-02-26-down-the-infographic-rabbit-hole",
@@ -427,17 +1539,17 @@
   "2025-09-19-slaying-the-algorithm-dragon",
   "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
   "2026-10-01-big-pickle-is-fine",
-  "2019-12-18-your-inbox-is-thine-enemy",
-  "2020-02-12-bing",
-  "2026-11-11-self-ware"
+  "2011-09-29-so-for-some-reason-i-thought-it-sensible-to-cull-my-windows-live-messenger-contacts",
+  "2008-12-14-i-dont-get-twitter",
+  "2019-12-18-your-inbox-is-thine-enemy"
  ],
  "2026-01-28-you-dont-need-another-wellness-system": [
   "2026-07-15-the-four-day-week-is-a-question-not-a-policy",
   "2024-02-21-digital-wellness-working-smarter-happier-and-more-playfully",
+  "2018-01-31-writing-mental-wellness-part-2",
+  "2018-01-31-writing-mental-wellness-part-1",
   "2019-10-09-tasks-and-lists",
-  "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
-  "2026-05-13-the-monday-morning-reset",
-  "2024-06-11-how-i-plan-my-week"
+  "2026-04-15-we-killed-the-places-ideas-could-be-dumb"
  ],
  "2026-02-04-beyond-the-grimoire": [
   "2026-03-18-ai-is-just-a-tool",
@@ -464,12 +1576,12 @@
   "2026-03-18-ai-is-just-a-tool"
  ],
  "2026-02-25-identity-shifting": [
+  "2017-09-05-goal-setting",
   "2026-04-29-the-storytellers-dilemma",
+  "2014-10-07-writing-motivation",
   "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
   "2026-03-11-intent-engineering",
-  "2026-03-18-ai-is-just-a-tool",
-  "2026-08-27-claude-washed",
-  "2026-02-04-beyond-the-grimoire"
+  "2026-03-18-ai-is-just-a-tool"
  ],
  "2026-03-04-the-it-student-ai-stack": [
   "2026-10-01-big-pickle-is-fine",
@@ -621,7 +1733,7 @@
   "2025-10-24-the-weekly-reset-process-over-artifact",
   "2024-06-11-how-i-plan-my-week",
   "2020-01-15-projects-vs-operations",
-  "2020-01-08-focus-with-music"
+  "2012-10-30-burpees"
  ],
  "2026-07-22-human-at-the-helm": [
   "2026-03-18-ai-is-just-a-tool",
@@ -634,10 +1746,10 @@
  "2026-07-29-equity-through-uniformity": [
   "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
   "2026-07-22-human-at-the-helm",
+  "2014-09-04-the-plain-text-rebellion",
   "2026-05-20-eight-bullet-journals",
   "2025-10-03-five-minutes-ahead",
-  "2025-11-05-the-liminal-workplace",
-  "2020-01-22-plain-text-rebellion"
+  "2025-11-05-the-liminal-workplace"
  ],
  "2026-08-05-articulate-bullshit-artists": [
   "2026-05-27-ai-is-more-horse-than-plough",
@@ -684,16 +1796,16 @@
   "2020-01-29-i-markdown",
   "2020-01-22-plain-text-rebellion",
   "2026-10-01-big-pickle-is-fine",
-  "2026-07-08-dr-strangebot",
-  "2026-08-27-claude-washed"
+  "2014-09-04-the-plain-text-rebellion",
+  "2026-07-08-dr-strangebot"
  ],
  "2026-09-16-check-your-pockets": [
+  "2009-12-09-your-intestines-will-be-my-jump-rope-your-skull-my-urinal",
+  "2008-04-27-cats-rabbits-and-random-thoughts",
   "2026-05-13-the-monday-morning-reset",
   "2026-04-15-we-killed-the-places-ideas-could-be-dumb",
   "2025-12-03-the-accidental-notetaker",
-  "2026-08-12-papering-over-the-void",
-  "2019-10-09-tasks-and-lists",
-  "2019-11-13-minimalist-phone"
+  "2013-05-30-shack-wacky-may"
  ],
  "2026-09-23-ai-field-notes-from-september-2026": [
   "2026-10-01-big-pickle-is-fine",
@@ -739,17 +1851,17 @@
   "2020-03-26-psa-take-care-of-your-eyes",
   "2026-05-13-the-monday-morning-reset",
   "2026-11-11-self-ware",
+  "2014-04-21-writing-rituals",
   "2025-10-10-a-philosophy-of-making",
-  "2025-10-24-the-weekly-reset-process-over-artifact",
-  "2025-12-17-everything-is-brown"
+  "2014-03-10-all-about-using-images"
  ],
  "2026-11-05-do-your-year-end-review-in-november": [
   "2026-05-13-the-monday-morning-reset",
   "2025-12-10-the-joy-of-missing-out-an-email-manifesto-for-december",
   "2025-10-24-the-weekly-reset-process-over-artifact",
+  "2017-09-07-15-thoughts-on-meeting-deadlines",
   "2019-10-16-just-do-it",
-  "2026-07-15-the-four-day-week-is-a-question-not-a-policy",
-  "2019-10-09-tasks-and-lists"
+  "2014-01-03-talk-is-cheap-but-rum-costs-money"
  ],
  "2026-11-11-self-ware": [
   "2026-10-01-big-pickle-is-fine",
