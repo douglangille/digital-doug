@@ -2,6 +2,7 @@
 title: How Can I Help?
 date: 2026-10-14
 image: /assets/images/how-can-i-help/feature.png
+image_alt: "A rumpled instructor leans across a counter with an open hand toward a student in a green jacket holding a book, with a reel-to-reel computer and a robot holding a clipboard behind them."
 header:
   teaser: /assets/images/how-can-i-help/feature.png
   overlay_image: /assets/images/how-can-i-help/feature.png

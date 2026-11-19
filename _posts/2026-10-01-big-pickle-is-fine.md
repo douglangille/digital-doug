@@ -2,6 +2,7 @@
 title: Big Pickle Is Fine
 date: 2026-10-01
 image: /assets/images/free-agent-stack/feature.png
+image_alt: "A man in an apron carves a roast while a grinning silver robot with a red bow tie holds a chainsaw behind him, and a woman at the table eyes it over her coffee cup."
 header:
   teaser: /assets/images/free-agent-stack/feature.png
   overlay_image: /assets/images/free-agent-stack/feature.png

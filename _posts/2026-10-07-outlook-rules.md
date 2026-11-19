@@ -3,6 +3,7 @@ title: Outlook Rules
 date: 2026-10-07
 excerpt: The TO field is for action, the CC field is not.
 image: /assets/images/outlook-rules/feature.png
+image_alt: "A silver robot sorts letters into pigeonholes while a chute dumps a flood of mail and red flags into the room, and a man at his desk calmly sips coffee beside an almost empty inbox tray."
 header:
   teaser: /assets/images/outlook-rules/feature.png
   overlay_image: /assets/images/outlook-rules/feature.png
