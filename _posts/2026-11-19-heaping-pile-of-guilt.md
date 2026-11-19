@@ -31,10 +31,7 @@ My wife didn't harangue me and she certainly pitched in on the work of it. We bo
 
 I'm a big fan of the 2x2 grids. The Stephen Covey Quadrants or the Eisenhower Matrix are the most well-known that cross urgency and importance.
 
-|  | **Urgent** | **Not urgent** |
-|---|---|---|
-| **Important** | **Q1: Do.** Crises, deadlines. | **Q2: Decide.** Planning, building, the stuff that matters. |
-| **Not important** | **Q3: Delegate.** Interruptions, other people's priorities. | **Q4: Delete.** Time sinks, busywork. |
+![](../../../assets/attachments/heaping-pile-eisenhower-matrix.png)
 
 That goat pasture was clearly occupying Quadrant Two in my mind for a long time. By invoking external accountability, I increased the perceived urgency. It made the difference.
 
@@ -52,12 +49,7 @@ Predictably, the Later list in particular is a graveyard where to-dos go to die.
 
 I use Microsoft Planner with my team and the KanBan workflow works well because of the shared accountability. Everybody is looking at the buckets together. The momentum of To-do/Doing/Done is real and measurable.
 
-| **To Do** | **Doing** | **Done** |
-|---|---|---|
-| Find the septic tank | Argue with the printer | Build the goat pasture |
-| Teach the goats to use a calendar | Write the Q4 "vision" doc | Locate the good scissors |
-| Alphabetize the spice rack | Pretend to understand the budget | Reply to that email from March |
-| Learn what "synergy" means | Triage the triage | Eat lunch |
+![](../../../assets/attachments/heaping-pile-kanban.png)
 
 But when it comes to personal accountability for "Getting Shit Done", the Now/Next/Later temporal mindset isn't enough. It's only about what's in front of me. The proverbial "wolf at the door". There's no sense of relative importance. It's all urgency, all the time.
 
