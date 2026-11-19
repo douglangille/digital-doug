@@ -1,8 +1,8 @@
 ---
 title: Quadrant Two Is a Heaping Pile of Guilt
 date: 2026-11-19
-image: /assets/images/prioritization-ladder/feature.png
-feature: /assets/images/prioritization-ladder/feature.png
+image: /assets/images/heaping-pile-of-guilt/feature.png
+feature: /assets/images/heaping-pile-of-guilt/feature.png
 image_alt: A man in a canvas jacket leans on a new goat pasture fence at dusk, holding a crumpled paper list that a goat is chewing, with a farmhouse porch light glowing in the distance.
 excerpt: Nobody's keeping the porch light on waiting for me to finish.
 tags:
